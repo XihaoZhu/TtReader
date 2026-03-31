@@ -2,45 +2,43 @@ import React, { useMemo, useState } from "react";
 import { View, Text, StyleSheet, ScrollView } from "react-native";
 import { splitIntoSentences } from "../utils/SentenceSplitter";
 import { splitIntoWords } from "../utils/WordSplitter";
-import { lookupLocalWord } from "../services/WordDictionary";
 
 interface Props {
     content: string;
+    onWordPress: (word: string) => void;
+    onSentenceLongPress: (sentence: string) => void;
+    bubbleVisible: boolean;
+    onCloseBubble: () => void;
 }
 
-export default function Reader({ content }: Props) {
+export default function Reader({ content, onWordPress, onSentenceLongPress, bubbleVisible, onCloseBubble }: Props) {
     const sentences = useMemo(() => splitIntoSentences(content), [content]);
 
     const [selectedWordPos, setSelectedWordPos] = useState<{ sIndex: number; wIndex: number } | null>(null);
     const [selectedSentenceIndex, setSelectedSentenceIndex] = useState<number | null>(null);
+
     const handleWordPress = (sIndex: number, wIndex: number, word: string) => {
         setSelectedWordPos({ sIndex, wIndex });
         setSelectedSentenceIndex(null);
-        test(word);
 
-        console.log("Clicked word:", word, "at sentence:", sIndex, "word index:", wIndex);
+        onWordPress(word);
     };
 
     const handleSentenceLongPress = (sIndex: number, sentence: string) => {
         setSelectedSentenceIndex(sIndex);
         setSelectedWordPos(null);
 
-        console.log("Long pressed sentence:", sentence, "index:", sIndex);
+        onSentenceLongPress(sentence);
     };
 
-    async function test(word: string) {
-
-        const result = await lookupLocalWord(word);
-
-        if (result) {
-            console.log("找到翻译:", result.translation);
-        } else {
-            console.log("词典里没有该单词");
-        }
-    }
 
     return (
-        <ScrollView style={styles.container}>
+        <ScrollView style={styles.container}
+            onTouchStart={() => {
+                setSelectedWordPos(null);
+                setSelectedSentenceIndex(null);
+            }}
+        >
             <View style={styles.textWrapper}>
                 {sentences.map((sentence, sIndex) => (
                     <View key={sIndex} style={styles.sentence}>
@@ -52,8 +50,14 @@ export default function Reader({ content }: Props) {
                             return (
                                 <Text
                                     key={wIndex}
-                                    onPress={() => handleWordPress(sIndex, wIndex, word)}
-                                    onLongPress={() => handleSentenceLongPress(sIndex, sentence)}
+                                    onPress={() => {
+                                        if (bubbleVisible) {
+                                            onCloseBubble();
+                                            return
+                                        }
+                                        handleWordPress(sIndex, wIndex, word)
+                                    }}
+                                    onLongPress={() => { handleSentenceLongPress(sIndex, sentence); }}
                                     style={[
                                         styles.word,
                                         isWordSelected && styles.selectedWord,
@@ -67,7 +71,7 @@ export default function Reader({ content }: Props) {
                     </View>
                 ))}
             </View>
-        </ScrollView>
+        </ScrollView >
     );
 }
 
