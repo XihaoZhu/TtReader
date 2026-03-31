@@ -2,6 +2,7 @@ import React, { useMemo, useState } from "react";
 import { View, Text, StyleSheet, ScrollView } from "react-native";
 import { splitIntoSentences } from "../utils/SentenceSplitter";
 import { splitIntoWords } from "../utils/WordSplitter";
+import { lookupLocalWord } from "../services/WordDictionary";
 
 interface Props {
     content: string;
@@ -15,6 +16,7 @@ export default function Reader({ content }: Props) {
     const handleWordPress = (sIndex: number, wIndex: number, word: string) => {
         setSelectedWordPos({ sIndex, wIndex });
         setSelectedSentenceIndex(null);
+        test(word);
 
         console.log("Clicked word:", word, "at sentence:", sIndex, "word index:", wIndex);
     };
@@ -25,6 +27,17 @@ export default function Reader({ content }: Props) {
 
         console.log("Long pressed sentence:", sentence, "index:", sIndex);
     };
+
+    async function test(word: string) {
+
+        const result = await lookupLocalWord(word);
+
+        if (result) {
+            console.log("找到翻译:", result.translation);
+        } else {
+            console.log("词典里没有该单词");
+        }
+    }
 
     return (
         <ScrollView style={styles.container}>
