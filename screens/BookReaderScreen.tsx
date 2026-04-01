@@ -8,6 +8,7 @@ import * as FileSystem from "expo-file-system/legacy";
 import Reader from "../components/Reader";
 import TranslationBubble from "../components/TranslationBubble";
 import { lookupLocalWord } from "../services/WordDictionary";
+import { getSavedWords, saveWord, removeWord } from "../services/CasheService";
 
 
 type BookReaderRouteProp = RouteProp<RootStackParamList, "BookReader">;
@@ -37,17 +38,15 @@ export default function BookReaderScreen({ route }: Props) {
         }
     };
 
-
+    // #region Bubble logic
     const [bubbleVisible, setBubbleVisible] = useState(false);
     const [currentText, setCurrentText] = useState("");
     const [translation, setTranslation] = useState<string[]>([]);
-    const [clickDisabled, setClickDisabled] = useState(false);
 
     // short press on word
     const handleWordPress = async (word: string) => {
         setCurrentText(word);
         setBubbleVisible(true);
-        setClickDisabled(true);
 
         const result = await lookupLocalWord(word);
 
@@ -62,16 +61,40 @@ export default function BookReaderScreen({ route }: Props) {
     const handleSentenceLongPress = async (sentence: string) => {
         setCurrentText(sentence);
         setBubbleVisible(true);
-        setClickDisabled(true);
 
         // temproray mock
         setTranslation(["Sentence translation coming soon..."]);
     };
+    // #endregion
+
+    // #region Words saving logic
+    const [savedWords, setSavedWords] = useState<string[]>([]);
+
+    useEffect(() => {
+        loadSavedWords();
+    }, []);
+
+    const loadSavedWords = async () => {
+        const words = await getSavedWords();
+        setSavedWords(words);
+    };
+
+    const handleSave = async () => {
+        await saveWord(currentText.toLowerCase());
+        loadSavedWords();
+    };
+
+    const handleRemove = async () => {
+        await removeWord(currentText.toLowerCase());
+        loadSavedWords();
+    };
+
+    const isSaved = savedWords.includes(currentText.toLowerCase());
+    // #endregion
 
     return (
         <TouchableWithoutFeedback onPress={() => {
             if (bubbleVisible) {
-                setClickDisabled(false)
                 setBubbleVisible(false);
             }
         }}>
@@ -88,12 +111,16 @@ export default function BookReaderScreen({ route }: Props) {
                             onSentenceLongPress={handleSentenceLongPress}
                             bubbleVisible={bubbleVisible}
                             onCloseBubble={() => setBubbleVisible(false)}
+                            savedWords={savedWords}
                         />
 
                         <TranslationBubble
                             visible={bubbleVisible}
                             text={currentText}
                             translation={translation}
+                            isSaved={isSaved}
+                            onSave={handleSave}
+                            onRemove={handleRemove}
                         />
                     </>
                 )}

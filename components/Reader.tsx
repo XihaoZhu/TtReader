@@ -9,11 +9,14 @@ interface Props {
     onSentenceLongPress: (sentence: string) => void;
     bubbleVisible: boolean;
     onCloseBubble: () => void;
+    savedWords: string[];
 }
 
-export default function Reader({ content, onWordPress, onSentenceLongPress, bubbleVisible, onCloseBubble }: Props) {
+export default function Reader({ content, onWordPress, onSentenceLongPress, bubbleVisible, onCloseBubble, savedWords }: Props) {
     const sentences = useMemo(() => splitIntoSentences(content), [content]);
 
+
+    //#region Selection Logic
     const [selectedWordPos, setSelectedWordPos] = useState<{ sIndex: number; wIndex: number } | null>(null);
     const [selectedSentenceIndex, setSelectedSentenceIndex] = useState<number | null>(null);
 
@@ -30,6 +33,8 @@ export default function Reader({ content, onWordPress, onSentenceLongPress, bubb
 
         onSentenceLongPress(sentence);
     };
+    //#endregion
+
 
 
     return (
@@ -46,6 +51,7 @@ export default function Reader({ content, onWordPress, onSentenceLongPress, bubb
                             const isWordSelected =
                                 selectedWordPos?.sIndex === sIndex && selectedWordPos?.wIndex === wIndex;
                             const isSentenceSelected = selectedSentenceIndex === sIndex;
+                            const isWordSaved = (word: string) => savedWords.includes(word);
 
                             return (
                                 <Text
@@ -61,6 +67,7 @@ export default function Reader({ content, onWordPress, onSentenceLongPress, bubb
                                     style={[
                                         styles.word,
                                         isWordSelected && styles.selectedWord,
+                                        isWordSaved(word) && styles.savedWord,
                                         isSentenceSelected && styles.selectedSentence,
                                     ]}
                                 >
@@ -82,4 +89,8 @@ const styles = StyleSheet.create({
     word: { fontSize: 16, lineHeight: 24 },
     selectedWord: { backgroundColor: "#ffe58a" },
     selectedSentence: { backgroundColor: "#ffd6a5" },
+    savedWord: {
+        color: "#52c41a",
+        fontWeight: "bold",
+    },
 });
