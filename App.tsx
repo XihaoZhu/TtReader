@@ -1,6 +1,6 @@
 // /src/App.tsx
 import React from "react";
-import { NavigationContainer } from "@react-navigation/native";
+import { NavigationContainer, getFocusedRouteNameFromRoute } from "@react-navigation/native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import { createStackNavigator } from '@react-navigation/stack';
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
@@ -32,11 +32,10 @@ function BooksStack() {
       <Stack.Screen
         name="BookReader"
         component={BookReaderScreen}
-        options={({ route }) => ({
+        options={{
           title: "reader",
           headerShown: true,
-          tabBarStyle: { display: 'none' },
-        })}
+        }}
       />
     </Stack.Navigator>
   );
@@ -58,7 +57,6 @@ export default function App() {
           headerShown: false,
           tabBarIcon: ({ color, size }) => {
             let iconName: "book" | "list" | "settings" = (route.name === "Books") ? "book" : (route.name === "Words") ? "list" : "settings";
-
             return <Ionicons name={iconName} size={size} color={color} />;
           },
         })}
@@ -66,18 +64,28 @@ export default function App() {
         <Tab.Screen
           name="Books"
           component={BooksStack}
+          options={({ route }) => {
+            const routeName = getFocusedRouteNameFromRoute(route) ?? "BookList";
+            return {
+              tabBarStyle: { display: routeName === "BookReader" ? "none" : "flex" },
+            };
+          }}
         />
         <Tab.Screen
           name="Words"
           component={WordListScreen}
-          options={({ route }) => ({
+          options={{
             title: "Words collected",
             headerShown: true,
-          })}
+          }}
         />
         <Tab.Screen
           name="Settings"
           component={SettingsScreen}
+          options={{
+            title: "Settings",
+            headerShown: true,
+          }}
         />
       </Tab.Navigator>
     </NavigationContainer >
