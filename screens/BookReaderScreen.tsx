@@ -9,6 +9,7 @@ import Reader from "../components/Reader";
 import TranslationBubble from "../components/TranslationBubble";
 import { lookupLocalWord } from "../services/WordDictionary";
 import { getSavedWords, saveWord, removeWord } from "../services/CasheService";
+import { saveProgress, getProgress } from "../utils/ReadingProgress";
 
 
 type BookReaderRouteProp = RouteProp<RootStackParamList, "BookReader">;
@@ -94,6 +95,17 @@ export default function BookReaderScreen({ route }: Props) {
     const isSaved = savedWords.includes(currentText.toLowerCase());
     // #endregion
 
+    // #region last read progress
+    const [lastReadLine, setLastReadLine] = useState(0);
+
+    useEffect(() => {
+        (async () => {
+            const progress = await getProgress(filePath);
+            setLastReadLine(progress ? progress.lineIndex : 0);
+        })();
+    }, [filePath]);
+    // #endregion
+
     return (
         <TouchableWithoutFeedback onPress={() => {
             if (bubbleVisible) {
@@ -114,6 +126,8 @@ export default function BookReaderScreen({ route }: Props) {
                             bubbleVisible={bubbleVisible}
                             onCloseBubble={() => setBubbleVisible(false)}
                             savedWords={savedWords}
+                            initialIndex={lastReadLine}
+                            filePath={filePath}
                         />
 
                         <TranslationBubble

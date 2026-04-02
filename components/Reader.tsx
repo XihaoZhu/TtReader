@@ -1,10 +1,14 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
-import { View, Text, StyleSheet, FlatList, Pressable } from "react-native";
+import { View, Text, StyleSheet, FlatList, Pressable, ViewToken } from "react-native";
 import { splitIntoWords } from "../utils/WordSplitter";
 import { splitIntoSentences } from "../utils/SentenceSplitter";
-import { saveProgress, getProgress } from "../utils/ReadingProgress";
+import { getCachedContent, setCachedContent } from "../utils/ContentCache";
+import { saveProgress } from "../utils/ReadingProgress";
 
-const contentCache = new Map<string, string[]>();
+
+
+const estimatedLineHeight = 24 * 1.5;
+
 
 interface Props {
     content: string;
@@ -13,6 +17,8 @@ interface Props {
     bubbleVisible: boolean;
     onCloseBubble: () => void;
     savedWords: string[];
+    initialIndex?: number;
+    filePath: string;
 }
 
 export default function Reader({
@@ -22,6 +28,8 @@ export default function Reader({
     bubbleVisible,
     onCloseBubble,
     savedWords,
+    initialIndex = 0,
+    filePath,
 }: Props) {
 
     // #region Selection state
@@ -49,21 +57,48 @@ export default function Reader({
     }
     // #endregion
 
-
-    // #region memorize location
+    // #region memo
     const sentences = useMemo(() => {
-        if (contentCache.has(content)) {
-            return contentCache.get(content)!;
+        if (getCachedContent(content)) {
+            return getCachedContent(content)!;
         }
 
         const result = splitIntoSentences(content);
-        contentCache.set(content, result);
+        setCachedContent(content, result);
 
         return result;
     }, [content]);
+
     // #endregion
 
+    // #region auto save progress
+    const onViewableItemsChanged = useRef(({
+        viewableItems,
+        changed,
+    }: {
+        viewableItems: ViewToken[];
+        changed: ViewToken[];
+    }) => {
+        if (viewableItems.length > 0) {
+            const firstVisible = viewableItems[0];
+            saveProgress(filePath, firstVisible.index ?? 0);
+        }
+    }).current;
 
+    const listRef = useRef<FlatList>(null);
+    const [ready, setReady] = useState(false);
+    const [listReady, setListReady] = useState(false);
+    useEffect(() => {
+        if (listReady && initialIndex != null && listRef.current) {
+            listRef.current.scrollToIndex({
+                index: initialIndex,
+                animated: true,
+            });
+
+        }
+    }, [listReady, initialIndex]);
+
+    // #endregion
 
     const renderLine = ({ item: sentence, index: sentenceIndex }: { item: string; index: number }) => {
 
@@ -113,7 +148,8 @@ export default function Reader({
 
     return (
         <FlatList
-            style={styles.container}
+            style={[styles.container, ready && { opacity: 1 }]}
+            ref={listRef}
             data={sentences}
             renderItem={renderLine}
             keyExtractor={(_, index) => index.toString()}
@@ -121,8 +157,18 @@ export default function Reader({
                 setSelectedWordPos(null);
                 setSelectedSentenceIndex(null);
             }}
+            getItemLayout={(_, index) => ({
+                length: estimatedLineHeight,
+                offset: estimatedLineHeight * index,
+                index,
+            })}
             initialNumToRender={20}
             windowSize={21}
+            onViewableItemsChanged={onViewableItemsChanged}
+            viewabilityConfig={{ itemVisiblePercentThreshold: 50 }}
+            onLayout={() => setListReady(true)}
+            onMomentumScrollEnd={() => setReady(true)}
+
         />
     );
 }
@@ -131,6 +177,7 @@ const styles = StyleSheet.create({
     container: {
         flex: 1,
         marginHorizontal: 16,
+        opacity: 0,
     },
     sentence: { flexDirection: "row", flexWrap: "wrap", paddingHorizontal: 16, marginBottom: 4 },
     word: { fontSize: 16, lineHeight: 24 },
