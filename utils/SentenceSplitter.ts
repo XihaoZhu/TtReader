@@ -2,11 +2,27 @@
 export function splitIntoSentences(text: string): string[] {
     if (!text) return [];
 
-    const rawSentences = text
-        .replace(/\n+/g, " ")
-        .split(/(?<=[.!?。！？])\s+/)
+    const paragraphs = text.split(/\n\s*\n/);
 
-    return rawSentences
-        .map(s => s.trim())
-        .filter(s => s.length > 0);
+    const sentences: string[] = [];
+
+    paragraphs.forEach(p => {
+        const trimmed = p.trim();
+        if (!trimmed) {
+
+            sentences.push("");
+            return;
+        }
+
+        const sents = trimmed
+            .split(/(?<=[.!?。！？])\s+/)
+            .map(s => s.trim())
+            .filter(s => s.length > 0);
+
+        sentences.push(...sents);
+
+        sentences.push("");
+    });
+
+    return sentences;
 }

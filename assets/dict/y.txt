@@ -1,140 +1,4 @@
-{"word":"Y-address","sw":"yaddress","translation":["[计] Y地址"],"phonetic":""}
-{"word":"Y-alloy","sw":"yalloy","translation":["n. Y合金；铝合金"],"phonetic":""}
-{"word":"Y-angle","sw":"yangle","translation":["Y角"],"phonetic":""}
-{"word":"y-armed","sw":"yarmed","translation":["[网络] y武装"],"phonetic":""}
-{"word":"Y-asteotomy","sw":"yasteotomy","translation":["Y形切骨术"],"phonetic":""}
-{"word":"y-axes","sw":"yaxes","translation":["n. Y轴，纵坐标轴( y-axis的名词复数 )"],"phonetic":""}
-{"word":"y-axis","sw":"yaxis","translation":["n. 轴, 纵坐标轴","[计] Y轴, 纵坐标"],"phonetic":"'wai,æksis"}
-{"word":"Y-azimuth","sw":"yazimuth","translation":["基准方向角"],"phonetic":""}
-{"word":"Y-bacillus","sw":"ybacillus","translation":["[医] Y型杆菌"],"phonetic":""}
-{"word":"Y-band","sw":"yband","translation":["[机] Ｙ形弯头"],"phonetic":""}
-{"word":"Y-bandage","sw":"ybandage","translation":["Y形绷带,Y字带"],"phonetic":""}
-{"word":"Y-bend","sw":"ybend","translation":["二叉;分叉弯头"],"phonetic":""}
-{"word":"Y-block","sw":"yblock","translation":["楔型试块"],"phonetic":""}
-{"word":"Y-body","sw":"ybody","translation":["Y小体"],"phonetic":""}
-{"word":"Y-bracket","sw":"ybracket","translation":["[矿业] 三岔支架"],"phonetic":""}
-{"word":"Y-branch","sw":"ybranch","translation":["叉管;分叉管;分叉支管"],"phonetic":""}
-{"word":"Y-Cable","sw":"ycable","translation":["[网络] 线；线缆；接头线"],"phonetic":""}
-{"word":"Y-cartilage","sw":"ycartilage","translation":["Y形软骨"],"phonetic":""}
-{"word":"y-cell","sw":"ycell","translation":["[网络] Y细胞；细胞之水分潜势；神经节细胞"],"phonetic":""}
-{"word":"y-cells","sw":"ycells","translation":["(y-cell 的复数) [网络] Y细胞；细胞之水分潜势；神经节细胞"],"phonetic":""}
-{"word":"Y-channel","sw":"ychannel","translation":["Y信道,亮度通道调整"],"phonetic":""}
-{"word":"Y-chromatin","sw":"ychromatin","translation":["Y染色质"],"phonetic":""}
-{"word":"y-chromosome","sw":"ychromosome","translation":["[医]y染色体，性染色体"],"phonetic":""}
-{"word":"Y-chromosomes","sw":"ychromosomes","translation":["n. 〔遗〕Y染色体"],"phonetic":""}
-{"word":"Y-clean-outs","sw":"ycleanouts","translation":["分叉清污口,Y型清扫设备"],"phonetic":""}
-{"word":"Y-component","sw":"ycomponent","translation":["[网络] Y轴向分量"],"phonetic":""}
-{"word":"Y-connected","sw":"yconnected","translation":["星形联接的"],"phonetic":""}
-{"word":"Y-connection","sw":"yconnection","translation":["星形接线；Y接法"],"phonetic":""}
-{"word":"Y-contact","sw":"ycontact","translation":["[网络] Y触点"],"phonetic":""}
-{"word":"Y-coordinate","sw":"ycoordinate","translation":["n. [数]Y坐标,纵座标"],"phonetic":",waikәj'ɔ:dinәt,-neit"}
-{"word":"Y-coordinates","sw":"ycoordinates","translation":["Y坐标"],"phonetic":""}
-{"word":"y-coped","sw":"ycoped","translation":["[网络] 应付了"],"phonetic":""}
-{"word":"Y-cross","sw":"ycross","translation":["n. (尤指任圣职者所穿宽大无袖长袍上的)Y形十字架"],"phonetic":"'waikrɔs;-krɔ:s"}
-{"word":"Y-crystal","sw":"ycrystal","translation":["[晶体] Ｙ晶体"],"phonetic":""}
-{"word":"y-current","sw":"ycurrent","translation":["[电] Y形电流"],"phonetic":""}
-{"word":"Y-cut","sw":"ycut","translation":["n. Y截割；垂直于Y轴的石英晶体截割法"],"phonetic":""}
-{"word":"Y-direction","sw":"ydirection","translation":["[计] Y轴方向, 纵轴方向"],"phonetic":""}
-{"word":"Y-directions","sw":"ydirections","translation":["(Y-direction 的复数) [计] Y轴方向, 纵轴方向"],"phonetic":""}
-{"word":"y-disk","sw":"ydisk","translation":["y碟，一种（会话监督系统）系统磁碟的扩充"],"phonetic":""}
-{"word":"Y-displacement","sw":"ydisplacement","translation":["Y位移"],"phonetic":""}
-{"word":"Y-divider","sw":"ydivider","translation":["分水叉"],"phonetic":""}
-{"word":"Y-drain","sw":"ydrain","translation":["Y形管"],"phonetic":""}
-{"word":"Y-dysentery","sw":"ydysentery","translation":["Hiss氏菌痢疾"],"phonetic":""}
-{"word":"y-e-s","sw":"yes","translation":["adv. 是, 是的","n. 是（表示肯定）"],"phonetic":"jes"}
-{"word":"Y-engine","sw":"yengine","translation":["[网络] 三缸星形发动机；三缸星形引擎"],"phonetic":""}
-{"word":"Y-extent","sw":"yextent","translation":["Y 延伸"],"phonetic":""}
-{"word":"Y-factor","sw":"yfactor","translation":["Y因数"],"phonetic":""}
-{"word":"y-front","sw":"yfront","translation":["n. 男三角裤, 紧身男短裤(一般前部有Y字形缝迹)"],"phonetic":"wai'frʌnt"}
-{"word":"Y-fronted","sw":"yfronted","translation":["n.","男三角裤，紧身男短裤(一般前部有Y字形缝迹)"],"phonetic":"wai'frʌnt"}
-{"word":"y-fronts","sw":"yfronts","translation":["(y-front 的复数) n. 男三角裤, 紧身男短裤(一般前部有Y字形缝迹)"],"phonetic":""}
-{"word":"Y-gun","sw":"ygun","translation":["n. 舰尾发射深水炸弹之装置"],"phonetic":"'wai^ʌn"}
-{"word":"Y-incision","sw":"yincision","translation":["Y切口"],"phonetic":""}
-{"word":"Y-ing","sw":"ying","translation":["营","n. (Ying)人名；(缅、泰)英；(中)应(普通话·威妥玛)"],"phonetic":""}
-{"word":"Y-insulation","sw":"yinsulation","translation":["[网络] Y类绝缘"],"phonetic":""}
-{"word":"Y-intercept","sw":"yintercept","translation":["[计] Y截距"],"phonetic":""}
-{"word":"y-intercepts","sw":"yintercepts","translation":["n. y截距；y轴截距"],"phonetic":"'wai'intəsept"}
-{"word":"Y-intersection","sw":"yintersection","translation":["Y形交叉"],"phonetic":""}
-{"word":"Y-jack","sw":"yjack","translation":[],"phonetic":""}
-{"word":"Y-jacks","sw":"yjacks","translation":["[网络] Y型插座"],"phonetic":""}
-{"word":"Y-joint","sw":"yjoint","translation":["分叉管接头"],"phonetic":""}
-{"word":"y-junction","sw":"yjunction","translation":["[电] Y形接头"],"phonetic":""}
-{"word":"Y-level","sw":"ylevel","translation":["回转水准仪;活镜水准仪"],"phonetic":""}
-{"word":"Y-line","sw":"yline","translation":["n. Y轴；纵轴线"],"phonetic":""}
-{"word":"Y-linkage","sw":"ylinkage","translation":["Y染色体连锁,Y染色体环连"],"phonetic":""}
-{"word":"Y-linked","sw":"ylinked","translation":["Y染色体连锁的"],"phonetic":""}
-{"word":"y-linkeds","sw":"ylinkeds","translation":["Y染色体连锁的","(y-linked 的复数)"],"phonetic":""}
-{"word":"y-m","sw":"ym","translation":["[网络] 阴道分泌物镜检霉菌；E与；N与"],"phonetic":""}
-{"word":"Y-maneuver","sw":"ymaneuver","translation":["[网络] Y形机动"],"phonetic":""}
-{"word":"Y-mark","sw":"ymark","translation":["Y痕"],"phonetic":""}
-{"word":"y-match","sw":"ymatch","translation":["[电] Y匹配"],"phonetic":""}
-{"word":"Y-matching","sw":"ymatching","translation":["n. Y形匹配"],"phonetic":""}
-{"word":"y-maze","sw":"ymaze","translation":["[网络] Y型迷宫；Y迷宫"],"phonetic":""}
-{"word":"y-mazes","sw":"ymazes","translation":["[网络] Y迷宫；迷宫；迷宫系统"],"phonetic":""}
-{"word":"y-mill","sw":"ymill","translation":["[机] ｙ形轧机"],"phonetic":""}
-{"word":"Y-modem","sw":"ymodem","translation":["一种文件传输协议"],"phonetic":""}
-{"word":"Y-modulation","sw":"ymodulation","translation":["[网络] Y调制角"],"phonetic":""}
-{"word":"Y-moth","sw":"ymoth","translation":["n. 【昆虫】Y纹夜蛾，伽马金翅夜蛾"],"phonetic":"'waimɔθ"}
-{"word":"Y-motion","sw":"ymotion","translation":["n. 在Y轴方向运动"],"phonetic":""}
-{"word":"Y-motor","sw":"ymotor","translation":["[动力] 沿Ｙ轴移动的发动机"],"phonetic":""}
-{"word":"y-network","sw":"ynetwork","translation":["[电] Y形网络"],"phonetic":""}
-{"word":"y-o-u","sw":"you","translation":["pron. 你；你们","n. (You)人名；(柬)尤；(东南亚国家华语)猷"],"phonetic":"juː"}
-{"word":"Y-ogen","sw":"yogen","translation":["n. (人马星座地区的射电辐射探测到的一种不明星际分子)Y素"],"phonetic":"'waiədʒən"}
-{"word":"y-opened","sw":"yopened","translation":["[网络] y开了"],"phonetic":""}
-{"word":"y-ordayned","sw":"yordayned","translation":["[网络] y或orned"],"phonetic":""}
-{"word":"Y-organ","sw":"yorgan","translation":["Y 器"],"phonetic":""}
-{"word":"Y-osteotomy","sw":"yosteotomy","translation":["Y型截骨(术)"],"phonetic":""}
-{"word":"Y-p-syndrome","sw":"ypsyndrome","translation":["Y染色体短臂缺失综合征"],"phonetic":""}
-{"word":"y-parallax","sw":"yparallax","translation":["上下视差"],"phonetic":""}
-{"word":"Y-parameter","sw":"yparameter","translation":["【电子学】Y参量"],"phonetic":""}
-{"word":"Y-particle","sw":"yparticle","translation":["Y粒子"],"phonetic":""}
-{"word":"Y-people","sw":"ypeople","translation":["n. 雅皮士族 (＝Yuppies)"],"phonetic":""}
-{"word":"Y-piece","sw":"ypiece","translation":["Y型管"],"phonetic":""}
-{"word":"Y-pipe","sw":"ypipe","translation":["n. Y形管"],"phonetic":""}
-{"word":"Y-plan","sw":"yplan","translation":["Y形平面"],"phonetic":""}
-{"word":"Y-Prickleback","sw":"yprickleback","translation":["浅色异北鳚"],"phonetic":""}
-{"word":"y-punch","sw":"ypunch","translation":["Y打孔, 12列打孔（在何勒里斯卡片上），y打孔，y打孔位，首列打孔"],"phonetic":""}
-{"word":"Y-q-syndrome","sw":"yqsyndrome","translation":["Y染色体长臂缺失综合征"],"phonetic":""}
-{"word":"y-ray","sw":"yray","translation":["[网络] 辐射强度"],"phonetic":""}
-{"word":"y-rays","sw":"yrays","translation":["y射线"],"phonetic":"'waɪr'eɪz"}
-{"word":"y-rotation","sw":"yrotation","translation":["[力] 绕Ｙ轴的旋转"],"phonetic":""}
-{"word":"Y-scale","sw":"yscale","translation":["Y方向比例尺"],"phonetic":""}
-{"word":"y-schizandrin","sw":"yschizandrin","translation":["五味子出村醇"],"phonetic":""}
-{"word":"Y-search","sw":"ysearch","translation":["Y型搜索"],"phonetic":""}
-{"word":"Y-section","sw":"ysection","translation":["三角分线杆"],"phonetic":""}
-{"word":"y-shaped","sw":"yshaped","translation":["分叉形"],"phonetic":""}
-{"word":"y-shapeds","sw":"yshapeds","translation":["分叉形","(y-shaped 的复数)"],"phonetic":""}
-{"word":"y-shift","sw":"yshift","translation":["y位移,垂直移"],"phonetic":""}
-{"word":"y-signal","sw":"ysignal","translation":["[电] Y形讯号"],"phonetic":""}
-{"word":"Y-stay","sw":"ystay","translation":["n. Y形拉线"],"phonetic":""}
-{"word":"y-stem","sw":"ystem","translation":["星形接法"],"phonetic":""}
-{"word":"Y-strut","sw":"ystrut","translation":["[建] Ｙ形支柱"],"phonetic":""}
-{"word":"Y-switch","sw":"yswitch","translation":["[铁路] Ｙ形道岔"],"phonetic":""}
-{"word":"Y-system","sw":"ysystem","translation":["[网络] 星形接法"],"phonetic":""}
-{"word":"y-t","sw":"yt","translation":["[网络] 关系曲线；可支配收入；振动图象"],"phonetic":""}
-{"word":"Y-terminals","sw":"yterminals","translation":["Y信号输出端"],"phonetic":""}
-{"word":"Y-tile","sw":"ytile","translation":["三通陶管"],"phonetic":""}
-{"word":"Y-tilt","sw":"ytilt","translation":["Y轴倾角"],"phonetic":""}
-{"word":"Y-titamate","sw":"ytitamate","translation":["钇铈榍石"],"phonetic":""}
-{"word":"Y-tombolo","sw":"ytombolo","translation":["Y型连岛沙洲"],"phonetic":""}
-{"word":"Y-track","sw":"ytrack","translation":["n. Y形轨道, 三叉形轨道"],"phonetic":""}
-{"word":"Y-tube","sw":"ytube","translation":["叉形管"],"phonetic":""}
-{"word":"Y-type","sw":"ytype","translation":["叉形"],"phonetic":""}
-{"word":"Y-union","sw":"yunion","translation":["三通连接管"],"phonetic":""}
-{"word":"y-valerolactone","sw":"yvalerolactone","translation":["n. 【有机化学】 Y—戊内酯"],"phonetic":"və,li:rəu'læktəun"}
-{"word":"Y-valve","sw":"yvalve","translation":["[化] 角阀Z"],"phonetic":""}
-{"word":"Y-voltage","sw":"yvoltage","translation":["对中性线电压"],"phonetic":""}
-{"word":"y-vowted","sw":"yvowted","translation":["[网络] 誓言"],"phonetic":""}
-{"word":"Y-Vplastyofbladderneck","sw":"yvplastyofbladderneck","translation":["膀胱颈部Y-V成形术"],"phonetic":""}
-{"word":"y-wing","sw":"ywing","translation":["[网络] 叉形翼；反抗军Y翼战机；对付反抗军的轰炸机"],"phonetic":""}
-{"word":"y-yes","sw":"yyes","translation":["[网络] 愿意；赞同；附以及"],"phonetic":""}
-{"word":"y-you","sw":"yyou","translation":["[网络] 你；诸位；你们"],"phonetic":""}
 {"word":"ya","sw":"ya","translation":["abbr. 年轻人（young adult）；偏航轴（yaw axis）"],"phonetic":"'jә"}
-{"word":"ya-hoo","sw":"yahoo","translation":["[网络] 雅虎"],"phonetic":""}
-{"word":"Ya-shima","sw":"yashima","translation":["[地名] 屋岛〈香川县〉 ( 日 )"],"phonetic":""}
-{"word":"ya-ta-ta","sw":"yatata","translation":["n. 空洞无物的交谈"],"phonetic":"'jɑ:tәtɑ:"}
-{"word":"ya-ya","sw":"yaya","translation":["[网络] 爷爷；借给了路先生"],"phonetic":""}
-{"word":"ya-yas","sw":"yayas","translation":["[网络] 组合家具的代称"],"phonetic":""}
 {"word":"yaa","sw":"yaa","translation":["abbr. 美国帆船驾驶员协会（Yachtsmen's Association of America）"],"phonetic":""}
 {"word":"yaaa","sw":"yaaa","translation":["[网络] 呀啊；新钓手"],"phonetic":""}
 {"word":"yaaaa","sw":"yaaaa","translation":["[网络] 北斗七星"],"phonetic":""}
@@ -157,7 +21,6 @@
 {"word":"yaas","sw":"yaas","translation":["[网络] 省农科院；农业科学院教授；者雅艾斯"],"phonetic":""}
 {"word":"yaav","sw":"yaav","translation":["[网络] 雅"],"phonetic":""}
 {"word":"yab","sw":"yab","translation":["[网络] 青年谘询委员会(Youth Advisory Board)；天才小亨亨的家；叶"],"phonetic":""}
-{"word":"yab-yum","sw":"yabyum","translation":["[网络] 双运；双身相；双身佛"],"phonetic":""}
 {"word":"yaba","sw":"yaba","translation":["abbr. Yacht Architects and Brokers Association 游艇建筑师经纪人协会"],"phonetic":""}
 {"word":"Yabakei","sw":"yabakei","translation":["[地名] 耶马溪 ( 日 )"],"phonetic":""}
 {"word":"Yabanabat","sw":"yabanabat","translation":["[地名] *亚巴纳巴德(克孜勒贾哈马姆的旧称) ( 土 )"],"phonetic":""}
@@ -165,7 +28,6 @@
 {"word":"yabas","sw":"yabas","translation":["abbr. Yacht Architects and Brokers Association 游艇建筑师经纪人协会","(yaba 的复数)"],"phonetic":""}
 {"word":"Yabassi","sw":"yabassi","translation":["[地名] 亚巴西 ( 喀 )"],"phonetic":""}
 {"word":"yabba","sw":"yabba","translation":["[网络] Young Aust Best Book Award; 最受欢迎儿童绘本奖"],"phonetic":""}
-{"word":"yabba-dabba-doo","sw":"yabbadabbadoo","translation":["[网络] 呀吧嗒吧嘟"],"phonetic":""}
 {"word":"Yabbenohr","sw":"yabbenohr","translation":["[地名] 亚贝诺尔岛 ( 马绍尔 )"],"phonetic":""}
 {"word":"yabber","sw":"yabber","translation":["n. 谈话, 说话, 急促而含混不清的话"],"phonetic":"'jæbә"}
 {"word":"yabbered","sw":"yabbered","translation":["n. 饶舌；闲谈；急促","[网络] 谈话；叨唠"],"phonetic":""}
@@ -181,7 +43,6 @@
 {"word":"yabby","sw":"yabby","translation":["n. 淡水螯虾"],"phonetic":"'jæbi"}
 {"word":"yabbying","sw":"yabbying","translation":["n.","【动物】(澳大利亚)淡水螯虾(Cherax)"],"phonetic":"'jæbi"}
 {"word":"yabe","sw":"yabe","translation":["[地名] [缅甸] 亚贝; [地名] [日本] 矢部"],"phonetic":""}
-{"word":"Yabe-gawa","sw":"yabegawa","translation":["[地名] 矢部川 ( 日 )"],"phonetic":""}
 {"word":"yabeana","sw":"yabeana","translation":["[网络] 华北耧斗菜；矢部龙常草"],"phonetic":""}
 {"word":"Yabeina","sw":"yabeina","translation":["矢部属"],"phonetic":"'jɑ:beinә"}
 {"word":"yabeine","sw":"yabeine","translation":["去氧骆驼蓬碱"],"phonetic":""}
@@ -211,7 +72,6 @@
 {"word":"Yabroud","sw":"yabroud","translation":["[网络] 拉马纳和耶卜鲁德"],"phonetic":""}
 {"word":"Yabrud","sw":"yabrud","translation":["雅布鲁德"],"phonetic":""}
 {"word":"yabu","sw":"yabu","translation":["[地名] [日本] 养父"],"phonetic":""}
-{"word":"Yabu-shi","sw":"yabushi","translation":["养父市"],"phonetic":""}
 {"word":"Yabucoa","sw":"yabucoa","translation":["[地名] 亚武科阿 ( 波多 )"],"phonetic":""}
 {"word":"Yabuki","sw":"yabuki","translation":["[地名] 矢吹 ( 日 )"],"phonetic":""}
 {"word":"Yabuzukahon","sw":"yabuzukahon","translation":["[地名] 薮冢本 ( 日 )"],"phonetic":""}
@@ -263,18 +123,12 @@
 {"word":"yachty","sw":"yachty","translation":["a. 似快艇的, 适合游艇的"],"phonetic":"'jɔti"}
 {"word":"yacine","sw":"yacine","translation":["[网络] 雅辛；雅馨娜"],"phonetic":""}
 {"word":"yack","sw":"yack","translation":["n. (=yackety-yak)废话, 哄堂大笑"],"phonetic":"jæk"}
-{"word":"yack-yack","sw":"yackyack","translation":["vi., n. = yack"],"phonetic":"'jækjæk"}
 {"word":"Yackandandah","sw":"yackandandah","translation":["[地名] 亚肯丹达 ( 澳 )"],"phonetic":""}
 {"word":"yacked","sw":"yacked","translation":["n. 废话（等于yackety-yak）；哄堂大笑；侃大山","vi. 闲聊, 侃大山"],"phonetic":"jæk"}
 {"word":"yackel","sw":"yackel","translation":["[网络] 尔"],"phonetic":""}
 {"word":"yacker","sw":"yacker","translation":["[网络] 船长；雅客"],"phonetic":""}
 {"word":"yackers","sw":"yackers","translation":["[网络] 雅客"],"phonetic":""}
 {"word":"yacket","sw":"yacket","translation":["n. (=yackety-yak)废话, 哄堂大笑"],"phonetic":"'jækit"}
-{"word":"yackety-yack","sw":"yacketyyack","translation":["n. 〈俚〉絮絮叨叨的谈话；唠叨"],"phonetic":""}
-{"word":"yackety-yak","sw":"yacketyyak","translation":["n. 没有意义的谈话, 废话"],"phonetic":"'jækiti'jæk"}
-{"word":"yackety-yakked","sw":"yacketyyakked","translation":["vi. yackety-yak的变形"],"phonetic":""}
-{"word":"yackety-yakking","sw":"yacketyyakking","translation":["vi. yackety-yak的变形"],"phonetic":""}
-{"word":"yackety-yaks","sw":"yacketyyaks","translation":["n. 废话；长而无聊的谈话","vi. 瞎扯"],"phonetic":"'jækiti'jæk"}
 {"word":"yacking","sw":"yacking","translation":["n. 废话（等于yackety-yak）；哄堂大笑；侃大山","vi. 闲聊, 侃大山"],"phonetic":"jæk"}
 {"word":"yackov","sw":"yackov","translation":["[网络] 雅科夫"],"phonetic":""}
 {"word":"yacks","sw":"yacks","translation":["n. 废话（等于yackety-yak）；哄堂大笑；侃大山","vi. 闲聊, 侃大山"],"phonetic":"jæk"}
@@ -303,7 +157,6 @@
 {"word":"YaCy","sw":"yacy","translation":["[网络] 璇挞獥"],"phonetic":""}
 {"word":"yad","sw":"yad","translation":["[医][=yeast alcohol dehydrogenase]酵母乙醇脱氢酶"],"phonetic":""}
 {"word":"yada","sw":"yada","translation":["n. (Yada)人名；(土)亚达"],"phonetic":""}
-{"word":"Yada-gawa","sw":"yadagawa","translation":["[地名] 矢田川 ( 日 )"],"phonetic":""}
 {"word":"yadadamean","sw":"yadadamean","translation":[],"phonetic":""}
 {"word":"yadanziolide","sw":"yadanziolide","translation":["鸦胆子内酯"],"phonetic":""}
 {"word":"yadav","sw":"yadav","translation":["n. (Yadav)人名；(尼、印、印尼)亚达夫"],"phonetic":""}
@@ -333,15 +186,12 @@
 {"word":"Yadulan","sw":"yadulan","translation":["氯噻嗪,克尿塞"],"phonetic":""}
 {"word":"yadus","sw":"yadus","translation":["[网络] 雅杜王朝"],"phonetic":""}
 {"word":"yae","sw":"yae","translation":["n. (Yae)人名；(日)弥惠(名)"],"phonetic":""}
-{"word":"Yae-dake","sw":"yaedake","translation":["[地名] 八重岳 ( 日 )"],"phonetic":""}
-{"word":"Yae-yama","sw":"yaeyama","translation":["[地名] 八重山 ( 日 )"],"phonetic":""}
 {"word":"yaeba","sw":"yaeba","translation":["[网络] 八重齿；重牙齿"],"phonetic":""}
 {"word":"yaeger","sw":"yaeger","translation":["[人名] 耶格尔"],"phonetic":""}
 {"word":"yaegers","sw":"yaegers","translation":["[人名] 耶格尔","(yaeger 的复数)"],"phonetic":""}
 {"word":"yaeko","sw":"yaeko","translation":["n. 【女名】女子名","[网络] 八重子；送精美名牌礼；弥江子"],"phonetic":""}
 {"word":"yael","sw":"yael","translation":["n. 雅艾尔（女子名）"],"phonetic":""}
 {"word":"yaeyama","sw":"yaeyama","translation":["[网络] 八重山；琉球-八重山郡；八重山列岛"],"phonetic":""}
-{"word":"Yaeyama-retto","sw":"yaeyamaretto","translation":["八重山列岛"],"phonetic":""}
 {"word":"yaez","sw":"yaez","translation":["[网络] 亚兹"],"phonetic":""}
 {"word":"YAF","sw":"yaf","translation":["美国青年争取自由组织"],"phonetic":""}
 {"word":"Yafa","sw":"yafa","translation":["<阿拉伯>=Jaffa"],"phonetic":"'jæfә"}
@@ -351,7 +201,6 @@
 {"word":"yaffa","sw":"yaffa","translation":["[网络] 雅法；美丽；雅珐"],"phonetic":""}
 {"word":"yaffe","sw":"yaffe","translation":["[人名] 亚夫"],"phonetic":""}
 {"word":"yaffil","sw":"yaffil","translation":["n. 绿色啄木鸟"],"phonetic":"'jæfil"}
-{"word":"yaffin-gale","sw":"yaffingale","translation":["n. 绿色啄木鸟"],"phonetic":""}
 {"word":"yaffing","sw":"yaffing","translation":["vi. （苏格兰）吠；以锐声叫","n. 汪汪"],"phonetic":"jæf"}
 {"word":"yaffingale","sw":"yaffingale","translation":["n. <方>[鸟]绿啄木"],"phonetic":"'jæfiŋ^eil"}
 {"word":"yaffingales","sw":"yaffingales","translation":["n.","[方言]【鸟类】绿啄木鸟"],"phonetic":"'jæfiŋɡeil"}
@@ -365,7 +214,6 @@
 {"word":"Yafran","sw":"yafran","translation":["[地名] 耶夫兰 ( 利 )"],"phonetic":""}
 {"word":"yafsoanite","sw":"yafsoanite","translation":["碲锌钙石"],"phonetic":""}
 {"word":"YAG","sw":"yag","translation":["钇铝柘榴石"],"phonetic":""}
-{"word":"YAG-welding","sw":"yagwelding","translation":["YAG 焊接"],"phonetic":""}
 {"word":"yaga","sw":"yaga","translation":["[网络] 八神；呀加；也黎"],"phonetic":""}
 {"word":"Yagaba","sw":"yagaba","translation":["[地名] 亚加巴 ( 加纳、坦桑 )"],"phonetic":""}
 {"word":"Yagadji","sw":"yagadji","translation":["[地名] 亚加吉 ( 尼日尔 )"],"phonetic":""}
@@ -417,7 +265,6 @@
 {"word":"yagrumo","sw":"yagrumo","translation":["产于 Porto Rico 的一种蚁栖树"],"phonetic":"jɑ:'^ru:mәu"}
 {"word":"YAGs","sw":"yags","translation":["[网络] 怏"],"phonetic":""}
 {"word":"Yagua","sw":"yagua","translation":["[地名] 亚瓜 ( 古、委 )"],"phonetic":""}
-{"word":"Yagua-Yagua","sw":"yaguayagua","translation":["[地名] 亚瓜亚瓜山 ( 玻·秘 )"],"phonetic":""}
 {"word":"Yaguabo","sw":"yaguabo","translation":["[地名] 亚瓜沃 ( 古 )"],"phonetic":""}
 {"word":"Yaguachi","sw":"yaguachi","translation":["[地名] 亚瓜奇 ( 厄 )"],"phonetic":""}
 {"word":"Yaguacire","sw":"yaguacire","translation":["[地名] 亚瓜西雷 ( 洪 )"],"phonetic":""}
@@ -438,12 +285,10 @@
 {"word":"yagura","sw":"yagura","translation":["[网络] 矢仓；纯正；东来顺"],"phonetic":""}
 {"word":"yagya","sw":"yagya","translation":["[网络] 善行；宗教仪式"],"phonetic":""}
 {"word":"yah","sw":"yah","translation":["interj. (表示嘲笑、厌恶的)唷"],"phonetic":"jɑ:"}
-{"word":"yah-sure","sw":"yahsure","translation":["[网络] 那还用说"],"phonetic":""}
 {"word":"Yaha","sw":"yaha","translation":["[地名] 亚哈 ( 埃塞、泰 )"],"phonetic":""}
 {"word":"Yahaba","sw":"yahaba","translation":["[地名] 矢巾 ( 日 )"],"phonetic":""}
 {"word":"Yahad","sw":"yahad","translation":["[网络] 社会民主党；加入团体"],"phonetic":""}
 {"word":"yahads","sw":"yahads","translation":["[网络] 社会民主党；加入团体","(yahad 的复数)"],"phonetic":""}
-{"word":"Yahagi-gawa","sw":"yahagigawa","translation":["[地名] 矢作川 ( 日 )"],"phonetic":""}
 {"word":"yahama","sw":"yahama","translation":["[网络] 雅马哈；官方；新劲战"],"phonetic":""}
 {"word":"yahamas","sw":"yahamas","translation":["[网络] 雅马哈；官方；新劲战","(yahama 的复数)"],"phonetic":""}
 {"word":"yahara","sw":"yahara","translation":["[网络] 谷原"],"phonetic":""}
@@ -456,7 +301,6 @@
 {"word":"Yahi","sw":"yahi","translation":["[网络] 雅希；南支雅纳人及雅希人"],"phonetic":""}
 {"word":"yahia","sw":"yahia","translation":["[网络] 叶海亚；雅希亚；耶希亚"],"phonetic":""}
 {"word":"Yahiko","sw":"yahiko","translation":["[地名] 弥彦 ( 日 )"],"phonetic":""}
-{"word":"Yahiko-yama","sw":"yahikoyama","translation":["[地名] 弥彦山 ( 日 )"],"phonetic":""}
 {"word":"yahil","sw":"yahil","translation":["[网络] 亚希勒；亚希尔"],"phonetic":""}
 {"word":"Yahila","sw":"yahila","translation":["[地名] 亚希拉 ( 刚(金) )"],"phonetic":""}
 {"word":"yahis","sw":"yahis","translation":["[网络] 雅希；南支雅纳人及雅希人","(yahi 的复数)"],"phonetic":""}
@@ -532,13 +376,8 @@
 {"word":"Yajiwa","sw":"yajiwa","translation":["[地名] 亚吉瓦 ( 尼日利 )"],"phonetic":""}
 {"word":"yajna","sw":"yajna","translation":["[网络] 祭祀；格亚；火祭雅格亚"],"phonetic":""}
 {"word":"yajnas","sw":"yajnas","translation":["[网络] 仪式"],"phonetic":""}
-{"word":"Yajur-Veda","sw":"yajurveda","translation":["[网络] 夜柔吠陀；耶柔吠陀；夜摩吠陀"],"phonetic":""}
-{"word":"yajur-vedas","sw":"yajurvedas","translation":["Yajur-Veda","['jʌdʒuə'veidə; -'vi:də]","n.","《耶柔吠陀》(【印度教】古代经典吠陀之一，内收咒语和诗歌)[参较 Veda]"],"phonetic":"'jʌdʒuə'veidə; -'vi:də"}
 {"word":"Yajurveda","sw":"yajurveda","translation":["[网络] 夜柔吠陀；耶柔吠陀；夜尤吠陀"],"phonetic":""}
 {"word":"yak","sw":"yak","translation":["n. 牦牛, 饶舌, 连篇废话","vi. 饶舌, 喋喋不休, 放声大笑"],"phonetic":"jæk"}
-{"word":"yak-yak","sw":"yakyak","translation":["vi. = yack","n. = yack"],"phonetic":"'jæk'jæk"}
-{"word":"yak-yakked","sw":"yakyakked","translation":["vi. yak-yak的变形"],"phonetic":""}
-{"word":"yak-yakking","sw":"yakyakking","translation":["vi. yak-yak的变形"],"phonetic":""}
 {"word":"yaka","sw":"yaka","translation":["亚加韧皮纤维"],"phonetic":"'jɑ:kә"}
 {"word":"yakaba","sw":"yakaba","translation":["[网络] 雅卡巴"],"phonetic":""}
 {"word":"yakadu","sw":"yakadu","translation":["[网络] 雅卡杜"],"phonetic":""}
@@ -553,13 +392,7 @@
 {"word":"yakata","sw":"yakata","translation":["[网络] 恶梦之馆；陈安"],"phonetic":""}
 {"word":"yakatagite","sw":"yakatagite","translation":["砾质砂泥岩"],"phonetic":""}
 {"word":"yakdan","sw":"yakdan","translation":["[网络] 亚克丹"],"phonetic":""}
-{"word":"Yake-dake","sw":"yakedake","translation":["[地名] 烧岳 ( 日 )"],"phonetic":""}
-{"word":"Yake-yama","sw":"yakeyama","translation":["[地名] 烧山 ( 日 )"],"phonetic":""}
-{"word":"Yakeishi-dake","sw":"yakeishidake","translation":["[地名] 烧石岳 ( 日 )"],"phonetic":""}
 {"word":"yakety","sw":"yakety","translation":["[网络] 喋喋不休的萨克斯"],"phonetic":""}
-{"word":"yakety-yak","sw":"yaketyyak","translation":["n. 废话"],"phonetic":"jeɪ'keti:j'æk"}
-{"word":"yakety-yakked","sw":"yaketyyakked","translation":["vi. yakety-yak的变形"],"phonetic":""}
-{"word":"yakety-yakking","sw":"yaketyyakking","translation":["vi. yakety-yak的变形"],"phonetic":""}
 {"word":"yakfest","sw":"yakfest","translation":["[网络] 牦牛节"],"phonetic":""}
 {"word":"yakfests","sw":"yakfests","translation":["[网络] 牦牛蛋"],"phonetic":""}
 {"word":"Yakhadyyakha","sw":"yakhadyyakha","translation":["[地名] 亚哈德亚哈河 ( 俄 )"],"phonetic":""}
@@ -583,13 +416,8 @@
 {"word":"Yakiti","sw":"yakiti","translation":["[地名] 亚基蒂 ( 中非 )"],"phonetic":""}
 {"word":"yakitori","sw":"yakitori","translation":["n. 烤鸡肉串,串肉扦上腌泡过的小鸡块"],"phonetic":",jɑ:ki'tɔ:ri"}
 {"word":"yakitoris","sw":"yakitoris","translation":["n. 烤鸡肉串，日式烧鸡；串肉扦上腌泡过的小鸡块"],"phonetic":",jækɪ'tɔːrɪ"}
-{"word":"yakity-yak","sw":"yakityyak","translation":["[网络] 叽叽歪歪；说一些不重要的东西"],"phonetic":""}
-{"word":"yakity-yakked","sw":"yakityyakked","translation":["[网络] y ity y"],"phonetic":""}
-{"word":"yakity-yakking","sw":"yakityyakking","translation":["[网络] y ity y"],"phonetic":""}
-{"word":"yakity-yaks","sw":"yakityyaks","translation":["[网络] 牦牛牦牛"],"phonetic":""}
 {"word":"yakk","sw":"yakk","translation":["v. 饶舌;流畅的说"],"phonetic":""}
 {"word":"yakka","sw":"yakka","translation":["n. 工作, 劳动"],"phonetic":"'jækә"}
-{"word":"Yakkan-gawa","sw":"yakkangawa","translation":["[地名] 驿馆川 ( 日 )"],"phonetic":""}
 {"word":"yakkas","sw":"yakkas","translation":["n. 艰苦工作；沉重的活计"],"phonetic":"'jækə"}
 {"word":"Yakkatut","sw":"yakkatut","translation":["[地名] 亚卡图特 ( 乌兹 )"],"phonetic":""}
 {"word":"yakked","sw":"yakked","translation":["<非正, 贬>没完没了地谈些无关要紧的事, 喋喋不休, 唠叨( yak的过去式和过去分词 )"],"phonetic":""}
@@ -641,16 +469,13 @@
 {"word":"yakriton","sw":"yakriton","translation":["肝解毒激素(解毒药)"],"phonetic":"'jɑ:kritәn"}
 {"word":"yaks","sw":"yaks","translation":["n. 牦牛( yak的复数形式 ); 笑话","v. <非正, 贬>没完没了地谈些无关要紧的事, 喋喋不休, 唠叨( yak的第三人称单数 )"],"phonetic":"'jæks"}
 {"word":"yaksen","sw":"yaksen","translation":["[网络] 雅克森"],"phonetic":""}
-{"word":"yaksety-yaks","sw":"yaksetyyaks","translation":["n. 废话","(yakety-yak 的复数)"],"phonetic":""}
 {"word":"yaksha","sw":"yaksha","translation":["夜叉"],"phonetic":""}
 {"word":"Yakshanga","sw":"yakshanga","translation":["[地名] 亚克尚加 ( 俄 )"],"phonetic":""}
 {"word":"yakshas","sw":"yakshas","translation":["[网络] 夜叉们；叶杈夜叉；邪灵之一"],"phonetic":""}
 {"word":"Yaksu","sw":"yaksu","translation":["[地名] 药水 ( 朝 )"],"phonetic":""}
-{"word":"Yaksu-ri","sw":"yaksuri","translation":["[地名] 药水里 ( 朝 )"],"phonetic":""}
 {"word":"Yaktali","sw":"yaktali","translation":["[地名] 亚克塔利河 ( 俄 )"],"phonetic":""}
 {"word":"yaktine","sw":"yaktine","translation":["[网络] 牦牛"],"phonetic":""}
 {"word":"Yaku","sw":"yaku","translation":["[地名] 屋久 ( 日 )"],"phonetic":""}
-{"word":"Yaku-shima","sw":"yakushima","translation":["[地名] 屋久岛 ( 日 )"],"phonetic":""}
 {"word":"yakub","sw":"yakub","translation":["[网络] 雅库布；雅各"],"phonetic":""}
 {"word":"Yakuba","sw":"yakuba","translation":["[地名] 亚库巴 ( 尼日利 )"],"phonetic":""}
 {"word":"yakubic","sw":"yakubic","translation":["[网络] 雅各布"],"phonetic":""}
@@ -666,8 +491,6 @@
 {"word":"yakurr","sw":"yakurr","translation":["[网络] 亚库尔"],"phonetic":""}
 {"word":"yakus","sw":"yakus","translation":["[网络] 雅库斯"],"phonetic":""}
 {"word":"yakushev","sw":"yakushev","translation":["[网络] 亚库舍夫"],"phonetic":""}
-{"word":"Yakushi-dake","sw":"yakushidake","translation":["[地名] 药师岳 ( 日 )"],"phonetic":""}
-{"word":"Yakushi-ji","sw":"yakushiji","translation":["[网络] 药师寺；奈良药师寺"],"phonetic":""}
 {"word":"yakushima","sw":"yakushima","translation":["屋久岛"],"phonetic":""}
 {"word":"yakushkin","sw":"yakushkin","translation":["[网络] 亚库什金"],"phonetic":""}
 {"word":"yakusimensis","sw":"yakusimensis","translation":["[网络] 仙鹤藓"],"phonetic":""}
@@ -766,11 +589,7 @@
 {"word":"Yalvigi","sw":"yalvigi","translation":["[地名] 耶尔维吉 ( 印 )"],"phonetic":""}
 {"word":"yalwaan","sw":"yalwaan","translation":["[网络] 雅尔瓦恩"],"phonetic":""}
 {"word":"yam","sw":"yam","translation":["n. 山药, 薯蓣","[医] 薯蓣属植物"],"phonetic":"jæm"}
-{"word":"yam-bean","sw":"yambean","translation":["豆薯"],"phonetic":""}
-{"word":"yam-ma","sw":"yamma","translation":["n. 美洲驼"],"phonetic":"'jæmɚ"}
-{"word":"yam-mas","sw":"yammas","translation":["n. 美洲驼"],"phonetic":"'jæmɚ"}
 {"word":"yama","sw":"yama","translation":["n. 阎罗王"],"phonetic":"'jɑ:mә"}
-{"word":"Yama-no-kami","sw":"yamanokami","translation":["[网络] 山神"],"phonetic":""}
 {"word":"Yamabal","sw":"yamabal","translation":["[地名] 亚马瓦尔 ( 萨 )"],"phonetic":""}
 {"word":"yamabe","sw":"yamabe","translation":["[网络] 山部；山边；小山部"],"phonetic":""}
 {"word":"Yamacillin","sw":"yamacillin","translation":["表酞氨苄青霉素,表氨苄青霉素酞酯"],"phonetic":""}
@@ -784,13 +603,10 @@
 {"word":"Yamae","sw":"yamae","translation":["[地名] 山江 ( 日 )"],"phonetic":""}
 {"word":"Yamaga","sw":"yamaga","translation":["山鹿"],"phonetic":""}
 {"word":"Yamagata","sw":"yamagata","translation":["山形（地名, 一般指日本的一个县）"],"phonetic":""}
-{"word":"Yamagata-ken","sw":"yamagataken","translation":["[地名] 山形县 ( 日 )"],"phonetic":""}
 {"word":"Yamagawa","sw":"yamagawa","translation":["山川"],"phonetic":""}
 {"word":"Yamagishi","sw":"yamagishi","translation":["[网络] 山岸；山岸运动"],"phonetic":""}
 {"word":"yamagiwa","sw":"yamagiwa","translation":["[网络] 纯净简约"],"phonetic":""}
 {"word":"yamaguchi","sw":"yamaguchi","translation":["n. (Yamaguchi)人名；(日)山口(姓)；(意)亚马古基"],"phonetic":""}
-{"word":"Yamaguchi-gumi","sw":"yamaguchigumi","translation":["[网络] 山口组；犯罪团伙山口组；团夥山口组"],"phonetic":""}
-{"word":"Yamaguchi-ken","sw":"yamaguchiken","translation":["[地名] 山口县 ( 日 )"],"phonetic":""}
 {"word":"yamagutilite","sw":"yamagutilite","translation":["山口石(稀土锆石)"],"phonetic":",jɑ:mә'^u:tilait"}
 {"word":"yamaha","sw":"yamaha","translation":["n. 雅马哈（山叶）商标"],"phonetic":""}
 {"word":"yamahas","sw":"yamahas","translation":["n. 雅马哈（山叶）商标"],"phonetic":""}
@@ -800,14 +616,12 @@
 {"word":"Yamakita","sw":"yamakita","translation":["[地名] 山北 ( 日 )"],"phonetic":""}
 {"word":"Yamakoshi","sw":"yamakoshi","translation":["[地名] 山古志 ( 日 )"],"phonetic":""}
 {"word":"Yamakuni","sw":"yamakuni","translation":["[地名] 山国 ( 日 )"],"phonetic":""}
-{"word":"Yamakuni-gawa","sw":"yamakunigawa","translation":["[地名] 山国川 ( 日 )"],"phonetic":""}
 {"word":"Yamal","sw":"yamal","translation":["亚马尔半岛[苏联西伯利亚西北部]"],"phonetic":"jә'mɑ:l"}
 {"word":"Yamala","sw":"yamala","translation":["[地名] 亚马拉 ( 厄、洪 )"],"phonetic":""}
 {"word":"Yamalia","sw":"yamalia","translation":["[网络] 山梨"],"phonetic":""}
 {"word":"yamalka","sw":"yamalka","translation":["n. (犹太男子在祷告,学习,吃饭等时戴的)圆顶小帽"],"phonetic":"'jɑ:mәlkә"}
 {"word":"yamalkas","sw":"yamalkas","translation":["n.","= yarmulke"],"phonetic":"'jʌməlkə"}
 {"word":"yamalke","sw":"yamalke","translation":["[网络] 亚马克"],"phonetic":""}
-{"word":"Yamalo-Nenets","sw":"yamalonenets","translation":["[网络] 涅涅茨"],"phonetic":""}
 {"word":"Yamaltu","sw":"yamaltu","translation":["n. 一种三音乍得语"],"phonetic":""}
 {"word":"yamaltus","sw":"yamaltus","translation":["n. 一种三音乍得语","(yamaltu 的复数)"],"phonetic":""}
 {"word":"yamamah","sw":"yamamah","translation":["[网络] 亚玛玛"],"phonetic":""}
@@ -818,10 +632,8 @@
 {"word":"yamamura","sw":"yamamura","translation":["[网络] 柳屋；山村聪；叫山村"],"phonetic":""}
 {"word":"yamamuras","sw":"yamamuras","translation":["[网络] 柳屋；山村聪；叫山村","(yamamura 的复数)"],"phonetic":""}
 {"word":"yamanaka","sw":"yamanaka","translation":["n. (Yamanaka)人名；(日)山中(姓)"],"phonetic":""}
-{"word":"Yamanaka-ko","sw":"yamanakako","translation":["[地名] 山中湖 ( 日 )"],"phonetic":""}
 {"word":"Yamanakako","sw":"yamanakako","translation":["[地名] 山中湖 ( 日 )"],"phonetic":""}
 {"word":"yamanashi","sw":"yamanashi","translation":["[地名] [日本] 山梨"],"phonetic":""}
-{"word":"Yamanashi-ken","sw":"yamanashiken","translation":["[地名] 山梨县 ( 日 )"],"phonetic":""}
 {"word":"Yamando","sw":"yamando","translation":["[地名] 亚曼多 ( 中非 )"],"phonetic":""}
 {"word":"Yamandu","sw":"yamandu","translation":["[地名] 亚曼杜 ( 塞拉 )"],"phonetic":""}
 {"word":"yamane","sw":"yamane","translation":["n. (Yamane)人名；(日)山根(姓)；(埃塞)亚马内"],"phonetic":""}
@@ -855,8 +667,6 @@
 {"word":"Yamate","sw":"yamate","translation":["[地名] 山手 ( 日 )"],"phonetic":""}
 {"word":"Yamatetan","sw":"yamatetan","translation":["头孢替坦二钠"],"phonetic":""}
 {"word":"yamato","sw":"yamato","translation":["n. 大和人（日本人的祖先）；日本人；日本民族","a. 日本人的；大和民族的"],"phonetic":"'jɑ:mədəu"}
-{"word":"Yamato-e","sw":"yamatoe","translation":["n. 和式绘, 浮世绘"],"phonetic":"jɑ:'mɑ:tә,wei"}
-{"word":"Yamato-gawa","sw":"yamatogawa","translation":["[地名] 大和川 ( 日 )"],"phonetic":""}
 {"word":"Yamatoe","sw":"yamatoe","translation":["[网络] 大和绘"],"phonetic":""}
 {"word":"yamatoes","sw":"yamatoes","translation":["n. 大和人（日本人的祖先）；日本人；日本民族","adj. 日本人的；大和民族的"],"phonetic":"'jɑ:mədəu"}
 {"word":"Yamatoite","sw":"yamatoite","translation":["锰钒榴石"],"phonetic":""}
@@ -901,7 +711,6 @@
 {"word":"yamin","sw":"yamin","translation":["[网络] 老查某；玮辰；悦己"],"phonetic":""}
 {"word":"Yaminbot","sw":"yaminbot","translation":["[地名] 亚明博特 ( 巴布 )"],"phonetic":""}
 {"word":"yamit","sw":"yamit","translation":["[网络] 雅密特；亚美特"],"phonetic":""}
-{"word":"Yamizo-san","sw":"yamizosan","translation":["[地名] 八沟山 ( 日 )"],"phonetic":""}
 {"word":"Yamkanmardi","sw":"yamkanmardi","translation":["[地名] 耶姆根默尔迪 ( 印 )"],"phonetic":""}
 {"word":"Yamkino","sw":"yamkino","translation":["[地名] 亚姆基诺 ( 俄 )"],"phonetic":""}
 {"word":"YAML","sw":"yaml","translation":["[网络] 另一个多栏布局(Yet Another Multicolumn Layout)；格式"],"phonetic":""}
@@ -925,7 +734,6 @@
 {"word":"yamo","sw":"yamo","translation":["[网络] 妈妈；蕃薯藤；雅慕"],"phonetic":""}
 {"word":"yamoda","sw":"yamoda","translation":["[网络] 山药"],"phonetic":""}
 {"word":"yamogenin","sw":"yamogenin","translation":["亚莫皂甙元"],"phonetic":""}
-{"word":"Yamong-ni","sw":"yamongni","translation":["野牧里"],"phonetic":""}
 {"word":"yamor","sw":"yamor","translation":["[网络] 张雅木；亚木"],"phonetic":""}
 {"word":"Yamoto","sw":"yamoto","translation":["[地名] 矢本 ( 日 )"],"phonetic":""}
 {"word":"Yamoussoukro","sw":"yamoussoukro","translation":["亚穆苏克罗[科特迪瓦新都]"],"phonetic":",jɑ:mu:'su:krәj"}
@@ -966,15 +774,12 @@
 {"word":"yamunas","sw":"yamunas","translation":["[网络] 亚穆纳河；那河；阎牟那河","(yamuna 的复数)"],"phonetic":""}
 {"word":"yamuns","sw":"yamuns","translation":["n. 官衙；衙门"],"phonetic":"'ja:mən"}
 {"word":"yan","sw":"yan","translation":["n. 雁鸣声；泰国龙脑香"],"phonetic":"jæn"}
-{"word":"yan-a-bumfit","sw":"yanabumfit","translation":[],"phonetic":""}
-{"word":"yan-a-dick","sw":"yanadick","translation":["[网络] an。"],"phonetic":""}
 {"word":"yana","sw":"yana","translation":["n. 雅娜（女子名）；雅拿河（在苏联亚洲境内, 北流入Laptev海）"],"phonetic":"'jænә"}
 {"word":"Yanac","sw":"yanac","translation":["[地名] 亚纳克 ( 澳、秘 )"],"phonetic":""}
 {"word":"yanacocha","sw":"yanacocha","translation":["[地名] [秘鲁、厄瓜多尔] 亚纳科查"],"phonetic":""}
 {"word":"yanaconitine","sw":"yanaconitine","translation":["滇乌碱"],"phonetic":""}
 {"word":"Yanadani","sw":"yanadani","translation":["[地名] 柳谷 ( 日 )"],"phonetic":""}
 {"word":"Yanagawa","sw":"yanagawa","translation":["[地名] 梁川〈福岛县〉 ( 日 )"],"phonetic":""}
-{"word":"Yanagawa-shi","sw":"yanagawashi","translation":["柳川市"],"phonetic":""}
 {"word":"yanagi","sw":"yanagi","translation":["[网络] 柳；杨；柳刃研磨技巧"],"phonetic":""}
 {"word":"yanagida","sw":"yanagida","translation":["[地名] [日本] 柳田"],"phonetic":""}
 {"word":"yanagisawa","sw":"yanagisawa","translation":["[网络] 柳泽；柳泽萨克斯；雅娜几萨瓦"],"phonetic":""}
@@ -1002,7 +807,6 @@
 {"word":"Yanayacu","sw":"yanayacu","translation":["[地名] 亚纳亚库 ( 秘、厄 )"],"phonetic":""}
 {"word":"yanayev","sw":"yanayev","translation":["[网络] 苏联副总统亚纳耶夫"],"phonetic":""}
 {"word":"yanbaru","sw":"yanbaru","translation":["[网络] 山原森林"],"phonetic":""}
-{"word":"Yanbetsu-gawa","sw":"yanbetsugawa","translation":["[地名] 止别川 ( 日 )"],"phonetic":""}
 {"word":"yanbu","sw":"yanbu","translation":["[网络] 盐步；红海城市扬布；沙特阿拉伯"],"phonetic":""}
 {"word":"yanbus","sw":"yanbus","translation":["[网络] 盐步；红海城市扬布；沙特阿拉伯","(yanbu 的复数)"],"phonetic":""}
 {"word":"yanbusuo","sw":"yanbusuo","translation":["延胡索"],"phonetic":""}
@@ -1046,20 +850,6 @@
 {"word":"yanez","sw":"yanez","translation":["[网络] 亚涅斯"],"phonetic":""}
 {"word":"Yanfolila","sw":"yanfolila","translation":["[地名] 扬福利拉 ( 马里 )"],"phonetic":""}
 {"word":"yang","sw":"yang","translation":["n. 杨（姓氏）"],"phonetic":"jɑ:ŋ,jæŋ"}
-{"word":"yang-chou","sw":"yangchou","translation":["[网络] 杨州"],"phonetic":""}
-{"word":"Yang-do","sw":"yangdo","translation":["洋岛"],"phonetic":""}
-{"word":"yang-edema","sw":"yangedema","translation":["阳水"],"phonetic":""}
-{"word":"yang-exhaustion","sw":"yangexhaustion","translation":["亡阳"],"phonetic":""}
-{"word":"yang-hidrosis","sw":"yanghidrosis","translation":["阳汗"],"phonetic":""}
-{"word":"yang-kang","sw":"yangkang","translation":["[网络] 阳纲"],"phonetic":""}
-{"word":"yang-kangs","sw":"yangkangs","translation":["[网络] 阳纲","(yang-kang 的复数)"],"phonetic":""}
-{"word":"yang-ko","sw":"yangko","translation":["[网络] 秧歌"],"phonetic":""}
-{"word":"yang-mills","sw":"yangmills","translation":["[网络] 米尔斯；规范场；米尔斯理论"],"phonetic":""}
-{"word":"yang-organ","sw":"yangorgan","translation":["牡脏"],"phonetic":""}
-{"word":"yang-pathogen","sw":"yangpathogen","translation":["阳邪"],"phonetic":""}
-{"word":"Yang-shao","sw":"yangshao","translation":["[网络] 邵阳；邵杨；新十字街头"],"phonetic":""}
-{"word":"Yang-Yang","sw":"yangyang","translation":["[地名] 扬扬 ( 塞内 )"],"phonetic":""}
-{"word":"yang-yin","sw":"yangyin","translation":["n., adj. = yinyang"],"phonetic":"'jɑ:ŋ'jin; 'jæŋ-"}
 {"word":"yanga","sw":"yanga","translation":["[地名] [刚果共和国、刚果民主共和国、喀麦隆、乍得] 扬加"],"phonetic":""}
 {"word":"Yangalia","sw":"yangalia","translation":["[地名] 扬加利亚 ( 中非 )"],"phonetic":""}
 {"word":"Yangambi","sw":"yangambi","translation":["[地名] 扬甘比 ( 刚(金) )"],"phonetic":""}
@@ -1080,23 +870,16 @@
 {"word":"yangchunensis","sw":"yangchunensis","translation":["[网络] 阳春冬青；阳春鼠刺"],"phonetic":""}
 {"word":"Yangdi","sw":"yangdi","translation":["[网络] 隋炀帝"],"phonetic":""}
 {"word":"Yangdo","sw":"yangdo","translation":["[地名] 洋岛 ( 朝 )"],"phonetic":""}
-{"word":"Yangdogwon-ni","sw":"yangdogwonni","translation":["阳德院里"],"phonetic":""}
 {"word":"Yangdok","sw":"yangdok","translation":["阳德"],"phonetic":""}
 {"word":"Yangdong","sw":"yangdong","translation":["[地名] 杨东 ( 韩 )"],"phonetic":""}
 {"word":"yanged","sw":"yanged","translation":["n. 杨（姓氏）"],"phonetic":"jæŋ"}
 {"word":"Yangfu","sw":"yangfu","translation":["阳辅"],"phonetic":""}
-{"word":"Yanggak-san","sw":"yanggaksan","translation":["[地名] 羊角山 ( 朝 )"],"phonetic":""}
 {"word":"Yanggakto","sw":"yanggakto","translation":["[地名] 羊角岛 ( 朝 )"],"phonetic":""}
 {"word":"Yanggang","sw":"yanggang","translation":["[地名] 两江 ( 朝 )"],"phonetic":""}
-{"word":"Yanggang-do","sw":"yanggangdo","translation":["[地名] 两江道 ( 朝 )"],"phonetic":""}
-{"word":"Yanggang-dong","sw":"yanggangdong","translation":["阳江洞"],"phonetic":""}
 {"word":"Yanggok","sw":"yanggok","translation":["[地名] 阳谷 ( 朝 )"],"phonetic":""}
-{"word":"Yanggok-ri","sw":"yanggokri","translation":["[地名] 阳谷里 ( 朝 )"],"phonetic":""}
 {"word":"yanggona","sw":"yanggona","translation":["[网络] 扬戈纳"],"phonetic":""}
 {"word":"yanggonas","sw":"yanggonas","translation":["[网络] 杨加哥"],"phonetic":""}
 {"word":"Yanggu","sw":"yanggu","translation":["[地名] 杨口 ( 韩 )"],"phonetic":""}
-{"word":"Yanggu-gun","sw":"yanggugun","translation":["[地名] 杨口郡 ( 韩 )"],"phonetic":""}
-{"word":"Yanghwa-ri","sw":"yanghwari","translation":["[地名] 良花里 ( 朝 )"],"phonetic":""}
 {"word":"Yanghwaman","sw":"yanghwaman","translation":["[地名] 良花湾 ( 朝 )"],"phonetic":""}
 {"word":"yangi","sw":"yangi","translation":["[网络] 杨氏副盲鳗；杨氏深海电鱝；杨氏六鳃魟"],"phonetic":""}
 {"word":"yanging","sw":"yanging","translation":["n. 杨（姓氏）"],"phonetic":"jæŋ"}
@@ -1123,13 +906,11 @@
 {"word":"yangons","sw":"yangons","translation":["Yangon","['jɑ:n'ɡɔn]","仰光(缅甸首都)"],"phonetic":"'jɑ:n'ɡɔn"}
 {"word":"yangoru","sw":"yangoru","translation":["[网络] 阳戈"],"phonetic":""}
 {"word":"Yangory","sw":"yangory","translation":["[地名] 扬戈雷 ( 俄 )"],"phonetic":""}
-{"word":"Yangou-Gala","sw":"yangougala","translation":["[地名] 扬古加拉 ( 中非 )"],"phonetic":""}
 {"word":"Yangoudongo","sw":"yangoudongo","translation":["[地名] 扬古东戈 ( 中非 )"],"phonetic":""}
 {"word":"yangouma","sw":"yangouma","translation":["[网络] 阳乌马"],"phonetic":""}
 {"word":"yangpan","sw":"yangpan","translation":["[网络] 涔堟潵镄；喷涓；杩欐槸浠"],"phonetic":""}
 {"word":"yangpans","sw":"yangpans","translation":["[网络] 阳"],"phonetic":""}
 {"word":"Yangpyeong","sw":"yangpyeong","translation":["[地名] 杨平 ( 韩 )"],"phonetic":""}
-{"word":"Yangpyeong-gun","sw":"yangpyeonggun","translation":["[地名] 杨平郡 ( 韩 )"],"phonetic":""}
 {"word":"Yangpyong","sw":"yangpyong","translation":["杨平, 杨坪"],"phonetic":""}
 {"word":"yangqi","sw":"yangqi","translation":["阳气"],"phonetic":""}
 {"word":"yangqin","sw":"yangqin","translation":["[网络] 杨杨；人；葫芦丝"],"phonetic":""}
@@ -1138,8 +919,6 @@
 {"word":"yangquan","sw":"yangquan","translation":["n.阳泉"],"phonetic":""}
 {"word":"yangs","sw":"yangs","translation":["(yang 的第三人称 -s形式) n. 杨（姓氏）"],"phonetic":""}
 {"word":"Yangsan","sw":"yangsan","translation":["[地名] 梁山 ( 韩 )"],"phonetic":""}
-{"word":"Yangsan-gun","sw":"yangsangun","translation":["[地名] 梁山郡 ( 韩 )"],"phonetic":""}
-{"word":"Yangsan-ri","sw":"yangsanri","translation":["[地名] 阳山里 ( 朝 )"],"phonetic":""}
 {"word":"Yangseong","sw":"yangseong","translation":["洋城"],"phonetic":""}
 {"word":"Yangshao","sw":"yangshao","translation":["仰韶"],"phonetic":""}
 {"word":"Yangsin","sw":"yangsin","translation":["杨神"],"phonetic":""}
@@ -1151,7 +930,6 @@
 {"word":"Yangtseella","sw":"yangtseella","translation":["杨子贝属"],"phonetic":""}
 {"word":"yangtses","sw":"yangtses","translation":["n. 长江；扬子江"],"phonetic":""}
 {"word":"yangtze","sw":"yangtze","translation":["n. 长江, 扬子江"],"phonetic":"'jæŋtsi"}
-{"word":"Yangtze-kiang","sw":"yangtzekiang","translation":["[网络] 长江"],"phonetic":""}
 {"word":"Yangtzean","sw":"yangtzean","translation":["[网络] 长江"],"phonetic":""}
 {"word":"Yangtzeella","sw":"yangtzeella","translation":["杨子贝, 杨子贝属〔腕足类，O1〕, 扬子腕"],"phonetic":""}
 {"word":"yangtzes","sw":"yangtzes","translation":["n. 长江，扬子江"],"phonetic":"ˈjaŋtsi"}
@@ -1160,7 +938,6 @@
 {"word":"Yangulovo","sw":"yangulovo","translation":["[地名] 扬古洛沃 ( 俄 )"],"phonetic":""}
 {"word":"Yangxi","sw":"yangxi","translation":["阳溪"],"phonetic":""}
 {"word":"Yangyang","sw":"yangyang","translation":["[地名] 襄阳 ( 韩 )"],"phonetic":""}
-{"word":"Yangyang-gun","sw":"yangyanggun","translation":["[地名] 襄阳郡 ( 韩 )"],"phonetic":""}
 {"word":"Yangzhong","sw":"yangzhong","translation":["揚中（中国地名）"],"phonetic":""}
 {"word":"Yangzhou","sw":"yangzhou","translation":["扬州(中国江苏省一城市)"],"phonetic":"'jɑ:ŋ'dʒәu"}
 {"word":"yangzi","sw":"yangzi","translation":["[网络] 扬子仪器；中国长江；叶紫"],"phonetic":""}
@@ -1189,8 +966,6 @@
 {"word":"yanke","sw":"yanke","translation":["[网络] 近视眼；骨科；为中华之崛起而读书有感"],"phonetic":""}
 {"word":"yanked","sw":"yanked","translation":["v. 猛拉（某物）( yank的过去式和过去分词 ); 拿某人开涮, 跟某人开玩笑"],"phonetic":"jæŋkt"}
 {"word":"Yankee","sw":"yankee","translation":["n. (美国的)新英格兰人, (美国)北方诸州的人, 美国佬"],"phonetic":"'jæŋki"}
-{"word":"Yankee-Doodle","sw":"yankeedoodle","translation":["扬基歌（美国独立战争时流行的一首歌曲）"],"phonetic":""}
-{"word":"yankee-doodles","sw":"yankeedoodles","translation":["[网络] 洋基督；扬基人"],"phonetic":""}
 {"word":"Yankeed","sw":"yankeed","translation":["n.","[美国英语]","(美国)新英格兰人","美国北部各州人，美国北方人","(美国南北战争中的)联邦军士兵，北军士兵","美国佬，美国人","adj.","(似)美国佬的人，美国人的","Yankee2","['jæŋki]","(无线电联络使用的)字母y的代称"],"phonetic":"'jæŋki"}
 {"word":"Yankeedom","sw":"yankeedom","translation":["n. 美国, 美国佬, 美国人, 扬基国"],"phonetic":"'jæŋkidәm"}
 {"word":"YankeeDoodle","sw":"yankeedoodle","translation":["美国独立战争时的一首爱国歌曲"],"phonetic":""}
@@ -1263,7 +1038,6 @@
 {"word":"Yanranay","sw":"yanranay","translation":["[地名] 扬拉奈 ( 俄 )"],"phonetic":""}
 {"word":"Yanrey","sw":"yanrey","translation":["[地名] 扬里 ( 澳 )"],"phonetic":""}
 {"word":"yans","sw":"yans","translation":["[网络] 谍；强迫症患者；迭"],"phonetic":""}
-{"word":"yans-mclaughlin","sw":"yansmclaughlin","translation":["[网络] 严思·迈克拉夫林"],"phonetic":""}
 {"word":"Yanshanian","sw":"yanshanian","translation":["燕山期"],"phonetic":""}
 {"word":"yansi","sw":"yansi","translation":["[网络] 妍姿；小雅子"],"phonetic":""}
 {"word":"Yanskiy","sw":"yanskiy","translation":["[地名] 扬斯基 ( 俄 )"],"phonetic":""}
@@ -1318,7 +1092,6 @@
 {"word":"Yaowang","sw":"yaowang","translation":["药王"],"phonetic":""}
 {"word":"Yaoyangguan","sw":"yaoyangguan","translation":["腰阳关"],"phonetic":""}
 {"word":"Yaoyangkuan","sw":"yaoyangkuan","translation":["腰阳关"],"phonetic":""}
-{"word":"Yaozhou-type","sw":"yaozhoutype","translation":["耀州窑系"],"phonetic":""}
 {"word":"Yaozhu","sw":"yaozhu","translation":["腰柱"],"phonetic":""}
 {"word":"yap","sw":"yap","translation":["vi. 狂吠, 瞎扯, 责骂","n. 狂吠, 狂吠声, 废话, 乖戾的人"],"phonetic":"jæp"}
 {"word":"yapa","sw":"yapa","translation":["[网络] 清莱省亚帕村；Youth Action Policy Association；少年班"],"phonetic":""}
@@ -1373,8 +1146,6 @@
 {"word":"yaquina","sw":"yaquina","translation":["[网络] 亚基那"],"phonetic":""}
 {"word":"yaquis","sw":"yaquis","translation":["[网络] 雅"],"phonetic":""}
 {"word":"yar","sw":"yar","translation":["n. 纱线","n. (Yar)人名；(土、阿富、巴基、吉尔、土库、尼日利)亚尔；(柬)亚"],"phonetic":"jɑ:, jεə"}
-{"word":"yar-nut","sw":"yarnut","translation":["[网络] 坚果"],"phonetic":""}
-{"word":"Yar-Sale","sw":"yarsale","translation":["[地名] 亚尔萨列 ( 俄 )"],"phonetic":""}
 {"word":"yara","sw":"yara","translation":["n. (Yara)人名；(日)屋良(姓)"],"phonetic":""}
 {"word":"Yaracuy","sw":"yaracuy","translation":["[网络] 亚拉奎州"],"phonetic":""}
 {"word":"yarage","sw":"yarage","translation":["n. 可操纵性,操纵灵活性"],"phonetic":"'jæridʒ"}
@@ -1401,18 +1172,6 @@
 {"word":"yarbs","sw":"yarbs","translation":[],"phonetic":""}
 {"word":"yarco","sw":"yarco","translation":["[网络] 亚尔科"],"phonetic":""}
 {"word":"yard","sw":"yard","translation":["n. 码, 庭院, 工场","[化] 堆置场"],"phonetic":"jɑːd|jɑːrd"}
-{"word":"yard-arm","sw":"yardarm","translation":["桁端"],"phonetic":"'jɑ:d'ɑ:m"}
-{"word":"yard-arms","sw":"yardarms","translation":["(yard-arm 的复数)  桁端"],"phonetic":""}
-{"word":"yard-craft","sw":"yardcraft","translation":["[网络] 船厂工作艇"],"phonetic":""}
-{"word":"yard-crane","sw":"yardcrane","translation":["移动吊车"],"phonetic":"'jɑ:dkr'eɪn"}
-{"word":"yard-goods","sw":"yardgoods","translation":["n. 按码出售的织物"],"phonetic":""}
-{"word":"yard-long","sw":"yardlong","translation":["[网络] 码长"],"phonetic":""}
-{"word":"yard-man","sw":"yardman","translation":["n. 调度员"],"phonetic":""}
-{"word":"yard-measure","sw":"yardmeasure","translation":["na. 码尺","[网络] 尺码"],"phonetic":""}
-{"word":"yard-of-ale","sw":"yardofale","translation":["n. 二至三品脱的啤酒"],"phonetic":""}
-{"word":"yard-rope","sw":"yardrope","translation":["na. 【船】(帆)桁索","[网络] 吊桁索；帆桁索"],"phonetic":""}
-{"word":"yard-sale","sw":"yardsale","translation":["n. (在庭院举行的)旧货出售","[网络] 庭院大甩卖"],"phonetic":""}
-{"word":"yard-wand","sw":"yardwand","translation":["na. 码尺；尺度"],"phonetic":""}
 {"word":"yarda","sw":"yarda","translation":["[网络] 亚尔达"],"phonetic":""}
 {"word":"yardage","sw":"yardage","translation":["n. 车站旁牲畜栏的使用, 牲畜栏使用费","[法] 站内栏舍的使用权, 使用站内栏舍的费用"],"phonetic":"'jɑ:didʒ"}
 {"word":"yardages","sw":"yardages","translation":["(yardage 的复数) n. 车站旁牲畜栏的使用, 牲畜栏使用费","[法] 站内栏舍的使用权, 使用站内栏舍的费用"],"phonetic":""}
@@ -1492,8 +1251,6 @@
 {"word":"Yargut","sw":"yargut","translation":["[地名] 亚尔古特 ( 苏丹 )"],"phonetic":""}
 {"word":"Yarhisar","sw":"yarhisar","translation":["[地名] 亚尔希萨尔 ( 土 )"],"phonetic":""}
 {"word":"yari","sw":"yari","translation":["[网络] 三叉长枪；亚里；长矛"],"phonetic":""}
-{"word":"yari-yari","sw":"yariyari","translation":["[网络] 亚里亚里"],"phonetic":""}
-{"word":"Yariga-take","sw":"yarigatake","translation":["[地名] 枪岳〈长野县和岐阜县交界处〉 ( 日 )"],"phonetic":""}
 {"word":"Yariguaya","sw":"yariguaya","translation":["[地名] 亚里瓜亚 ( 玻 )"],"phonetic":""}
 {"word":"Yarikou","sw":"yarikou","translation":["[地名] 亚里库 ( 贝宁 )"],"phonetic":""}
 {"word":"Yarim","sw":"yarim","translation":["雅里母"],"phonetic":""}
@@ -1557,18 +1314,6 @@
 {"word":"yarmulkes","sw":"yarmulkes","translation":["(yarmulke 的复数) n.(犹太男子在祷告,学习,吃饭等时戴的)圆顶小帽"],"phonetic":""}
 {"word":"yarmuth","sw":"yarmuth","translation":["[网络] 亚慕斯"],"phonetic":""}
 {"word":"yarn","sw":"yarn","translation":["n. 纱, 纱线, 故事","[化] 纱"],"phonetic":"jɑ:n"}
-{"word":"yarn-beam","sw":"yarnbeam","translation":["n. 经轴"],"phonetic":"'jɑ:nbi:m"}
-{"word":"yarn-chopper","sw":"yarnchopper","translation":["[网络] 纱线切碎机"],"phonetic":""}
-{"word":"yarn-dye","sw":"yarndye","translation":["vt. 在编织前染"],"phonetic":"'jɑ:ndai"}
-{"word":"yarn-dyed","sw":"yarndyed","translation":["a. 染织(纱)的"],"phonetic":"'jɑ:ndaid"}
-{"word":"yarn-dyeds","sw":"yarndyeds","translation":["yarn-dyed","['jɑ:ndaid]","adj.","【纺织业】(纺织前)原纱染色的"],"phonetic":"'jɑ:ndaid"}
-{"word":"yarn-liquoring","sw":"yarnliquoring","translation":["手工染纱；手工浆纱"],"phonetic":""}
-{"word":"yarn-roll","sw":"yarnroll","translation":["n. 卷经线的木轴"],"phonetic":""}
-{"word":"yarn-sleeve","sw":"yarnsleeve","translation":["纱织套管"],"phonetic":""}
-{"word":"yarn-spinner","sw":"yarnspinner","translation":["[网络] 纱线纺纱机"],"phonetic":""}
-{"word":"yarn-spinning","sw":"yarnspinning","translation":["[网络] 纱线纺纱"],"phonetic":""}
-{"word":"yarn-spinnings","sw":"yarnspinnings","translation":["[网络] 纱线纺纱","(yarn-spinning 的复数)"],"phonetic":""}
-{"word":"yarn-winder","sw":"yarnwinder","translation":["[网络] 纱线卷绕机"],"phonetic":""}
 {"word":"yarnal","sw":"yarnal","translation":["[网络] 纱线"],"phonetic":""}
 {"word":"yarnall","sw":"yarnall","translation":["[网络] 亚纳尔；雅诺号；雅内尔号"],"phonetic":""}
 {"word":"yarnbombing","sw":"yarnbombing","translation":["[网络] 面纱轰炸；迷人的毛线炸弹；毛线轰炸运动"],"phonetic":""}
@@ -1682,7 +1427,6 @@
 {"word":"yarwyndel","sw":"yarwyndel","translation":["[网络] 亚伦德尔"],"phonetic":""}
 {"word":"yary","sw":"yary","translation":["[地名] [俄罗斯] 亚雷"],"phonetic":""}
 {"word":"yaryan","sw":"yaryan","translation":["[纸] 亚里安蒸发法"],"phonetic":""}
-{"word":"Yaryk-Aul","sw":"yarykaul","translation":["[地名] 亚雷克奥尔 ( 俄 )"],"phonetic":""}
 {"word":"yas","sw":"yas","translation":["abbr. yaw-attitude sensor 偏航姿态传感器"],"phonetic":"'jəz"}
 {"word":"Yasa","sw":"yasa","translation":["[地名] 亚萨 ( 刚(金)、委 )"],"phonetic":""}
 {"word":"Yasachnaya","sw":"yasachnaya","translation":["[地名] 亚萨奇纳亚河 ( 俄 )"],"phonetic":""}
@@ -1727,7 +1471,6 @@
 {"word":"yashins","sw":"yashins","translation":["[网络] 雅辛；耶辛；卡门","(yashin 的复数)"],"phonetic":""}
 {"word":"Yashio","sw":"yashio","translation":["[地名] 八潮 ( 日 )"],"phonetic":""}
 {"word":"Yashiro","sw":"yashiro","translation":["[地名] 八代〈山口县〉 ( 日 )"],"phonetic":""}
-{"word":"Yashiro-jima","sw":"yashirojima","translation":["[地名] 屋代岛 ( 日 )"],"phonetic":""}
 {"word":"yashkin","sw":"yashkin","translation":["亚什金"],"phonetic":""}
 {"word":"Yashkino","sw":"yashkino","translation":["[地名] 亚什基诺 ( 俄 )"],"phonetic":""}
 {"word":"yashkins","sw":"yashkins","translation":["亚什金","(yashkin 的复数)"],"phonetic":""}
@@ -1794,7 +1537,6 @@
 {"word":"yastrzemskis","sw":"yastrzemskis","translation":["[人名] 亚斯切姆斯基","(yastrzemski 的复数)"],"phonetic":""}
 {"word":"yastrzhembsky","sw":"yastrzhembsky","translation":["[网络] 亚斯特任布斯基"],"phonetic":""}
 {"word":"yasu","sw":"yasu","translation":["[网络] 野兽；泰；吉田安英"],"phonetic":""}
-{"word":"Yasu-gawa","sw":"yasugawa","translation":["[地名] 野洲川 ( 日 )"],"phonetic":""}
 {"word":"yasuda","sw":"yasuda","translation":["n. (Yasuda)人名；(意)亚苏达"],"phonetic":""}
 {"word":"yasudas","sw":"yasudas","translation":["n. (Yasuda)人名；(意)亚苏达","(yasuda 的复数)"],"phonetic":""}
 {"word":"Yasugi","sw":"yasugi","translation":["[地名] 安来 ( 日 )"],"phonetic":""}
@@ -1806,7 +1548,6 @@
 {"word":"yasuko","sw":"yasuko","translation":["n. (Yasuko)人名；(日)安古(姓)"],"phonetic":""}
 {"word":"yasukuni","sw":"yasukuni","translation":["[网络] 靖国神社；靖国神社的名字；安藏"],"phonetic":""}
 {"word":"yasukunis","sw":"yasukunis","translation":["[网络] 靖国神社；靖国神社的名字；安藏","(yasukuni 的复数)"],"phonetic":""}
-{"word":"Yasuman-dake","sw":"yasumandake","translation":["[地名] 安满岳 ( 日 )"],"phonetic":""}
 {"word":"yasumasa","sw":"yasumasa","translation":["[网络] 康政"],"phonetic":""}
 {"word":"yasunari","sw":"yasunari","translation":["[网络] 安成"],"phonetic":""}
 {"word":"yasuni","sw":"yasuni","translation":["[网络] 苏尼；苏尼国家公园"],"phonetic":""}
@@ -1825,8 +1566,6 @@
 {"word":"yasuyuki","sw":"yasuyuki","translation":["[网络] 赤羽；靖行；弥寿幸"],"phonetic":""}
 {"word":"Yasuzuka","sw":"yasuzuka","translation":["[地名] 安冢 ( 日 )"],"phonetic":""}
 {"word":"yat","sw":"yat","translation":["n. 雅特（品牌名）"],"phonetic":""}
-{"word":"yat-sen","sw":"yatsen","translation":["[网络] 逸仙；中山"],"phonetic":""}
-{"word":"yat-sens","sw":"yatsens","translation":["[网络] 逸仙；中山","(yat-sen 的复数)"],"phonetic":""}
 {"word":"yata","sw":"yata","translation":["[地名] [玻利维亚] 亚塔; [地名] [中非共和国] 亚塔河"],"phonetic":""}
 {"word":"Yatabella","sw":"yatabella","translation":["矢部田藻属(红)"],"phonetic":""}
 {"word":"yatagan","sw":"yatagan","translation":["n. 穆斯林弯刀"],"phonetic":"ˈjætəɡən"}
@@ -1835,7 +1574,6 @@
 {"word":"yataghans","sw":"yataghans","translation":["n. (土耳其人的)无锷弯刀","[网络] 亚特坎"],"phonetic":""}
 {"word":"yatai","sw":"yatai","translation":["[网络] 屋台；山车；溢泰"],"phonetic":""}
 {"word":"Yatakala","sw":"yatakala","translation":["[地名] 亚塔卡拉 ( 尼日尔 )"],"phonetic":""}
-{"word":"Yatake-yama","sw":"yatakeyama","translation":["[地名] 矢岳山 ( 日 )"],"phonetic":""}
 {"word":"yatalite","sw":"yatalite","translation":["阳起伟晶岩"],"phonetic":"'jætә,lait"}
 {"word":"yatama","sw":"yatama","translation":["[网络] 山药"],"phonetic":""}
 {"word":"yatamas","sw":"yatamas","translation":["[网络] 山药","(yatama 的复数)"],"phonetic":""}
@@ -1851,7 +1589,6 @@
 {"word":"yatars","sw":"yatars","translation":["[网络] 亚塔尔","(yatar 的复数)"],"phonetic":""}
 {"word":"Yatasto","sw":"yatasto","translation":["[地名] 亚塔斯托 ( 阿根 )"],"phonetic":""}
 {"word":"yatata","sw":"yatata","translation":["n. <美俚>空洞无物的交谈"],"phonetic":"'jɑ:tәtә,'jæ-"}
-{"word":"Yatate-yama","sw":"yatateyama","translation":["[地名] 矢立山 ( 日 )"],"phonetic":""}
 {"word":"Yatati","sw":"yatati","translation":["[地名] 亚泰蒂 ( 玻 )"],"phonetic":""}
 {"word":"Yatawa","sw":"yatawa","translation":["[地名] 亚塔瓦 ( 尼日利 )"],"phonetic":""}
 {"word":"Yatay","sw":"yatay","translation":["[地名] 亚泰 ( 巴拉 )"],"phonetic":""}
@@ -1891,13 +1628,10 @@
 {"word":"Yatsenyuk","sw":"yatsenyuk","translation":["亚采纽克"],"phonetic":""}
 {"word":"yatsko","sw":"yatsko","translation":["[网络] 亚茨科"],"phonetic":""}
 {"word":"yatsu","sw":"yatsu","translation":["[网络] 谷津；懒汉睡夫"],"phonetic":""}
-{"word":"Yatsuga-take","sw":"yatsugatake","translation":["[地名] 八岳 ( 日 )"],"phonetic":""}
 {"word":"Yatsuka","sw":"yatsuka","translation":["[地名] 八束 ( 日 )"],"phonetic":""}
 {"word":"Yatsuo","sw":"yatsuo","translation":["[地名] 八尾 ( 日 )"],"phonetic":""}
 {"word":"yatsus","sw":"yatsus","translation":["[网络] 谷津；懒汉睡夫","(yatsu 的复数)"],"phonetic":""}
 {"word":"Yatsushiro","sw":"yatsushiro","translation":["[地名] 八代 ( 日 )"],"phonetic":""}
-{"word":"Yatsushiro-kai","sw":"yatsushirokai","translation":["[地名] 八代海 ( 日 )"],"phonetic":""}
-{"word":"Yatsushiro-wan","sw":"yatsushirowan","translation":["八代湾"],"phonetic":""}
 {"word":"yatt","sw":"yatt","translation":["[人名] 耶特"],"phonetic":""}
 {"word":"Yatta","sw":"yatta","translation":["[网络] 希伯伦地区亚塔；淤他；没有被发现"],"phonetic":""}
 {"word":"yatte","sw":"yatte","translation":["[网络] 小呆；弦月"],"phonetic":""}
@@ -1913,7 +1647,6 @@
 {"word":"Yatvingian","sw":"yatvingian","translation":[],"phonetic":""}
 {"word":"yatzy","sw":"yatzy","translation":["[网络] 少年机遇；骰子"],"phonetic":""}
 {"word":"yau","sw":"yau","translation":["n. 瑶族；邱（中文姓氏）"],"phonetic":""}
-{"word":"yau-man","sw":"yauman","translation":["[网络] 陈耀文；耀文叔；姚曼"],"phonetic":""}
 {"word":"Yauca","sw":"yauca","translation":["[地名] 尧卡 ( 秘 )"],"phonetic":""}
 {"word":"yauch","sw":"yauch","translation":["[网络] 约克"],"phonetic":""}
 {"word":"yauchts","sw":"yauchts","translation":["[网络] 游艇"],"phonetic":""}
@@ -1982,14 +1715,6 @@
 {"word":"Yavuzkemal","sw":"yavuzkemal","translation":["[地名] 亚武兹凯末尔 ( 土 )"],"phonetic":""}
 {"word":"Yavzora","sw":"yavzora","translation":["[地名] 亚夫佐拉 ( 俄 )"],"phonetic":""}
 {"word":"yaw","sw":"yaw","translation":["vi. (船)偏荡, 偏航","n. 偏航, 偏荡, 摇首"],"phonetic":"jɒ:"}
-{"word":"yaw-haw","sw":"yawhaw","translation":["[网络] 偏航鹰"],"phonetic":""}
-{"word":"yaw-heel","sw":"yawheel","translation":["偏航横倾"],"phonetic":"'jɔ:h'i:l"}
-{"word":"yaw-meter","sw":"yawmeter","translation":["n. 偏航计, 偏流计"],"phonetic":""}
-{"word":"yaw-position","sw":"yawposition","translation":["偏航姿态"],"phonetic":""}
-{"word":"yaw-rate","sw":"yawrate","translation":["un. 偏航角速度；偏航速率","[网络] 横移率"],"phonetic":""}
-{"word":"yaw-root","sw":"yawroot","translation":["[医] 草乌臼(大戟科)"],"phonetic":""}
-{"word":"yaw-weed","sw":"yawweed","translation":["[网络] 偏航杂草"],"phonetic":""}
-{"word":"yaw-yaw","sw":"yawyaw","translation":["[网络] 偏航偏航"],"phonetic":""}
 {"word":"yawar","sw":"yawar","translation":["[网络] 亚瓦尔"],"phonetic":""}
 {"word":"Yawara","sw":"yawara","translation":["[地名] 谷和原 ( 日 )"],"phonetic":""}
 {"word":"Yawata","sw":"yawata","translation":["八幡(原日本九州岛北岸港市,现为北九州市)"],"phonetic":"'jɑ:wɑ:tɑ:"}
@@ -2028,7 +1753,6 @@
 {"word":"yawnest","sw":"yawnest","translation":["vi.","打呵欠：","She yawned","during his lecture.","她在他的课上不停地打呵欠。","张开；裂开：","a yawning chasm","裂着大口的陷窟","vt.","打着呵欠说：","He yawned a doubtful relay.","他打着呵欠作了模棱两可的回答。","打呵欠致使：","He yawned his jaws out of joint.","他打呵欠打得下巴关节脱了臼。","n.","呵欠","裂开；豁口；裂口","[亦作 yawner]令人讨厌的人(或事)，乏味的东西","短语:","make someone yawn","令人厌倦，使人想睡觉；使某人想打呵欠"],"phonetic":"jɔːn"}
 {"word":"yawneth","sw":"yawneth","translation":["[网络] 打哈欠"],"phonetic":""}
 {"word":"yawnful","sw":"yawnful","translation":["a. 使人无聊得打呵欠的"],"phonetic":"'jɔ:nfjl"}
-{"word":"Yawng-hwe","sw":"yawnghwe","translation":["[地名] 良瑞 ( 缅 )"],"phonetic":""}
 {"word":"yawnier","sw":"yawnier","translation":["adj. 打呵欠的；令人打呵欠的 (yawny的变形)"],"phonetic":""}
 {"word":"yawniest","sw":"yawniest","translation":["adj. 打呵欠的；令人打呵欠的 (yawny的变形)"],"phonetic":""}
 {"word":"yawnily","sw":"yawnily","translation":["[网络] 呵呵"],"phonetic":""}
@@ -2278,16 +2002,7 @@
 {"word":"ydul","sw":"ydul","translation":["[网络] 璇氭汲；璇翠笁阆揿洓"],"phonetic":""}
 {"word":"ydy","sw":"ydy","translation":["abbr. 伊甸园论坛（Yi Dian Yuan）"],"phonetic":""}
 {"word":"ye","sw":"ye","translation":["abbr. 亚萨卡, 乒乓底板（Yasaka Extra）；酵母抽提物（Yeast Extracts）"],"phonetic":"ji:"}
-{"word":"ye-es","sw":"yees","translation":["n. 仪；绮（女子名）"],"phonetic":""}
-{"word":"ye-ho","sw":"yeho","translation":["[网络] 你啊"],"phonetic":""}
-{"word":"Ye-U","sw":"yeu","translation":["[地名] 耶乌 ( 缅 )"],"phonetic":""}
-{"word":"ye-ye","sw":"yeye","translation":["[网络] 也门；在那人潮人海中你也在沉默；疟"],"phonetic":""}
 {"word":"yea","sw":"yea","translation":["n. 肯定, 赞成, 赞成票","[法] 赞成票, 投赞成票者, 赞成者"],"phonetic":"jei"}
-{"word":"yea-and-nay","sw":"yeaandnay","translation":["优柔寡断；犹豫不决"],"phonetic":""}
-{"word":"yea-forsooth","sw":"yeaforsooth","translation":["[网络] 是的"],"phonetic":""}
-{"word":"yea-sayer","sw":"yeasayer","translation":["n. 持肯定态度的人, (对人生)抱积极态度者, 唯唯诺诺者"],"phonetic":""}
-{"word":"yea-sayers","sw":"yeasayers","translation":["[网络] 诺诺之人"],"phonetic":""}
-{"word":"yea-saying","sw":"yeasaying","translation":["a. 抱积极态度的, 持肯定态度的"],"phonetic":"'jei,seiiŋ"}
 {"word":"yead","sw":"yead","translation":[],"phonetic":""}
 {"word":"yeade","sw":"yeade","translation":["[网络] 亚丁"],"phonetic":""}
 {"word":"Yeadon","sw":"yeadon","translation":["n. (Yeadon)人名；(英)伊登"],"phonetic":""}
@@ -2299,9 +2014,6 @@
 {"word":"yeagle","sw":"yeagle","translation":["[网络] 老鹰"],"phonetic":""}
 {"word":"yeagley","sw":"yeagley","translation":["[人名] 耶格利"],"phonetic":""}
 {"word":"yeah","sw":"yeah","translation":["adv. (非正式)是, 是的"],"phonetic":"jeə|jeə"}
-{"word":"yeah-huh","sw":"yeahhuh","translation":["[网络] 是啊"],"phonetic":""}
-{"word":"Yeah-Man","sw":"yeahman","translation":["[网络] 伙计；爷们；恩男人们"],"phonetic":""}
-{"word":"yeah-yeah","sw":"yeahyeah","translation":["[网络] 耶-耶；是的-是的；啊-啊"],"phonetic":""}
 {"word":"yeahhhh","sw":"yeahhhh","translation":["[网络] 节时一次又一次"],"phonetic":""}
 {"word":"yeahs","sw":"yeahs","translation":["[网络] 雅氏"],"phonetic":""}
 {"word":"yeakel","sw":"yeakel","translation":["[人名] 耶克尔"],"phonetic":""}
@@ -2319,7 +2031,6 @@
 {"word":"yeames","sw":"yeames","translation":["[人名] 伊姆斯"],"phonetic":""}
 {"word":"yean","sw":"yean","translation":["v. 产(小羊)"],"phonetic":"ji:n"}
 {"word":"yeane","sw":"yeane","translation":["[网络] 死婴"],"phonetic":""}
-{"word":"yeane-sherre","sw":"yeanesherre","translation":["[网络] 耶和华"],"phonetic":""}
 {"word":"yeaned","sw":"yeaned","translation":["v. （绵羊或山羊）产小羊( yean的过去式和过去分词 )"],"phonetic":"ji:nd"}
 {"word":"yeaning","sw":"yeaning","translation":["v. （绵羊或山羊）产小羊( yean的现在分词 )"],"phonetic":"ji:nɪŋ"}
 {"word":"yeanling","sw":"yeanling","translation":["n. 小羊, 羔羊"],"phonetic":"'ji:nliŋ"}
@@ -2331,41 +2042,6 @@
 {"word":"yeaple","sw":"yeaple","translation":["[人名] 耶普尔"],"phonetic":""}
 {"word":"yeaps","sw":"yeaps","translation":["[网络] 培训计划；易普；是的","(yeap 的复数)"],"phonetic":""}
 {"word":"year","sw":"year","translation":["n. 年, 年度, 年龄","[经] 年度"],"phonetic":"jɪə(r)|jɪr"}
-{"word":"year-ago","sw":"yearago","translation":["adj. 上一年的","[网络] 香果和乳酪的约会；上面是一年前的日期；前端"],"phonetic":""}
-{"word":"year-around","sw":"yeararound","translation":["n. 全年的"],"phonetic":""}
-{"word":"year-bearer","sw":"yearbearer","translation":["年承"],"phonetic":""}
-{"word":"year-book","sw":"yearbook","translation":["[计] 年鉴, 年刊"],"phonetic":""}
-{"word":"year-books","sw":"yearbooks","translation":["(year-book 的复数) [计] 年鉴, 年刊"],"phonetic":""}
-{"word":"year-by-year","sw":"yearbyyear","translation":["a. 年年的, 每年的","adv. 年年,一年一年地"],"phonetic":"'j\\\\:bai'j\\\\:(r),'jiәbai'jiә(r)"}
-{"word":"year-class","sw":"yearclass","translation":["un. 年龄级","[网络] 年级群"],"phonetic":""}
-{"word":"year-climate","sw":"yearclimate","translation":["年气候"],"phonetic":""}
-{"word":"year-day","sw":"yearday","translation":["[网络] 今天"],"phonetic":""}
-{"word":"year-earlier","sw":"yearearlier","translation":["[网络] 一年前"],"phonetic":""}
-{"word":"year-end","sw":"yearend","translation":["a. 年终的","[法] 年终, 年底; 年终的, 年底的"],"phonetic":"'j\\\\:r,end,'jiәr-"}
-{"word":"year-end-bonus","sw":"yearendbonus","translation":["[法] 年终加薪"],"phonetic":""}
-{"word":"year-ending","sw":"yearending","translation":["[网络] 本年结束日期；年终；后摇滚作品"],"phonetic":""}
-{"word":"year-ends","sw":"yearends","translation":["(year-end 的复数) a. 年终的","[法] 年终, 年底; 年终的, 年底的"],"phonetic":""}
-{"word":"year-group","sw":"yeargroup","translation":["年龄组"],"phonetic":""}
-{"word":"year-groups","sw":"yeargroups","translation":["年龄组","(year-group 的复数)"],"phonetic":""}
-{"word":"year-high","sw":"yearhigh","translation":["[网络] 年高"],"phonetic":""}
-{"word":"year-in","sw":"yearin","translation":["[网络] 年复一年；年鉴"],"phonetic":""}
-{"word":"year-in-review","sw":"yearinreview","translation":["[网络] 监"],"phonetic":""}
-{"word":"year-long","sw":"yearlong","translation":["a. 长达一年的, 一年之久的"],"phonetic":"jə: lɔŋ"}
-{"word":"year-longs","sw":"yearlongs","translation":["a. 长达一年的, 一年之久的","(year-long 的复数)"],"phonetic":""}
-{"word":"year-mind","sw":"yearmind","translation":["[网络] 年纪"],"phonetic":""}
-{"word":"year-old","sw":"yearold","translation":["[网络] 岁大的；岁的；两岁的"],"phonetic":""}
-{"word":"year-olds","sw":"yearolds","translation":["[网络] 你不就等于两个二五佳人；岁儿童"],"phonetic":""}
-{"word":"year-on-year","sw":"yearonyear","translation":["a. [经]与上年同期数字相比的"],"phonetic":"'j\\\\:r,ɔn'j\\\\:(r),'jiәr,ɔn'jiә(r)"}
-{"word":"year-one","sw":"yearone","translation":["[网络] 元年；第一年；史上第一年"],"phonetic":""}
-{"word":"year-out","sw":"yearout","translation":["[网络] 连续多年"],"phonetic":""}
-{"word":"year-over-year","sw":"yearoveryear","translation":["[网络] 年度同期成长率；基；增率"],"phonetic":""}
-{"word":"year-round","sw":"yearround","translation":["a. 一年到头的, 整年的"],"phonetic":"'j\\\\:'rajnd,'jiә-"}
-{"word":"year-rounder","sw":"yearrounder","translation":["n. 整年定居于一处的人,常年工,常年使用之物"],"phonetic":"'j\\\\:'rajndә(r),'jiә-"}
-{"word":"year-rounders","sw":"yearrounders","translation":["n. 常年工；常年使用之物；整年定居一地之人"],"phonetic":"'jə:'raundə, jiə-"}
-{"word":"year-to-date","sw":"yeartodate","translation":["[计] 年到日"],"phonetic":""}
-{"word":"year-to-year","sw":"yeartoyear","translation":["adj. 一年年","[网络] 年度同期"],"phonetic":""}
-{"word":"year-two","sw":"yeartwo","translation":["[网络] 第二年；第二学年；香港城市大学学士课程"],"phonetic":""}
-{"word":"year-with","sw":"yearwith","translation":["[网络] 那年我们弹吉他"],"phonetic":""}
 {"word":"yeara","sw":"yeara","translation":["[网络] 一年"],"phonetic":""}
 {"word":"yearam","sw":"yearam","translation":["[网络] 一年"],"phonetic":""}
 {"word":"yeararound","sw":"yeararound","translation":["adj. ＝year-round"],"phonetic":"'jə:rə'raund; 'jiər-"}
@@ -2377,7 +2053,6 @@
 {"word":"Yearby","sw":"yearby","translation":["[地名] 耶比 ( 英 )"],"phonetic":""}
 {"word":"yearbyyear","sw":"yearbyyear","translation":["adj.,adv. 年复一年的(地)，逐年的(地)"],"phonetic":"'jə:bai'jə:; jiəbai'jiə"}
 {"word":"yeard","sw":"yeard","translation":["[网络] 呀"],"phonetic":""}
-{"word":"yeard-hunger","sw":"yeardhunger","translation":["[网络] ard unger"],"phonetic":""}
 {"word":"yearday","sw":"yearday","translation":[],"phonetic":""}
 {"word":"yeardays","sw":"yeardays","translation":["[网络] 呀"],"phonetic":""}
 {"word":"Yeardley","sw":"yeardley","translation":["n.亚德利"],"phonetic":""}
@@ -2410,7 +2085,6 @@
 {"word":"yearnandlike","sw":"yearnandlike","translation":["[网络] 年轻"],"phonetic":""}
 {"word":"yearne","sw":"yearne","translation":["[网络] 一年"],"phonetic":""}
 {"word":"yearned","sw":"yearned","translation":["v. 渴望, 切盼, 向往( yearn的过去式和过去分词 )"],"phonetic":"jə:nd"}
-{"word":"yearned-for","sw":"yearnedfor","translation":["[网络] 渴望；向往"],"phonetic":""}
 {"word":"yearner","sw":"yearner","translation":["n. 向往型；思念者"],"phonetic":""}
 {"word":"yearners","sw":"yearners","translation":["(yearner 的复数) n. 向往型；思念者"],"phonetic":""}
 {"word":"yearnest","sw":"yearnest","translation":["vi.","渴望；向往，想念：","He yearned to ask her to marry him.","他一心想着向她求婚。","深深感动，怜悯，同情：","to yearn for the homeless children","怜悯无家可归的儿童"],"phonetic":"jɜːn"}
@@ -2428,11 +2102,6 @@
 {"word":"yearold","sw":"yearold","translation":["n. 一岁的;想念"],"phonetic":""}
 {"word":"yearround","sw":"yearround","translation":["adj. (开放,使用或运转等)一年到头的","[网络] 终年"],"phonetic":""}
 {"word":"years","sw":"years","translation":["n. 年代；岁月；年；年龄"],"phonetic":""}
-{"word":"years-ago","sw":"yearsago","translation":["[网络] 前；几年前；多年前"],"phonetic":""}
-{"word":"years-in","sw":"yearsin","translation":["[网络] 台中"],"phonetic":""}
-{"word":"years-old","sw":"yearsold","translation":["[网络] 三岁；二岁半；四岁"],"phonetic":""}
-{"word":"years-out","sw":"yearsout","translation":["[网络] 连续多年","(year-out 的复数)"],"phonetic":""}
-{"word":"years-to-date","sw":"yearstodate","translation":["[计] 年到日","(year-to-date 的复数)"],"phonetic":""}
 {"word":"yearsbefore","sw":"yearsbefore","translation":["[网络] 多年以前"],"phonetic":""}
 {"word":"yearsley","sw":"yearsley","translation":["[人名] 伊尔斯利"],"phonetic":""}
 {"word":"yearsleys","sw":"yearsleys","translation":["[人名] 伊尔斯利","(yearsley 的复数)"],"phonetic":""}
@@ -2457,13 +2126,6 @@
 {"word":"yeasaying","sw":"yeasaying","translation":["(对人生或生物)抱积极态度的;肯定的"],"phonetic":""}
 {"word":"yeasays","sw":"yeasays","translation":["vt., vi.","对…表示同意，赞成，投赞成票"],"phonetic":"'jeɪ,seɪ"}
 {"word":"yeast","sw":"yeast","translation":["n. 酵母","[化] 酵母"],"phonetic":"ji:st"}
-{"word":"yeast-based","sw":"yeastbased","translation":["[网络] 酵母菌分析"],"phonetic":""}
-{"word":"yeast-bitten","sw":"yeastbitten","translation":["a. 发酵过度的"],"phonetic":"'ji:st'bitәn"}
-{"word":"Yeast-cell","sw":"yeastcell","translation":["酿母菌"],"phonetic":""}
-{"word":"yeast-free","sw":"yeastfree","translation":["[网络] 不含酵母成分"],"phonetic":""}
-{"word":"yeast-leavening","sw":"yeastleavening","translation":["酵母发酵起泡的"],"phonetic":""}
-{"word":"yeast-like","sw":"yeastlike","translation":["[医]似酵母的"],"phonetic":"'ji:stl'aɪk"}
-{"word":"yeast-liked","sw":"yeastliked","translation":["似酵母的"],"phonetic":""}
 {"word":"yeastcidin","sw":"yeastcidin","translation":["杀酵母素"],"phonetic":",ji:st'sidin"}
 {"word":"yeasted","sw":"yeasted","translation":["酵母( yeast的过去分词 )；酵母菌；发面饼；发酵粉"],"phonetic":""}
 {"word":"yeastex","sw":"yeastex","translation":["酵母精"],"phonetic":""}
@@ -2497,14 +2159,11 @@
 {"word":"yeauman","sw":"yeauman","translation":["[网络] 是啊"],"phonetic":""}
 {"word":"yeaunt","sw":"yeaunt","translation":["[网络] ye unt"],"phonetic":""}
 {"word":"yeave","sw":"yeave","translation":["[网络] 离开"],"phonetic":""}
-{"word":"yeave-ho","sw":"yeaveho","translation":["[网络] 耶和华"],"phonetic":""}
 {"word":"yeaven","sw":"yeaven","translation":["[网络] 齿轮泵；液压齿轮泵"],"phonetic":""}
 {"word":"yeavering","sw":"yeavering","translation":["[网络] 诺森伯兰王国的耶韦灵"],"phonetic":""}
 {"word":"yeb","sw":"yeb","translation":["abbr. Yorkshire Electricity Board 约克郡电流板"],"phonetic":""}
 {"word":"Yebawgyi","sw":"yebawgyi","translation":["[地名] 耶包基 ( 缅 )"],"phonetic":""}
 {"word":"Yebawmi","sw":"yebawmi","translation":["[地名] 耶包米 ( 缅 )"],"phonetic":""}
-{"word":"Yebbi-Bou","sw":"yebbibou","translation":["[地名] 耶比布 ( 乍 )"],"phonetic":""}
-{"word":"Yebbi-Souma","sw":"yebbisouma","translation":["[地名] 耶比苏马 ( 乍 )"],"phonetic":""}
 {"word":"yebo","sw":"yebo","translation":["是；对"],"phonetic":""}
 {"word":"yeboah","sw":"yeboah","translation":["[网络] 叶博亚；耶保亚"],"phonetic":""}
 {"word":"Yebok","sw":"yebok","translation":["[地名] 耶博 ( 缅 )"],"phonetic":""}
@@ -2520,7 +2179,6 @@
 {"word":"yecchy","sw":"yecchy","translation":["-ier, -iest 令人讨厌的"],"phonetic":"'jʌki"}
 {"word":"yech","sw":"yech","translation":["int. [表示拒绝或厌恶]哟"],"phonetic":"jek,jʌk"}
 {"word":"Yecheon","sw":"yecheon","translation":["[地名] 醴泉 ( 韩 )"],"phonetic":""}
-{"word":"Yecheon-gun","sw":"yecheongun","translation":["[地名] 醴泉郡 ( 韩 )"],"phonetic":""}
 {"word":"yechier","sw":"yechier","translation":["yechier","adj.","yechy的变形","yechy","['jʌki]","adj.","[美国俚语] = yucky","变形：","adj.","yechier",". yechiest"],"phonetic":"'jʌki"}
 {"word":"yechs","sw":"yechs","translation":["interj.","噫![表示厌烦、轻蔑等在喉咙里发出的挑战声][亦作 yecch， yuck， yuch等]"],"phonetic":"jek"}
 {"word":"yechy","sw":"yechy","translation":["a. <美俚>=yucky"],"phonetic":"'jʌki"}
@@ -2554,12 +2212,6 @@
 {"word":"Yedrovo","sw":"yedrovo","translation":["[地名] 叶德罗沃 ( 俄 )"],"phonetic":""}
 {"word":"yeds","sw":"yeds","translation":["[网络] 年青行政人员培育计划；Young Executives Development Scheme"],"phonetic":""}
 {"word":"yee","sw":"yee","translation":["n. 仪；绮（女子名）"],"phonetic":""}
-{"word":"yee-cheong","sw":"yeecheong","translation":["[网络] 宜昌"],"phonetic":""}
-{"word":"yee-haa","sw":"yeehaa","translation":["[网络] 牛仔"],"phonetic":""}
-{"word":"yee-haw","sw":"yeehaw","translation":["n. 咦嗬（表示欢呼的喊声）"],"phonetic":""}
-{"word":"yee-haws","sw":"yeehaws","translation":["yee-haw","n.","[美国英语]咦嗬(表示狂喜欢呼的喊声)"],"phonetic":""}
-{"word":"yee-ho","sw":"yeeho","translation":["[网络] ee ho"],"phonetic":""}
-{"word":"yee-ting","sw":"yeeting","translation":["[网络] 依婷；杜绮婷；第五"],"phonetic":""}
 {"word":"yeeaah","sw":"yeeaah","translation":["[网络] 我一直坐在这里；咽啊"],"phonetic":""}
 {"word":"Yeed","sw":"yeed","translation":["[地名] 耶德 ( 索 )"],"phonetic":""}
 {"word":"yeee","sw":"yeee","translation":["[网络] 粲；发贴；污点通讯"],"phonetic":""}
@@ -2761,7 +2413,6 @@
 {"word":"yelld","sw":"yelld","translation":["[网络] 大喊大叫"],"phonetic":""}
 {"word":"yelle","sw":"yelle","translation":["[人名] 耶尔"],"phonetic":""}
 {"word":"yelled","sw":"yelled","translation":["v. 叫喊, 号叫, 叫着说( yell的过去式和过去分词 )"],"phonetic":"jeld"}
-{"word":"yelled-out","sw":"yelledout","translation":["[网络] 是动词片语"],"phonetic":""}
 {"word":"yellen","sw":"yellen","translation":["[人名] 耶伦"],"phonetic":""}
 {"word":"yellens","sw":"yellens","translation":["耶伦（人名）"],"phonetic":""}
 {"word":"yeller","sw":"yeller","translation":["n. yell的变形"],"phonetic":""}
@@ -2777,97 +2428,6 @@
 {"word":"yelloching","sw":"yelloching","translation":["[网络] 嘲笑"],"phonetic":""}
 {"word":"yelloes","sw":"yelloes","translation":["[网络] 黄色；黄光；涟漪轩","(yello 的复数)"],"phonetic":""}
 {"word":"yellow","sw":"yellow","translation":["n. 黄色","a. 黄色的"],"phonetic":"ˈjeləʊ|ˈjeləʊ"}
-{"word":"yellow-ammer","sw":"yellowammer","translation":["[网络] 黄am"],"phonetic":""}
-{"word":"yellow-and-black","sw":"yellowandblack","translation":["[网络] 黄色和黑色；黄与黑"],"phonetic":""}
-{"word":"yellow-and-blue","sw":"yellowandblue","translation":["[网络] 黄色和蓝色图片"],"phonetic":""}
-{"word":"yellow-and-brown","sw":"yellowandbrown","translation":["[网络] 黄褐相间"],"phonetic":""}
-{"word":"yellow-and-green","sw":"yellowandgreen","translation":["[网络] 黄加绿；黄色和绿色；黄绿"],"phonetic":""}
-{"word":"yellow-and-greens","sw":"yellowandgreens","translation":["[网络] 黄加绿；黄色和绿色；黄绿","(yellow-and-green 的复数)"],"phonetic":""}
-{"word":"yellow-and-red","sw":"yellowandred","translation":["[网络] 黄色和红色；黄红；黄色和红色相间的"],"phonetic":""}
-{"word":"yellow-and-white","sw":"yellowandwhite","translation":["[网络] 黄白色；黄色与白色；黄和白"],"phonetic":""}
-{"word":"yellow-back","sw":"yellowback","translation":["美国黄金债券","美国黄背纸币"],"phonetic":""}
-{"word":"Yellow-Backed","sw":"yellowbacked","translation":["黄背"],"phonetic":""}
-{"word":"yellow-backeds","sw":"yellowbackeds","translation":["黄背","(yellow-backed 的复数)"],"phonetic":""}
-{"word":"yellow-backs","sw":"yellowbacks","translation":["n. 廉价小说"],"phonetic":"'jelə(ʊ)bæk"}
-{"word":"yellow-banded","sw":"yellowbanded","translation":["[网络] 横带龙；黄白间条子"],"phonetic":""}
-{"word":"yellow-based","sw":"yellowbased","translation":["[网络] 黄色基调；以黄色基调；黄色基底"],"phonetic":""}
-{"word":"yellow-beige","sw":"yellowbeige","translation":["[网络] 裸黄；蛋黄米色；黄棕色"],"phonetic":""}
-{"word":"yellow-bellied","sw":"yellowbellied","translation":["a. （北美东部的）黄腹吸汁啄木鸟; 胆小的"],"phonetic":"ˈjeləʊˌbeli:d"}
-{"word":"yellow-bellies","sw":"yellowbellies","translation":["n. 懦弱；胆小"],"phonetic":"'jeləu,beli"}
-{"word":"yellow-belly","sw":"yellowbelly","translation":["n. 可鄙的胆小鬼"],"phonetic":""}
-{"word":"yellow-bird","sw":"yellowbird","translation":["un. 〔动〕金莺；金翅雀","[网络] 黄鸟；黄鸟儿；黄色鸟"],"phonetic":""}
-{"word":"yellow-black","sw":"yellowblack","translation":["黗"],"phonetic":"ˈjeləu blæk"}
-{"word":"yellow-blindness","sw":"yellowblindness","translation":["un. 黄色盲","[网络] 蓝黄色盲"],"phonetic":""}
-{"word":"yellow-blindnesses","sw":"yellowblindnesses","translation":["un. 黄色盲","[网络] 蓝黄色盲","(yellow-blindness 的复数)"],"phonetic":""}
-{"word":"yellow-blue","sw":"yellowblue","translation":["[网络] 黄蓝色；淡黄色或蓝色描绘出的帅哥；此处显示为黄色"],"phonetic":""}
-{"word":"yellow-bottle","sw":"yellowbottle","translation":["[网络] 黄瓶子"],"phonetic":""}
-{"word":"yellow-boy","sw":"yellowboy","translation":["[网络] 金币；胆小鬼或金币；黄色男孩"],"phonetic":""}
-{"word":"yellow-brick","sw":"yellowbrick","translation":["[网络] 黄砖酒店"],"phonetic":""}
-{"word":"yellow-bricks","sw":"yellowbricks","translation":["[网络] 黄砖酒店","(yellow-brick 的复数)"],"phonetic":""}
-{"word":"yellow-brown","sw":"yellowbrown","translation":["黄褐色"],"phonetic":""}
-{"word":"yellow-browns","sw":"yellowbrowns","translation":["黄褐色","(yellow-brown 的复数)"],"phonetic":""}
-{"word":"yellow-cab","sw":"yellowcab","translation":["[网络] 黄色计程车；黄色的士；黄色出租车"],"phonetic":""}
-{"word":"yellow-card","sw":"yellowcard","translation":["n. 【体】黄牌","[网络] 黄卡；黄色卡片；黄牌警告"],"phonetic":""}
-{"word":"yellow-cards","sw":"yellowcards","translation":["（足球）黄牌"],"phonetic":""}
-{"word":"yellow-copper","sw":"yellowcopper","translation":["黄铜"],"phonetic":""}
-{"word":"yellow-covered","sw":"yellowcovered","translation":["a. 表面黄色的,廉价的,无用的"],"phonetic":"'jelәj,kʌvәd"}
-{"word":"yellow-crowned","sw":"yellowcrowned","translation":["[网络] 黄帽亚马逊"],"phonetic":""}
-{"word":"yellow-diamond","sw":"yellowdiamond","translation":["[网络] 黄钻；黄钻石；黄钻五号"],"phonetic":""}
-{"word":"yellow-dog","sw":"yellowdog","translation":["a. 不加入工会的, 卑鄙的, 可耻的"],"phonetic":""}
-{"word":"yellow-faced","sw":"yellowfaced","translation":["[网络] 黄颊"],"phonetic":""}
-{"word":"yellow-faceds","sw":"yellowfaceds","translation":["[网络] 黄颊","(yellow-faced 的复数)"],"phonetic":""}
-{"word":"yellow-fever","sw":"yellowfever","translation":["n. 【医】黄热病","[网络] 黄热病毒；黄热病疫苗；黄热针"],"phonetic":""}
-{"word":"yellow-fevers","sw":"yellowfevers","translation":["[内科] 黄热病"],"phonetic":""}
-{"word":"yellow-fin","sw":"yellowfin","translation":["[网络] 黄脚"],"phonetic":""}
-{"word":"yellow-fish","sw":"yellowfish","translation":["[网络] 黄鱼；黄花鱼；黄色鱼群"],"phonetic":""}
-{"word":"yellow-fleshed","sw":"yellowfleshed","translation":["[网络] 黄色果肉"],"phonetic":""}
-{"word":"Yellow-Footed","sw":"yellowfooted","translation":["黄脚"],"phonetic":""}
-{"word":"Yellow-Fronted","sw":"yellowfronted","translation":["黄额"],"phonetic":""}
-{"word":"yellow-gold","sw":"yellowgold","translation":["un. 金银铜合金；黄色金合金","[网络] 金黄；黄金"],"phonetic":""}
-{"word":"yellow-golds","sw":"yellowgolds","translation":["[网络] 黄金"],"phonetic":""}
-{"word":"yellow-gray","sw":"yellowgray","translation":["黄灰色"],"phonetic":"'jeləʊɡr'eɪ"}
-{"word":"yellow-green","sw":"yellowgreen","translation":["[医]（玉蜀黍的）黄绿色叶[突变型]"],"phonetic":"'jeləʊɡr'i:n"}
-{"word":"yellow-greens","sw":"yellowgreens","translation":["(yellow-green 的复数)  [医]（玉蜀黍的）黄绿色叶[突变型]"],"phonetic":""}
-{"word":"yellow-grey","sw":"yellowgrey","translation":["[网络] 黄灰色"],"phonetic":""}
-{"word":"yellow-haired","sw":"yellowhaired","translation":["[网络] 黄发"],"phonetic":""}
-{"word":"yellow-ham","sw":"yellowham","translation":["[网络] 黄火腿"],"phonetic":""}
-{"word":"yellow-hammer","sw":"yellowhammer","translation":["n. 金翼啄木鸟；黄鹉"],"phonetic":"'jelə(ʊ)hæmə"}
-{"word":"yellow-hammers","sw":"yellowhammers","translation":["(yellow-hammer 的复数) n. 金翼啄木鸟；黄鹉"],"phonetic":""}
-{"word":"yellow-headed","sw":"yellowheaded","translation":["[网络] 一种黄色头的小鹦鹉"],"phonetic":""}
-{"word":"Yellow-Heart","sw":"yellowheart","translation":["黄心"],"phonetic":""}
-{"word":"yellow-jersey","sw":"yellowjersey","translation":["un. 黄泽西种","[网络] 黄衫；黄色运动衫；黄色领旗衫"],"phonetic":""}
-{"word":"yellow-legger","sw":"yellowlegger","translation":["n. (=yellowlegs)[鸟]黄足鹬"],"phonetic":"'jelәj,le^ә(r)"}
-{"word":"yellow-legs","sw":"yellowlegs","translation":["n. yellow-legger的变形"],"phonetic":""}
-{"word":"yellow-livered","sw":"yellowlivered","translation":["adj. 〈美〉胆小的"],"phonetic":""}
-{"word":"yellow-man","sw":"yellowman","translation":["[网络] 优乐美连锁少儿画室"],"phonetic":""}
-{"word":"yellow-marked","sw":"yellowmarked","translation":["[网络] 黄色标记"],"phonetic":""}
-{"word":"yellow-orange","sw":"yelloworange","translation":["黄橙色的"],"phonetic":""}
-{"word":"yellow-oranges","sw":"yelloworanges","translation":["黄橙色的","(yellow-orange 的复数)"],"phonetic":""}
-{"word":"yellow-painted","sw":"yellowpainted","translation":["[网络] 黄色"],"phonetic":""}
-{"word":"yellow-painteds","sw":"yellowpainteds","translation":["[网络] 黄色","(yellow-painted 的复数)"],"phonetic":""}
-{"word":"yellow-pink","sw":"yellowpink","translation":["[网络] 黄粉色；黄色粉色；黄石竹花"],"phonetic":""}
-{"word":"yellow-rattle","sw":"yellowrattle","translation":["[网络] 佛甲草"],"phonetic":""}
-{"word":"yellow-red","sw":"yellowred","translation":["[网络] 黄红；有点黄又有点红；红色"],"phonetic":""}
-{"word":"yellow-reds","sw":"yellowreds","translation":["[网络] 黄红军"],"phonetic":""}
-{"word":"yellow-root","sw":"yellowroot","translation":["n. 黄根草"],"phonetic":""}
-{"word":"yellow-roots","sw":"yellowroots","translation":["n. 黄根草"],"phonetic":""}
-{"word":"Yellow-Shafted","sw":"yellowshafted","translation":["黄羽"],"phonetic":""}
-{"word":"yellow-spotted","sw":"yellowspotted","translation":["[网络] 过去分词构成形容词；黄斑点的；黄头侧颈龟"],"phonetic":""}
-{"word":"yellow-stain","sw":"yellowstain","translation":["黄变"],"phonetic":""}
-{"word":"yellow-staining","sw":"yellowstaining","translation":["黄染"],"phonetic":""}
-{"word":"yellow-stone","sw":"yellowstone","translation":["[网络] 黄石"],"phonetic":""}
-{"word":"yellow-striped","sw":"yellowstriped","translation":["[网络] 金带；天竺鲷"],"phonetic":""}
-{"word":"yellow-tail","sw":"yellowtail","translation":["un. 〔动〕金毛虫蛾。","[网络] 黄尾袋鼠；黄尾葡萄酒；黄尾牌"],"phonetic":""}
-{"word":"Yellow-Tailed","sw":"yellowtailed","translation":["黄尾"],"phonetic":""}
-{"word":"Yellow-Thighed","sw":"yellowthighed","translation":["黄腿"],"phonetic":""}
-{"word":"yellow-throated","sw":"yellowthroated","translation":["[网络] 黄喉貂"],"phonetic":""}
-{"word":"yellow-tinged","sw":"yellowtinged","translation":["[网络] 黄色的"],"phonetic":""}
-{"word":"yellow-tingeds","sw":"yellowtingeds","translation":["[网络] 黄色的","(yellow-tinged 的复数)"],"phonetic":""}
-{"word":"yellow-tinted","sw":"yellowtinted","translation":["[网络] 黄色"],"phonetic":""}
-{"word":"yellow-tipped","sw":"yellowtipped","translation":["[网络] 黄色的"],"phonetic":""}
-{"word":"yellow-weed","sw":"yellowweed","translation":["[网络] 一时间嫩芽变成"],"phonetic":""}
-{"word":"yellow-white","sw":"yellowwhite","translation":["n. 黄白色","[网络] 白色的"],"phonetic":""}
-{"word":"yellow-wood","sw":"yellowwood","translation":["na. 【植】美洲香槐","[网络] 三果木"],"phonetic":""}
 {"word":"yellowammer","sw":"yellowammer","translation":["[网络] 黄。子"],"phonetic":""}
 {"word":"yellowammers","sw":"yellowammers","translation":["[网络] 黄昏"],"phonetic":""}
 {"word":"yellowback","sw":"yellowback","translation":["n. 十九世纪流行的黄封面的廉价通俗小说, 法国廉价小说"],"phonetic":""}
@@ -2919,15 +2479,6 @@
 {"word":"yellowing","sw":"yellowing","translation":["n. 黄变；黄化, 泛黄"],"phonetic":""}
 {"word":"yellowings","sw":"yellowings","translation":["[网络] 黄化"],"phonetic":""}
 {"word":"yellowish","sw":"yellowish","translation":["a. 淡黄的, 微黄的"],"phonetic":"'jelәuiʃ"}
-{"word":"yellowish-beige","sw":"yellowishbeige","translation":["[网络] 淡黄色"],"phonetic":""}
-{"word":"yellowish-brown","sw":"yellowishbrown","translation":["黄棕; 黄棕色; 黄褐色"],"phonetic":"'jeləʊɪʃbr'aʊn"}
-{"word":"yellowish-gray","sw":"yellowishgray","translation":["[网络] 黄灰色砂质土壤"],"phonetic":""}
-{"word":"yellowish-green","sw":"yellowishgreen","translation":["[网络] 黄绿；黄绿色；绿色含黄色"],"phonetic":""}
-{"word":"yellowish-greens","sw":"yellowishgreens","translation":["[网络] 黄绿；黄绿色；绿色含黄色","(yellowish-green 的复数)"],"phonetic":""}
-{"word":"yellowish-grey","sw":"yellowishgrey","translation":["[网络] 灰黄色"],"phonetic":""}
-{"word":"yellowish-orange","sw":"yellowishorange","translation":["黄橙色"],"phonetic":"'jeləʊɪʃ'ɒrɪndʒ"}
-{"word":"yellowish-red","sw":"yellowishred","translation":["[网络] 黄中带红的；沙色的；橙红色"],"phonetic":""}
-{"word":"yellowish-white","sw":"yellowishwhite","translation":["黄白色"],"phonetic":""}
 {"word":"yellowishly","sw":"yellowishly","translation":["[网络] 淡黄色"],"phonetic":""}
 {"word":"yellowishness","sw":"yellowishness","translation":["yellowishness","n.","yellowish的变形","yellowish","['jeləuiʃ]","adj.","微黄的，淡黄的，带黄色的"],"phonetic":"'jeləuiʃ"}
 {"word":"yellowishpink","sw":"yellowishpink","translation":["肉色"],"phonetic":""}
@@ -3007,7 +2558,6 @@
 {"word":"yelton","sw":"yelton","translation":["[人名] 耶尔顿"],"phonetic":""}
 {"word":"yeltons","sw":"yeltons","translation":["[人名] 耶尔顿","(yelton 的复数)"],"phonetic":""}
 {"word":"Yeltsin","sw":"yeltsin","translation":["n. 叶利钦（俄罗斯前总统）"],"phonetic":""}
-{"word":"yeltsin-era","sw":"yeltsinera","translation":["[网络] 叶利钦时代"],"phonetic":""}
 {"word":"Yeltsinian","sw":"yeltsinian","translation":["[网络] 叶利钦"],"phonetic":""}
 {"word":"Yeltsinism","sw":"yeltsinism","translation":["[网络] 叶利钦主义"],"phonetic":""}
 {"word":"yeltsins","sw":"yeltsins","translation":["[网络] 叶利钦的"],"phonetic":""}
@@ -3060,14 +2610,6 @@
 {"word":"yemuoside","sw":"yemuoside","translation":["野木瓜甙"],"phonetic":""}
 {"word":"Yemurtla","sw":"yemurtla","translation":["[地名] 叶穆尔特拉 ( 俄 )"],"phonetic":""}
 {"word":"yen","sw":"yen","translation":["n. 日元(日本货币单位), 渴望, 嗜好","vi. 渴望"],"phonetic":"jen"}
-{"word":"Yen-Bai","sw":"yenbai","translation":["安沛"],"phonetic":""}
-{"word":"yen-bay","sw":"yenbay","translation":["[网络] 安沛兵变"],"phonetic":""}
-{"word":"yen-bays","sw":"yenbays","translation":["[网络] 安沛兵变","(yen-bay 的复数)"],"phonetic":""}
-{"word":"yen-shee","sw":"yenshee","translation":["烟屎"],"phonetic":"'jenʃ'i:"}
-{"word":"Yen-tse","sw":"yentse","translation":["[网络] 日元"],"phonetic":""}
-{"word":"Yen-tze","sw":"yentze","translation":["[网络] 日元"],"phonetic":""}
-{"word":"Yen-tzu","sw":"yentzu","translation":["[网络] 日元"],"phonetic":""}
-{"word":"yen-yen","sw":"yenyen","translation":["[网络] 燕燕；要；真是无限美好"],"phonetic":""}
 {"word":"Yena","sw":"yena","translation":["[地名] 叶纳 ( 俄 )"],"phonetic":""}
 {"word":"Yenagoa","sw":"yenagoa","translation":["[地名] 耶纳戈阿 ( 尼日利 )"],"phonetic":""}
 {"word":"Yenakiyeve","sw":"yenakiyeve","translation":["[网络] 日本之音"],"phonetic":""}
@@ -3122,8 +2664,6 @@
 {"word":"Yenimehmetli","sw":"yenimehmetli","translation":["[地名] 耶尼穆罕默德利 ( 土 )"],"phonetic":""}
 {"word":"Yenipazar","sw":"yenipazar","translation":["[地名] 耶尼帕扎尔 ( 土 )"],"phonetic":""}
 {"word":"Yenisei","sw":"yenisei","translation":["n. 叶尼塞河(西伯利亚中部河流)"],"phonetic":"jeni'sei"}
-{"word":"Yenisei-Samoyed","sw":"yeniseisamoyed","translation":["[网络] 叶尼塞 - 萨摩耶"],"phonetic":""}
-{"word":"yenisei-samoyeds","sw":"yeniseisamoyeds","translation":["[网络] 叶尼塞 - 萨摩耶","(yenisei-samoyed 的复数)"],"phonetic":""}
 {"word":"Yeniseian","sw":"yeniseian","translation":["[网络] 叶尼塞语系；叶尼赛语"],"phonetic":""}
 {"word":"Yeniseians","sw":"yeniseians","translation":["[网络] 叶尼塞人"],"phonetic":""}
 {"word":"yeniseis","sw":"yeniseis","translation":["n. 叶尼塞河（西伯利亚中部河流）"],"phonetic":"jeni'sei"}
@@ -3148,7 +2688,6 @@
 {"word":"yenser","sw":"yenser","translation":["[网络] 日光灯"],"phonetic":""}
 {"word":"yenson","sw":"yenson","translation":["[网络] 威臣；山县；武将招募栏属性显示过短"],"phonetic":""}
 {"word":"yent","sw":"yent","translation":["[网络] 。"],"phonetic":""}
-{"word":"yent-a","sw":"yenta","translation":["n. 长舌妇；好管闲事的女人；搬弄是非的女人"],"phonetic":"'jentə"}
 {"word":"yenta","sw":"yenta","translation":["n. 长舌妇, 好管闲事的女人"],"phonetic":"'jentә"}
 {"word":"Yentai","sw":"yentai","translation":["烟台(中国山东省一港市)"],"phonetic":"'jen'tai"}
 {"word":"yentas","sw":"yentas","translation":["搬弄是非的女人, 爱管闲事的女人, 长舌妇( yenta的名词复数 )"],"phonetic":""}
@@ -3165,14 +2704,11 @@
 {"word":"yentzer","sw":"yentzer","translation":["欺骗者"],"phonetic":""}
 {"word":"Yenur","sw":"yenur","translation":["[地名] 耶努尔 ( 印 )"],"phonetic":""}
 {"word":"Yeo","sw":"yeo","translation":["int. 唷(水手拉绳时一道发出的叫声)"],"phonetic":"jәu"}
-{"word":"yeo-ho","sw":"yeoho","translation":["[网络] eo ho"],"phonetic":""}
 {"word":"Yeochon","sw":"yeochon","translation":["醴泉"],"phonetic":""}
 {"word":"Yeoford","sw":"yeoford","translation":["[地名] 约福德 ( 英 )"],"phonetic":""}
-{"word":"Yeogi-san","sw":"yeogisan","translation":["砺山"],"phonetic":""}
 {"word":"yeoh","sw":"yeoh","translation":["[人名] 约"],"phonetic":""}
 {"word":"Yeohaejin","sw":"yeohaejin","translation":["汝海津"],"phonetic":""}
 {"word":"Yeoju","sw":"yeoju","translation":["[地名] 骊州 ( 韩 )"],"phonetic":""}
-{"word":"Yeoju-gun","sw":"yeojugun","translation":["[地名] 骊州郡 ( 韩 )"],"phonetic":""}
 {"word":"Yeokchon","sw":"yeokchon","translation":["[地名] 驿村 ( 韩 )"],"phonetic":""}
 {"word":"Yeola","sw":"yeola","translation":["[地名] 耶奥拉 ( 印 )"],"phonetic":""}
 {"word":"yeom","sw":"yeom","translation":["[网络] 炎厌染盐"],"phonetic":""}
@@ -3190,22 +2726,15 @@
 {"word":"Yeondang","sw":"yeondang","translation":["[地名] 渊堂 ( 韩 )"],"phonetic":""}
 {"word":"yeong","sw":"yeong","translation":["n. (Yeong)人名；(东南亚国家华语)杨；(朝)银"],"phonetic":""}
 {"word":"Yeongam","sw":"yeongam","translation":["[地名] 灵岩 ( 韩 )"],"phonetic":""}
-{"word":"Yeongam-gun","sw":"yeongamgun","translation":["[地名] 灵岩郡 ( 韩 )"],"phonetic":""}
 {"word":"Yeongan","sw":"yeongan","translation":["永安"],"phonetic":""}
 {"word":"Yeongcheon","sw":"yeongcheon","translation":["[地名] 永川 ( 韩 )"],"phonetic":""}
 {"word":"Yeongcheonho","sw":"yeongcheonho","translation":["[地名] 永川湖 ( 韩 )"],"phonetic":""}
 {"word":"Yeongdeok","sw":"yeongdeok","translation":["[地名] 盈德 ( 韩 )"],"phonetic":""}
-{"word":"Yeongdeok-gun","sw":"yeongdeokgun","translation":["[地名] 盈德郡 ( 韩 )"],"phonetic":""}
 {"word":"Yeongdeungpo","sw":"yeongdeungpo","translation":["[地名] 永登浦 ( 韩 )"],"phonetic":""}
-{"word":"Yeongdeungpo-gu","sw":"yeongdeungpogu","translation":["永登浦区"],"phonetic":""}
 {"word":"Yeongdo","sw":"yeongdo","translation":["[地名] 影岛 ( 韩 )"],"phonetic":""}
 {"word":"Yeongdong","sw":"yeongdong","translation":["[地名] 永同 ( 韩 )"],"phonetic":""}
-{"word":"Yeongdong-gun","sw":"yeongdonggun","translation":["[地名] 永同郡 ( 韩 )"],"phonetic":""}
 {"word":"Yeonggwang","sw":"yeonggwang","translation":["[地名] 灵光 ( 韩 )"],"phonetic":""}
-{"word":"Yeonggwang-gun","sw":"yeonggwanggun","translation":["[地名] 灵光郡 ( 韩 )"],"phonetic":""}
-{"word":"Yeongheung-do","sw":"yeongheungdo","translation":["灵兴岛"],"phonetic":""}
 {"word":"Yeongheungdo","sw":"yeongheungdo","translation":["[地名] 灵兴岛 ( 韩 )"],"phonetic":""}
-{"word":"Yeongi-gun","sw":"yeongigun","translation":["[地名] 燕岐郡 ( 韩 )"],"phonetic":""}
 {"word":"Yeongilman","sw":"yeongilman","translation":["[地名] 迎日湾 ( 韩 )"],"phonetic":""}
 {"word":"Yeongjeo","sw":"yeongjeo","translation":["永足"],"phonetic":""}
 {"word":"Yeongjongdo","sw":"yeongjongdo","translation":["[地名] 永宗岛 ( 韩 )"],"phonetic":""}
@@ -3214,13 +2743,10 @@
 {"word":"Yeongneung","sw":"yeongneung","translation":["[地名] 英陵 ( 韩 )"],"phonetic":""}
 {"word":"Yeongoksa","sw":"yeongoksa","translation":["宁国寺"],"phonetic":""}
 {"word":"yeongs","sw":"yeongs","translation":["n. (Yeong)人名；(东南亚国家华语)杨；(朝)银","(yeong 的复数)"],"phonetic":""}
-{"word":"Yeongsan-ri","sw":"yeongsanri","translation":["连山里"],"phonetic":""}
 {"word":"Yeongsangang","sw":"yeongsangang","translation":["[地名] 荣山江 ( 韩 )"],"phonetic":""}
 {"word":"Yeongsanpo","sw":"yeongsanpo","translation":["[地名] 荣山浦 ( 韩 )"],"phonetic":""}
 {"word":"Yeongwol","sw":"yeongwol","translation":["[地名] 宁越 ( 韩 )"],"phonetic":""}
-{"word":"Yeongwol-gun","sw":"yeongwolgun","translation":["[地名] 宁越郡 ( 韩 )"],"phonetic":""}
 {"word":"Yeongyang","sw":"yeongyang","translation":["[地名] 英阳 ( 韩 )"],"phonetic":""}
-{"word":"Yeongyang-gun","sw":"yeongyanggun","translation":["[地名] 英阳郡 ( 韩 )"],"phonetic":""}
 {"word":"Yeonha","sw":"yeonha","translation":["[地名] 莲下 ( 韩 )"],"phonetic":""}
 {"word":"Yeonho","sw":"yeonho","translation":["[地名] 莲湖 ( 韩 )"],"phonetic":""}
 {"word":"Yeonhwado","sw":"yeonhwado","translation":["[地名] 莲花岛 ( 韩 )"],"phonetic":""}
@@ -3266,7 +2792,6 @@
 {"word":"Yeraskh","sw":"yeraskh","translation":["[网络] 耶尔萨什"],"phonetic":""}
 {"word":"Yerazgavors","sw":"yerazgavors","translation":[],"phonetic":""}
 {"word":"yerba","sw":"yerba","translation":["n. 巴拉圭茶","[医] 草"],"phonetic":"'jә:bә"}
-{"word":"Yerba-De-Pasmo","sw":"yerbadepasmo","translation":["小枝酒神菊"],"phonetic":""}
 {"word":"yerbabuena","sw":"yerbabuena","translation":["[地名] [多米尼加共和国、墨西哥] 耶尔瓦布埃纳"],"phonetic":""}
 {"word":"yerbadetajo","sw":"yerbadetajo","translation":["墨旱莲"],"phonetic":""}
 {"word":"yerbas","sw":"yerbas","translation":["n. [作物] 巴拉圭茶；草"],"phonetic":"'jɛɝbɚ"}
@@ -3277,7 +2802,6 @@
 {"word":"yerbury","sw":"yerbury","translation":["[人名] 耶伯里"],"phonetic":""}
 {"word":"yerby","sw":"yerby","translation":["[人名] 耶比"],"phonetic":""}
 {"word":"yerd","sw":"yerd","translation":["青年中产阶级"],"phonetic":"'jɜ:d"}
-{"word":"yerd-hunger","sw":"yerdhunger","translation":["[网络] 饥饿"],"phonetic":""}
 {"word":"yere","sw":"yere","translation":["[网络] 亚运会"],"phonetic":""}
 {"word":"yerebatan","sw":"yerebatan","translation":["[网络] 地下水宫；古罗马地下宫殿；约勒巴坦"],"phonetic":""}
 {"word":"Yeremei","sw":"yeremei","translation":["[网络] 尤雷梅"],"phonetic":""}
@@ -3307,7 +2831,6 @@
 {"word":"yerked","sw":"yerked","translation":["急拉","急推","n. (Yerk)人名；(俄)埃尔克"],"phonetic":""}
 {"word":"yerker","sw":"yerker","translation":["n. [主英国方言]；踢","vi. 踢；急跳；跃起","vt. 捆；捆缚；急推；急拉；急扭"],"phonetic":"jə:k"}
 {"word":"yerkes","sw":"yerkes","translation":["n. 耶基斯（姓氏）"],"phonetic":"'jә:ki:z"}
-{"word":"yerkes-dodson","sw":"yerkesdodson","translation":["[网络] 耶基斯一多得森；耶基斯一多德森；德逊"],"phonetic":""}
 {"word":"yerkess","sw":"yerkess","translation":["n. 耶基斯（姓氏）","(yerkes 的复数)"],"phonetic":""}
 {"word":"yerkey","sw":"yerkey","translation":["[人名] 耶基"],"phonetic":""}
 {"word":"yerkeys","sw":"yerkeys","translation":["[人名] 耶基","(yerkey 的复数)"],"phonetic":""}
@@ -3338,7 +2861,6 @@
 {"word":"yermosol","sw":"yermosol","translation":["漠境土"],"phonetic":"'jә:mәsәl"}
 {"word":"yermosols","sw":"yermosols","translation":["[网络] 漠境土；荒漠土；荒漠土壤相当于漠境土"],"phonetic":""}
 {"word":"yern","sw":"yern","translation":["[网络] y恩"],"phonetic":""}
-{"word":"yern-bliter","sw":"yernbliter","translation":["[网络] ern bl"],"phonetic":""}
 {"word":"yerned","sw":"yerned","translation":["[网络] 瞎了"],"phonetic":""}
 {"word":"yerning","sw":"yerning","translation":["[网络] 渴望"],"phonetic":""}
 {"word":"yerns","sw":"yerns","translation":["[网络] ern"],"phonetic":""}
@@ -3394,21 +2916,11 @@
 {"word":"yery","sw":"yery","translation":["[网络] 云睿；维里"],"phonetic":""}
 {"word":"Yeryshevka","sw":"yeryshevka","translation":["[地名] 叶雷舍夫卡 ( 俄 )"],"phonetic":""}
 {"word":"yes","sw":"yes","translation":["adv. 是","n. 是, 同意","v. 同意"],"phonetic":"jes|jes"}
-{"word":"yes-and-no","sw":"yesandno","translation":["既肯定又否定"],"phonetic":""}
-{"word":"yes-huh","sw":"yeshuh","translation":["[网络] 是啊"],"phonetic":""}
-{"word":"yes-man","sw":"yesman","translation":["应声虫, 随声附和的人"],"phonetic":"'jes‑men"}
-{"word":"yes-men","sw":"yesmen","translation":["n. 唯唯诺诺的人"],"phonetic":"'jesmæn"}
-{"word":"yes-no","sw":"yesno","translation":["n. 是或不是"],"phonetic":""}
-{"word":"yes-or-no","sw":"yesorno","translation":["[网络] 是或否；有或无"],"phonetic":""}
-{"word":"yes-terday","sw":"yesterday","translation":["[网络] 昨日"],"phonetic":""}
-{"word":"yes-vote","sw":"yesvote","translation":["[网络] 赞成票"],"phonetic":""}
-{"word":"yes-yes","sw":"yesyes","translation":["[网络] 是的；对的；不错肯定"],"phonetic":""}
 {"word":"Yesa","sw":"yesa","translation":["[地名] 耶萨 ( 玻、西 )"],"phonetic":""}
 {"word":"yesable","sw":"yesable","translation":["[网络] 不错"],"phonetic":""}
 {"word":"Yesagyo","sw":"yesagyo","translation":["[地名] 耶瑟久 ( 缅 )"],"phonetic":""}
 {"word":"yesalis","sw":"yesalis","translation":["耶萨利斯"],"phonetic":""}
 {"word":"Yesan","sw":"yesan","translation":["[地名] 礼山 ( 韩 )"],"phonetic":""}
-{"word":"Yesan-gun","sw":"yesangun","translation":["[地名] 礼山郡 ( 韩 )"],"phonetic":""}
 {"word":"yesavage","sw":"yesavage","translation":["[网络] 叶沙夫基"],"phonetic":""}
 {"word":"yesayan","sw":"yesayan","translation":["叶莎扬(女名)"],"phonetic":""}
 {"word":"yesayans","sw":"yesayans","translation":["叶莎扬(女名)","(yesayan 的复数)"],"phonetic":""}
@@ -3474,18 +2986,7 @@
 {"word":"yeste","sw":"yeste","translation":["[地名] 耶斯特 ( 西 )"],"phonetic":""}
 {"word":"yesteday","sw":"yesteday","translation":["[网络] 牛仔很忙"],"phonetic":""}
 {"word":"yester","sw":"yester","translation":["a. 在这以前的；昨日的"],"phonetic":"'jestә"}
-{"word":"yester-day","sw":"yesterday","translation":["[网络] 昨天；昨日；一句"],"phonetic":""}
-{"word":"yester-even","sw":"yestereven","translation":["n. 昨夜；昨晚","adv. 在昨晚"],"phonetic":"'jestə,i:vən"}
-{"word":"yester-evening","sw":"yesterevening","translation":["n. 昨晚","adv. 在昨晚"],"phonetic":",jestər'iːvnɪŋ"}
-{"word":"yester-minute","sw":"yesterminute","translation":["[网络] 昨天"],"phonetic":""}
-{"word":"yester-morning","sw":"yestermorning","translation":["n. 昨天早上","adv. 在昨天早上"],"phonetic":",jestə'mɔːnɪŋ"}
-{"word":"yester-morrow","sw":"yestermorrow","translation":["[网络] 十几岁"],"phonetic":""}
-{"word":"yester-morrows","sw":"yestermorrows","translation":["[网络] 过去的日子"],"phonetic":""}
-{"word":"yester-year","sw":"yesteryear","translation":["[网络] 往昔"],"phonetic":""}
-{"word":"yester-years","sw":"yesteryears","translation":["n. 不久以前；去年","adv. 过去不久的岁月"],"phonetic":"'jestəjɪə; -jɜː"}
 {"word":"yesterday","sw":"yesterday","translation":["n. 昨天","adv. 昨天"],"phonetic":"ˈjestədeɪ|ˈjestərdeɪ"}
-{"word":"yesterday-today-and-tomorrow","sw":"yesterdaytodayandtomorrow","translation":["[网络] 明天；英文名称作"],"phonetic":""}
-{"word":"yesterday-today-tomorrow","sw":"yesterdaytodaytomorrow","translation":["[网络] 昨天今天明天；应无所住；昨日今日明日"],"phonetic":""}
 {"word":"yesterdayness","sw":"yesterdayness","translation":["n. 近来"],"phonetic":"'jestәdinis,-dei-"}
 {"word":"yesterdays","sw":"yesterdays","translation":["n. 昨天( yesterday的复数形式 )"],"phonetic":"ˈjestədiz"}
 {"word":"yestereve","sw":"yestereve","translation":["n. 昨晚, 昨夜","adv. 在昨晚"],"phonetic":"'jestɪrɪv"}
@@ -3526,12 +3027,6 @@
 {"word":"yeswomen","sw":"yeswomen","translation":["[网络] 日韩服饰店"],"phonetic":""}
 {"word":"Yesyayakha","sw":"yesyayakha","translation":["[地名] 叶夏亚哈河 ( 俄 )"],"phonetic":""}
 {"word":"yet","sw":"yet","translation":["adv. 还, 尚, 仍然, 已经, 然而","conj. 然而"],"phonetic":"jet|jet"}
-{"word":"yet-another","sw":"yetanother","translation":["adv. 另一种"],"phonetic":""}
-{"word":"yet-to-be","sw":"yettobe","translation":["还没有","尚未"],"phonetic":""}
-{"word":"yet-to-be-determined","sw":"yettobedetermined","translation":["[网络] 现在还没有决定好"],"phonetic":""}
-{"word":"yet-to-be-discovered","sw":"yettobediscovered","translation":["[网络] 以及其他尚待发现的权利"],"phonetic":""}
-{"word":"yet-to-bes","sw":"yettobes","translation":["(yet-to-be 的复数) 还没有","尚未"],"phonetic":""}
-{"word":"yet-unborn","sw":"yetunborn","translation":["[网络] 尚未诞生"],"phonetic":""}
 {"word":"yetapa","sw":"yetapa","translation":["异尾坝(产于巴西及阿根廷)"],"phonetic":"'jetәpә"}
 {"word":"yete","sw":"yete","translation":["[网络] 易贴"],"phonetic":""}
 {"word":"yeten","sw":"yeten","translation":["[网络] 还有"],"phonetic":""}
@@ -3615,8 +3110,6 @@
 {"word":"Yevtushenko","sw":"yevtushenko","translation":["[网络] 叶甫图申科"],"phonetic":""}
 {"word":"yevtushenkoes","sw":"yevtushenkoes","translation":["[网络] 叶甫图申科","(yevtushenko 的复数)"],"phonetic":""}
 {"word":"yew","sw":"yew","translation":["n. 紫杉"],"phonetic":"ju:"}
-{"word":"yew-tree","sw":"yewtree","translation":["[网络] 松树"],"phonetic":""}
-{"word":"yew-trees","sw":"yewtrees","translation":["[网络] 高大紫杉；衫树；紫衫树"],"phonetic":""}
 {"word":"yewar","sw":"yewar","translation":["[网络] 太阳眼镜"],"phonetic":""}
 {"word":"yewberry","sw":"yewberry","translation":["紫杉的果实"],"phonetic":"'ju:beri"}
 {"word":"yewe","sw":"yewe","translation":["[网络] 维族"],"phonetic":""}
@@ -3656,7 +3149,6 @@
 {"word":"Yezon","sw":"yezon","translation":["[地名] 耶松 ( 缅 )"],"phonetic":""}
 {"word":"yezzy","sw":"yezzy","translation":["[网络] yeezy"],"phonetic":""}
 {"word":"yf","sw":"yf","translation":["abbr. 黄热病（Yellow Fever）"],"phonetic":""}
-{"word":"YF-Vax","sw":"yfvax","translation":["黄热病疫苗"],"phonetic":""}
 {"word":"YFA","sw":"yfa","translation":["[=young female arteritis]年青女性动脉炎"],"phonetic":""}
 {"word":"yfare","sw":"yfare","translation":["[网络] 经济舱年票"],"phonetic":""}
 {"word":"yfastened","sw":"yfastened","translation":["[网络] 松了一口气"],"phonetic":""}
@@ -3724,7 +3216,6 @@
 {"word":"ygo","sw":"ygo","translation":["[网络] 戈兹南罗；堹；臁"],"phonetic":""}
 {"word":"ygomelus","sw":"ygomelus","translation":["臀肢畸胎"],"phonetic":""}
 {"word":"ygon","sw":"ygon","translation":["[网络] 多边形"],"phonetic":""}
-{"word":"Ygos-St-Saturnin","sw":"ygosstsaturnin","translation":["[地名] 伊戈-圣萨蒂南 ( 法 )"],"phonetic":""}
 {"word":"ygot","sw":"ygot","translation":["[网络] 哎呀"],"phonetic":""}
 {"word":"ygoten","sw":"ygoten","translation":["[网络] 约旦"],"phonetic":""}
 {"word":"ygr","sw":"ygr","translation":["abbr. Yankari Game Reserve (Nigeria) 样客来游戏库（尼日利亚）"],"phonetic":""}
@@ -3818,8 +3309,6 @@
 {"word":"yhyred","sw":"yhyred","translation":["[网络] 呵呵"],"phonetic":""}
 {"word":"YHz","sw":"yhz","translation":["[网络] 哈利法克斯；哈利法克福；哈利法克斯国际"],"phonetic":""}
 {"word":"yi","sw":"yi","translation":["n. 彝人；彝语"],"phonetic":"ji:"}
-{"word":"yi-dam","sw":"yidam","translation":["n. 本尊"],"phonetic":""}
-{"word":"yi-fu","sw":"yifu","translation":["[网络] 傅毅；傅怡；傅熠"],"phonetic":""}
 {"word":"yia","sw":"yia","translation":["[网络] 青年研究者奖(Young Investigator Award)；牙；康本园"],"phonetic":""}
 {"word":"Yialousa","sw":"yialousa","translation":["雅鲁沙"],"phonetic":""}
 {"word":"yian","sw":"yian","translation":["[网络] 依安县；小安；晏"],"phonetic":""}
@@ -3848,7 +3337,6 @@
 {"word":"yidaki","sw":"yidaki","translation":["[网络] 杜管"],"phonetic":""}
 {"word":"yidam","sw":"yidam","translation":["[网络] 本尊；本尊法；本尊的藏译文"],"phonetic":""}
 {"word":"Yiddish","sw":"yiddish","translation":["n. 意第绪语,依地语(犹太人使用的国际语)","a. 意第绪语的,依地语,<俚>犹太人的"],"phonetic":"'jidiʃ"}
-{"word":"yiddish-language","sw":"yiddishlanguage","translation":["[网络] 意第绪语"],"phonetic":""}
 {"word":"Yiddisher","sw":"yiddisher","translation":["[网络] 投机者"],"phonetic":""}
 {"word":"Yiddishers","sw":"yiddishers","translation":["[网络] 招标人"],"phonetic":""}
 {"word":"yiddishes","sw":"yiddishes","translation":["n. 意第绪语（中东欧犹太人及其在各国的后裔说的一种从高地德语派生的语言）","adj. 意第绪语的；犹太人的"],"phonetic":"'jidiʃ"}
@@ -3866,13 +3354,6 @@
 {"word":"yids","sw":"yids","translation":["(yid 的复数) n. 犹太人"],"phonetic":""}
 {"word":"yie","sw":"yie","translation":["[网络] 阿尔山；爷；野"],"phonetic":""}
 {"word":"yield","sw":"yield","translation":["n. 生产量, 投资收益","vt. 出产, 给予, 让出, 放弃, 使屈服","vi. 出产, 屈服, 投降, 倒塌"],"phonetic":"jiːld|jiːld"}
-{"word":"yield-hungry","sw":"yieldhungry","translation":["[网络] 过低"],"phonetic":""}
-{"word":"yield-point","sw":"yieldpoint","translation":["[医]曲服点，流动点"],"phonetic":"'ji:ldp'ɔɪnt"}
-{"word":"yield-power","sw":"yieldpower","translation":["[医]生产力"],"phonetic":"'ji:ldp'aʊər"}
-{"word":"yield-strength","sw":"yieldstrength","translation":["[力] 屈服强度；屈变力；抗屈强度"],"phonetic":""}
-{"word":"Yield-to-maturity","sw":"yieldtomaturity","translation":["殖利率；到期收益率"],"phonetic":""}
-{"word":"Yield-value","sw":"yieldvalue","translation":["收获价"],"phonetic":""}
-{"word":"yield-weighted","sw":"yieldweighted","translation":["按产率量度的"],"phonetic":""}
 {"word":"yieldability","sw":"yieldability","translation":["沉陷性"],"phonetic":""}
 {"word":"yieldable","sw":"yieldable","translation":["可缩性的"],"phonetic":"'ji:ldeɪbl"}
 {"word":"yieldance","sw":"yieldance","translation":["n. <古>屈服, 让步"],"phonetic":"'ji:ldәns"}
@@ -3979,10 +3460,6 @@
 {"word":"yims","sw":"yims","translation":["[网络] 迎"],"phonetic":""}
 {"word":"yimt","sw":"yimt","translation":["[网络] 宜美贴；媵"],"phonetic":""}
 {"word":"yin","sw":"yin","translation":["n. 中国思想里的“阴”（与“阳”相对）；中国的殷代；（苏格兰）一个（等于one）"],"phonetic":"jin"}
-{"word":"yin-and-yang","sw":"yinandyang","translation":["un. 气血阴阳兼补；阴和阳"],"phonetic":""}
-{"word":"yin-exhaustion","sw":"yinexhaustion","translation":["亡阴"],"phonetic":""}
-{"word":"yin-yang","sw":"yinyang","translation":["阴阳"],"phonetic":"'jɪnj'æŋ"}
-{"word":"yin-yangs","sw":"yinyangs","translation":["阴阳"],"phonetic":"'jɪn'jæŋ"}
 {"word":"yinan","sw":"yinan","translation":["[网络] 沂南县；面；若清"],"phonetic":""}
 {"word":"Yinbai","sw":"yinbai","translation":["隐白"],"phonetic":""}
 {"word":"Yinbaing","sw":"yinbaing","translation":["[地名] 因拜 ( 缅 )"],"phonetic":""}
@@ -3995,10 +3472,6 @@
 {"word":"Yindjibarndi","sw":"yindjibarndi","translation":[],"phonetic":""}
 {"word":"Yindu","sw":"yindu","translation":["阴都"],"phonetic":""}
 {"word":"ying","sw":"ying","translation":["abbr. Yinglish （在美国讲的）搀杂意第绪语词语的英语，意第绪式英语（的）"],"phonetic":""}
-{"word":"ying-sun","sw":"yingsun","translation":["[网络] 孙莹；孙颖；孙英"],"phonetic":""}
-{"word":"ying-wei","sw":"yingwei","translation":["营卫"],"phonetic":""}
-{"word":"ying-yang","sw":"yingyang","translation":["[网络] 阴阳；签署"],"phonetic":""}
-{"word":"ying-yangs","sw":"yingyangs","translation":[],"phonetic":""}
 {"word":"yingcai","sw":"yingcai","translation":["硬彩"],"phonetic":""}
 {"word":"yingchao","sw":"yingchao","translation":["[网络] 侯英超；齐殿勋；德甲"],"phonetic":""}
 {"word":"Yingchuang","sw":"yingchuang","translation":["膺窗"],"phonetic":""}
@@ -4062,7 +3535,6 @@
 {"word":"yipes","sw":"yipes","translation":["[网络] 一派；待续；一下爆头"],"phonetic":""}
 {"word":"yipped","sw":"yipped","translation":["v. 犬吠, 叫喊( yip的过去式和过去分词 )"],"phonetic":"jipt"}
 {"word":"yippee","sw":"yippee","translation":["interj. (表示开心、快乐)咦吡, 好啊"],"phonetic":"'jipi"}
-{"word":"yippee-canoe","sw":"yippeecanoe","translation":["interj. 好哇!好极了!(表示欢欣鼓舞或胜利喜悦的欢呼声)"],"phonetic":"'jipikə'nu:"}
 {"word":"yipper","sw":"yipper","translation":["n.","[象声词，美国口语](狗)吠声；狺狺","vi.","[美国口语](狗)吠","变形：","vi.","yipped",". yipping","yip2 ,YIP","[jip]","n.","[美国口语]易比士[yippie的缩略]"],"phonetic":"jip"}
 {"word":"yippers","sw":"yippers","translation":["[网络] 拖鞋"],"phonetic":""}
 {"word":"Yippie","sw":"yippie","translation":["[美 俚]易比派的一员(源出反对侵越战争的组织 YIP, 即 Youth International Party 青年国际党)"],"phonetic":"'jipi"}
@@ -4126,7 +3598,6 @@
 {"word":"yitzhaq","sw":"yitzhaq","translation":["[网络] yizhaq"],"phonetic":""}
 {"word":"yitzhar","sw":"yitzhar","translation":["[网络] 伊扎尔；纳布卢斯市附近伊扎尔；斯哈"],"phonetic":""}
 {"word":"yiu","sw":"yiu","translation":["n. 姚（姓氏）"],"phonetic":""}
-{"word":"Yiu-ting","sw":"yiuting","translation":["[网络] 陈耀霆"],"phonetic":""}
 {"word":"yiv","sw":"yiv","translation":["[网络] 已；一以；野"],"phonetic":""}
 {"word":"yive","sw":"yive","translation":["[网络] 易威；翼飞"],"phonetic":""}
 {"word":"yiven","sw":"yiven","translation":["[网络] 乙雯；伊文；翟飞"],"phonetic":""}
@@ -4170,11 +3641,8 @@
 {"word":"ylaid","sw":"ylaid","translation":["[网络] 英文"],"phonetic":""}
 {"word":"yland","sw":"yland","translation":["[网络] 生态壁画著名的画家违廉；生态壁画着名的画家违廉"],"phonetic":""}
 {"word":"ylang","sw":"ylang","translation":["[网络] 依兰；伊兰；依兰精油"],"phonetic":""}
-{"word":"ylang-ylang","sw":"ylangylang","translation":["n. 依兰(菲律宾产)","[医] 夷兰(产于马来亚的一种乔木)"],"phonetic":"i:'lɑ:ŋi:'lɑ:ŋ"}
-{"word":"ylang-ylangs","sw":"ylangylangs","translation":["n. 香油树","[网络] 依兰；依兰依兰；香水树"],"phonetic":""}
 {"word":"ylangene","sw":"ylangene","translation":["[化] 衣兰烯"],"phonetic":""}
 {"word":"ylangs","sw":"ylangs","translation":["[网络] 依兰；伊兰；依兰精油","(ylang 的复数)"],"phonetic":""}
-{"word":"ylangs-ylangs","sw":"ylangsylangs","translation":["n. 依兰(菲律宾产)","[医] 夷兰(产于马来亚的一种乔木)","(ylang-ylang 的复数)"],"phonetic":""}
 {"word":"ylara","sw":"ylara","translation":["[网络] 伊拉拉"],"phonetic":""}
 {"word":"ylast","sw":"ylast","translation":["[网络] 洋葱"],"phonetic":""}
 {"word":"ylat","sw":"ylat","translation":["[网络] 实型数组"],"phonetic":""}
@@ -4196,8 +3664,6 @@
 {"word":"yleved","sw":"yleved","translation":["[网络] 很遗憾"],"phonetic":""}
 {"word":"YLF","sw":"ylf","translation":["[=yttrium lithium fluoride]钇锂氟化物"],"phonetic":""}
 {"word":"YLH","sw":"ylh","translation":["[网络] 兰德斯道恩豪斯；兰德斯道恩豪斯机场；譗"],"phonetic":""}
-{"word":"Yli-Ii","sw":"yliii","translation":["[地名] 上伊镇 ( 芬 )"],"phonetic":""}
-{"word":"Yli-Kitka","sw":"ylikitka","translation":["[地名] 上基特卡湖 ( 芬 )"],"phonetic":""}
 {"word":"ylid","sw":"ylid","translation":["n. [化]内鎓盐(式)"],"phonetic":"'ilid"}
 {"word":"ylide","sw":"ylide","translation":["[化] 叶立德; 内┹盐"],"phonetic":""}
 {"word":"ylides","sw":"ylides","translation":["[网络] 叶立德"],"phonetic":""}
@@ -4279,7 +3745,6 @@
 {"word":"ymmv","sw":"ymmv","translation":["你的历程可能有所不同(your mileage may vary)"],"phonetic":""}
 {"word":"ymn","sw":"ymn","translation":["abbr. North Yemen(Yemen Arab Republic) 北也门（国际交通工具证照字母）"],"phonetic":""}
 {"word":"Ymodem","sw":"ymodem","translation":["[计] Ymodem协议"],"phonetic":""}
-{"word":"Ymodem-g","sw":"ymodemg","translation":["n. YModem-G文件传输协议"],"phonetic":""}
 {"word":"Ymonville","sw":"ymonville","translation":["[地名] 伊蒙维尔 ( 法 )"],"phonetic":""}
 {"word":"ymounted","sw":"ymounted","translation":["[网络] 已经安装"],"phonetic":""}
 {"word":"YMP","sw":"ymp","translation":["布雷艇"],"phonetic":""}
@@ -4358,25 +3823,6 @@
 {"word":"Ynykchanskiy","sw":"ynykchanskiy","translation":["[地名] 厄内克昌斯基 ( 俄 )"],"phonetic":""}
 {"word":"ynys","sw":"ynys","translation":["[网络] 永胜"],"phonetic":""}
 {"word":"yo","sw":"yo","translation":["int. 唷（表示鼓励, 警告）；嗨（表示应答）"],"phonetic":"jәu"}
-{"word":"Yo-do","sw":"yodo","translation":["丽岛"],"phonetic":""}
-{"word":"yo-hah","sw":"yohah","translation":["[网络] 哟哈哈"],"phonetic":""}
-{"word":"yo-heave","sw":"yoheave","translation":["唿叫声；Yo-kora（水平移动拨道）"],"phonetic":""}
-{"word":"yo-heave-ho","sw":"yoheaveho","translation":["n. 吆喝声"],"phonetic":"'jәj'hi:v'hәj"}
-{"word":"yo-ho","sw":"yoho","translation":["interj. 唷嗬"],"phonetic":"jәu'hәu"}
-{"word":"yo-ho-ho","sw":"yohoho","translation":["[网络] 哟吼吼；尚无；人生呓语"],"phonetic":""}
-{"word":"yo-hoed","sw":"yohoed","translation":["vi. yo-ho的变形"],"phonetic":""}
-{"word":"yo-hoing","sw":"yohoing","translation":["vi. yo-ho的变形"],"phonetic":""}
-{"word":"yo-hope","sw":"yohope","translation":["[网络] 哟希望"],"phonetic":""}
-{"word":"yo-necked","sw":"yonecked","translation":["[网络] 哟颈部"],"phonetic":""}
-{"word":"yo-yo","sw":"yoyo","translation":["n. 溜溜球"],"phonetic":"'jәu,jәu"}
-{"word":"yo-yoed","sw":"yoyoed","translation":["n. 【商】约约；〈美俚〉迟钝愚蠢的人","v. 玩约约；忽上忽下","[网络] 溜溜球；悠悠球；游游拉线盘"],"phonetic":""}
-{"word":"yo-yoer","sw":"yoyoer","translation":["n.","[美国英语]","游游(一种线轴般的玩具)","[美国俚语]蠢人，笨人，无能之辈；行为古怪的人","摇摆不定的人","命运多舛的人","不断快速升降的东西","【航空和航天工程技术】(人造卫星)绕地球运行的轨道","vi.","[口语]上上下下；左右波动；起伏；变化：","The price of vegetables often yo-yo in different seasons.","蔬菜的价格在不同的季节上下浮动。","(主见等)犹豫不定；踌躇；摇摆，动摇：","to yo-yo on an issue","对某问题犹豫不定","跑来跑去","adj.","[口语]左右波动的；上上下下的；上下起伏不定的；变化无常的","变形：","n.","yo-yos"],"phonetic":"'jəujəu"}
-{"word":"yo-yoers","sw":"yoyoers","translation":["[网络] 哟你好"],"phonetic":""}
-{"word":"yo-yoes","sw":"yoyoes","translation":["n. 溜溜球（一种线轴般的玩具）；优柔寡断","adj. 上下起落的；摇摆不定的","vi. 摇摆不定；上下起落"],"phonetic":"'jəujəu"}
-{"word":"yo-yoing","sw":"yoyoing","translation":["n. 【商】约约；〈美俚〉迟钝愚蠢的人","v. 玩约约；忽上忽下","[网络] 摇摇；出没无常现象"],"phonetic":""}
-{"word":"yo-yoings","sw":"yoyoings","translation":["n. 【商】约约；〈美俚〉迟钝愚蠢的人","v. 玩约约；忽上忽下","[网络] 摇摇；出没无常现象","(yo-yoing 的复数)"],"phonetic":""}
-{"word":"yo-yos","sw":"yoyos","translation":["n. 溜溜球（一种线轴般的玩具）( yo-yo的复数形式 )"],"phonetic":""}
-{"word":"yo-zuri","sw":"yozuri","translation":["[网络] 优朱利"],"phonetic":""}
 {"word":"yoak","sw":"yoak","translation":["[网络] 哟"],"phonetic":""}
 {"word":"yoakam","sw":"yoakam","translation":["[人名] 约卡姆"],"phonetic":""}
 {"word":"yoakams","sw":"yoakams","translation":["[人名] 约卡姆","(yoakam 的复数)"],"phonetic":""}
@@ -4401,7 +3847,6 @@
 {"word":"yobbos","sw":"yobbos","translation":["n. 小坏蛋, 小流氓( yobbo的复数形式 )"],"phonetic":""}
 {"word":"yobby","sw":"yobby","translation":["adj. = yobbish"],"phonetic":"'jɔbi"}
 {"word":"Yobe","sw":"yobe","translation":["[地名] 约贝 ( 赞 )"],"phonetic":""}
-{"word":"Yobetsu-dake","sw":"yobetsudake","translation":["[地名] 余别岳 ( 日 )"],"phonetic":""}
 {"word":"yobi","sw":"yobi","translation":["岳比(妇女美容保健药)"],"phonetic":"'jɔbi"}
 {"word":"yobibyte","sw":"yobibyte","translation":["n.1024字节"],"phonetic":"jəʊbɪ'bɪt"}
 {"word":"yobidashi","sw":"yobidashi","translation":[],"phonetic":""}
@@ -4437,34 +3882,6 @@
 {"word":"Yocon","sw":"yocon","translation":["盐酸育亨宾制剂"],"phonetic":""}
 {"word":"yocs","sw":"yocs","translation":["abbr. young officers course 青年军官课程","(yoc 的复数)"],"phonetic":""}
 {"word":"yocto","sw":"yocto","translation":["10的-24次方","幺（科托）"],"phonetic":""}
-{"word":"yocto-ampere","sw":"yoctoampere","translation":["[网络] yocto安培"],"phonetic":""}
-{"word":"yocto-amperes","sw":"yoctoamperes","translation":["[网络] yocto安培"],"phonetic":""}
-{"word":"yocto-coulomb","sw":"yoctocoulomb","translation":["[网络] yocto库仑"],"phonetic":""}
-{"word":"yocto-coulombs","sw":"yoctocoulombs","translation":["[网络] yocto库仑"],"phonetic":""}
-{"word":"yocto-cycle","sw":"yoctocycle","translation":["[网络] yocto循环"],"phonetic":""}
-{"word":"yocto-cycles","sw":"yoctocycles","translation":["[网络] yocto循环"],"phonetic":""}
-{"word":"yocto-farad","sw":"yoctofarad","translation":["[网络] yocto法拉"],"phonetic":""}
-{"word":"yocto-farads","sw":"yoctofarads","translation":["[网络] yocto法拉斯"],"phonetic":""}
-{"word":"yocto-grams","sw":"yoctograms","translation":["[网络] yocto-克"],"phonetic":""}
-{"word":"yocto-gray","sw":"yoctogray","translation":["[网络] yocto-grey"],"phonetic":""}
-{"word":"yocto-hertz","sw":"yoctohertz","translation":["[网络] yocto-赫兹"],"phonetic":""}
-{"word":"yocto-joules","sw":"yoctojoules","translation":["[网络] yocto焦耳"],"phonetic":""}
-{"word":"yocto-lumen","sw":"yoctolumen","translation":["[网络] yocto流明"],"phonetic":""}
-{"word":"yocto-lumens","sw":"yoctolumens","translation":["[网络] yocto流明"],"phonetic":""}
-{"word":"yocto-lux","sw":"yoctolux","translation":["[网络] yocto勒克斯"],"phonetic":""}
-{"word":"yocto-meter","sw":"yoctometer","translation":["[网络] yocto米"],"phonetic":""}
-{"word":"yocto-meters","sw":"yoctometers","translation":["[网络] yocto米"],"phonetic":""}
-{"word":"yocto-metre","sw":"yoctometre","translation":["[网络] yocto米"],"phonetic":""}
-{"word":"yocto-metres","sw":"yoctometres","translation":["[网络] yocto米"],"phonetic":""}
-{"word":"yocto-moles","sw":"yoctomoles","translation":["[网络] yocto-mole"],"phonetic":""}
-{"word":"yocto-newtons","sw":"yoctonewtons","translation":["[网络] yocto牛顿"],"phonetic":""}
-{"word":"yocto-radians","sw":"yoctoradians","translation":["[网络] yocto-弧度"],"phonetic":""}
-{"word":"yocto-seconds","sw":"yoctoseconds","translation":["[网络] yocto秒"],"phonetic":""}
-{"word":"yocto-tesla","sw":"yoctotesla","translation":["[网络] yocto特斯拉"],"phonetic":""}
-{"word":"yocto-volt","sw":"yoctovolt","translation":["[网络] yocto伏"],"phonetic":""}
-{"word":"yocto-volts","sw":"yoctovolts","translation":["[网络] yocto-volt"],"phonetic":""}
-{"word":"yocto-watt","sw":"yoctowatt","translation":["[网络] yocto瓦特"],"phonetic":""}
-{"word":"yocto-watts","sw":"yoctowatts","translation":["[网络] yocto瓦特"],"phonetic":""}
 {"word":"yoctoampere","sw":"yoctoampere","translation":[],"phonetic":""}
 {"word":"yoctocoulomb","sw":"yoctocoulomb","translation":["[网络] 皮科库伦"],"phonetic":""}
 {"word":"yoctocoulombs","sw":"yoctocoulombs","translation":["[网络] 皮科库姆"],"phonetic":""}
@@ -4487,10 +3904,7 @@
 {"word":"yocum","sw":"yocum","translation":["[人名] 约克姆"],"phonetic":""}
 {"word":"yocums","sw":"yocums","translation":["[人名] 约克姆","(yocum 的复数)"],"phonetic":""}
 {"word":"yod","sw":"yod","translation":["n. (=yodh)希伯来文第十个字母"],"phonetic":"jjd,jɔ:d,jәjd"}
-{"word":"yod-coalescence","sw":"yodcoalescence","translation":["[网络] 硬颚无擦通音的联合发音"],"phonetic":""}
-{"word":"yod-dropping","sw":"yoddropping","translation":["[网络] od dropping。"],"phonetic":""}
 {"word":"yoda","sw":"yoda","translation":["尤达（人名）"],"phonetic":""}
-{"word":"Yoda-like","sw":"yodalike","translation":["[网络] 尤达式"],"phonetic":""}
 {"word":"Yodanodia","sw":"yodanodia","translation":["普罗碘铵,安妥碘"],"phonetic":""}
 {"word":"Yodarma","sw":"yodarma","translation":["[地名] 约达尔马河 ( 俄 )"],"phonetic":""}
 {"word":"yode","sw":"yode","translation":["[网络] 我的P；约得法"],"phonetic":""}
@@ -4521,7 +3935,6 @@
 {"word":"yodless","sw":"yodless","translation":["[网络] 无聊"],"phonetic":""}
 {"word":"yodling","sw":"yodling","translation":["vt., vi. yodle的变形"],"phonetic":""}
 {"word":"Yodo","sw":"yodo","translation":["[地名] 丽岛 ( 朝 )"],"phonetic":""}
-{"word":"Yodo-gawa","sw":"yodogawa","translation":["[地名] 淀川 ( 日 )"],"phonetic":""}
 {"word":"Yodocandramina","sw":"yodocandramina","translation":["葡糖胺"],"phonetic":""}
 {"word":"yodocondramina","sw":"yodocondramina","translation":["盐酸葡糖胺"],"phonetic":""}
 {"word":"Yodoe","sw":"yodoe","translation":["[地名] 淀江 ( 日 )"],"phonetic":""}
@@ -4541,7 +3954,6 @@
 {"word":"yoene","sw":"yoene","translation":["[网络] 哟"],"phonetic":""}
 {"word":"yoerger","sw":"yoerger","translation":["[人名] 约杰"],"phonetic":""}
 {"word":"yoes","sw":"yoes","translation":["[网络] 哟"],"phonetic":""}
-{"word":"yoes-yoes","sw":"yoesyoes","translation":["n. 溜溜球","(yo-yo 的复数)"],"phonetic":""}
 {"word":"yoest","sw":"yoest","translation":["[人名] 约斯特"],"phonetic":""}
 {"word":"yoey","sw":"yoey","translation":["[网络] 杨怡；悠仪；璋埚强"],"phonetic":""}
 {"word":"yof","sw":"yof","translation":["[网络] 塞莱茨尼约夫"],"phonetic":""}
@@ -4552,7 +3964,6 @@
 {"word":"Yofolonbougou","sw":"yofolonbougou","translation":["[地名] 约福隆布古 ( 马里 )"],"phonetic":""}
 {"word":"yofortierite","sw":"yofortierite","translation":["[网络] 锰山软木石"],"phonetic":""}
 {"word":"YOG","sw":"yog","translation":["abbr. 也门石油公司"],"phonetic":""}
-{"word":"yog-sothoth","sw":"yogsothoth","translation":["[网络] 犹格·索托斯；约格·索托斯"],"phonetic":""}
 {"word":"yoga","sw":"yoga","translation":["n. 瑜珈"],"phonetic":"ˈjəʊɡə|ˈjəʊɡə"}
 {"word":"Yogacara","sw":"yogacara","translation":["[网络] 瑜伽行派；瑜珈行派；瑜珈派"],"phonetic":""}
 {"word":"yogacaras","sw":"yogacaras","translation":["[网络] 瑜伽行派；瑜珈行派；瑜珈派","(yogacara 的复数)"],"phonetic":""}
@@ -4579,10 +3990,6 @@
 {"word":"yoghs","sw":"yoghs","translation":["[网络] 喁；中世纪的音标发音"],"phonetic":""}
 {"word":"yoghurd","sw":"yoghurd","translation":["[网络] 酸奶"],"phonetic":""}
 {"word":"yoghurt","sw":"yoghurt","translation":["n. 酸乳, 酸奶"],"phonetic":"'jәugә:t"}
-{"word":"yoghurt-knitter","sw":"yoghurtknitter","translation":["[网络] 酸奶编织"],"phonetic":""}
-{"word":"yoghurt-knitting","sw":"yoghurtknitting","translation":["[网络] 酸奶针织"],"phonetic":""}
-{"word":"yoghurt-maker","sw":"yoghurtmaker","translation":["[网络] 酸奶生成器"],"phonetic":""}
-{"word":"yoghurt-makers","sw":"yoghurtmakers","translation":["[网络] 酸奶壶"],"phonetic":""}
 {"word":"yoghurted","sw":"yoghurted","translation":["n.","= yogurt"],"phonetic":"'jɔɡət; 'jəu-"}
 {"word":"yoghurtlike","sw":"yoghurtlike","translation":["[网络] 酸奶样"],"phonetic":""}
 {"word":"yoghurts","sw":"yoghurts","translation":["n. 酸奶（等于yoghourt）；酸乳酪"],"phonetic":"'jɒɡət"}
@@ -4609,7 +4016,6 @@
 {"word":"yogourts","sw":"yogourts","translation":["[网络] 酸奶"],"phonetic":""}
 {"word":"Yogun","sw":"yogun","translation":["约温"],"phonetic":""}
 {"word":"yogurt","sw":"yogurt","translation":["n. 酸乳酪","[医] 酸乳"],"phonetic":"'jɔ^әt"}
-{"word":"yogurt-maker","sw":"yogurtmaker","translation":["[网络] 酸奶机；酸奶制造机；酸奶机及配件"],"phonetic":""}
 {"word":"yogurtlike","sw":"yogurtlike","translation":["[网络] 酸奶样"],"phonetic":""}
 {"word":"yogurts","sw":"yogurts","translation":["(yogurt 的复数) n. 酸乳酪","[医] 酸乳"],"phonetic":""}
 {"word":"yogurty","sw":"yogurty","translation":["[网络] 酸奶"],"phonetic":""}
@@ -4628,7 +4034,6 @@
 {"word":"yohimbane","sw":"yohimbane","translation":["育亨烷"],"phonetic":",jәu'himbein"}
 {"word":"Yohimbans","sw":"yohimbans","translation":["育亨烷类"],"phonetic":""}
 {"word":"yohimbe","sw":"yohimbe","translation":["(=yohimbi)育亨宾树"],"phonetic":"jә'himbi"}
-{"word":"yohimbe-alkaloid","sw":"yohimbealkaloid","translation":["育亨宾硷类"],"phonetic":""}
 {"word":"yohimbehe","sw":"yohimbehe","translation":["育亨树皮"],"phonetic":"jә'himbәhi"}
 {"word":"yohimbene","sw":"yohimbene","translation":["育亨烯,假育亨宾"],"phonetic":""}
 {"word":"yohimbenine","sw":"yohimbenine","translation":["[医] 育亨宾宁硷"],"phonetic":""}
@@ -4646,15 +4051,11 @@
 {"word":"yohnka","sw":"yohnka","translation":["[网络] 约翰卡"],"phonetic":""}
 {"word":"yohnson","sw":"yohnson","translation":["[网络] 约翰逊"],"phonetic":""}
 {"word":"yoho","sw":"yoho","translation":["int. 【航】唷嗬","[网络] 鹤；幽鹤；有货"],"phonetic":""}
-{"word":"yoho-noside","sw":"yohonoside","translation":["约康甙"],"phonetic":""}
 {"word":"yohonoside","sw":"yohonoside","translation":["约康甙"],"phonetic":""}
 {"word":"Yohophyllum","sw":"yohophyllum","translation":["乐氏珊瑚"],"phonetic":""}
 {"word":"yohourt","sw":"yohourt","translation":["n. = yogurt"],"phonetic":"'jəuuət"}
 {"word":"yoi","sw":"yoi","translation":["[网络] Young Optics Incorporated; 阿呆柚; 哲希"],"phonetic":""}
 {"word":"yoichi","sw":"yoichi","translation":["n. (Yoichi)人名；(日)代市(姓)","余市"],"phonetic":""}
-{"word":"Yoichi-dake","sw":"yoichidake","translation":["[地名] 余市岳 ( 日 )"],"phonetic":""}
-{"word":"Yoichi-gawa","sw":"yoichigawa","translation":["[地名] 余市川 ( 日 )"],"phonetic":""}
-{"word":"Yoichi-gun","sw":"yoichigun","translation":["余市郡"],"phonetic":""}
 {"word":"yoichiro","sw":"yoichiro","translation":["[网络] 余一郎；余市郎；与一郎"],"phonetic":""}
 {"word":"yoichis","sw":"yoichis","translation":["n. (Yoichi)人名；(日)代市(姓)","余市","(yoichi 的复数)"],"phonetic":""}
 {"word":"yoick","sw":"yoick","translation":["v. 唷(催赶猎狗前进所发出的声音)"],"phonetic":"jɔik"}
@@ -4688,14 +4089,7 @@
 {"word":"Yokaichiba","sw":"yokaichiba","translation":["八日市场"],"phonetic":""}
 {"word":"yokan","sw":"yokan","translation":["[网络] 予感；羊羹；预感"],"phonetic":""}
 {"word":"Yokawa","sw":"yokawa","translation":["[地名] 吉川 ( 日 )"],"phonetic":""}
-{"word":"Yokchi-do","sw":"yokchido","translation":["欲知岛"],"phonetic":""}
 {"word":"yoke","sw":"yoke","translation":["n. 轭, 牛轭, 束缚","vt. 给...上轭, 连接, 结合, 使匹配","vi. 结合, 匹配","[计] 磁轭; 磁头组; 偏转线圈"],"phonetic":"jәuk"}
-{"word":"yoke-cam","sw":"yokecam","translation":["n. 框形定幅凸轮机构"],"phonetic":"'jəʊkk'æm"}
-{"word":"yoke-fellow","sw":"yokefellow","translation":["[网络] 同负一轭的；同负一轭的伙伴"],"phonetic":""}
-{"word":"yoke-footed","sw":"yokefooted","translation":["[网络] 轭脚"],"phonetic":""}
-{"word":"yoke-mate","sw":"yokemate","translation":["n. 伙伴；同事；配偶"],"phonetic":"'jəʊkmeɪt"}
-{"word":"yoke-style","sw":"yokestyle","translation":["[网络] 育克裙"],"phonetic":""}
-{"word":"yoke-toed","sw":"yoketoed","translation":["a. [鸟]对生趾的, 脚掌前后有双趾的"],"phonetic":"'jәjktәjd"}
 {"word":"yokeable","sw":"yokeable","translation":["[网络] 可轭"],"phonetic":""}
 {"word":"yokeag","sw":"yokeag","translation":["[网络] 轭"],"phonetic":""}
 {"word":"yokeage","sw":"yokeage","translation":["[网络] 阴谋"],"phonetic":""}
@@ -4706,7 +4100,6 @@
 {"word":"Yokefleet","sw":"yokefleet","translation":["[地名] 约克弗利特 ( 英 )"],"phonetic":""}
 {"word":"yokefleets","sw":"yokefleets","translation":["[地名] 约克弗利特 ( 英 )","(yokefleet 的复数)"],"phonetic":""}
 {"word":"yokel","sw":"yokel","translation":["n. (贬)乡巴佬, 土包子, 乡下佬"],"phonetic":"'jәukәl"}
-{"word":"yokel-like","sw":"yokellike","translation":["[网络] 像yokel一样"],"phonetic":""}
 {"word":"yokeless","sw":"yokeless","translation":["[网络] 无耻的"],"phonetic":""}
 {"word":"yokelet","sw":"yokelet","translation":["[网络] yoke"],"phonetic":""}
 {"word":"yokelets","sw":"yokelets","translation":["[网络] yoke子"],"phonetic":""}
@@ -4733,9 +4126,6 @@
 {"word":"yokking","sw":"yokking","translation":["yokking","vi., vt.","yok的变形","yok","[jɔk]","[美国俚语]","n.","哈哈大笑","(引人发笑的)播种打诨，笑话","vi., vt.","(使)大笑","变形：","vi., vt.","yokked",". yokking"],"phonetic":"jɔk"}
 {"word":"yoknapatawpha","sw":"yoknapatawpha","translation":["[网络] 约克纳帕塔法；约克纳帕塔法郡；约克纳帕塔法世系"],"phonetic":""}
 {"word":"yoko","sw":"yoko","translation":["n. 韩国伊可服饰"],"phonetic":""}
-{"word":"yoko-shiho-gatame","sw":"yokoshihogatame","translation":["[网络] 横四方固"],"phonetic":""}
-{"word":"Yoko-shima","sw":"yokoshima","translation":["[地名] 横岛 ( 日 )"],"phonetic":""}
-{"word":"Yokoate-jima","sw":"yokoatejima","translation":["[地名] 横当岛 ( 日 )"],"phonetic":""}
 {"word":"yokogawa","sw":"yokogawa","translation":["[地名] [日本] 横川"],"phonetic":""}
 {"word":"Yokogoshi","sw":"yokogoshi","translation":["[地名] 横越 ( 日 )"],"phonetic":""}
 {"word":"yokohama","sw":"yokohama","translation":["n. 横滨（日本一城市名）"],"phonetic":"'jәukә'hɑ:mә"}
@@ -4757,7 +4147,6 @@
 {"word":"yokosukas","sw":"yokosukas","translation":["n. 横须贺（日本本州岛东南岸港市）"],"phonetic":",jəukə'su:kə; 'jɔ:kɔ:'su:kɑ:"}
 {"word":"yokota","sw":"yokota","translation":["[地名] [日本] 横田; [地名] [中非共和国] 约科塔"],"phonetic":""}
 {"word":"Yokote","sw":"yokote","translation":["[地名] 横手 ( 日 )"],"phonetic":""}
-{"word":"Yokotsu-dake","sw":"yokotsudake","translation":["[地名] 横津岳 ( 日 )"],"phonetic":""}
 {"word":"yokoyama","sw":"yokoyama","translation":["n. (Yokoyama)人名；(日)横山(姓)"],"phonetic":""}
 {"word":"Yokoze","sw":"yokoze","translation":["[地名] 横濑 ( 日 )"],"phonetic":""}
 {"word":"yokozuna","sw":"yokozuna","translation":["(Jap) 横纲（相扑的三名最高级别之一）"],"phonetic":",jәukә'zu:nә"}
@@ -4795,12 +4184,6 @@
 {"word":"Yolhuitz","sw":"yolhuitz","translation":["[地名] 约尔维茨 ( 危 )"],"phonetic":""}
 {"word":"yoli","sw":"yoli","translation":["[网络] 优莉；奥特山榄木；斐斐"],"phonetic":""}
 {"word":"yolk","sw":"yolk","translation":["n. 蛋黄, 卵黄","[医] 卵黄, 羊毛脂"],"phonetic":"jәuk"}
-{"word":"Yolk-epithelium","sw":"yolkepithelium","translation":["卵黄外皮"],"phonetic":""}
-{"word":"yolk-sac","sw":"yolksac","translation":["卵黄囊"],"phonetic":""}
-{"word":"yolk-sacs","sw":"yolksacs","translation":["（等于yolk bag）卵黄囊"],"phonetic":""}
-{"word":"yolk-stopper","sw":"yolkstopper","translation":["[医] 卵黄栓"],"phonetic":""}
-{"word":"yolk-yellow","sw":"yolkyellow","translation":["un. 蛋黄色","[网络] 鸡蛋黄；卵黄色；黄色系"],"phonetic":""}
-{"word":"yolk-yellows","sw":"yolkyellows","translation":["un. 蛋黄色","[网络] 鸡蛋黄；卵黄色；黄色系","(yolk-yellow 的复数)"],"phonetic":""}
 {"word":"yolke","sw":"yolke","translation":["[网络] 蛋黄"],"phonetic":""}
 {"word":"yolked","sw":"yolked","translation":["(yolk 的过去分词) n. 蛋黄, 卵黄","[医] 卵黄, 羊毛脂"],"phonetic":""}
 {"word":"yolker","sw":"yolker","translation":["n. 蛋黄；【胚胎学】卵黄[亦作 hoke]"],"phonetic":"jəʊk"}
@@ -4844,7 +4227,6 @@
 {"word":"Yombo","sw":"yombo","translation":["[地名] 永博 ( 坦桑、中非 )"],"phonetic":""}
 {"word":"yomboes","sw":"yomboes","translation":["[地名] 永博 ( 坦桑、中非 )","(yombo 的复数)"],"phonetic":""}
 {"word":"yome","sw":"yome","translation":["[网络] 你我；情侣品牌；情侣表"],"phonetic":""}
-{"word":"Yome-jima","sw":"yomejima","translation":["[地名] 嫁岛 ( 日 )"],"phonetic":""}
 {"word":"yomega","sw":"yomega","translation":["[网络] 美国悠米格；比赛级悠悠球；尤美加"],"phonetic":""}
 {"word":"yomeimon","sw":"yomeimon","translation":["[网络] 正殿入口阳明门"],"phonetic":""}
 {"word":"yomer","sw":"yomer","translation":["[网络] 瑜之美"],"phonetic":""}
@@ -4858,7 +4240,6 @@
 {"word":"yomiuris","sw":"yomiuris","translation":["[网络] 读卖新闻；日本读卖新闻；読売新闻","(yomiuri 的复数)"],"phonetic":""}
 {"word":"yommer","sw":"yommer","translation":["n. [用以构成表示犹太节日的名词]节，日"],"phonetic":"jɔm; jɔ:m; jəum"}
 {"word":"Yomogida","sw":"yomogida","translation":["[地名] 蓬田 ( 日 )"],"phonetic":""}
-{"word":"Yomogida-dake","sw":"yomogidadake","translation":["[地名] 蓬田岳 ( 日 )"],"phonetic":""}
 {"word":"yomon","sw":"yomon","translation":["[网络] 。"],"phonetic":""}
 {"word":"Yomou","sw":"yomou","translation":["[地名] 约穆 ( 几 )"],"phonetic":""}
 {"word":"yomp","sw":"yomp","translation":["v. (负重)吃力地行走(于),艰苦跋涉于"],"phonetic":"jɔmp"}
@@ -4872,14 +4253,11 @@
 {"word":"yoms","sw":"yoms","translation":["n. （犹太）日子","n. (Yom)人名；(以)约姆"],"phonetic":"jɔm"}
 {"word":"Yomud","sw":"yomud","translation":["[网络] 约穆德部"],"phonetic":""}
 {"word":"yon","sw":"yon","translation":["a. 那边的, 远处的","adv. 在那边, 在远处","n. 那边, 那边/远处的东西, 远处"],"phonetic":"jɔn"}
-{"word":"Yon-do","sw":"yondo","translation":["烟岛"],"phonetic":""}
 {"word":"yona","sw":"yona","translation":["n. (Yona)人名；(日)与那(姓)；(以、乌干、坦桑)约纳"],"phonetic":""}
 {"word":"Yonabaru","sw":"yonabaru","translation":["[地名] 与那原 ( 日 )"],"phonetic":""}
 {"word":"Yonago","sw":"yonago","translation":["[地名] 米子 ( 日 )"],"phonetic":""}
 {"word":"Yonaguni","sw":"yonaguni","translation":["[地名] 与那国 ( 日 )"],"phonetic":""}
-{"word":"Yonaguni-jima","sw":"yonagunijima","translation":["[地名] 与那国岛 ( 日 )"],"phonetic":""}
 {"word":"yonah","sw":"yonah","translation":["n. 因特尔开发的一款移动处理器"],"phonetic":""}
-{"word":"Yonaha-dake","sw":"yonahadake","translation":["[地名] 与那霸岳 ( 日 )"],"phonetic":""}
 {"word":"yonai","sw":"yonai","translation":["[网络] 米内"],"phonetic":""}
 {"word":"Yonan","sw":"yonan","translation":["延安"],"phonetic":""}
 {"word":"yonas","sw":"yonas","translation":["[人名] 约纳斯"],"phonetic":""}
@@ -4903,21 +4281,16 @@
 {"word":"Yondok","sw":"yondok","translation":["盈德"],"phonetic":""}
 {"word":"Yondon","sw":"yondon","translation":["[地名] 永东 ( 缅 )"],"phonetic":""}
 {"word":"yone","sw":"yone","translation":["[网络] 米原康正；佑昵；春元阀门"],"phonetic":""}
-{"word":"Yone-yama","sw":"yoneyama","translation":["[地名] 米山 ( 日 )"],"phonetic":""}
 {"word":"yoneda","sw":"yoneda","translation":["[网络] 米田；日本米田；与子田"],"phonetic":""}
 {"word":"yoneichi","sw":"yoneichi","translation":["[网络] 一日"],"phonetic":""}
 {"word":"yonekura","sw":"yonekura","translation":["[网络] 米仓"],"phonetic":""}
 {"word":"yoner","sw":"yoner","translation":["[古语、方言]","adv.,adj. 远处的；那边的；在远处，那边","pron. 在远处(或那儿)的物(或人)"],"phonetic":"jɒn"}
-{"word":"Yoneshiro-gawa","sw":"yoneshirogawa","translation":["[地名] 米代川 ( 日 )"],"phonetic":""}
 {"word":"yonest","sw":"yonest","translation":["[古语、方言]","adv.,adj. 远处的；那边的；在远处，那边","pron. 在远处(或那儿)的物(或人)"],"phonetic":"jɒn"}
 {"word":"yonex","sw":"yonex","translation":["n. 尤尼克斯（运动品牌名）"],"phonetic":""}
 {"word":"yonexes","sw":"yonexes","translation":["n. 尤尼克斯（运动品牌名）","(yonex 的复数)"],"phonetic":""}
 {"word":"yoneyama","sw":"yoneyama","translation":["[地名] [日本] 米山"],"phonetic":""}
 {"word":"yonezawa","sw":"yonezawa","translation":["[地名] [日本] 米泽"],"phonetic":""}
 {"word":"yong","sw":"yong","translation":["n. 勇（汉语拼音）"],"phonetic":""}
-{"word":"Yong-am","sw":"yongam","translation":["[地名] 龙岩 ( 朝 )"],"phonetic":""}
-{"word":"Yong-dong","sw":"yongdong","translation":["龙洞"],"phonetic":""}
-{"word":"Yong-ni","sw":"yongni","translation":["龙里"],"phonetic":""}
 {"word":"Yongala","sw":"yongala","translation":["[地名] 扬格拉 ( 澳 )"],"phonetic":""}
 {"word":"Yongam","sw":"yongam","translation":["龙巖"],"phonetic":""}
 {"word":"Yongampo","sw":"yongampo","translation":["龙严浦"],"phonetic":""}
@@ -4927,7 +4300,6 @@
 {"word":"yongbo","sw":"yongbo","translation":["[网络] 郑州勇搏科技"],"phonetic":""}
 {"word":"yongboes","sw":"yongboes","translation":["[网络] 郑州勇搏科技","(yongbo 的复数)"],"phonetic":""}
 {"word":"Yongbong","sw":"yongbong","translation":["[地名] 岭峰 ( 朝 )"],"phonetic":""}
-{"word":"Yongbuk-dong","sw":"yongbukdong","translation":["龙北洞"],"phonetic":""}
 {"word":"yongbyon","sw":"yongbyon","translation":["[网络] 宁边；宁边核设施"],"phonetic":""}
 {"word":"yongbyons","sw":"yongbyons","translation":["n. 宁边（朝鲜地名）"],"phonetic":""}
 {"word":"yongchaiyudh","sw":"yongchaiyudh","translation":["[网络] 永柴"],"phonetic":""}
@@ -4936,32 +4308,21 @@
 {"word":"yongchaiyuts","sw":"yongchaiyuts","translation":["永猜裕","(yongchaiyut 的复数)"],"phonetic":""}
 {"word":"yongchang","sw":"yongchang","translation":["[网络] 永昌；英昌"],"phonetic":""}
 {"word":"yongchangs","sw":"yongchangs","translation":["[网络] 永昌；英昌","(yongchang 的复数)"],"phonetic":""}
-{"word":"Yongchol-li","sw":"yongcholli","translation":["龙川里"],"phonetic":""}
-{"word":"Yongchon-dong","sw":"yongchondong","translation":["龙川洞"],"phonetic":""}
 {"word":"Yongdae","sw":"yongdae","translation":["[地名] 龙台 ( 朝 )"],"phonetic":""}
 {"word":"Yongdam","sw":"yongdam","translation":["龙潭"],"phonetic":""}
 {"word":"Yongdang","sw":"yongdang","translation":["[地名] 龙塘 ( 韩 )"],"phonetic":""}
 {"word":"Yongding","sw":"yongding","translation":["[网络] 永定"],"phonetic":""}
-{"word":"Yongdong-ni","sw":"yongdongni","translation":["龙洞里"],"phonetic":""}
 {"word":"Yongduam","sw":"yongduam","translation":["[地名] 龙头岩 ( 韩 )"],"phonetic":""}
 {"word":"yonge","sw":"yonge","translation":["[人名] [英格兰人姓氏] 扬 Young的变体"],"phonetic":""}
 {"word":"yonges","sw":"yonges","translation":["(yonge 的复数)  [人名] [英格兰人姓氏] 扬 Young的变体"],"phonetic":""}
 {"word":"yongfrow","sw":"yongfrow","translation":["[网络] 永福"],"phonetic":""}
 {"word":"Yongfu","sw":"yongfu","translation":["[网络] 永福县；用户"],"phonetic":""}
 {"word":"Yonggang","sw":"yonggang","translation":["[地名] 龙冈 ( 朝 )"],"phonetic":""}
-{"word":"Yonggang-gun","sw":"yongganggun","translation":["龙冈郡"],"phonetic":""}
 {"word":"Yonggye","sw":"yonggye","translation":["[地名] 龙溪 ( 韩 )"],"phonetic":""}
-{"word":"Yonggye-ri","sw":"yonggyeri","translation":["[地名] 龙溪里 ( 朝 )"],"phonetic":""}
-{"word":"Yonggyo-ri","sw":"yonggyori","translation":["[地名] 龙桥里 ( 朝 )"],"phonetic":""}
 {"word":"Yonghae","sw":"yonghae","translation":["[地名] 宁海 ( 韩 )"],"phonetic":""}
-{"word":"Yonghae-ri","sw":"yonghaeri","translation":["宁海里"],"phonetic":""}
-{"word":"Yonghung-do","sw":"yonghungdo","translation":["永兴岛"],"phonetic":""}
-{"word":"Yonghung-ni","sw":"yonghungni","translation":["永兴里"],"phonetic":""}
-{"word":"Yonghwa-ni","sw":"yonghwani","translation":["龙化里"],"phonetic":""}
 {"word":"Yonghyon","sw":"yonghyon","translation":["龙岘"],"phonetic":""}
 {"word":"Yongi","sw":"yongi","translation":["燕岐"],"phonetic":""}
 {"word":"Yongin","sw":"yongin","translation":["[地名] 龙仁 ( 韩 )"],"phonetic":""}
-{"word":"Yongjeo-man","sw":"yongjeoman","translation":["迎月湾"],"phonetic":""}
 {"word":"yongjia","sw":"yongjia","translation":["[网络] 永嘉；自由落体；海报"],"phonetic":""}
 {"word":"Yongjinwon","sw":"yongjinwon","translation":["龙池院"],"phonetic":""}
 {"word":"Yongju","sw":"yongju","translation":["荣州"],"phonetic":""}
@@ -4971,53 +4332,34 @@
 {"word":"yonglian","sw":"yonglian","translation":["[网络] 永联"],"phonetic":""}
 {"word":"yongling","sw":"yongling","translation":["n. 年轻人, 幼小动物, 幼树, 幼苗, 没有经验的人, 新手","a. 年轻的, 没有经验的, 幼小的"],"phonetic":""}
 {"word":"Yongmaedo","sw":"yongmaedo","translation":["[地名] 龙媒岛 ( 朝 )"],"phonetic":""}
-{"word":"Yongmi-dong","sw":"yongmidong","translation":["岭美洞"],"phonetic":""}
-{"word":"Yongmi-ni","sw":"yongmini","translation":["龙米里"],"phonetic":""}
 {"word":"Yongmun","sw":"yongmun","translation":["[地名] 龙门 ( 朝、韩 )"],"phonetic":""}
-{"word":"Yongmun-dong","sw":"yongmundong","translation":["龙门洞"],"phonetic":""}
 {"word":"Yongmunsan","sw":"yongmunsan","translation":["[地名] 龙门山 ( 韩 )"],"phonetic":""}
 {"word":"Yongnae","sw":"yongnae","translation":["龙内"],"phonetic":""}
-{"word":"Yongnam-ri","sw":"yongnamri","translation":["[地名] 龙南里 ( 朝 )"],"phonetic":""}
 {"word":"Yongnian","sw":"yongnian","translation":["[网络] 永年县"],"phonetic":""}
 {"word":"Yongnim","sw":"yongnim","translation":["[地名] 龙林 ( 朝 )"],"phonetic":""}
-{"word":"Yongnim-dong","sw":"yongnimdong","translation":["龙林洞"],"phonetic":""}
-{"word":"Yongnim-ri","sw":"yongnimri","translation":["[地名] 龙林里 ( 朝 )"],"phonetic":""}
 {"word":"yongning","sw":"yongning","translation":["[网络] 永宁"],"phonetic":""}
-{"word":"Yongo-ri","sw":"yongori","translation":["[地名] 龙五里 ( 朝 )"],"phonetic":""}
 {"word":"Yongok","sw":"yongok","translation":["烟谷"],"phonetic":""}
 {"word":"Yongping","sw":"yongping","translation":["[网络] 永平"],"phonetic":""}
 {"word":"Yongpo","sw":"yongpo","translation":["龙浦"],"phonetic":""}
-{"word":"Yongpo-ri","sw":"yongpori","translation":["龙浦里"],"phonetic":""}
 {"word":"Yongpung","sw":"yongpung","translation":["延丰"],"phonetic":""}
-{"word":"Yongpyong-dong","sw":"yongpyongdong","translation":["龙坪洞"],"phonetic":""}
 {"word":"Yongquan","sw":"yongquan","translation":["涌泉"],"phonetic":""}
 {"word":"yongs","sw":"yongs","translation":["n. 勇（汉语拼音）"],"phonetic":""}
 {"word":"yongsan","sw":"yongsan","translation":["[地名] [韩国] 龙山"],"phonetic":""}
-{"word":"Yongsan-gang","sw":"yongsangang","translation":["荣山江"],"phonetic":""}
 {"word":"Yongsang","sw":"yongsang","translation":["延上"],"phonetic":""}
 {"word":"Yongsanpo","sw":"yongsanpo","translation":["荣山浦"],"phonetic":""}
-{"word":"Yongseong-ri","sw":"yongseongri","translation":["龙星里"],"phonetic":""}
 {"word":"Yongsong","sw":"yongsong","translation":["龙城"],"phonetic":""}
 {"word":"Yongsu","sw":"yongsu","translation":["甬疏, 两水"],"phonetic":""}
 {"word":"Yongsung","sw":"yongsung","translation":["[网络] 龙声；韩国龙声；龙声电机株式会社"],"phonetic":""}
 {"word":"Yongtuan","sw":"yongtuan","translation":["[网络] 团勇"],"phonetic":""}
 {"word":"yongu","sw":"yongu","translation":["[网络] 永古"],"phonetic":""}
 {"word":"yongue","sw":"yongue","translation":["[网络] 永乐"],"phonetic":""}
-{"word":"Yongul-li","sw":"yongulli","translation":["岭云里"],"phonetic":""}
 {"word":"Yongun","sw":"yongun","translation":["龙云"],"phonetic":""}
-{"word":"Yongung-ni","sw":"yongungni","translation":["龙云里"],"phonetic":""}
-{"word":"Yongwol-li","sw":"yongwolli","translation":["龙院里"],"phonetic":""}
 {"word":"Yongwon","sw":"yongwon","translation":["龙院"],"phonetic":""}
 {"word":"Yongxiang","sw":"yongxiang","translation":["[网络] 向勇；项勇"],"phonetic":""}
 {"word":"Yongyon","sw":"yongyon","translation":["龙渊"],"phonetic":""}
-{"word":"Yongyon-dong","sw":"yongyondong","translation":["龙渊洞"],"phonetic":""}
-{"word":"Yongyu-do","sw":"yongyudo","translation":["龙游岛"],"phonetic":""}
-{"word":"Yongyu-ri","sw":"yongyuri","translation":["龙游里"],"phonetic":""}
 {"word":"Yongzheng","sw":"yongzheng","translation":["雍正"],"phonetic":""}
 {"word":"Yongzhou","sw":"yongzhou","translation":["永州（中国地名）"],"phonetic":""}
-{"word":"Yonha-dong","sw":"yonhadong","translation":["烟霞洞"],"phonetic":""}
 {"word":"yonhap","sw":"yonhap","translation":["n. 韩国联合通讯社"],"phonetic":""}
-{"word":"Yonhwa-dong","sw":"yonhwadong","translation":["莲花洞"],"phonetic":""}
 {"word":"yoni","sw":"yoni","translation":["n. (印度教象征性力女神而受教徒崇拜的)女性外阴像"],"phonetic":"'jәuni"}
 {"word":"yonic","sw":"yonic","translation":[],"phonetic":""}
 {"word":"yonie","sw":"yonie","translation":["[网络] 于欣瑶"],"phonetic":""}
@@ -5048,7 +4390,6 @@
 {"word":"Yonshon","sw":"yonshon","translation":["延寿"],"phonetic":""}
 {"word":"yonside","sw":"yonside","translation":["[网络] 在旁边"],"phonetic":""}
 {"word":"yonste","sw":"yonste","translation":["[网络] 永斯特"],"phonetic":""}
-{"word":"Yonsu-ri","sw":"yonsuri","translation":["莲水里"],"phonetic":""}
 {"word":"yont","sw":"yont","translation":["[网络] 没有"],"phonetic":""}
 {"word":"yonte","sw":"yonte","translation":["永特"],"phonetic":""}
 {"word":"yonthe","sw":"yonthe","translation":["[网络] 呵呵"],"phonetic":""}
@@ -5058,10 +4399,6 @@
 {"word":"yonville","sw":"yonville","translation":["[网络] 永城；永维镇；雍维尔"],"phonetic":""}
 {"word":"yonward","sw":"yonward","translation":["[网络] y ward"],"phonetic":""}
 {"word":"yoo","sw":"yoo","translation":["n. (Yoo)人名；(朝)见 Yu"],"phonetic":""}
-{"word":"yoo-ee","sw":"yooee","translation":[],"phonetic":""}
-{"word":"yoo-ees","sw":"yooees","translation":[],"phonetic":""}
-{"word":"yoo-hoo","sw":"yoohoo","translation":["interj. (以唤起注意)喂"],"phonetic":"'ju:,hu:"}
-{"word":"yoo-hoos","sw":"yoohoos","translation":["int. 喂","[网络] 为引起处的人注意时的叫声；么喝；引起人注意的叫声"],"phonetic":""}
 {"word":"yoobie","sw":"yoobie","translation":["[网络] 哟！"],"phonetic":""}
 {"word":"yood","sw":"yood","translation":["abbr. intrauterine device 子宫内避孕器（代号）"],"phonetic":"'jʊd"}
 {"word":"yoof","sw":"yoof","translation":["n. <谑>青年"],"phonetic":"ju:f"}
@@ -5132,7 +4469,6 @@
 {"word":"Yorito","sw":"yorito","translation":["[地名] 约里托 ( 洪 )"],"phonetic":""}
 {"word":"yoritomo","sw":"yoritomo","translation":["[网络] 源赖朝；赖朝"],"phonetic":""}
 {"word":"york","sw":"york","translation":["n. 约克郡；约克王朝"],"phonetic":"jɔ:k"}
-{"word":"york-area","sw":"yorkarea","translation":["[网络] 约克区"],"phonetic":""}
 {"word":"yorkais","sw":"yorkais","translation":["[网络] 约克莱"],"phonetic":""}
 {"word":"Yorkalnic","sw":"yorkalnic","translation":["约卡尼铝青铜｛含91%Cu，7%Al，2%Ni｝"],"phonetic":""}
 {"word":"yorkbased","sw":"yorkbased","translation":["[网络] 约克"],"phonetic":""}
@@ -5182,13 +4518,9 @@
 {"word":"yorne","sw":"yorne","translation":["[网络] 燕子"],"phonetic":""}
 {"word":"yornyman","sw":"yornyman","translation":["[网络] 燕子"],"phonetic":""}
 {"word":"yoro","sw":"yoro","translation":["[地名] [洪都拉斯、乍得] 约罗"],"phonetic":""}
-{"word":"Yoro-kawa","sw":"yorokawa","translation":["养老川"],"phonetic":""}
-{"word":"Yoro-shima","sw":"yoroshima","translation":["[地名] 与路岛 ( 日 )"],"phonetic":""}
 {"word":"Yorobougoula","sw":"yorobougoula","translation":["[地名] 约罗布古拉 ( 马里 )"],"phonetic":""}
 {"word":"Yorodougou","sw":"yorodougou","translation":["[地名] 约罗杜古 ( 科特 )"],"phonetic":""}
-{"word":"Yoroi-zaki","sw":"yoroizaki","translation":["[地名] 铠崎 ( 日 )"],"phonetic":""}
 {"word":"Yoron","sw":"yoron","translation":["[地名] 与论 ( 日 )"],"phonetic":""}
-{"word":"Yoron-jima","sw":"yoronjima","translation":["[地名] 与论岛 ( 日 )"],"phonetic":""}
 {"word":"Yorosso","sw":"yorosso","translation":["[地名] 约罗索 ( 马里 )"],"phonetic":""}
 {"word":"yorp","sw":"yorp","translation":["[网络] 约普；约普电器；约普集团公司"],"phonetic":""}
 {"word":"yors","sw":"yors","translation":["n. (Yor)人名；(葡)约尔","(yor 的复数)"],"phonetic":""}
@@ -5220,7 +4552,6 @@
 {"word":"yoshiaki","sw":"yoshiaki","translation":["[网络] 良明；义昭；美明"],"phonetic":""}
 {"word":"Yoshichol","sw":"yoshichol","translation":["利胆酚"],"phonetic":""}
 {"word":"yoshida","sw":"yoshida","translation":["n. 吉田（日本姓）","n. 吉田（地名, 在日本）"],"phonetic":""}
-{"word":"Yoshida-gawa","sw":"yoshidagawa","translation":["[地名] 吉田川 ( 日 )"],"phonetic":""}
 {"word":"yoshidas","sw":"yoshidas","translation":["[网络] 吉田舜"],"phonetic":""}
 {"word":"yoshie","sw":"yoshie","translation":["n. 【女名】女子名","[网络] 吉江；淑恵；优希"],"phonetic":""}
 {"word":"yoshigi","sw":"yoshigi","translation":["[网络] 嘴唇破洞的烂心情"],"phonetic":""}
@@ -5234,7 +4565,6 @@
 {"word":"yoshihisas","sw":"yoshihisas","translation":["[网络] 贺寿图","(yoshihisa 的复数)"],"phonetic":""}
 {"word":"Yoshihito","sw":"yoshihito","translation":["[网络] 嘉仁"],"phonetic":""}
 {"word":"yoshii","sw":"yoshii","translation":["[地名] [日本] 吉井〈福冈县、群马县〉; [地名] [日本] 芳井〈冈山县、后月郡〉"],"phonetic":""}
-{"word":"Yoshii-gawa","sw":"yoshiigawa","translation":["[地名] 吉井川 ( 日 )"],"phonetic":""}
 {"word":"Yoshiie","sw":"yoshiie","translation":["[网络] 义家弘介"],"phonetic":""}
 {"word":"yoshijiro","sw":"yoshijiro","translation":["[网络] 芳治郎；淑次郎；佳治郎"],"phonetic":""}
 {"word":"Yoshika","sw":"yoshika","translation":["[网络] 加藤美佳；二次幻想；祯香"],"phonetic":""}
@@ -5258,9 +4588,6 @@
 {"word":"yoshinaga","sw":"yoshinaga","translation":["[地名] [日本] 吉永"],"phonetic":""}
 {"word":"Yoshinari","sw":"yoshinari","translation":["[网络] 吉成"],"phonetic":""}
 {"word":"yoshino","sw":"yoshino","translation":["和纸"],"phonetic":"jә:'ʃi:nәu"}
-{"word":"Yoshino-gawa","sw":"yoshinogawa","translation":["[地名] 吉野川 ( 日 )"],"phonetic":""}
-{"word":"Yoshino-kawa","sw":"yoshinokawa","translation":["吉野川"],"phonetic":""}
-{"word":"Yoshino-yama","sw":"yoshinoyama","translation":["[地名] 吉野山 ( 日 )"],"phonetic":""}
 {"word":"yoshinobu","sw":"yoshinobu","translation":["[网络] 比利时"],"phonetic":""}
 {"word":"Yoshinodani","sw":"yoshinodani","translation":["[地名] 吉野谷 ( 日 )"],"phonetic":""}
 {"word":"yoshinori","sw":"yoshinori","translation":["n. (Yoshinori)人名；(日)喜则(姓)"],"phonetic":""}
@@ -5287,7 +4614,6 @@
 {"word":"Yoshiyasu","sw":"yoshiyasu","translation":["[网络] 义之子"],"phonetic":""}
 {"word":"Yoshiyuki","sw":"yoshiyuki","translation":["[网络] 吉行；陆奥守吉行"],"phonetic":""}
 {"word":"yoshizawa","sw":"yoshizawa","translation":["[网络] 吉泽；吉泽克仁；芳泽谦吉"],"phonetic":""}
-{"word":"Yoshkar-Ola","sw":"yoshkarola","translation":["[网络] 约什卡尔奥拉；约什卡欧拉；俄罗斯联邦"],"phonetic":""}
 {"word":"yoshoku","sw":"yoshoku","translation":["[网络] 洋食"],"phonetic":""}
 {"word":"yosi","sw":"yosi","translation":["[网络] 台北；余越；松山"],"phonetic":""}
 {"word":"yosimilon","sw":"yosimilon","translation":["二盐酸三甲氧苄嗪"],"phonetic":""}
@@ -5309,40 +4635,12 @@
 {"word":"yotation","sw":"yotation","translation":["[j] (音)化, 喻化"],"phonetic":",jәu'teiʃәn"}
 {"word":"yote","sw":"yote","translation":["[网络] 西非跳棋；黄心琳；爱克赛"],"phonetic":""}
 {"word":"yoted","sw":"yoted","translation":["[网络] 拨打"],"phonetic":""}
-{"word":"Yotei-zan","sw":"yoteizan","translation":["羊蹄山"],"phonetic":""}
 {"word":"yoten","sw":"yoten","translation":["[网络] 誉天；你好"],"phonetic":""}
 {"word":"yotization","sw":"yotization","translation":["n. [语](用作半元音的字母y的)[j] 音化"],"phonetic":",jәuti'zeiʃәn"}
 {"word":"yots","sw":"yots","translation":["[网络] 红蛇；中国新年；元宵节"],"phonetic":""}
-{"word":"yotsu-zumo","sw":"yotsuzumo","translation":[],"phonetic":""}
 {"word":"Yotsukaido","sw":"yotsukaido","translation":["四街道"],"phonetic":""}
 {"word":"yott","sw":"yott","translation":["[网络] 璋堢瑧；摇头"],"phonetic":""}
 {"word":"yotta","sw":"yotta","translation":["尧"],"phonetic":"'jɒtə"}
-{"word":"yotta-ampere","sw":"yottaampere","translation":["[网络] yotta安培"],"phonetic":""}
-{"word":"yotta-amperes","sw":"yottaamperes","translation":["[网络] yotta安培"],"phonetic":""}
-{"word":"yotta-coulomb","sw":"yottacoulomb","translation":["[网络] yotta库仑"],"phonetic":""}
-{"word":"yotta-coulombs","sw":"yottacoulombs","translation":["[网络] yotta库仑"],"phonetic":""}
-{"word":"yotta-cycle","sw":"yottacycle","translation":["[网络] yotta循环"],"phonetic":""}
-{"word":"yotta-cycles","sw":"yottacycles","translation":["[网络] yotta循环"],"phonetic":""}
-{"word":"yotta-farads","sw":"yottafarads","translation":["[网络] yotta法拉斯"],"phonetic":""}
-{"word":"yotta-grams","sw":"yottagrams","translation":["[网络] yotta-克"],"phonetic":""}
-{"word":"yotta-gray","sw":"yottagray","translation":["[网络] yotta-grey"],"phonetic":""}
-{"word":"yotta-grays","sw":"yottagrays","translation":["[网络] 太阳灰"],"phonetic":""}
-{"word":"yotta-hertz","sw":"yottahertz","translation":["[网络] yotta-赫兹"],"phonetic":""}
-{"word":"yotta-joules","sw":"yottajoules","translation":["[网络] yotta焦耳"],"phonetic":""}
-{"word":"yotta-kelvin","sw":"yottakelvin","translation":["[网络] 开朗开尔文"],"phonetic":""}
-{"word":"yotta-lumen","sw":"yottalumen","translation":["[网络] yotta流明"],"phonetic":""}
-{"word":"yotta-lumens","sw":"yottalumens","translation":["[网络] yotta流明"],"phonetic":""}
-{"word":"yotta-meter","sw":"yottameter","translation":["[网络] yotta米"],"phonetic":""}
-{"word":"yotta-metre","sw":"yottametre","translation":["[网络] yotta米"],"phonetic":""}
-{"word":"yotta-metres","sw":"yottametres","translation":["[网络] yotta-meters"],"phonetic":""}
-{"word":"yotta-moles","sw":"yottamoles","translation":["[网络] ta moles"],"phonetic":""}
-{"word":"yotta-newtons","sw":"yottanewtons","translation":["[网络] yotta牛顿"],"phonetic":""}
-{"word":"yotta-ohms","sw":"yottaohms","translation":["[网络] 哟哦哦"],"phonetic":""}
-{"word":"yotta-radians","sw":"yottaradians","translation":["[网络] 太阳弧"],"phonetic":""}
-{"word":"yotta-seconds","sw":"yottaseconds","translation":["[网络] yotta秒"],"phonetic":""}
-{"word":"yotta-tesla","sw":"yottatesla","translation":["[网络] yotta特斯拉"],"phonetic":""}
-{"word":"yotta-volts","sw":"yottavolts","translation":["[网络] yotta-volt"],"phonetic":""}
-{"word":"yotta-watt","sw":"yottawatt","translation":["[网络] yotta-瓦特"],"phonetic":""}
 {"word":"yottabit","sw":"yottabit","translation":["[网络] 秭位元"],"phonetic":""}
 {"word":"yottabyte","sw":"yottabyte","translation":["[网络] 尧字节；佑字节；秭位元组"],"phonetic":""}
 {"word":"yottabytes","sw":"yottabytes","translation":["[网络] 秭字节"],"phonetic":""}
@@ -5366,31 +4664,6 @@
 {"word":"Yotvingian","sw":"yotvingian","translation":["[网络] 约特文基人"],"phonetic":""}
 {"word":"yotzei","sw":"yotzei","translation":[],"phonetic":""}
 {"word":"you","sw":"you","translation":["pron. 你, 你们"],"phonetic":"ju|jə"}
-{"word":"you-all","sw":"youall","translation":["你们大家, 你"],"phonetic":"'ju:ɔ:l, 'ju:l"}
-{"word":"you-are-not-alone","sw":"youarenotalone","translation":["[网络] 你并不孤单；你并不孤独；你不孤独"],"phonetic":""}
-{"word":"you-are-there","sw":"youarethere","translation":["[网络] 你在那里；你在那儿；您是有"],"phonetic":""}
-{"word":"you-can","sw":"youcan","translation":["[网络] 你可以；你能；只有你"],"phonetic":""}
-{"word":"you-can-do-it","sw":"youcandoit","translation":["[网络] 你能做到；你能行；你可以的"],"phonetic":""}
-{"word":"you-drive","sw":"youdrive","translation":["[网络] 你来遥控台"],"phonetic":""}
-{"word":"you-drives","sw":"youdrives","translation":["[网络] 你来遥控台","(you-drive 的复数)"],"phonetic":""}
-{"word":"you-go","sw":"yougo","translation":["[网络] 你去；你走；你就在哪"],"phonetic":""}
-{"word":"you-hoo","sw":"youhoo","translation":["[网络] 哟嗬；你哦；你真强"],"phonetic":""}
-{"word":"you-how","sw":"youhow","translation":["[网络] 你怎麽了"],"phonetic":""}
-{"word":"you-in","sw":"youin","translation":["[网络] 上车了"],"phonetic":""}
-{"word":"you-know-what","sw":"youknowwhat","translation":["那个东西"],"phonetic":""}
-{"word":"you-know-whats","sw":"youknowwhats","translation":["你知道的；不想直说的事"],"phonetic":"'ju:nəu'hwɔt"}
-{"word":"you-know-where","sw":"youknowwhere","translation":["[网络] 你知道就是哪里嘛；你知道是哪里；你知道的那里"],"phonetic":""}
-{"word":"you-know-who","sw":"youknowwho","translation":["[网络] 神秘人；那个人；你知道谁"],"phonetic":""}
-{"word":"you-my","sw":"youmy","translation":["[网络] 我的你"],"phonetic":""}
-{"word":"you-name-it","sw":"younameit","translation":["[网络] 名；定名"],"phonetic":""}
-{"word":"you-one","sw":"youone","translation":["[网络] 城；优旺城"],"phonetic":""}
-{"word":"you-pick","sw":"youpick","translation":["[网络] 你采摘"],"phonetic":""}
-{"word":"you-the","sw":"youthe","translation":["[网络] 早晨几点起床"],"phonetic":""}
-{"word":"you-uns","sw":"youuns","translation":["[网络] 你不"],"phonetic":""}
-{"word":"you-well","sw":"youwell","translation":["[网络] 我们都希望你好；你好不好"],"phonetic":""}
-{"word":"you-what","sw":"youwhat","translation":["[网络] 你什么；你说什麽；你怎么了"],"phonetic":""}
-{"word":"you-with","sw":"youwith","translation":["[网络] 你跟"],"phonetic":""}
-{"word":"you-your","sw":"youyour","translation":["[网络] 你的"],"phonetic":""}
 {"word":"youand","sw":"youand","translation":["[网络] 江月儿；不知去向的同事约兰德"],"phonetic":""}
 {"word":"youatt","sw":"youatt","translation":["[人名] 尤厄特"],"phonetic":""}
 {"word":"youatts","sw":"youatts","translation":["[人名] 尤厄特","(youatt 的复数)"],"phonetic":""}
@@ -5406,7 +4679,6 @@
 {"word":"youdao","sw":"youdao","translation":["n. 有道（网易公司的搜索服务）"],"phonetic":""}
 {"word":"youde","sw":"youde","translation":["[人名] 尤德"],"phonetic":""}
 {"word":"youden","sw":"youden","translation":["[网络] 约登；登指数；谢谢楼主的分享"],"phonetic":""}
-{"word":"youden-drift","sw":"youdendrift","translation":["[网络] youden漂移"],"phonetic":""}
 {"word":"youdle","sw":"youdle","translation":["[网络] 你们"],"phonetic":""}
 {"word":"youdo","sw":"youdo","translation":["[网络] 优度；远电；友的"],"phonetic":""}
 {"word":"youds","sw":"youds","translation":["[人名] 尤兹"],"phonetic":""}
@@ -5467,26 +4739,6 @@
 {"word":"youness","sw":"youness","translation":["[网络] 尤内斯；你性"],"phonetic":""}
 {"word":"younesses","sw":"younesses","translation":["[网络] oun"],"phonetic":""}
 {"word":"young","sw":"young","translation":["a. 年轻的, 无经验的, 朝气蓬勃的","n. 青年们, 幼小动物, 崽"],"phonetic":"jʌŋ|jʌŋ"}
-{"word":"young-adult","sw":"youngadult","translation":["[网络] 青年"],"phonetic":""}
-{"word":"young-at-heart","sw":"youngatheart","translation":["[网络] 永葆心龄"],"phonetic":""}
-{"word":"young-bearing","sw":"youngbearing","translation":["[网络] 年轻的"],"phonetic":""}
-{"word":"young-begetting","sw":"youngbegetting","translation":["[网络] 年轻的小孩"],"phonetic":""}
-{"word":"young-cho","sw":"youngcho","translation":["[网络] 韩裔加人赵杨"],"phonetic":""}
-{"word":"young-choes","sw":"youngchoes","translation":["[网络] 韩裔加人赵杨","(young-cho 的复数)"],"phonetic":""}
-{"word":"young-earth","sw":"youngearth","translation":["[网络] 地球年轻论创造论者"],"phonetic":""}
-{"word":"Young-Earther","sw":"youngearther","translation":["[网络] 年轻论者"],"phonetic":""}
-{"word":"Young-Earthers","sw":"youngearthers","translation":["[网络] 年轻人"],"phonetic":""}
-{"word":"young-eyed","sw":"youngeyed","translation":["a. 眼神明亮的, 热情洋溢的"],"phonetic":"'jʌŋ'aid"}
-{"word":"young-ish","sw":"youngish","translation":["adj. 还年轻的，颇年轻的"],"phonetic":"'jʌŋɪʃ"}
-{"word":"young-ladyism","sw":"youngladyism","translation":["[网络] 年轻女士主义"],"phonetic":""}
-{"word":"young-like","sw":"younglike","translation":["[网络] 年轻的"],"phonetic":""}
-{"word":"young-offender","sw":"youngoffender","translation":["[法] 青少年犯"],"phonetic":""}
-{"word":"young-old","sw":"youngold","translation":["a. 年老心不老的, 老当益壮的"],"phonetic":"'jʌŋ'әjld"}
-{"word":"young-punk","sw":"youngpunk","translation":["[网络] 年轻的朋克；年轻的痞子；黑色中流动著紫色的诱惑"],"phonetic":""}
-{"word":"young-sam","sw":"youngsam","translation":["[网络] 小山姆"],"phonetic":""}
-{"word":"young-sanchez","sw":"youngsanchez","translation":["[网络] 尤·桑切斯"],"phonetic":""}
-{"word":"Young-shin","sw":"youngshin","translation":["[网络] 李恩宙饰演的恩善"],"phonetic":""}
-{"word":"young-stone","sw":"youngstone","translation":["[网络] 这一次打死"],"phonetic":""}
 {"word":"youngberg","sw":"youngberg","translation":["[人名] 扬伯格"],"phonetic":""}
 {"word":"youngberries","sw":"youngberries","translation":["n. 黑草莓","[网络] 杨氏草莓；黑草莓的改良品种；黑莓的改良品种"],"phonetic":""}
 {"word":"youngberry","sw":"youngberry","translation":["n. [植]杨氏草莓(黑草莓的改良品种)"],"phonetic":"'jʌŋbәri"}
@@ -5500,11 +4752,6 @@
 {"word":"youngens","sw":"youngens","translation":["[网络] 年轻人"],"phonetic":""}
 {"word":"youngentob","sw":"youngentob","translation":["[网络] 年轻人"],"phonetic":""}
 {"word":"younger","sw":"younger","translation":["n. 年纪较小者","a. 较年轻的"],"phonetic":"'jʌŋgә"}
-{"word":"younger-age","sw":"youngerage","translation":["[网络] 低龄化；参赌人员向低龄化"],"phonetic":""}
-{"word":"younger-aged","sw":"youngeraged","translation":["[网络] 年龄较小"],"phonetic":""}
-{"word":"younger-generation","sw":"youngergeneration","translation":["[网络] 年轻一代；青年一代；下一代"],"phonetic":""}
-{"word":"younger-looking","sw":"youngerlooking","translation":["[网络] 看起来更年轻"],"phonetic":""}
-{"word":"younger-lookings","sw":"youngerlookings","translation":["[网络] 看起来更年轻","(younger-looking 的复数)"],"phonetic":""}
 {"word":"youngerer","sw":"youngerer","translation":["adj. young的变形","n. 年龄较小者，幼者，小辈","adj. young的比较级；[常作 Y-](用于表示两个相同姓氏的人中)小的："],"phonetic":"'jʌŋɡə"}
 {"word":"youngerest","sw":"youngerest","translation":["adj. young的变形","n. 年龄较小者，幼者，小辈","adj. young的比较级；[常作 Y-](用于表示两个相同姓氏的人中)小的："],"phonetic":"'jʌŋɡə"}
 {"word":"youngerly","sw":"youngerly","translation":["[网络] 年轻"],"phonetic":""}
@@ -5572,12 +4819,6 @@
 {"word":"youpin","sw":"youpin","translation":["[网络] 悠品网；代办服务；其他杂项邮品"],"phonetic":""}
 {"word":"youpon","sw":"youpon","translation":["[网络] 中昌贸易是友邦集成吊顶"],"phonetic":""}
 {"word":"your","sw":"your","translation":["pron. 你的, 你们的"],"phonetic":"jɔː(r)|jʊr"}
-{"word":"your-excellency","sw":"yourexcellency","translation":["na. 阁下；“Your/His/Her Excellency”的变体","[网络] 大人；大使阁下；总统阁下"],"phonetic":""}
-{"word":"your-face","sw":"yourface","translation":["[网络] 你的脸；你的脸庞；你的容颜"],"phonetic":""}
-{"word":"your-grace","sw":"yourgrace","translation":["n. 大人；阁下；夫人","[网络] 你的恩典；陛下；你的恩宠"],"phonetic":""}
-{"word":"your-majesty","sw":"yourmajesty","translation":["na. 陛下；“Your/His/Her Majesty”的变体","[网络] 主公；尊敬的女王陛下；女王称陛下"],"phonetic":""}
-{"word":"your-self","sw":"yourself","translation":["[网络] 过你的自性；你自己"],"phonetic":""}
-{"word":"your-selves","sw":"yourselves","translation":["pron. 你们自己；你们本人（yourself的复数）"],"phonetic":"jɔː'selvz"}
 {"word":"youraballi","sw":"youraballi","translation":["[网络] 你的宝贝"],"phonetic":""}
 {"word":"yourcenar","sw":"yourcenar","translation":["[网络] 尤瑟纳尔；尤瑟娜尔"],"phonetic":""}
 {"word":"yourcenars","sw":"yourcenars","translation":["[网络] 尤瑟纳尔；尤瑟娜尔","(yourcenar 的复数)"],"phonetic":""}
@@ -5629,21 +4870,6 @@
 {"word":"yousuns","sw":"yousuns","translation":["[网络] y uns"],"phonetic":""}
 {"word":"yout","sw":"yout","translation":["[网络] Y信号输出；鍙树骇"],"phonetic":""}
 {"word":"youth","sw":"youth","translation":["n. 年轻, 青年时代, 青年们, 青春","[法] 青年, 青年时期, 青春时期"],"phonetic":"juːθ|juːθ"}
-{"word":"youth-and-old-age","sw":"youthandoldage","translation":["百日草"],"phonetic":""}
-{"word":"youth-career","sw":"youthcareer","translation":["[网络] 青年时期"],"phonetic":""}
-{"word":"youth-club","sw":"youthclub","translation":["青年俱乐部；青年会社"],"phonetic":""}
-{"word":"youth-clubs","sw":"youthclubs","translation":["[网络] 青年军时期；青少年俱乐部；青年俱乐部"],"phonetic":""}
-{"word":"youth-development","sw":"youthdevelopment","translation":["[网络] 青年发展；青少年发展；优异的青训"],"phonetic":""}
-{"word":"youth-gang","sw":"youthgang","translation":["[网络] 青少年帮派；青少年黑社会犯罪；青少年街头党"],"phonetic":""}
-{"word":"youth-group","sw":"youthgroup","translation":["[网络] 青少年团契；青年组；青年小组"],"phonetic":""}
-{"word":"youth-hostel","sw":"youthhostel","translation":["vi. 住青年招待所"],"phonetic":"'ju:θ,hustəl"}
-{"word":"youth-hostelling","sw":"youthhostelling","translation":["n. 在各地住青年招待所","[网络] 青年旅社活动"],"phonetic":""}
-{"word":"youth-league","sw":"youthleague","translation":["n. 共青团","[网络] 青年团；共餐青年团；团委"],"phonetic":""}
-{"word":"youth-market","sw":"youthmarket","translation":["un. 青年旅游市场","[网络] 青年市场；年轻人市场；青年人市场"],"phonetic":""}
-{"word":"youth-on-age","sw":"youthonage","translation":["[网络] 青年时代"],"phonetic":""}
-{"word":"youth-oriented","sw":"youthoriented","translation":["a. 面向青年的"],"phonetic":""}
-{"word":"youth-training","sw":"youthtraining","translation":["[网络] 青年培训；青少年训练；青年训练"],"phonetic":""}
-{"word":"youth-trainings","sw":"youthtrainings","translation":["[网络] 青年培训；青少年训练；青年训练","(youth-training 的复数)"],"phonetic":""}
 {"word":"youthaid","sw":"youthaid","translation":["[网络] 青少年处；青年救助处"],"phonetic":""}
 {"word":"youthaids","sw":"youthaids","translation":["[网络] 尤加利叶；青年艾滋病防治"],"phonetic":""}
 {"word":"youthcare","sw":"youthcare","translation":["[网络] 关怀青年组织"],"phonetic":""}
@@ -5656,7 +4882,6 @@
 {"word":"youthfest","sw":"youthfest","translation":["[网络] 青春期"],"phonetic":""}
 {"word":"youthfests","sw":"youthfests","translation":["[网络] 青春期"],"phonetic":""}
 {"word":"youthful","sw":"youthful","translation":["a. 年轻的, 青年的","[法] 青年的, 年轻的"],"phonetic":"ˈjuːθfl|ˈjuːθfl"}
-{"word":"youthful-looking","sw":"youthfullooking","translation":["[网络] 青春焕发"],"phonetic":""}
 {"word":"youthfully","sw":"youthfully","translation":["adv. 年轻地, 无经验地；精神饱满地"],"phonetic":""}
 {"word":"youthfulness","sw":"youthfulness","translation":["n. 少壮"],"phonetic":""}
 {"word":"youthfulnesses","sw":"youthfulnesses","translation":["n. 少壮"],"phonetic":"'jʊθfəlnəs"}
@@ -5680,7 +4905,6 @@
 {"word":"youthquake","sw":"youthquake","translation":["青年动乱"],"phonetic":"'jaʊθkweɪk"}
 {"word":"youthquakes","sw":"youthquakes","translation":["n. 青年大骚动（指1960年代西方社会，尤其是美国的学潮）"],"phonetic":"'juːθkweɪk"}
 {"word":"youths","sw":"youths","translation":["年轻, 青年时代, 青年们, 青春"],"phonetic":""}
-{"word":"youths-on-age","sw":"youthsonage","translation":["[网络] 青年时代","(youth-on-age 的复数)"],"phonetic":""}
 {"word":"youthsome","sw":"youthsome","translation":["[网络] 年轻人"],"phonetic":""}
 {"word":"youthsploitation","sw":"youthsploitation","translation":["[网络] 青春期"],"phonetic":""}
 {"word":"youthward","sw":"youthward","translation":["[网络] 青春"],"phonetic":""}
@@ -5711,7 +4935,6 @@
 {"word":"yovel","sw":"yovel","translation":["[网络] 禧年"],"phonetic":""}
 {"word":"yow","sw":"yow","translation":["interj. (痛苦、惊愕时)哟"],"phonetic":"jau"}
 {"word":"yowch","sw":"yowch","translation":["[网络] y"],"phonetic":""}
-{"word":"yowden-drift","sw":"yowdendrift","translation":["[网络] yowden漂移"],"phonetic":""}
 {"word":"yowdin","sw":"yowdin","translation":["[网络] y"],"phonetic":""}
 {"word":"yowe","sw":"yowe","translation":["n. 〈英〉母羊","[网络] 优唯"],"phonetic":""}
 {"word":"yowele","sw":"yowele","translation":["[网络] y le"],"phonetic":""}
@@ -5765,7 +4988,6 @@
 {"word":"yozo","sw":"yozo","translation":["[网络] 永中；永中软件；品牌"],"phonetic":""}
 {"word":"yozoes","sw":"yozoes","translation":["[网络] 永中；永中软件；品牌","(yozo 的复数)"],"phonetic":""}
 {"word":"yp","sw":"yp","translation":["abbr. 黄页（yellow pages）；风光邮资明信片；屈服点（yield point）"],"phonetic":""}
-{"word":"Yp-syndrome","sw":"ypsyndrome","translation":["Y短臂缺失综合征"],"phonetic":""}
 {"word":"YPA","sw":"ypa","translation":["[=yeast,peptone,adenine sulfate]酵母、蛋白胨、硫酸腺嘌呤"],"phonetic":""}
 {"word":"ypad","sw":"ypad","translation":["[网络] 阿德莱德机场；垘"],"phonetic":""}
 {"word":"yparroked","sw":"yparroked","translation":["[网络] yaproked"],"phonetic":""}
@@ -5827,12 +5049,9 @@
 {"word":"yput","sw":"yput","translation":["[网络] 登嘉楼企业家发展基金会"],"phonetic":""}
 {"word":"ypydvpdya","sw":"ypydvpdya","translation":["[网络] 序列是"],"phonetic":""}
 {"word":"YQ","sw":"yq","translation":["[=Y long arm]Y长臂"],"phonetic":""}
-{"word":"Yq-syndrome","sw":"yqsyndrome","translation":["Y长臂缺失综合征"],"phonetic":""}
 {"word":"Yquem","sw":"yquem","translation":["n. 依奎姆(依坤)葡萄酒"],"phonetic":"i:'kem"}
 {"word":"yquems","sw":"yquems","translation":["n. 依奎姆（一种葡萄酒）"],"phonetic":"i:'kem"}
 {"word":"YR","sw":"yr","translation":["[计] 年","[经] 年"],"phonetic":""}
-{"word":"YR-BK","sw":"yrbk","translation":["[=year-book]年鉴,年刊"],"phonetic":""}
-{"word":"yr-old","sw":"yrold","translation":["[网络] 宠物年龄"],"phonetic":""}
 {"word":"YRA","sw":"yra","translation":["abbr. Yacht Racing Association 帆船比赛协会"],"phonetic":""}
 {"word":"yrad","sw":"yrad","translation":["[网络] 诉苦"],"phonetic":""}
 {"word":"yrade","sw":"yrade","translation":["[网络] 一ade"],"phonetic":""}
@@ -5886,7 +5105,6 @@
 {"word":"yruotin","sw":"yruotin","translation":["败菌素"],"phonetic":""}
 {"word":"yryn","sw":"yryn","translation":["[网络] 雅观；杩滆繙；鍏冮煶"],"phonetic":""}
 {"word":"ys","sw":"ys","translation":["abbr. 屈服强度（Yield Strength）；黄斑（Yellow Spot）"],"phonetic":""}
-{"word":"ys-x","sw":"ysx","translation":["[网络] 浴室镜"],"phonetic":""}
 {"word":"ysa","sw":"ysa","translation":["abbr. Young Socialist Alliance <美国>社会主义青年联盟; Youth Service America 美国青年服务社; Youth Services Administration (District of Columbia) 青年服务部（哥伦比亚特区）"],"phonetic":""}
 {"word":"ysabel","sw":"ysabel","translation":["[网络] 企鹅欣"],"phonetic":""}
 {"word":"ysalamir","sw":"ysalamir","translation":["[网络] 伊撒拉密蜥"],"phonetic":""}
@@ -6017,12 +5235,10 @@
 {"word":"ytressed","sw":"ytressed","translation":["[网络] 。"],"phonetic":""}
 {"word":"ytried","sw":"ytried","translation":["[网络] y ried"],"phonetic":""}
 {"word":"Ytrocolumbite","sw":"ytrocolumbite","translation":["钇铌铁矿"],"phonetic":""}
-{"word":"Ytrocolumbo-tantalite","sw":"ytrocolumbotantalite","translation":["钇铌钽铁矿"],"phonetic":""}
 {"word":"YTS","sw":"yts","translation":["青年训练计划（youth training scheme）"],"phonetic":""}
 {"word":"ytss","sw":"ytss","translation":["[网络] 义道中学(Yishun Town Secondary School)；圣洁；依天神胜交易系统"],"phonetic":""}
 {"word":"ytt","sw":"ytt","translation":["[网络] 瑜伽导师班(Yoga Teacher Training)；蒸汽式烫台；易图通"],"phonetic":""}
 {"word":"ytter","sw":"ytter","translation":["[网络] 外边的"],"phonetic":""}
-{"word":"ytter-Garnet","sw":"yttergarnet","translation":["钇榴石"],"phonetic":""}
 {"word":"ytterberg","sw":"ytterberg","translation":["[人名] 伊特伯格"],"phonetic":""}
 {"word":"ytterbia","sw":"ytterbia","translation":["n. 氧化镱","[化] 氧化镱"],"phonetic":"i'tә:biә"}
 {"word":"ytterbic","sw":"ytterbic","translation":["a. 含镱的"],"phonetic":"i'tә:bik"}
@@ -6048,13 +5264,7 @@
 {"word":"yttrious","sw":"yttrious","translation":["a. 钇的;含钇的"],"phonetic":"ˊitriәs"}
 {"word":"yttrite","sw":"yttrite","translation":["硅铍钇矿"],"phonetic":"'itrait"}
 {"word":"yttrium","sw":"yttrium","translation":["n. 钇","[化] 钇Y"],"phonetic":"'itriәm"}
-{"word":"yttrium-aluminium-garnet","sw":"yttriumaluminiumgarnet","translation":["[网络] 钇铝石榴石；钇铝柘榴石；人造钇铝榴石"],"phonetic":""}
-{"word":"yttrium-aluminium-garnets","sw":"yttriumaluminiumgarnets","translation":["[网络] 钇铝石榴石；钇铝柘榴石；人造钇铝榴石","(yttrium-aluminium-garnet 的复数)"],"phonetic":""}
-{"word":"Yttrium-Apatite","sw":"yttriumapatite","translation":["钇磷灰石"],"phonetic":""}
-{"word":"Yttrium-metals","sw":"yttriummetals","translation":["钇族稀土元素"],"phonetic":""}
 {"word":"yttriums","sw":"yttriums","translation":["n. [化学] 钇（稀有金属元素，符号Y）"],"phonetic":"'ɪtrɪəm"}
-{"word":"Yttro-columbo-tantalite","sw":"yttrocolumbotantalite","translation":["钇铌钽铁矿"],"phonetic":""}
-{"word":"Yttro-orthite","sw":"yttroorthite","translation":["钇褐帘石"],"phonetic":""}
 {"word":"yttroalumite","sw":"yttroalumite","translation":["钇铝石"],"phonetic":",itrәu'lju:mait"}
 {"word":"Yttrobastnaesite","sw":"yttrobastnaesite","translation":["氟碳钇矿"],"phonetic":""}
 {"word":"Yttrobritholite","sw":"yttrobritholite","translation":["钇铈磷灰石"],"phonetic":""}
@@ -6082,20 +5292,8 @@
 {"word":"ytvs","sw":"ytvs","translation":["[网络] 长城娱乐城怎么样；梅西百货"],"phonetic":""}
 {"word":"Ytymdzha","sw":"ytymdzha","translation":["[地名] 厄特姆扎河 ( 俄 )"],"phonetic":""}
 {"word":"yu","sw":"yu","translation":["n. 禹（传说的中国古代圣君）"],"phonetic":"ju"}
-{"word":"yu-bong","sw":"yubong","translation":["[网络] 都围绕著街头艺人俞本"],"phonetic":""}
-{"word":"Yu-chi","sw":"yuchi","translation":["[网络] 宇文；梁誉籍；郑郁琦"],"phonetic":""}
-{"word":"Yu-do","sw":"yudo","translation":["隅岛"],"phonetic":""}
-{"word":"yu-gi-oh","sw":"yugioh","translation":["[网络] 游戏王；游戏王专区"],"phonetic":""}
-{"word":"yu-kin","sw":"yukin","translation":["n. 〈汉〉月琴(中国古乐器名)"],"phonetic":""}
-{"word":"yu-ming","sw":"yuming","translation":["[网络] 李育铭"],"phonetic":""}
-{"word":"Yu-shima","sw":"yushima","translation":["[地名] 汤岛 ( 日 )"],"phonetic":""}
-{"word":"Yu-shodisease","sw":"yushodisease","translation":["多氯联苯症，油症"],"phonetic":""}
-{"word":"yu-tung","sw":"yutung","translation":["[网络] 黄郁婷"],"phonetic":""}
-{"word":"yu-wei","sw":"yuwei","translation":["n. 有为(中国道家用语,即“无为”之对)"],"phonetic":""}
 {"word":"yua","sw":"yua","translation":["abbr. Yagi-Uga antenna 八木-宇田天线; Yuanmou; China 中国; 元谋机场（代码）"],"phonetic":""}
 {"word":"yuan","sw":"yuan","translation":["n. 元(中国货币单位)","[经] 元"],"phonetic":"ju:'ɑ:n"}
-{"word":"yuan-denominated","sw":"yuandenominated","translation":["[网络] 人民币计价"],"phonetic":""}
-{"word":"Yuan-lineedle","sw":"yuanlineedle","translation":["元利针"],"phonetic":""}
 {"word":"yuanchang","sw":"yuanchang","translation":["[网络] 元长乡；如果有来生"],"phonetic":""}
 {"word":"Yuandan","sw":"yuandan","translation":["[网络] 情人节"],"phonetic":""}
 {"word":"Yuandi","sw":"yuandi","translation":["[网络] 全部；个参加；锲竵"],"phonetic":""}
@@ -6174,7 +5372,6 @@
 {"word":"Yuchis","sw":"yuchis","translation":["[网络] 优奇人"],"phonetic":""}
 {"word":"Yuchka","sw":"yuchka","translation":["[地名] 尤奇卡 ( 俄 )"],"phonetic":""}
 {"word":"Yuchon","sw":"yuchon","translation":["榆村, 榆川"],"phonetic":""}
-{"word":"Yuchon-ni","sw":"yuchonni","translation":["柳州里"],"phonetic":""}
 {"word":"yuck","sw":"yuck","translation":["int. [美俚]啐（表示反感等, 等于yuk）"],"phonetic":"jʌk"}
 {"word":"yuckamush","sw":"yuckamush","translation":["[网络] 尤卡穆什"],"phonetic":""}
 {"word":"yucked","sw":"yucked","translation":["int. 啐（表示反感等，等于yuk）","n. 讨厌的东西（等于yuk）","adj. 令人反感的（等于yuk）"],"phonetic":"jʌk"}
@@ -6191,11 +5388,8 @@
 {"word":"yucky","sw":"yucky","translation":["a. 令人讨厌的, 难以下咽的"],"phonetic":"ˈjʌki"}
 {"word":"yud","sw":"yud","translation":["abbr. Yudel 约德尔（男子名）; Yudel (Yiddish=Judah) （意第绪语）犹太，犹太后裔"],"phonetic":""}
 {"word":"Yuda","sw":"yuda","translation":["[地名] 汤田 ( 日 )"],"phonetic":""}
-{"word":"Yuda-gawa","sw":"yudagawa","translation":["汤田川"],"phonetic":""}
 {"word":"yudah","sw":"yudah","translation":["[网络] 犹达"],"phonetic":""}
 {"word":"Yudalsan","sw":"yudalsan","translation":["[地名] 儒达山 ( 韩 )"],"phonetic":""}
-{"word":"yudam-ni","sw":"yudamni","translation":["[网络] 柳潭里；於柳潭里"],"phonetic":""}
-{"word":"Yudam-ri","sw":"yudamri","translation":["[地名] 柳潭里 ( 朝 )"],"phonetic":""}
 {"word":"yude","sw":"yude","translation":["[网络] 裕德牌；艰苦奋斗；鹿牌"],"phonetic":""}
 {"word":"yudel","sw":"yudel","translation":["[网络] 渔得利"],"phonetic":""}
 {"word":"yudell","sw":"yudell","translation":["[网络] 亚代尔"],"phonetic":""}
@@ -6215,7 +5409,6 @@
 {"word":"yudofsky","sw":"yudofsky","translation":["[网络] 尤多夫斯基"],"phonetic":""}
 {"word":"yudofu","sw":"yudofu","translation":["〈日〉n.; 油豆腐"],"phonetic":""}
 {"word":"Yudoma","sw":"yudoma","translation":["[地名] 尤多马河 ( 俄 )"],"phonetic":""}
-{"word":"Yudono-san","sw":"yudonosan","translation":["[地名] 汤殿山 ( 日 )"],"phonetic":""}
 {"word":"yuds","sw":"yuds","translation":["[网络] 。"],"phonetic":""}
 {"word":"yue","sw":"yue","translation":["n. 越（中国南方古代越人各族的总称）"],"phonetic":""}
 {"word":"Yueanxin","sw":"yueanxin","translation":["悦安欣"],"phonetic":""}
@@ -6250,7 +5443,6 @@
 {"word":"yuffie","sw":"yuffie","translation":["abbr. young urban failure 雅废士(失败的城市青年)"],"phonetic":"'jʌfi"}
 {"word":"yuft","sw":"yuft","translation":["[网络] 璇存暀；说教"],"phonetic":""}
 {"word":"yufts","sw":"yufts","translation":["[网络] 羽毛"],"phonetic":""}
-{"word":"Yufu-dake","sw":"yufudake","translation":["[地名] 由布岳 ( 日 )"],"phonetic":""}
 {"word":"Yufuin","sw":"yufuin","translation":["[地名] 汤布院 ( 日 )"],"phonetic":""}
 {"word":"yug","sw":"yug","translation":["[地名] [俄罗斯] 尤格; [地名] [俄罗斯] 尤格河"],"phonetic":""}
 {"word":"Yuga","sw":"yuga","translation":["n. (印度教所称构成历史循环的)时代(共分4个时代,即)"],"phonetic":"'jj^ә"}
@@ -6262,15 +5454,12 @@
 {"word":"Yugawara","sw":"yugawara","translation":["[地名] 汤河原 ( 日 )"],"phonetic":""}
 {"word":"yugawaralite","sw":"yugawaralite","translation":["n. [矿]汤河原沸石"],"phonetic":"jj'^æwәrәlait"}
 {"word":"yuge","sw":"yuge","translation":[],"phonetic":""}
-{"word":"Yuge-shima","sw":"yugeshima","translation":["弓削岛"],"phonetic":""}
 {"word":"yugement","sw":"yugement","translation":["[网络] 。"],"phonetic":""}
 {"word":"yugen","sw":"yugen","translation":["[网络] 幽玄"],"phonetic":""}
 {"word":"yugi","sw":"yugi","translation":["n. (Yugi)人名；(日)弓木(姓)"],"phonetic":""}
 {"word":"yugioh","sw":"yugioh","translation":["[网络] 奶茶加辣"],"phonetic":""}
 {"word":"yuglon","sw":"yuglon","translation":["5-羟基-1, 4-萘二酮"],"phonetic":"'ju:^lәn"}
 {"word":"yugo","sw":"yugo","translation":["n. 交涉人勇午（动漫名）；南斯拉夫牌汽车"],"phonetic":""}
-{"word":"Yugo-Kamskiy","sw":"yugokamskiy","translation":["[地名] 南卡姆斯基 ( 俄 )"],"phonetic":""}
-{"word":"Yugo-nostalgia","sw":"yugonostalgia","translation":["[网络] 怀旧情怀"],"phonetic":""}
 {"word":"yugoimport","sw":"yugoimport","translation":["[网络] 尤戈音波特；塞尔维亚尤戈音波特"],"phonetic":""}
 {"word":"Yugonostalgia","sw":"yugonostalgia","translation":["[网络] Yug on ost ia"],"phonetic":""}
 {"word":"Yugorenok","sw":"yugorenok","translation":["[地名] 尤戈列诺克 ( 俄 )"],"phonetic":""}
@@ -6338,7 +5527,6 @@
 {"word":"yukhoe","sw":"yukhoe","translation":["[网络] 肉脍；生牛肉片；生拌牛肉"],"phonetic":""}
 {"word":"Yukhovo","sw":"yukhovo","translation":["[地名] 尤霍沃 ( 俄 )"],"phonetic":""}
 {"word":"yuki","sw":"yuki","translation":["n. 徐怀钰（歌手）；友希（日本人名）；（日）雪"],"phonetic":""}
-{"word":"yuki-onna","sw":"yukionna","translation":["[网络] 雪女；冰女"],"phonetic":""}
 {"word":"YukiangianStage","sw":"yukiangianstage","translation":["郁江阶"],"phonetic":""}
 {"word":"yukichi","sw":"yukichi","translation":["[网络] 勇吉"],"phonetic":""}
 {"word":"yukie","sw":"yukie","translation":["[网络] 由纪惠；由喜惠；藤井"],"phonetic":""}
@@ -6380,7 +5568,6 @@
 {"word":"Yukuhashi","sw":"yukuhashi","translation":["[地名] 行桥 ( 日 )"],"phonetic":""}
 {"word":"yuky","sw":"yuky","translation":["〈美俚〉令人厌恶的 令人反感的"],"phonetic":""}
 {"word":"YUL","sw":"yul","translation":["耶鲁大学图书馆（Yale University Library）"],"phonetic":""}
-{"word":"Yul-li","sw":"yulli","translation":["粟里"],"phonetic":""}
 {"word":"yula","sw":"yula","translation":["[地名] [坦桑尼亚] 尤拉; [地名] [巴布亚新几内、俄罗斯] 尤拉河"],"phonetic":""}
 {"word":"yulan","sw":"yulan","translation":["n. [植]玉兰(花)"],"phonetic":"'ju:læn"}
 {"word":"Yulania","sw":"yulania","translation":["[网络] 玉兰亚属；玉兰属"],"phonetic":""}
@@ -6389,8 +5576,6 @@
 {"word":"yuldashev","sw":"yuldashev","translation":["[网络] 尤尔达谢夫"],"phonetic":""}
 {"word":"Yuldybayevo","sw":"yuldybayevo","translation":["[地名] 尤尔德巴耶沃 ( 俄 )"],"phonetic":""}
 {"word":"yule","sw":"yule","translation":["n. (基督教)圣诞节, 圣诞节期"],"phonetic":"ju:l"}
-{"word":"yule-day","sw":"yuleday","translation":["[网络] yule天"],"phonetic":""}
-{"word":"yule-log","sw":"yulelog","translation":["n. 圣诞柴(圣诞节前夕烧的木材)"],"phonetic":""}
 {"word":"Yuleba","sw":"yuleba","translation":["[地名] 尤利巴 ( 澳 )"],"phonetic":""}
 {"word":"yulee","sw":"yulee","translation":["[地名] [美国] 尤利"],"phonetic":""}
 {"word":"Yulefest","sw":"yulefest","translation":["[网络] 圣诞节；白色圣诞；七月圣诞"],"phonetic":""}
@@ -6418,7 +5603,6 @@
 {"word":"Yuluk","sw":"yuluk","translation":["[地名] 尤卢克 ( 俄 )"],"phonetic":""}
 {"word":"yulya","sw":"yulya","translation":["n. (Yulya)人名；(乌克)尤利娅"],"phonetic":""}
 {"word":"yum","sw":"yum","translation":["int. 极好的；妙的；美味的"],"phonetic":"jʌm"}
-{"word":"yum-yum","sw":"yumyum","translation":["int. 唔唔(用以表示满足,愉快之感叹词)"],"phonetic":"'jʌm'jʌm"}
 {"word":"yuma","sw":"yuma","translation":["n. 尤马（北美印第安部落）；尤马族语；尤马族人"],"phonetic":"ˈju:mə"}
 {"word":"Yumaguzino","sw":"yumaguzino","translation":["[地名] 尤马古济诺 ( 俄 )"],"phonetic":""}
 {"word":"Yuman","sw":"yuman","translation":["n. 尤马语系","a. 尤马人的, 尤马语组的"],"phonetic":"'ju:mәn"}
@@ -6437,12 +5621,10 @@
 {"word":"Yumeko","sw":"yumeko","translation":["[网络] 梦子"],"phonetic":""}
 {"word":"Yumen","sw":"yumen","translation":["n. (Yumen)人名；(俄)尤缅"],"phonetic":""}
 {"word":"Yumesaki","sw":"yumesaki","translation":["[地名] 梦前 ( 日 )"],"phonetic":""}
-{"word":"Yumesaki-gawa","sw":"yumesakigawa","translation":["[地名] 梦前川 ( 日 )"],"phonetic":""}
 {"word":"yumi","sw":"yumi","translation":["n. （日语）由美（女子名）；（日语）弓"],"phonetic":""}
 {"word":"Yumika","sw":"yumika","translation":["[网络] 蔡潆萱；蔡滢萱；贝贝"],"phonetic":""}
 {"word":"yumiko","sw":"yumiko","translation":["n. 由美子（日本女子名）"],"phonetic":""}
 {"word":"yumimycin","sw":"yumimycin","translation":["(=eumimycin)厄米霉素"],"phonetic":",jә:mi'maisin"}
-{"word":"yumm-yumm","sw":"yummyumm","translation":["[网络] 十不如前"],"phonetic":""}
 {"word":"yumma","sw":"yumma","translation":["[网络] 暗杀魔者；洛克王国；红叶儿"],"phonetic":""}
 {"word":"yummer","sw":"yummer","translation":["yum","[jʌm]","interj.","极好的；妙的；美味的；滋味好的[表达愉快或欢乐的用语][亦作 yum-yum]"],"phonetic":"jʌm"}
 {"word":"yummie","sw":"yummie","translation":["n. 穆斯林雅皮士"],"phonetic":"ˈjʌmi"}
@@ -6456,7 +5638,6 @@
 {"word":"yummo","sw":"yummo","translation":["[网络] 猴子尤莫"],"phonetic":""}
 {"word":"yummoes","sw":"yummoes","translation":["[网络] 猴子尤莫","(yummo 的复数)"],"phonetic":""}
 {"word":"yummy","sw":"yummy","translation":["a. 美味的, 可口的, 赏心悦目的, 愉快的"],"phonetic":"ˈjʌmi|ˈjʌmi"}
-{"word":"yummy-mummy","sw":"yummymummy","translation":["n. 〈非正式〉漂亮妈咪；辣妈","[网络] 性感妈妈；孕肤宝；摩登辣妈"],"phonetic":""}
 {"word":"yumoto","sw":"yumoto","translation":["[网络] 汤本；汤元；日本汤本自助游指南"],"phonetic":""}
 {"word":"yump","sw":"yump","translation":["vi.& n.<俚>(赛车或赛车运动员在最大速度时)跃起"],"phonetic":"jʌmp"}
 {"word":"yumper","sw":"yumper","translation":["vi.,n. [俚语](赛车)跃起"],"phonetic":"jʌmp"}
@@ -6471,14 +5652,11 @@
 {"word":"yumurtaliks","sw":"yumurtaliks","translation":["[网络] 尤穆尔塔勒克；土榆穆塔勒克","(yumurtalik 的复数)"],"phonetic":""}
 {"word":"Yumysh","sw":"yumysh","translation":["犹米什"],"phonetic":""}
 {"word":"yun","sw":"yun","translation":["abbr. 南斯拉夫货币名称的缩写"],"phonetic":""}
-{"word":"yun-fat","sw":"yunfat","translation":["[网络] 润发"],"phonetic":""}
-{"word":"Yun-ling","sw":"yunling","translation":["[网络] 凌云；淩云；水工分院副院长"],"phonetic":""}
 {"word":"Yuna","sw":"yuna","translation":["[地名] 尤纳 ( 澳 )"],"phonetic":""}
 {"word":"yunaconitine","sw":"yunaconitine","translation":["滇乌碱,滇乌头碱"],"phonetic":""}
 {"word":"yunaine","sw":"yunaine","translation":["郁那因"],"phonetic":""}
 {"word":"Yunak","sw":"yunak","translation":["[地名] 尤纳克 ( 土 )"],"phonetic":""}
 {"word":"Yunakivka","sw":"yunakivka","translation":["[地名] 尤纳基夫卡 ( 乌克 )"],"phonetic":""}
-{"word":"Yunam-ni","sw":"yunamni","translation":["立巖里"],"phonetic":""}
 {"word":"Yunamycin","sw":"yunamycin","translation":["乌那霉素"],"phonetic":""}
 {"word":"yunan","sw":"yunan","translation":["[网络] 云南；云南省(yunnansheng.com)；河南旅游"],"phonetic":""}
 {"word":"Yunani","sw":"yunani","translation":["[网络] 希腊"],"phonetic":""}
@@ -6495,9 +5673,6 @@
 {"word":"yune","sw":"yune","translation":["[网络] 云依；由宁"],"phonetic":""}
 {"word":"yunfu","sw":"yunfu","translation":["[网络] 云浮市；阳江；济南"],"phonetic":""}
 {"word":"yung","sw":"yung","translation":["n. 容"],"phonetic":""}
-{"word":"Yung-ho","sw":"yungho","translation":["[网络] 永和"],"phonetic":""}
-{"word":"yung-lo","sw":"yunglo","translation":["[网络] 永乐"],"phonetic":""}
-{"word":"Yung-ni","sw":"yungni","translation":["影里"],"phonetic":""}
 {"word":"yungang","sw":"yungang","translation":["[网络] 云岗；王亚光"],"phonetic":""}
 {"word":"yungas","sw":"yungas","translation":["高温湿润气候带"],"phonetic":"'ju:ŋ^әs"}
 {"word":"Yungay","sw":"yungay","translation":["[地名] 永盖 ( 秘、智 )"],"phonetic":""}
@@ -6576,7 +5751,6 @@
 {"word":"yupperware","sw":"yupperware","translation":["n. 雅皮士(家用)餐具"],"phonetic":""}
 {"word":"yuppettes","sw":"yuppettes","translation":["[网络] yuppette"],"phonetic":""}
 {"word":"yuppie","sw":"yuppie","translation":["n. （美）雅皮士（属于中上阶层的年轻专业人士）"],"phonetic":"'jʌpi"}
-{"word":"yuppie-ish","sw":"yuppieish","translation":["adj. 雅皮士(式)的"],"phonetic":"'jʌpiiʃ"}
 {"word":"yuppiedom","sw":"yuppiedom","translation":["n. 雅皮士特性, 雅皮士的身分； 雅皮士族, 雅皮士集团"],"phonetic":"'jʌpaɪdəm"}
 {"word":"yuppieflu","sw":"yuppieflu","translation":["n. [英国口语]【病理学】雅皮士流感，肌痛性脑脊髓炎(慢性疲劳综合征)(=myalgic encephalomyelitis)"],"phonetic":""}
 {"word":"yuppiefy","sw":"yuppiefy","translation":["vt. 〈贬〉使雅皮士化"],"phonetic":"ˈjʌpifai"}
@@ -6593,22 +5767,17 @@
 {"word":"yuppyish","sw":"yuppyish","translation":["yuppyish (comparative more yuppyish, superlative most yuppyish)","(informal) Characteristic of a yuppie."],"phonetic":""}
 {"word":"yups","sw":"yups","translation":["(yup 的第三人称 -s形式) int. [俚]是的（等于yes）"],"phonetic":""}
 {"word":"yupsky","sw":"yupsky","translation":["雅皮斯基,俄罗斯雅皮士"],"phonetic":""}
-{"word":"Yupyong-dong","sw":"yupyongdong","translation":["榆坪洞"],"phonetic":""}
 {"word":"Yuqin","sw":"yuqin","translation":["[网络] 左玉琴；德国；视频"],"phonetic":""}
 {"word":"Yuqins","sw":"yuqins","translation":["[网络] 玉琴"],"phonetic":""}
 {"word":"Yuquan","sw":"yuquan","translation":["玉泉"],"phonetic":""}
 {"word":"yuquilla","sw":"yuquilla","translation":["[委内瑞拉]尤奎拉(韧皮纤维)"],"phonetic":",ju'kwilә"}
 {"word":"yur","sw":"yur","translation":["abbr. Yuri 尤利; Yurievich 尤利维奇"],"phonetic":""}
 {"word":"yura","sw":"yura","translation":["n. (Yura)人名；(日)由良(名)","由良"],"phonetic":""}
-{"word":"Yura-gawa","sw":"yuragawa","translation":["[地名] 由良川 ( 日 )"],"phonetic":""}
 {"word":"Yuracyacu","sw":"yuracyacu","translation":["[地名] 尤拉克亚库 ( 秘 )"],"phonetic":""}
 {"word":"Yuraguana","sw":"yuraguana","translation":["[地名] 尤拉瓜纳 ( 古 )"],"phonetic":""}
 {"word":"Yurak","sw":"yurak","translation":["[网络] 容许我预备祭品"],"phonetic":""}
-{"word":"Yurak-Samoyed","sw":"yuraksamoyed","translation":["[网络] 尤拉克萨莫耶德"],"phonetic":""}
-{"word":"yurak-samoyeds","sw":"yuraksamoyeds","translation":["[网络] 尤拉克萨莫耶德","(yurak-samoyed 的复数)"],"phonetic":""}
 {"word":"Yuralpa","sw":"yuralpa","translation":["犹拉帕"],"phonetic":""}
 {"word":"yuran","sw":"yuran","translation":["[网络] 曼谷橘红；交稿；圈主"],"phonetic":""}
-{"word":"Yurano-hana","sw":"yuranohana","translation":["[地名] 由良岬 ( 日 )"],"phonetic":""}
 {"word":"Yurashuku","sw":"yurashuku","translation":["[地名] 由良宿 ( 日 )"],"phonetic":""}
 {"word":"Yurasovka","sw":"yurasovka","translation":["[地名] 尤拉索夫卡 ( 俄 )"],"phonetic":""}
 {"word":"yuray","sw":"yuray","translation":["[网络] 美国留学签证专家余志淳"],"phonetic":""}
@@ -6622,7 +5791,6 @@
 {"word":"Yurgamysh","sw":"yurgamysh","translation":["[地名] 尤尔加梅什 ( 俄 )"],"phonetic":""}
 {"word":"yurgens","sw":"yurgens","translation":["尤尔根斯"],"phonetic":""}
 {"word":"yuri","sw":"yuri","translation":["n. 尤里（男子名）；坂崎由莉（游戏拳皇中的女性角色）"],"phonetic":""}
-{"word":"Yuri-jima","sw":"yurijima","translation":["[地名] 尤利岛 ( 日 )"],"phonetic":""}
 {"word":"Yuribey","sw":"yuribey","translation":["[地名] 尤里别伊河 ( 俄 )"],"phonetic":""}
 {"word":"yurie","sw":"yurie","translation":["[网络] 筱原友里恵；由梨絵；尤美子"],"phonetic":""}
 {"word":"yuries","sw":"yuries","translation":["n. (Yury)人名；(俄)尤里；(法)于里","(yury 的复数)"],"phonetic":""}
@@ -6689,7 +5857,6 @@
 {"word":"yusof","sw":"yusof","translation":["[网络] 尤索夫；尤素夫"],"phonetic":""}
 {"word":"yusofs","sw":"yusofs","translation":["[网络] 尤索夫；尤素夫","(yusof 的复数)"],"phonetic":""}
 {"word":"Yusong","sw":"yusong","translation":["儒城"],"phonetic":""}
-{"word":"Yusong-ni","sw":"yusongni","translation":["榆城里"],"phonetic":""}
 {"word":"yusra","sw":"yusra","translation":["[网络] 耶丝拉；尤苏拉；郁丝拉"],"phonetic":""}
 {"word":"yussef","sw":"yussef","translation":["[网络] 尤瑟夫"],"phonetic":""}
 {"word":"yussefs","sw":"yussefs","translation":["[网络] 尤瑟夫","(yussef 的复数)"],"phonetic":""}
@@ -6707,7 +5874,6 @@
 {"word":"yusufiyah","sw":"yusufiyah","translation":["[网络] 优素费亚赫"],"phonetic":""}
 {"word":"Yusufzai","sw":"yusufzai","translation":["[网络] 优素福"],"phonetic":""}
 {"word":"Yusuhara","sw":"yusuhara","translation":["[地名] 梼原 ( 日 )"],"phonetic":""}
-{"word":"Yusuhara-gawa","sw":"yusuharagawa","translation":["[地名] 梼原川 ( 日 )"],"phonetic":""}
 {"word":"yusupov","sw":"yusupov","translation":["[网络] 尤斯波夫；尤苏普夫宫；尤苏普夫公爵"],"phonetic":""}
 {"word":"yut","sw":"yut","translation":["[网络] 月；雪；柶戏"],"phonetic":""}
 {"word":"Yuta","sw":"yuta","translation":["[网络] 裕太；优太；软哥"],"phonetic":""}
@@ -6733,15 +5899,12 @@
 {"word":"yuvan","sw":"yuvan","translation":["[网络] 云梵；羽凡"],"phonetic":""}
 {"word":"yuvs","sw":"yuvs","translation":["[网络] 育种"],"phonetic":""}
 {"word":"Yuwaaliyaay","sw":"yuwaaliyaay","translation":[],"phonetic":""}
-{"word":"Yuwan-dake","sw":"yuwandake","translation":["[地名] 汤湾岳 ( 日 )"],"phonetic":""}
 {"word":"yuwei","sw":"yuwei","translation":["<汉>n.有为(中国道家用语,系\"无为\"之对,指人不顺应自然的任意作为)"],"phonetic":"'ju:'wei"}
 {"word":"yuwen","sw":"yuwen","translation":["n. 宇文（人名）"],"phonetic":""}
 {"word":"yuxi","sw":"yuxi","translation":["[网络] 玉溪；广州市；缘熙"],"phonetic":""}
 {"word":"yuxian","sw":"yuxian","translation":["蔚县"],"phonetic":""}
 {"word":"yuy","sw":"yuy","translation":["[网络] 罗伊机场；岳阳(Yueyang)；鲁安"],"phonetic":""}
 {"word":"Yuya","sw":"yuya","translation":["[地名] 油谷 ( 日 )"],"phonetic":""}
-{"word":"Yuya-wan","sw":"yuyawan","translation":["[地名] 油谷湾 ( 日 )"],"phonetic":""}
-{"word":"Yuyama-toge","sw":"yuyamatoge","translation":["[地名] 汤山山口 ( 日 )"],"phonetic":""}
 {"word":"Yuyao","sw":"yuyao","translation":["鱼腰"],"phonetic":""}
 {"word":"yuye","sw":"yuye","translation":["[网络] 玉液；宇煌；海洋渔业"],"phonetic":""}
 {"word":"yuyi","sw":"yuyi","translation":["[网络] 豫；鸭梨山大王；暖汐"],"phonetic":""}
@@ -6755,10 +5918,6 @@
 {"word":"Yuzhen","sw":"yuzhen","translation":["玉枕"],"phonetic":""}
 {"word":"yuzhin","sw":"yuzhin","translation":["[网络] y in"],"phonetic":""}
 {"word":"yuzhmorgeologiya","sw":"yuzhmorgeologiya","translation":["[网络] 南方生产协会"],"phonetic":""}
-{"word":"Yuzhno-Aleksandrovka","sw":"yuzhnoaleksandrovka","translation":["[地名] 南亚历山德罗夫卡 ( 俄 )"],"phonetic":""}
-{"word":"Yuzhno-Sakhalinsk","sw":"yuzhnosakhalinsk","translation":["[网络] 南萨哈林斯克；尤基诺萨哈林斯克；南萨哈林斯克市"],"phonetic":""}
-{"word":"Yuzhno-Sukhokumsk","sw":"yuzhnosukhokumsk","translation":["[地名] 南苏霍库姆斯克 ( 俄 )"],"phonetic":""}
-{"word":"Yuzhno-Yeniseyskiy","sw":"yuzhnoyeniseyskiy","translation":["[地名] 南叶尼塞斯基 ( 俄 )"],"phonetic":""}
 {"word":"yuzhnoye","sw":"yuzhnoye","translation":["[地名] [俄罗斯] 尤日诺耶"],"phonetic":""}
 {"word":"Yuzhnyy","sw":"yuzhnyy","translation":["[地名] 尤日内 ( 俄 )"],"phonetic":""}
 {"word":"Yuzhong","sw":"yuzhong","translation":["或中"],"phonetic":""}
@@ -6767,12 +5926,10 @@
 {"word":"Yuzukami","sw":"yuzukami","translation":["[地名] 汤津上 ( 日 )"],"phonetic":""}
 {"word":"yuzurimine","sw":"yuzurimine","translation":["交让木胺"],"phonetic":""}
 {"word":"yuzuru","sw":"yuzuru","translation":["[网络] 夕鹤；事与愿违c；三妈泡菜锅"],"phonetic":""}
-{"word":"Yuzuruha-san","sw":"yuzuruhasan","translation":["[地名] 谕鹤羽山 ( 日 )"],"phonetic":""}
 {"word":"yuzus","sw":"yuzus","translation":["[网络] 柚子；日本柚子；柚子精华"],"phonetic":""}
 {"word":"yv","sw":"yv","translation":["abbr. yellow virescent 黄带绿色"],"phonetic":""}
 {"word":"YVA","sw":"yva","translation":["abbr. Yangtze Valley Athority 长江流域管理机构"],"phonetic":""}
 {"word":"yvad","sw":"yvad","translation":["[网络] 四肽底物"],"phonetic":""}
-{"word":"YVAD-CHO","sw":"yvadcho","translation":["N-(N-乙酰酪-缬-丙)-氨基-4-氧代丁酸"],"phonetic":""}
 {"word":"yvain","sw":"yvain","translation":["[网络] 伊文；红叶；文英"],"phonetic":""}
 {"word":"yvan","sw":"yvan","translation":["n. (Yvan)人名；(法、马达)伊万"],"phonetic":""}
 {"word":"yvans","sw":"yvans","translation":["n. (Yvan)人名；(法、马达)伊万","(yvan 的复数)"],"phonetic":""}
@@ -6870,14 +6027,12 @@
 {"word":"yys","sw":"yys","translation":["[网络] 流星之泪；疯人愿；典藏家"],"phonetic":""}
 {"word":"yyy","sw":"yyy","translation":["n. 代替具体的名称、数据等"],"phonetic":""}
 {"word":"YYYY","sw":"yyyy","translation":["[网络] 年；格式；年份"],"phonetic":""}
-{"word":"yyyy-mm-dd","sw":"yyyymmdd","translation":["[网络] 日期；格式；日期格式"],"phonetic":""}
 {"word":"YYZ","sw":"yyz","translation":["n. 加拿大多伦多机场的代号"],"phonetic":""}
 {"word":"yz","sw":"yz","translation":["abbr. Aer Guinea-Bissau 几内亚比绍航空公司（代码）; Londonderry 伦敦德里（不列颠群岛车辆登记符号）; Yokohama Shipbuilding Co; Ltd. <日本>横滨造船公司"],"phonetic":""}
 {"word":"yzed","sw":"yzed","translation":["[网络] o叩o召"],"phonetic":""}
 {"word":"yzen","sw":"yzen","translation":["[网络] zen"],"phonetic":""}
 {"word":"yzerbyt","sw":"yzerbyt","translation":["[网络] 伊泽比特"],"phonetic":""}
 {"word":"yzerman","sw":"yzerman","translation":["[网络] 叶塞曼"],"phonetic":""}
-{"word":"Yzeures-sur-Creuse","sw":"yzeuressurcreuse","translation":["[地名] 克勒兹河畔伊泽尔 ( 法 )"],"phonetic":""}
 {"word":"yzma","sw":"yzma","translation":["[网络] 伊丝玛；伊斯玛；新葡京娱乐场"],"phonetic":""}
 {"word":"yzr","sw":"yzr","translation":["abbr. Sarnia;  Ontario;  Canada 加拿大; 安大略省"],"phonetic":""}
 {"word":"yzrs","sw":"yzrs","translation":["(yzr 的第三人称 -s形式) abbr. Sarnia;  Ontario;  Canada 加拿大; 安大略省"],"phonetic":""}

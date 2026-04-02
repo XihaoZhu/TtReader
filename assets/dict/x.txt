@@ -1,276 +1,4 @@
-{"word":"x-a","sw":"xa","translation":["abbr. 辅助放大器（Auxiliary Amplifier）"],"phonetic":""}
-{"word":"X-Acto","sw":"xacto","translation":["[网络] 修补刀片；刻刀"],"phonetic":"eɡz'æktəʊ"}
-{"word":"X-address","sw":"xaddress","translation":["[计] X地址"],"phonetic":""}
-{"word":"X-alloy","sw":"xalloy","translation":["铜铝合金"],"phonetic":""}
-{"word":"X-Amount","sw":"xamount","translation":["[网络] 机会"],"phonetic":""}
-{"word":"x-amp","sw":"xamp","translation":["[网络] 媒体播放"],"phonetic":""}
-{"word":"X-amplitude","sw":"xamplitude","translation":["X轴幅度,X-幅度"],"phonetic":""}
-{"word":"X-analysis","sw":"xanalysis","translation":["[物] Ｘ射线分析"],"phonetic":""}
-{"word":"X-arrestin","sw":"xarrestin","translation":["X-视紫红质抑制蛋白"],"phonetic":""}
-{"word":"X-assimilation","sw":"xassimilation","translation":["同化某物质的"],"phonetic":""}
-{"word":"x-axes","sw":"xaxes","translation":["n. 【数】X轴","[网络] 横坐标轴；横轴；横轴上下限值"],"phonetic":""}
-{"word":"x-axis","sw":"xaxis","translation":["n. 轴, 横坐标轴","[计] X轴, 横坐标"],"phonetic":"'eks,æksis"}
-{"word":"X-axle","sw":"xaxle","translation":["X轴"],"phonetic":""}
-{"word":"X-B","sw":"xb","translation":["错牙合"],"phonetic":""}
-{"word":"X-back","sw":"xback","translation":["防静电背面层"],"phonetic":""}
-{"word":"X-bacterium","sw":"xbacterium","translation":["n. X-杆菌"],"phonetic":""}
-{"word":"x-band","sw":"xband","translation":["[电] X波段"],"phonetic":""}
-{"word":"x-bar","sw":"xbar","translation":["[电] X棒"],"phonetic":""}
-{"word":"X-BEIN","sw":"xbein","translation":["[=genu valgum]膝外翻"],"phonetic":""}
-{"word":"X-bite","sw":"xbite","translation":["交叉咬合"],"phonetic":""}
-{"word":"X-bodies","sw":"xbodies","translation":["X-体"],"phonetic":""}
-{"word":"X-body","sw":"xbody","translation":["X体"],"phonetic":""}
-{"word":"X-Bomb","sw":"xbomb","translation":[],"phonetic":""}
-{"word":"X-box","sw":"xbox","translation":["[网络] 游戏机；越战丛林；拯救行动"],"phonetic":""}
-{"word":"x-boxes","sw":"xboxes","translation":["[网络] 游戏机；越战丛林；拯救行动","(x-box 的复数)"],"phonetic":""}
-{"word":"X-brace","sw":"xbrace","translation":["交叉支撑"],"phonetic":""}
-{"word":"X-braces","sw":"xbraces","translation":["叉梁"],"phonetic":""}
-{"word":"X-bracing","sw":"xbracing","translation":["剪刀撑系统"],"phonetic":""}
-{"word":"x-bracings","sw":"xbracings","translation":["剪刀撑系统","(x-bracing 的复数)"],"phonetic":""}
-{"word":"X-bridge","sw":"xbridge","translation":["n. X型电桥；电抗电桥"],"phonetic":""}
-{"word":"X-burn","sw":"xburn","translation":["对角线烧毁,X形烧伤"],"phonetic":""}
-{"word":"x-c","sw":"xc","translation":["abbr. X-chromosome X染色体"],"phonetic":""}
-{"word":"X-Can","sw":"xcan","translation":["[地名] 斯坎 ( 墨 )"],"phonetic":""}
-{"word":"x-cell","sw":"xcell","translation":["n. 伊势亚（手机品牌）"],"phonetic":""}
-{"word":"x-cells","sw":"xcells","translation":["(x-cell 的复数) n. 伊势亚（手机品牌）"],"phonetic":""}
-{"word":"X-certificate","sw":"xcertificate","translation":["n. X级(成人级)"],"phonetic":""}
-{"word":"x-certificates","sw":"xcertificates","translation":["n. X级(成人级)","(x-certificate 的复数)"],"phonetic":""}
-{"word":"X-chair","sw":"xchair","translation":["[网络] 叉型休闲椅"],"phonetic":""}
-{"word":"X-chairs","sw":"xchairs","translation":["[网络] X型椅子"],"phonetic":""}
-{"word":"x-change","sw":"xchange","translation":["[网络] 变形记"],"phonetic":""}
-{"word":"X-chart","sw":"xchart","translation":["X图表"],"phonetic":""}
-{"word":"X-chromatin","sw":"xchromatin","translation":["X染色质"],"phonetic":""}
-{"word":"x-chromosome","sw":"xchromosome","translation":["[医]x染色体，性染色体"],"phonetic":""}
-{"word":"X-chromosomes","sw":"xchromosomes","translation":["n. 〔遗〕x染色体；雌性染色体","[网络] X染色体"],"phonetic":""}
-{"word":"x-class","sw":"xclass","translation":["[网络] 种类；综合类；基础英语密集课程"],"phonetic":""}
-{"word":"x-click","sw":"xclick","translation":["[网络] 去除噼啪声；去咔哒声；噼啪声抑制插件"],"phonetic":""}
-{"word":"X-component","sw":"xcomponent","translation":["[计] X分量"],"phonetic":""}
-{"word":"X-components","sw":"xcomponents","translation":["(X-component 的复数) [计] X分量"],"phonetic":""}
-{"word":"X-conn","sw":"xconn","translation":["十字接头"],"phonetic":""}
-{"word":"X-constituent","sw":"xconstituent","translation":["X组成物, X相态"],"phonetic":""}
-{"word":"X-contact","sw":"xcontact","translation":["[网络] X触点"],"phonetic":""}
-{"word":"X-coordinate","sw":"xcoordinate","translation":["[计] X坐标"],"phonetic":",ekskәj'ɔ:dinәt,-neit"}
-{"word":"X-coordinates","sw":"xcoordinates","translation":["X坐标，横坐标"],"phonetic":""}
-{"word":"X-country","sw":"xcountry","translation":["[网络] 越野；越野赛"],"phonetic":""}
-{"word":"X-craft","sw":"xcraft","translation":["[网络] 侏儒潜艇；高速双体船；作战舰艇"],"phonetic":""}
-{"word":"x-cross","sw":"xcross","translation":["[网络] 活人祭；交叉绳；魔境传说"],"phonetic":""}
-{"word":"X-CT","sw":"xct","translation":["X射线计算机断层成像"],"phonetic":""}
-{"word":"X-cut","sw":"xcut","translation":["横切,捷径,X截割"],"phonetic":""}
-{"word":"x-d","sw":"xd","translation":["[网络] 切纸机；扩张率"],"phonetic":""}
-{"word":"X-Day","sw":"xday","translation":["[网络] 错误的一天"],"phonetic":""}
-{"word":"X-DBH-MC","sw":"xdbhmc","translation":["[=X-linked dystrophia bullosa hereditaria,Mendesda Costa]X连锁营养不良性大疱遗传性"],"phonetic":""}
-{"word":"X-Designer","sw":"xdesigner","translation":["X-Designer 使用者介面建立器"],"phonetic":""}
-{"word":"x-designers","sw":"xdesigners","translation":["X-Designer 使用者介面建立器","(x-designer 的复数)"],"phonetic":""}
-{"word":"X-dimension","sw":"xdimension","translation":["X 维度"],"phonetic":""}
-{"word":"x-direction","sw":"xdirection","translation":["[医]X轴方向"],"phonetic":""}
-{"word":"x-directions","sw":"xdirections","translation":["[医]X轴方向","(x-direction 的复数)"],"phonetic":""}
-{"word":"X-disease","sw":"xdisease","translation":["n. [兽医]角化过度, 表皮角化病"],"phonetic":"'eksdi,zi:z"}
-{"word":"X-displacement","sw":"xdisplacement","translation":["X位移"],"phonetic":""}
-{"word":"x-ed","sw":"xed","translation":["abbr. 【电】同“reactance”；【化】同“xenon”","v. 用x 符号标出(自己对候选人,试题答案等的选择)","[网络] 乘法符号；横坐标；第一"],"phonetic":"eks"}
-{"word":"x-eds","sw":"xeds","translation":["[网络] 能谱分析"],"phonetic":""}
-{"word":"x-efficiencies","sw":"xefficiencies","translation":["[网络] X效率；非效率；X的效率","(x-efficiency 的复数)"],"phonetic":""}
-{"word":"x-efficiency","sw":"xefficiency","translation":["[网络] X效率；非效率；X的效率"],"phonetic":""}
-{"word":"x-einheit","sw":"xeinheit","translation":["x单位,爱克司单位"],"phonetic":""}
-{"word":"x-element","sw":"xelement","translation":["[医] X成分(染色体团)"],"phonetic":""}
-{"word":"X-engine","sw":"xengine","translation":["un. X型发动机","[网络] X形发动机"],"phonetic":""}
-{"word":"X-engineering","sw":"xengineering","translation":["[网络] 跨组织再造；再造X工程；跨组织的企业再造"],"phonetic":""}
-{"word":"X-er","sw":"xer","translation":["[网络] 香雪儿"],"phonetic":""}
-{"word":"x-ers","sw":"xers","translation":["abbr. 异常寄存器"],"phonetic":""}
-{"word":"X-extent","sw":"xextent","translation":["X 轴延伸"],"phonetic":""}
-{"word":"x-f","sw":"xf","translation":["[网络] 移民；出国"],"phonetic":""}
-{"word":"x-factor","sw":"xfactor","translation":["[医][=hemin]x因子，氯化高铁血红素"],"phonetic":"'eksf'æktər"}
-{"word":"x-factors","sw":"xfactors","translation":["[网络] 总放大倍数；意外因子"],"phonetic":""}
-{"word":"x-file","sw":"xfile","translation":["[网络] X档案；X档案主题曲；档案第"],"phonetic":""}
-{"word":"x-files","sw":"xfiles","translation":["X档案"],"phonetic":""}
-{"word":"X-film","sw":"xfilm","translation":["n. (英)限制性电影"],"phonetic":"'eks'film"}
-{"word":"x-fire","sw":"xfire","translation":["[网络] 火红色；鹰笛安；小护士"],"phonetic":""}
-{"word":"x-fly","sw":"xfly","translation":["[网络] 飞行"],"phonetic":""}
-{"word":"x-force","sw":"xforce","translation":["[网络] 网页反限制工具；X特攻队；注册机"],"phonetic":""}
-{"word":"x-form","sw":"xform","translation":["变换；参考转换；图形变换"],"phonetic":""}
-{"word":"x-forms","sw":"xforms","translation":["[网络] 基于标准；基于准则"],"phonetic":""}
-{"word":"x-frame","sw":"xframe","translation":["交叉形架"],"phonetic":""}
-{"word":"x-g","sw":"xg","translation":["[网络] 旭光"],"phonetic":""}
-{"word":"X-gal","sw":"xgal","translation":["[网络] 半乳糖苷；超纯；半乳糖苷酶"],"phonetic":""}
-{"word":"x-games","sw":"xgames","translation":["[网络] 极限运动；极限运动赛；极限运动会"],"phonetic":""}
-{"word":"x-gamess","sw":"xgamess","translation":["[网络] 极限运动；极限运动赛；极限运动会","(x-games 的复数)"],"phonetic":""}
-{"word":"X-gear","sw":"xgear","translation":["径向变位齿轮"],"phonetic":""}
-{"word":"x-gen","sw":"xgen","translation":["[网络] 面板；超晶面板；次世代"],"phonetic":""}
-{"word":"X-generation","sw":"xgeneration","translation":["X-世代"],"phonetic":""}
-{"word":"x-gram","sw":"xgram","translation":["[医] X线[照]片"],"phonetic":""}
-{"word":"X-guide","sw":"xguide","translation":["[电子] Ｘ形波导"],"phonetic":""}
-{"word":"x-height","sw":"xheight","translation":["n. X坐标"],"phonetic":"'eksh'aɪt"}
-{"word":"x-heights","sw":"xheights","translation":["[网络] x高度"],"phonetic":""}
-{"word":"x-high","sw":"xhigh","translation":["a. 高度与小写x相等的"],"phonetic":"'eks'hai"}
-{"word":"X-hour","sw":"xhour","translation":["X时"],"phonetic":""}
-{"word":"x-i","sw":"xi","translation":["n. 希腊字母的第14个字母；粒子（等于xi particle）"],"phonetic":"ksaɪ; gzaɪ; saɪ; zaɪ"}
-{"word":"X-inactivation","sw":"xinactivation","translation":["[网络] 染色体不活动性；染色体失活；X染色体去活化"],"phonetic":""}
-{"word":"x-inefficiencies","sw":"xinefficiencies","translation":["[网络] 效率；无效率"],"phonetic":""}
-{"word":"x-inefficiency","sw":"xinefficiency","translation":["[网络] X无效率；低效率；生产可行性边界"],"phonetic":""}
-{"word":"x-inefficient","sw":"xinefficient","translation":["[网络] X无效率"],"phonetic":""}
-{"word":"x-ing","sw":"xing","translation":["abbr. 【电】同“reactance”；【化】同“xenon”","v. 用x 符号标出(自己对候选人,试题答案等的选择)","[网络] 乘法符号；横坐标；第一"],"phonetic":"eks"}
-{"word":"x-ings","sw":"xings","translation":["abbr. 【电】同“reactance”；【化】同“xenon”","v. 用x 符号标出(自己对候选人,试题答案等的选择)","[网络] 乘法符号；横坐标；第一","(x-ing 的复数)"],"phonetic":""}
-{"word":"x-input","sw":"xinput","translation":["[网络] 输入信号在诊断屏幕"],"phonetic":""}
-{"word":"x-inputs","sw":"xinputs","translation":["[网络] 输入信号在诊断屏幕","(x-input 的复数)"],"phonetic":""}
-{"word":"X-intercept","sw":"xintercept","translation":["[计] X截距"],"phonetic":""}
-{"word":"x-intercepts","sw":"xintercepts","translation":["[网络] 对话框"],"phonetic":""}
-{"word":"X-irradiate","sw":"xirradiate","translation":["v. 以X光照射"],"phonetic":"'eksi'reidieit"}
-{"word":"x-irradiated","sw":"xirradiated","translation":["X线照射的,X线辐照的"],"phonetic":""}
-{"word":"x-irradiation","sw":"xirradiation","translation":["[医]X线辐照"],"phonetic":""}
-{"word":"x-irradiations","sw":"xirradiations","translation":["X-irradiation","['eksireidi'eiʃən]","n.","X-irradiate的变形","X-irradiate","[,eksi'reidieit]","vt.","用X射线辐照"],"phonetic":"'eksireidi'eiʃən"}
-{"word":"x-is","sw":"xis","translation":["n. 切除酶"],"phonetic":""}
-{"word":"X-ish","sw":"xish","translation":["adj. 无名一代(似)的，与无名一代有关的"],"phonetic":""}
-{"word":"X-it","sw":"xit","translation":["[网络] 德国爱胜"],"phonetic":""}
-{"word":"X-Japan","sw":"xjapan","translation":["无限日本（乐队）"],"phonetic":""}
-{"word":"X-joint","sw":"xjoint","translation":["n. X形接合"],"phonetic":""}
-{"word":"X-junction","sw":"xjunction","translation":["[网络] X接头"],"phonetic":""}
-{"word":"X-junctions","sw":"xjunctions","translation":["[网络] X-junction"],"phonetic":""}
-{"word":"x-knee","sw":"xknee","translation":["[医] 叉形膝, 膝外翻"],"phonetic":""}
-{"word":"x-knife","sw":"xknife","translation":["x-刀"],"phonetic":""}
-{"word":"X-LA","sw":"xla","translation":["[=X-linked agammaglobulinemia]X连锁无丙种球蛋白血症"],"phonetic":""}
-{"word":"x-large","sw":"xlarge","translation":["[网络] 加大；超大；特大"],"phonetic":""}
-{"word":"x-leg","sw":"xleg","translation":["[医] 叉形腿, 膝外翻"],"phonetic":""}
-{"word":"X-light","sw":"xlight","translation":["[网络] 极限之光；乐活舒展"],"phonetic":""}
-{"word":"x-line","sw":"xline","translation":["[计]X-轴线"],"phonetic":""}
-{"word":"X-linkage","sw":"xlinkage","translation":["X染色体连锁,X染色体环连,X-伴性"],"phonetic":""}
-{"word":"x-linked","sw":"xlinked","translation":["[医]伴性的, 伴X染色体的, 性连锁的"],"phonetic":""}
-{"word":"x-lite","sw":"xlite","translation":["[网络] 话机；客户端配置"],"phonetic":""}
-{"word":"X-LZED","sw":"xlzed","translation":["[=crystallized]结晶的"],"phonetic":""}
-{"word":"x-m","sw":"xm","translation":["[网络] 净出口；不等式；净输出"],"phonetic":""}
-{"word":"x-ma","sw":"xma","translation":["[网络] 车系"],"phonetic":""}
-{"word":"X-Machine","sw":"xmachine","translation":["X 机器"],"phonetic":""}
-{"word":"x-man","sw":"xman","translation":["X战警"],"phonetic":""}
-{"word":"x-manifold","sw":"xmanifold","translation":["[数] ｘ流形"],"phonetic":""}
-{"word":"x-mas","sw":"xmas","translation":["[医][=Christmas(factor)]克里斯特马斯（因子），抗血友病因子B"],"phonetic":""}
-{"word":"X-MATCH","sw":"xmatch","translation":["[=cross-match]交叉配"],"phonetic":""}
-{"word":"X-MATCHING","sw":"xmatching","translation":["[=cross-matching]交叉配血"],"phonetic":""}
-{"word":"X-member","sw":"xmember","translation":["叉形杆件"],"phonetic":""}
-{"word":"x-men","sw":"xmen","translation":["[电影]X战警"],"phonetic":""}
-{"word":"x-mind","sw":"xmind","translation":["x光牙片机"],"phonetic":""}
-{"word":"X-mitter","sw":"xmitter","translation":["〔无线电〕发射机"],"phonetic":""}
-{"word":"X-modem","sw":"xmodem","translation":["n. 文件传输通信协议"],"phonetic":"eks'məudem"}
-{"word":"X-moment","sw":"xmoment","translation":["［主机］X型力矩"],"phonetic":""}
-{"word":"X-motion","sw":"xmotion","translation":["n. 在X轴方向运动"],"phonetic":""}
-{"word":"X-motor","sw":"xmotor","translation":["[动力] 沿Ｘ轴驱动的发动机"],"phonetic":""}
-{"word":"X-network","sw":"xnetwork","translation":["X形网络"],"phonetic":""}
-{"word":"x-number","sw":"xnumber","translation":["[网络] 数字密码"],"phonetic":""}
-{"word":"x-o","sw":"xo","translation":["abbr. cross-out test 正交实验（代号）"],"phonetic":""}
-{"word":"X-off","sw":"xoff","translation":["n. 发送葡开"],"phonetic":""}
-{"word":"X-offset","sw":"xoffset","translation":["X轴方向偏移"],"phonetic":""}
-{"word":"X-ogen","sw":"xogen","translation":["n. X素(由多个银河源的射电辐射探测到的一种星际分子)"],"phonetic":"'eksəudʒən"}
-{"word":"X-omat","sw":"xomat","translation":["高速X线胶片洗片器"],"phonetic":""}
-{"word":"X-on","sw":"xon","translation":["n. 发送朴通","n. (Xon)人名；(老)松"],"phonetic":""}
-{"word":"X-opac","sw":"xopac","translation":["硫酸钡,沉淀硫酸钡"],"phonetic":""}
-{"word":"X-organ","sw":"xorgan","translation":["X 器"],"phonetic":""}
-{"word":"x-out","sw":"xout","translation":["abbr. delete 删除（代号）; strike out 打; 击; 冲压成"],"phonetic":""}
-{"word":"X-OVER","sw":"xover","translation":["[=crossing over]交换"],"phonetic":""}
-{"word":"x-p","sw":"xp","translation":["[=x-ray photograph]x线照片,x线摄影"],"phonetic":""}
-{"word":"X-pandisk","sw":"xpandisk","translation":["[网络] 大轮蝶形；涨胎心轴"],"phonetic":""}
-{"word":"x-parallax","sw":"xparallax","translation":["左右视差"],"phonetic":""}
-{"word":"X-parameter","sw":"xparameter","translation":["[化] χ参数"],"phonetic":""}
-{"word":"X-particle","sw":"xparticle","translation":["[医] X-粒子"],"phonetic":""}
-{"word":"X-particles","sw":"xparticles","translation":["X-粒子"],"phonetic":""}
-{"word":"x-pattern","sw":"xpattern","translation":["[网络] 样式；模式；相配的"],"phonetic":""}
-{"word":"x-patterns","sw":"xpatterns","translation":["[网络] 样式；模式；相配的","(x-pattern 的复数)"],"phonetic":""}
-{"word":"X-PCR","sw":"xpcr","translation":["[=xeno-competitive PCR]外源竞争性PCR"],"phonetic":""}
-{"word":"X-Phile","sw":"xphile","translation":[],"phonetic":""}
-{"word":"X-Philes","sw":"xphiles","translation":["[网络] 档案族"],"phonetic":""}
-{"word":"X-plane","sw":"xplane","translation":["实验型飞机"],"phonetic":""}
-{"word":"X-plate","sw":"xplate","translation":["X板,水平偏转板"],"phonetic":""}
-{"word":"x-plor","sw":"xplor","translation":["[网络] 模拟退火"],"phonetic":""}
-{"word":"x-plors","sw":"xplors","translation":["[网络] 模拟退火","(x-plor 的复数)"],"phonetic":""}
-{"word":"X-Prep","sw":"xprep","translation":["番泻叶制剂的商品名"],"phonetic":""}
-{"word":"x-press","sw":"xpress","translation":["[网络] 出版社；广播站"],"phonetic":""}
-{"word":"x-prize","sw":"xprize","translation":["[网络] 奖；大奖"],"phonetic":""}
-{"word":"X-process","sw":"xprocess","translation":["X脱模法（包模铸造法）（三氯乙烯蒸气脱蜡）"],"phonetic":""}
-{"word":"X-PROTEIN","sw":"xprotein","translation":["[=antigammaprotein]抗丙种球蛋白"],"phonetic":""}
-{"word":"x-punch","sw":"xpunch","translation":["11列打孔，x列打孔"],"phonetic":""}
-{"word":"X-quadripole","sw":"xquadripole","translation":["斜格形端网络"],"phonetic":""}
-{"word":"X-Query","sw":"xquery","translation":["X 查询"],"phonetic":""}
-{"word":"x-r","sw":"xr","translation":["[网络] 控制图；均值和极差图；均值极差"],"phonetic":""}
-{"word":"X-radiate","sw":"xradiate","translation":["v. 以X光照射"],"phonetic":""}
-{"word":"X-radiation","sw":"xradiation","translation":["n. X射线, X射线辐射","[化] X辐射"],"phonetic":""}
-{"word":"x-radiations","sw":"xradiations","translation":["n. X光辐射"],"phonetic":",eksreidi'eiʃən"}
-{"word":"X-radiograph","sw":"xradiograph","translation":["[网络] X射线照片"],"phonetic":""}
-{"word":"x-radiographies","sw":"xradiographies","translation":["X射线照相术","(x-radiography 的复数)"],"phonetic":""}
-{"word":"x-radiography","sw":"xradiography","translation":["X射线照相术"],"phonetic":""}
-{"word":"X-Raided","sw":"xraided","translation":[],"phonetic":""}
-{"word":"x-rap","sw":"xrap","translation":["[网络] 假饵"],"phonetic":""}
-{"word":"X-rate","sw":"xrate","translation":["vt. 将(一部影片)划为X级片，将(电影)定为X级"],"phonetic":"'eks,reit"}
-{"word":"X-rated","sw":"xrated","translation":["a. (美)禁止儿童观看的, 限制性的"],"phonetic":"'eks,reitid"}
-{"word":"x-rateds","sw":"xrateds","translation":["X-rated","['eks,reitid]","adj.","[美国英语]","(影片)X级的(少儿不宜)；放映X级电影的","黄色的，下流的， 淫秽的，色情的","猥亵的，粗俗的","有裸体演员的；有裸体表演的","充满暴力的，非常野蛮的，极其粗暴的，极其可怕的"],"phonetic":"'eks,reitid"}
-{"word":"X-rating","sw":"xrating","translation":["[网络] 倍速等级"],"phonetic":""}
-{"word":"x-ray","sw":"xray","translation":["a. X射线的","vt. 用X光检查, 照X光","vi. 使用X光"],"phonetic":"'eks'rei"}
-{"word":"x-rayburn","sw":"xrayburn","translation":["利多卡因,X线烧伤"],"phonetic":""}
-{"word":"x-rayed","sw":"xrayed","translation":["v. 照X光( x-ray的过去式 )"],"phonetic":"ˈeksreid"}
-{"word":"x-rayeds","sw":"xrayeds","translation":["v. 照X光( x-ray的过去式 )","(x-rayed 的复数)"],"phonetic":""}
-{"word":"x-rayer","sw":"xrayer","translation":["a. X射线的","vt. 用X光检查, 照X光","vi. 使用X光","(x-ray 的比较级)"],"phonetic":""}
-{"word":"x-rayest","sw":"xrayest","translation":["a. X射线的","vt. 用X光检查, 照X光","vi. 使用X光","(x-ray 的最高级)"],"phonetic":""}
-{"word":"x-raying","sw":"xraying","translation":["vt. 照X光（x-ray的现在分词形式）"],"phonetic":""}
-{"word":"x-rayings","sw":"xrayings","translation":["vt. 照X光（x-ray的现在分词形式）","(x-raying 的复数)"],"phonetic":""}
-{"word":"X-rayogram","sw":"xrayogram","translation":["X射线照片"],"phonetic":""}
-{"word":"X-rayradiometer","sw":"xrayradiometer","translation":["X射线辐射计"],"phonetic":""}
-{"word":"X-rays","sw":"xrays","translation":["[化] X射线","[医] X线, X射线, 伦琴线"],"phonetic":""}
-{"word":"X-rayted","sw":"xrayted","translation":[],"phonetic":""}
-{"word":"X-rayunit","sw":"xrayunit","translation":["爱克斯光机"],"phonetic":""}
-{"word":"X-ring","sw":"xring","translation":["检查环"],"phonetic":""}
-{"word":"X-Road","sw":"xroad","translation":["[网络] 混合道路；新十字街头；柏油路板路面"],"phonetic":""}
-{"word":"x-roads","sw":"xroads","translation":["[交] 十字路"],"phonetic":""}
-{"word":"X-rotation","sw":"xrotation","translation":["n. 绕X轴旋转"],"phonetic":"'eksrəʊt'eɪʃn"}
-{"word":"X-scale","sw":"xscale","translation":["X方向(横向)比例尺"],"phonetic":""}
-{"word":"X-SCID","sw":"xscid","translation":["[网络] 重症联合免疫缺陷；免疫缺陷综合症；严重复合免疫缺陷病"],"phonetic":""}
-{"word":"x-scids","sw":"xscids","translation":["[网络] 重症联合免疫缺陷；免疫缺陷综合症；严重复合免疫缺陷病","(x-scid 的复数)"],"phonetic":""}
-{"word":"X-SECT","sw":"xsect","translation":["[=cross-section]横断面,横切面"],"phonetic":""}
-{"word":"X-section","sw":"xsection","translation":["[化] 交叉截面"],"phonetic":""}
-{"word":"x-server","sw":"xserver","translation":["[网络] 服务器；服务器端"],"phonetic":""}
-{"word":"x-servers","sw":"xservers","translation":["[网络] 伺服器；伺服程序；伺服程式"],"phonetic":""}
-{"word":"X-shape","sw":"xshape","translation":["交叉形"],"phonetic":""}
-{"word":"x-shaped","sw":"xshaped","translation":["[网络] X形"],"phonetic":""}
-{"word":"x-shapeds","sw":"xshapeds","translation":["[网络] X形","(x-shaped 的复数)"],"phonetic":""}
-{"word":"X-shift","sw":"xshift","translation":["n. 沿X方向的位移"],"phonetic":""}
-{"word":"X-shift-spring","sw":"xshiftspring","translation":["[机] Ｘ形弹簧"],"phonetic":""}
-{"word":"X-source","sw":"xsource","translation":["X－光源"],"phonetic":""}
-{"word":"x-speak","sw":"xspeak","translation":["n. 无名—代用语"],"phonetic":""}
-{"word":"x-stations","sw":"xstations","translation":["[网络] 工作站"],"phonetic":""}
-{"word":"X-stool","sw":"xstool","translation":["[网络] 叉椅凳"],"phonetic":""}
-{"word":"X-stools","sw":"xstools","translation":["[网络] X凳子"],"phonetic":""}
-{"word":"X-stopper","sw":"xstopper","translation":["[收音时]消除大气干扰的设备"],"phonetic":""}
-{"word":"X-stretcher","sw":"xstretcher","translation":["[网络] X担架"],"phonetic":""}
-{"word":"X-stretchers","sw":"xstretchers","translation":["[网络] X型担架"],"phonetic":""}
-{"word":"x-synchronisation","sw":"xsynchronisation","translation":["X同步,闪光-快门同步"],"phonetic":""}
-{"word":"X-tal","sw":"xtal","translation":["abbr. 晶体（crystal）"],"phonetic":""}
-{"word":"x-term","sw":"xterm","translation":["X终端"],"phonetic":""}
-{"word":"x-terminal","sw":"xterminal","translation":["[计]X终端"],"phonetic":""}
-{"word":"x-terminals","sw":"xterminals","translation":["(x-terminal 的复数)  [计]X终端"],"phonetic":""}
-{"word":"x-terms","sw":"xterms","translation":["(x-term 的复数) X终端"],"phonetic":""}
-{"word":"X-test","sw":"xtest","translation":["[数] Ｘ检验"],"phonetic":""}
-{"word":"X-tilt","sw":"xtilt","translation":["X轴倾角"],"phonetic":""}
-{"word":"X-time","sw":"xtime","translation":["X减时间"],"phonetic":""}
-{"word":"x-tra","sw":"xtra","translation":["[网络] 多多奋斗；加料"],"phonetic":""}
-{"word":"x-training","sw":"xtraining","translation":["[网络] 极限训练；功能鞋"],"phonetic":""}
-{"word":"X-transtode","sw":"xtranstode","translation":["X射线透过的胸电极"],"phonetic":""}
-{"word":"x-treme","sw":"xtreme","translation":["[网络] 极端；究极；雷射防护罩"],"phonetic":""}
-{"word":"x-tremer","sw":"xtremer","translation":["[网络] 极端；究极；雷射防护罩","(x-treme 的比较级)"],"phonetic":""}
-{"word":"x-tremest","sw":"xtremest","translation":["[网络] 极端；究极；雷射防护罩","(x-treme 的最高级)"],"phonetic":""}
-{"word":"X-tube","sw":"xtube","translation":["[化] X射线管"],"phonetic":""}
-{"word":"x-type","sw":"xtype","translation":["交叉形"],"phonetic":""}
-{"word":"X-unit","sw":"xunit","translation":["西格班"],"phonetic":""}
-{"word":"x-us","sw":"xus","translation":["n. 许（姓氏）；北越货币单位"],"phonetic":"suː"}
-{"word":"X-Verse","sw":"xverse","translation":[],"phonetic":""}
-{"word":"x-w","sw":"xw","translation":["[网络] 榨菜牛肉西生菜炒饭"],"phonetic":""}
-{"word":"x-wave","sw":"xwave","translation":["[电] X波动"],"phonetic":""}
-{"word":"X-wax","sw":"xwax","translation":["X蜡"],"phonetic":""}
-{"word":"x-weld","sw":"xweld","translation":["abbr. X-shaped weld X形焊接"],"phonetic":""}
-{"word":"X-window","sw":"xwindow","translation":["[计] X窗口"],"phonetic":""}
-{"word":"X-Windows","sw":"xwindows","translation":["n. X视窗","[网络] 图形界面；窗口的图形用户界面；系统"],"phonetic":""}
-{"word":"x-wing","sw":"xwing","translation":["X翼战机"],"phonetic":""}
-{"word":"x-wings","sw":"xwings","translation":["X翼战机","(x-wing 的复数)"],"phonetic":""}
-{"word":"x-x","sw":"xx","translation":["abbr. Xai-Xai (Mozambique seaport) 赛赛（莫桑比克的海港）"],"phonetic":""}
-{"word":"x-xi","sw":"xxi","translation":["[网络] 感到不安"],"phonetic":""}
-{"word":"x-xis","sw":"xxis","translation":["[网络] 感到不安","(x-xi 的复数)"],"phonetic":""}
-{"word":"x-y","sw":"xy","translation":["abbr. diagram 液相组分X与气相组分Y所组成的气液平衡线图解（代号）"],"phonetic":""}
-{"word":"X-zone","sw":"xzone","translation":["[肾上腺]胎性皮质"],"phonetic":""}
 {"word":"xa","sw":"xa","translation":["abbr. 辅助放大器（Auxiliary Amplifier）"],"phonetic":""}
-{"word":"Xaa-Pro-dipeptidylaminopeptidase","sw":"xaaprodipeptidylaminopeptidase","translation":["X氨基酸-脯氨酸-二肽氨基肽酶"],"phonetic":""}
 {"word":"Xaafuun","sw":"xaafuun","translation":["[地名] 哈丰 ( 索 )"],"phonetic":""}
 {"word":"XAAM","sw":"xaam","translation":["abbr. Experimental Air-to-Air Missile 实验型空对空导弹"],"phonetic":""}
 {"word":"xaanthochroism","sw":"xaanthochroism","translation":["黄化现象"],"phonetic":""}
@@ -294,7 +22,6 @@
 {"word":"Xagal","sw":"xagal","translation":["[地名] 哈加勒 ( 索 )"],"phonetic":""}
 {"word":"Xaghra","sw":"xaghra","translation":["[地名] 沙拉 ( 马耳他 )"],"phonetic":""}
 {"word":"xai","sw":"xai","translation":["[网络] 背景图片；亥；杀"],"phonetic":""}
-{"word":"Xai-Xai","sw":"xaixai","translation":["[地名] 赛赛 ( 莫 )"],"phonetic":""}
 {"word":"Xaignabouli","sw":"xaignabouli","translation":["[地名] 沙耶武里 ( 老 )"],"phonetic":""}
 {"word":"xal","sw":"xal","translation":["[网络] 铝价盎司；铝盎司；盎司铝"],"phonetic":""}
 {"word":"xalam","sw":"xalam","translation":[],"phonetic":""}
@@ -734,7 +461,6 @@
 {"word":"xapuri","sw":"xapuri","translation":["[地名] [巴西] 沙普里"],"phonetic":""}
 {"word":"xapuris","sw":"xapuris","translation":["[地名] [巴西] 沙普里","(xapuri 的复数)"],"phonetic":""}
 {"word":"Xaqnthopsia","sw":"xaqnthopsia","translation":["黄幻视"],"phonetic":""}
-{"word":"xaque-xaque","sw":"xaquexaque","translation":[],"phonetic":""}
 {"word":"xar","sw":"xar","translation":["[计]= Index Adder Register,变址加法寄存器"],"phonetic":""}
 {"word":"XARA","sw":"xara","translation":["氯雷他定"],"phonetic":""}
 {"word":"Xarardheere","sw":"xarardheere","translation":["[地名] 哈拉尔代雷 ( 索 )"],"phonetic":""}
@@ -748,7 +474,6 @@
 {"word":"xasp","sw":"xasp","translation":["[网络] 铏氲"],"phonetic":""}
 {"word":"Xassengue","sw":"xassengue","translation":["[地名] 沙森盖 ( 安哥 )"],"phonetic":""}
 {"word":"xat","sw":"xat","translation":["n. 为纪念死者的雕刻柱"],"phonetic":"zɑ:t"}
-{"word":"xat-man","sw":"xatman","translation":["[网络] 鱼露渣"],"phonetic":""}
 {"word":"Xatral","sw":"xatral","translation":["桑塔"],"phonetic":""}
 {"word":"Xaudum","sw":"xaudum","translation":["[地名] 达乌杜姆干河 ( 博·纳 )"],"phonetic":""}
 {"word":"XAUI","sw":"xaui","translation":["n. 附属单元接口"],"phonetic":""}
@@ -863,7 +588,6 @@
 {"word":"XCVR","sw":"xcvr","translation":["abbr. Transceiver Unit 收发机装置"],"phonetic":""}
 {"word":"xd","sw":"xd","translation":["abbr. 无红利（ex-dividend）"],"phonetic":""}
 {"word":"xda","sw":"xda","translation":["abbr. 扩展设计架构（Xtended Design Architecture）；多普达"],"phonetic":""}
-{"word":"XDA-Developers","sw":"xdadevelopers","translation":["[网络] 发一套最新出炉的图标"],"phonetic":""}
 {"word":"xdata","sw":"xdata","translation":["扩展图元数据"],"phonetic":""}
 {"word":"xdb","sw":"xdb","translation":["abbr. external data bus 外部数据总线（代号）"],"phonetic":""}
 {"word":"XDC","sw":"xdc","translation":["abbr. Xylene Dichloride 二氯(代)二甲苯"],"phonetic":""}
@@ -886,7 +610,6 @@
 {"word":"XDOS","sw":"xdos","translation":["[网络] 拒绝服务"],"phonetic":""}
 {"word":"XDP","sw":"xdp","translation":["abbr. X-ray Density Probe X-射线密度探头[探测器]"],"phonetic":""}
 {"word":"XDR","sw":"xdr","translation":["外部数据表示协议"],"phonetic":""}
-{"word":"xdr-tb","sw":"xdrtb","translation":["n. extensively drug-resistant tuberculosis （广泛耐药性结核）"],"phonetic":""}
 {"word":"xdrive","sw":"xdrive","translation":["[网络] 驱动器；四驱；全轮驱动"],"phonetic":""}
 {"word":"xds","sw":"xds","translation":["abbr. 实验发展规格（Experimental Development Specification）；扩展数据服务（external Data Representation Protocol）；静电复印数据系统（Xerox Data System）"],"phonetic":""}
 {"word":"xDSL","sw":"xdsl","translation":["x数字用户线"],"phonetic":""}
@@ -1137,15 +860,11 @@
 {"word":"xenomenia","sw":"xenomenia","translation":["[医]代偿性月经, 异位月经"],"phonetic":",zenә'mi:niә"}
 {"word":"Xenomorph","sw":"xenomorph","translation":[],"phonetic":""}
 {"word":"xenomorphic","sw":"xenomorphic","translation":["a. [矿]他形的"],"phonetic":",zenәu'mɔ:fik"}
-{"word":"xenomorphic-granular","sw":"xenomorphicgranular","translation":["他形粒状"],"phonetic":""}
 {"word":"xenomorphicgranular","sw":"xenomorphicgranular","translation":["他形粒状"],"phonetic":""}
 {"word":"xenomorphism","sw":"xenomorphism","translation":["1.他形；2.异形现象〔双壳类〕, (1)他形 (2)异形现象"],"phonetic":""}
 {"word":"xenomorphosis","sw":"xenomorphosis","translation":["辐射对称式"],"phonetic":""}
 {"word":"xenomorphs","sw":"xenomorphs","translation":["[网络] 异形体"],"phonetic":""}
 {"word":"xenon","sw":"xenon","translation":["n. 氙","[化] 氙Xe"],"phonetic":"'zenɒn"}
-{"word":"xenon-feedback","sw":"xenonfeedback","translation":["un. 氙反馈"],"phonetic":""}
-{"word":"xenon-plus-temperature","sw":"xenonplustemperature","translation":["n. 氙致高温"],"phonetic":""}
-{"word":"xenon-scanning","sw":"xenonscanning","translation":["氙-扫描"],"phonetic":""}
 {"word":"xenonlamp","sw":"xenonlamp","translation":["氙灯泡"],"phonetic":""}
 {"word":"xenonlightcoagulator","sw":"xenonlightcoagulator","translation":["氙光凝固器"],"phonetic":""}
 {"word":"xenonology","sw":"xenonology","translation":["[古] 氙法定年代学"],"phonetic":""}
@@ -1351,11 +1070,6 @@
 {"word":"xerium","sw":"xerium","translation":["干燥粉, 除湿粉"],"phonetic":"'zeriәm"}
 {"word":"xeriums","sw":"xeriums","translation":["干燥粉, 除湿粉","(xerium 的复数)"],"phonetic":""}
 {"word":"xero","sw":"xero","translation":["n. 鑫元鸿（台湾公司名）"],"phonetic":""}
-{"word":"xero-epipetria","sw":"xeroepipetria","translation":["干燥不生型, 干燥石生型"],"phonetic":""}
-{"word":"xero-halophyte","sw":"xerohalophyte","translation":["旱生—盐生植物, 干盐生植物"],"phonetic":""}
-{"word":"xero-mesophyte","sw":"xeromesophyte","translation":["旱生—中生植物, 旱生中生植物"],"phonetic":""}
-{"word":"xero-petrophytia","sw":"xeropetrophytia","translation":["干燥石生群集, 干燥不生群落"],"phonetic":""}
-{"word":"xero-radicantia","sw":"xeroradicantia","translation":["旱生根着型"],"phonetic":""}
 {"word":"xeroangiography","sw":"xeroangiography","translation":["干板血管造影"],"phonetic":""}
 {"word":"xeroarteriography","sw":"xeroarteriography","translation":["干板动脉造影术,静电动脉造影术"],"phonetic":""}
 {"word":"Xerobates","sw":"xerobates","translation":["[网络] 沙漠龟"],"phonetic":""}
@@ -1623,8 +1337,6 @@
 {"word":"XHV","sw":"xhv","translation":["abbr. Extreme Height Vacuum 极高真空"],"phonetic":""}
 {"word":"xhx","sw":"xhx","translation":["[网络] 附约；实支实付；汳"],"phonetic":""}
 {"word":"xi","sw":"xi","translation":["n. 希腊字母的第14个字母；粒子（等于xi particle）"],"phonetic":"sai. zai. ksai. ksi:"}
-{"word":"xi-phodymus","sw":"xiphodymus","translation":["剑突联胎"],"phonetic":""}
-{"word":"xi-xii","sw":"xixii","translation":["[网络] 目次"],"phonetic":""}
 {"word":"xia","sw":"xia","translation":["abbr. X 波段[频带]干扰仪天线（X-band Interferometer Antenna）"],"phonetic":""}
 {"word":"Xiabai","sw":"xiabai","translation":["侠白"],"phonetic":""}
 {"word":"Xiaguan","sw":"xiaguan","translation":["下关"],"phonetic":""}
@@ -1640,7 +1352,6 @@
 {"word":"Xianbei","sw":"xianbei","translation":["[网络] 鲜卑；鲜卑族"],"phonetic":""}
 {"word":"Xianfeng","sw":"xianfeng","translation":["咸丰"],"phonetic":""}
 {"word":"xiang","sw":"xiang","translation":["湘、象等同音中文字的拼音"],"phonetic":""}
-{"word":"xiang-huo","sw":"xianghuo","translation":["[网络] 霍湘；项橐"],"phonetic":""}
 {"word":"xiangchengensis","sw":"xiangchengensis","translation":["[网络] 乡城齿蟾；乡城竹叶青蛇；乡城原矛头蝮"],"phonetic":""}
 {"word":"Xiangfan","sw":"xiangfan","translation":["n.襄樊"],"phonetic":""}
 {"word":"Xianggang","sw":"xianggang","translation":["香港(亦作Hong Kong 或Hongkong)"],"phonetic":"'ʃjɑ:ŋ'^ɑ:ŋ"}
@@ -1670,8 +1381,6 @@
 {"word":"Xianyang","sw":"xianyang","translation":["n.咸阳"],"phonetic":""}
 {"word":"Xianyou","sw":"xianyou","translation":["仙游（中国地名）"],"phonetic":""}
 {"word":"xiao","sw":"xiao","translation":["箫"],"phonetic":""}
-{"word":"xiao-li","sw":"xiaoli","translation":["[网络] 李宵；李晓；李潇"],"phonetic":""}
-{"word":"xiao-ping","sw":"xiaoping","translation":["[网络] 陈晓萍"],"phonetic":""}
 {"word":"xiaobo","sw":"xiaobo","translation":["[网络] 北京；琳琳；南李北刘"],"phonetic":""}
 {"word":"xiaochangliang","sw":"xiaochangliang","translation":["[网络] 小昌梁"],"phonetic":""}
 {"word":"Xiaochangshu","sw":"xiaochangshu","translation":["小肠俞"],"phonetic":""}
@@ -1765,7 +1474,6 @@
 {"word":"Xiguan","sw":"xiguan","translation":["膝关"],"phonetic":""}
 {"word":"xih","sw":"xih","translation":["[网络] 就；繜；胖兔"],"phonetic":""}
 {"word":"xii","sw":"xii","translation":["num. 罗马数字 12"],"phonetic":""}
-{"word":"xii-xiv","sw":"xiixiv","translation":["[网络] 一发命中在装甲带下方区域"],"phonetic":""}
 {"word":"xiier","sw":"xiier","translation":["num. 罗马数字 12","(xii 的比较级)"],"phonetic":""}
 {"word":"xiiest","sw":"xiiest","translation":["num. 罗马数字 12","(xii 的最高级)"],"phonetic":""}
 {"word":"xiii","sw":"xiii","translation":["num. 罗马数字 13"],"phonetic":""}
@@ -1920,7 +1628,6 @@
 {"word":"xiphisternum","sw":"xiphisternum","translation":["n. [解][动]剑胸骨"],"phonetic":",zifi'stә:nәm"}
 {"word":"xiphisternums","sw":"xiphisternums","translation":["n. 剑胸骨"],"phonetic":",zɪfɪ'stɜːnəm"}
 {"word":"xiphium","sw":"xiphium","translation":["[网络] 稗苔草；稗薹草"],"phonetic":""}
-{"word":"xipho-omphalopagus","sw":"xiphoomphalopagus","translation":["剑突-脐联体"],"phonetic":""}
 {"word":"Xiphocentronidae","sw":"xiphocentronidae","translation":["[昆] 剑石蛾科"],"phonetic":""}
 {"word":"Xiphocheilus","sw":"xiphocheilus","translation":["[鱼] 剑唇鱼属"],"phonetic":""}
 {"word":"xiphocostal","sw":"xiphocostal","translation":["[医] 剑突肋骨的"],"phonetic":""}
@@ -1931,7 +1638,6 @@
 {"word":"xiphodymus","sw":"xiphodymus","translation":["[医] 剑突联胎"],"phonetic":""}
 {"word":"xiphodynia","sw":"xiphodynia","translation":["[医] 剑突痛"],"phonetic":""}
 {"word":"xiphoid","sw":"xiphoid","translation":["n. 剑突","a. 剑状的"],"phonetic":"'zifɒid"}
-{"word":"xiphoid-process","sw":"xiphoidprocess","translation":["剑突"],"phonetic":""}
 {"word":"xiphoidal","sw":"xiphoidal","translation":["[网络] 小叶"],"phonetic":""}
 {"word":"xiphoidalgia","sw":"xiphoidalgia","translation":["[医] 剑突痛"],"phonetic":""}
 {"word":"Xiphoidectomy","sw":"xiphoidectomy","translation":["剑突切除术"],"phonetic":""}
@@ -1970,7 +1676,6 @@
 {"word":"XIQ","sw":"xiq","translation":["abbr. X-ray Industrial Quantometer 工业用X射线剂量计"],"phonetic":""}
 {"word":"xiqin","sw":"xiqin","translation":["[网络] 覃西"],"phonetic":""}
 {"word":"xiqu","sw":"xiqu","translation":["[网络] 戏曲歌谱；鍚稿彇鏁栾；曲艺杂项"],"phonetic":""}
-{"word":"Xique-Xique","sw":"xiquexique","translation":["[地名] 希克希克 ( 巴西 )"],"phonetic":""}
 {"word":"xir","sw":"xir","translation":["abbr. X-linked lymphocyte-regulated X-连锁淋巴调节"],"phonetic":""}
 {"word":"xira","sw":"xira","translation":["[网络] 西撒"],"phonetic":""}
 {"word":"xircom","sw":"xircom","translation":["[网络] 捷讯；捷迅"],"phonetic":""}
@@ -2007,7 +1712,6 @@
 {"word":"Xiumin","sw":"xiumin","translation":[],"phonetic":""}
 {"word":"xius","sw":"xius","translation":["[网络] 锈"],"phonetic":""}
 {"word":"xiv","sw":"xiv","translation":["num. 罗马数字 14"],"phonetic":""}
-{"word":"xiv-xv","sw":"xivxv","translation":["[网络] 引介；那个时代最激进的怀疑论者"],"phonetic":""}
 {"word":"Xiva","sw":"xiva","translation":["[地名] 希瓦 ( 乌兹 )"],"phonetic":""}
 {"word":"xivs","sw":"xivs","translation":["num. 罗马数字 14","(xiv 的复数)"],"phonetic":""}
 {"word":"xivver","sw":"xivver","translation":["num. 罗马数字 14","(xiv 的比较级)"],"phonetic":""}
@@ -2128,15 +1832,11 @@
 {"word":"XMIT","sw":"xmit","translation":["传送"],"phonetic":""}
 {"word":"xmitter","sw":"xmitter","translation":["[电] 发射机"],"phonetic":""}
 {"word":"xml","sw":"xml","translation":["abbr. 可扩展标示语言（Extensive Makeup Language）"],"phonetic":""}
-{"word":"XML-Data","sw":"xmldata","translation":["n. 扩充标记的语言数据"],"phonetic":""}
-{"word":"XML-RPC","sw":"xmlrpc","translation":["XML-RPC"],"phonetic":""}
 {"word":"XMLHTTP","sw":"xmlhttp","translation":["[网络] 的；封装；组"],"phonetic":""}
 {"word":"XMLHttpRequest","sw":"xmlhttprequest","translation":["可扩展超文本传输请求（计算机术语）"],"phonetic":""}
 {"word":"xmm","sw":"xmm","translation":["abbr. X-ray multiple mirror X射线多面镜"],"phonetic":""}
-{"word":"xmm-newton","sw":"xmmnewton","translation":["[网络] 牛顿卫星"],"phonetic":""}
 {"word":"xmn","sw":"xmn","translation":["[网络] 厦门(Xiamen)；厦门高崎国际机场；厦门高崎机场"],"phonetic":""}
 {"word":"Xmodem","sw":"xmodem","translation":["[计] Xmodem协议"],"phonetic":""}
-{"word":"Xmodem-CRC","sw":"xmodemcrc","translation":["n. 带CRC校验的Xmodem"],"phonetic":""}
 {"word":"xmodems","sw":"xmodems","translation":["[计] Xmodem协议","(xmodem 的复数)"],"phonetic":""}
 {"word":"xmosaic","sw":"xmosaic","translation":["X 视窗系统之 Mosaic 多媒体浏览程式"],"phonetic":""}
 {"word":"XMP","sw":"xmp","translation":["[化] 黄苷酸; 黄苷一磷酸"],"phonetic":""}
@@ -2162,8 +1862,6 @@
 {"word":"Xnty","sw":"xnty","translation":["Christianity 基督教； abbr.；=Christianity"],"phonetic":""}
 {"word":"Xnxx","sw":"xnxx","translation":[],"phonetic":""}
 {"word":"xo","sw":"xo","translation":["abbr. 藏窖年份40-75年的白兰地规格（extra old）"],"phonetic":""}
-{"word":"XO-I","sw":"xoi","translation":["[网络] 黄嘌呤氧化酶抑制剂"],"phonetic":""}
-{"word":"XO-type","sw":"xotype","translation":["XO型"],"phonetic":""}
 {"word":"XOAF","sw":"xoaf","translation":["[=X-linked ocular albinism,Forsius-Eriksson]X连锁眼白化病"],"phonetic":""}
 {"word":"xoan","sw":"xoan","translation":["[=x-linked ocular albinism]x连锁眼白化病"],"phonetic":""}
 {"word":"xoana","sw":"xoana","translation":["n. 原始神像"],"phonetic":""}
@@ -2205,11 +1903,9 @@
 {"word":"xomed","sw":"xomed","translation":["[网络] 呕吐"],"phonetic":""}
 {"word":"xomox","sw":"xomox","translation":["[网络] 苏莫斯；美国苏莫斯；苏莫斯蝶阀"],"phonetic":""}
 {"word":"xon","sw":"xon","translation":["发送朴通"],"phonetic":"nz"}
-{"word":"xon-xoff","sw":"xonxoff","translation":["n.发送开-发送关"],"phonetic":""}
 {"word":"xonaltite","sw":"xonaltite","translation":[],"phonetic":""}
 {"word":"Xonobod","sw":"xonobod","translation":["[地名] 霍诺博德 ( 乌兹 )"],"phonetic":""}
 {"word":"xonotlite","sw":"xonotlite","translation":["硬硅钙石"],"phonetic":"'zәunәt,lait"}
-{"word":"Xonrupt-Longemer","sw":"xonruptlongemer","translation":["[地名] 克松吕-隆日梅 ( 法 )"],"phonetic":""}
 {"word":"xons","sw":"xons","translation":["发送朴通","(xon 的复数)"],"phonetic":""}
 {"word":"xonvergiometer","sw":"xonvergiometer","translation":["隐斜眼测验器"],"phonetic":""}
 {"word":"xoo","sw":"xoo","translation":["[网络] 水稻白叶枯病菌；水稻黄单胞菌；黄单胞杆菌水稻致病变种"],"phonetic":""}
@@ -2334,9 +2030,6 @@
 {"word":"xrt","sw":"xrt","translation":["abbr. ex-rights 除权; 没有权利（代号）; without rights 没有权利（代号）; X-ray technician X射线技师"],"phonetic":""}
 {"word":"xrystallography","sw":"xrystallography","translation":["结晶学"],"phonetic":""}
 {"word":"XS","sw":"xs","translation":["[计] 余三码"],"phonetic":""}
-{"word":"xs-l","sw":"xsl","translation":["[网络] 拼色针织开衫；子冬季化妆舞会短袖T恤；牵引绳胸背带"],"phonetic":""}
-{"word":"xs-xl","sw":"xsxl","translation":["[网络] 码数；尺寸；裤"],"phonetic":""}
-{"word":"xs-xxl","sw":"xsxxl","translation":["[网络] 牛仔短裙；尺码；袖T恤"],"phonetic":""}
 {"word":"xsa","sw":"xsa","translation":["[=cross-sectional area]横切面面积"],"phonetic":""}
 {"word":"xsadism","sw":"xsadism","translation":["施虐癖"],"phonetic":""}
 {"word":"XSB","sw":"xsb","translation":["Xavier Society for the Blind 泽维尔盲人协会"],"phonetic":""}
@@ -2357,7 +2050,6 @@
 {"word":"xsight","sw":"xsight","translation":["[网络] 定性研究软件"],"phonetic":""}
 {"word":"xsights","sw":"xsights","translation":["[网络] 定性研究软件","(xsight 的复数)"],"phonetic":""}
 {"word":"xsl","sw":"xsl","translation":["abbr. 可扩展样式表语言（Extensible Stylesheet Language）"],"phonetic":""}
-{"word":"XSL-FO","sw":"xslfo","translation":["[网络] 可扩展样式语言格式化对象；格式化物件；可扩展样式表语言格式对象"],"phonetic":""}
 {"word":"XSLpatterns","sw":"xslpatterns","translation":["XSL 型样"],"phonetic":""}
 {"word":"xslt","sw":"xslt","translation":["abbr. extensible stylesheet language transformation 可扩展样式表语言变换（代号）"],"phonetic":""}
 {"word":"XSM","sw":"xsm","translation":["abbr. Experimental Strategic Missile 实验战略导弹"],"phonetic":""}
@@ -2405,7 +2097,6 @@
 {"word":"xtp","sw":"xtp","translation":["[计]= eXpress Transfer Protocol,快速传送协议"],"phonetic":""}
 {"word":"xtr","sw":"xtr","translation":["[计]= eXTRa,[修]特别的，额外的，附加的"],"phonetic":""}
 {"word":"xtra","sw":"xtra","translation":["n. [电讯]字母X"],"phonetic":"'ekstrә"}
-{"word":"Xtra-dull","sw":"xtradull","translation":["埃克斯特拉无光纤维"],"phonetic":""}
 {"word":"xtrac","sw":"xtrac","translation":["[网络] 序列变速箱；单速"],"phonetic":""}
 {"word":"xtracs","sw":"xtracs","translation":["[网络] 序列变速箱；单速","(xtrac 的复数)"],"phonetic":""}
 {"word":"xtras","sw":"xtras","translation":["n. 特殊效果；外挂；电讯术语"],"phonetic":""}
@@ -2421,7 +2112,6 @@
 {"word":"Xty","sw":"xty","translation":["[网络] 壮志凌云；薛佳臻；足浴盆"],"phonetic":""}
 {"word":"xu","sw":"xu","translation":["n. 北越货币单位；许（姓氏）"],"phonetic":"su:"}
 {"word":"xuan","sw":"xuan","translation":["n. (Xuan)人名；(越)春"],"phonetic":""}
-{"word":"Xuan-tong","sw":"xuantong","translation":["[网络] 等你"],"phonetic":""}
 {"word":"Xuancheng","sw":"xuancheng","translation":["宣城"],"phonetic":""}
 {"word":"Xuandi","sw":"xuandi","translation":["玄天上帝"],"phonetic":""}
 {"word":"xuanhe","sw":"xuanhe","translation":["[网络] 宣和电器店主"],"phonetic":""}
@@ -2484,7 +2174,6 @@
 {"word":"xuyen","sw":"xuyen","translation":["[网络] x en"],"phonetic":""}
 {"word":"Xuzhou","sw":"xuzhou","translation":["n. 徐州（中国地名）"],"phonetic":""}
 {"word":"xv","sw":"xv","translation":["n. 罗马数字之十五；十五人组成的球队"],"phonetic":""}
-{"word":"xv-xvi","sw":"xvxvi","translation":["[网络] 不适"],"phonetic":""}
 {"word":"XVCD","sw":"xvcd","translation":["[网络] 雄厚"],"phonetic":""}
 {"word":"xvColor","sw":"xvcolor","translation":["[网络] 广色域；广域色彩支援"],"phonetic":""}
 {"word":"xvi","sw":"xvi","translation":["num. 罗马数字 16"],"phonetic":""}
@@ -2521,8 +2210,6 @@
 {"word":"XWS","sw":"xws","translation":["abbr. Experimental Weapons Specification 实验武器规格"],"phonetic":""}
 {"word":"XWT","sw":"xwt","translation":["abbr. (=experimental weight)实验重量","[网络] XML Windowing Toolkit; 富贵得利还本终身保险; 炫吾堂"],"phonetic":""}
 {"word":"xx","sw":"xx","translation":["abbr. 血型（xue xing, 汉语拼音）"],"phonetic":""}
-{"word":"xx-xxi","sw":"xxxxi","translation":["[网络] 一发命中区域"],"phonetic":""}
-{"word":"xx-xxx","sw":"xxxxx","translation":["[网络] 账号为"],"phonetic":""}
 {"word":"XXCC","sw":"xxcc","translation":["[网络] 黄；深切缅怀亲人们；虚线擦除"],"phonetic":""}
 {"word":"xxes","sw":"xxes","translation":["[网络] 翠兰"],"phonetic":""}
 {"word":"XXH","sw":"xxh","translation":["abbr. Extra Extra Hard 超超硬, 特超硬"],"phonetic":""}
@@ -2568,7 +2255,6 @@
 {"word":"xxvis","sw":"xxvis","translation":["[网络] 二十六；二十七；硼酸酯","(xxvi 的复数)"],"phonetic":""}
 {"word":"xxvs","sw":"xxvs","translation":["num. 罗马数字 25","(xxv 的复数)"],"phonetic":""}
 {"word":"xxx","sw":"xxx","translation":["num. 罗马数字30"],"phonetic":""}
-{"word":"xxx-xxxx","sw":"xxxxxxx","translation":["[网络] 邮递区号；电话；我打"],"phonetic":""}
 {"word":"XXXed","sw":"xxxed","translation":["[网络] XXX了"],"phonetic":""}
 {"word":"XXXes","sw":"xxxes","translation":["[网络] XXX"],"phonetic":""}
 {"word":"XxxHolic","sw":"xxxholic","translation":[],"phonetic":""}
@@ -2606,14 +2292,8 @@
 {"word":"XXXXY","sw":"xxxxy","translation":["[=XXXXY syndrome]XXXXY综合征"],"phonetic":""}
 {"word":"XXXY","sw":"xxxy","translation":["[=XXXY syndrome]XXXY综合征"],"phonetic":""}
 {"word":"xxy","sw":"xxy","translation":["[医][=an abnormal sex chromosome type]一种异常性染色体组型（克氏综合征中常见）; [电影]双性传奇/我是女生，也是男生"],"phonetic":""}
-{"word":"XXY-syndrome","sw":"xxysyndrome","translation":["[网络] 综合征"],"phonetic":""}
-{"word":"xxy-syndromes","sw":"xxysyndromes","translation":["[网络] 综合征","(xxy-syndrome 的复数)"],"phonetic":""}
 {"word":"XXYY","sw":"xxyy","translation":["[=an abnormal sex chromosome type]一种异常性染色体组型"],"phonetic":""}
 {"word":"xy","sw":"xy","translation":["n. 正常男性染色体组型"],"phonetic":""}
-{"word":"Xy-pic","sw":"xypic","translation":["Xy-pic 图文集"],"phonetic":""}
-{"word":"xy-plane","sw":"xyplane","translation":["xy-平面, xy 平面"],"phonetic":""}
-{"word":"XY-tupe","sw":"xytupe","translation":["XY型"],"phonetic":""}
-{"word":"XY-type","sw":"xytype","translation":["XY型"],"phonetic":""}
 {"word":"XYA","sw":"xya","translation":["[=X-Y axis]X-Y轴"],"phonetic":""}
 {"word":"Xyde","sw":"xyde","translation":["丙谷胺,丙谷酰胺,二丙谷酰胺,蒙胃顿,苯谷胺"],"phonetic":""}
 {"word":"Xyelidae","sw":"xyelidae","translation":["长节锯蜂科"],"phonetic":""}
@@ -2667,7 +2347,6 @@
 {"word":"xylenin","sw":"xylenin","translation":["[医] 结核杆菌二甲苯浸质(一种结核菌毒)"],"phonetic":""}
 {"word":"xylenobacillin","sw":"xylenobacillin","translation":["[医] 结核杆菌二甲苯浸质(一种结核菌毒)"],"phonetic":""}
 {"word":"xylenol","sw":"xylenol","translation":["n. [化]二甲苯酚"],"phonetic":"'zailinɔl"}
-{"word":"xylenol-salol","sw":"xylenolsalol","translation":["[医] 二甲苯酚萨罗"],"phonetic":""}
 {"word":"xylenols","sw":"xylenols","translation":["n. 二甲酚；〔化〕二甲苯酚","[网络] 二甲酚类"],"phonetic":""}
 {"word":"xylentes","sw":"xylentes","translation":["[昆] 豹蠹蛾"],"phonetic":""}
 {"word":"xylenyl","sw":"xylenyl","translation":["[网络] 二甲苯基"],"phonetic":""}
@@ -2700,9 +2379,6 @@
 {"word":"xylivorous","sw":"xylivorous","translation":["[网络] 木薯"],"phonetic":""}
 {"word":"xylloma","sw":"xylloma","translation":["菌丝瘤,产孢菌结,木质瘤"],"phonetic":""}
 {"word":"xylo","sw":"xylo","translation":["利多卡因、硫双二氯酚、维生素D2复合制剂(消炎、镇痛外用药)"],"phonetic":"'zailәu"}
-{"word":"xylo-marimba","sw":"xylomarimba","translation":["[网络] 木薯菜"],"phonetic":""}
-{"word":"xylo-marimbas","sw":"xylomarimbas","translation":["[网络] 番荔枝"],"phonetic":""}
-{"word":"Xylo-Pfan","sw":"xylopfan","translation":["木糖"],"phonetic":""}
 {"word":"xyloaloes","sw":"xyloaloes","translation":["[网络] 小牛"],"phonetic":""}
 {"word":"xylobalsamum","sw":"xylobalsamum","translation":["(吉利亚德产的)香树脂"],"phonetic":",zailәu'bɔ:lsәmәm"}
 {"word":"xylobiase","sw":"xylobiase","translation":["β-木糖苷酶"],"phonetic":""}
@@ -2812,7 +2488,6 @@
 {"word":"xylonic","sw":"xylonic","translation":["[网络] 木乃伊"],"phonetic":""}
 {"word":"xylonite","sw":"xylonite","translation":["n. (英)赛璐珞, 假象牙","[医] 赛璐珞, 假象牙"],"phonetic":"'zailәnait"}
 {"word":"xylonites","sw":"xylonites","translation":["n. 【化】假象牙；赛璐珞","[网络] 硝酸纤维素塑料；化学塑料；赛璐璐"],"phonetic":""}
-{"word":"Xylonor-levarterenol","sw":"xylonorlevarterenol","translation":["利多卡因,赛罗卡因,昔罗卡因"],"phonetic":""}
 {"word":"Xyloocitine","sw":"xyloocitine","translation":["利多卡因,赛罗卡因,昔罗卡因"],"phonetic":""}
 {"word":"xylooligosaccharide","sw":"xylooligosaccharide","translation":["[网络] 木寡糖；低聚木糖；木寡醣"],"phonetic":""}
 {"word":"xylooligosaccharides","sw":"xylooligosaccharides","translation":["[网络] 木寡糖；低聚木糖；可提炼低聚木糖类"],"phonetic":""}
@@ -2879,7 +2554,6 @@
 {"word":"xylos","sw":"xylos","translation":["[网络] 木糖"],"phonetic":""}
 {"word":"xylosazone","sw":"xylosazone","translation":["[医] 木糖ㄌ"],"phonetic":""}
 {"word":"xylose","sw":"xylose","translation":["n. 木糖","[化] 木糖"],"phonetic":"'zailәus"}
-{"word":"xylose-lysine-desoxycholate","sw":"xyloselysinedesoxycholate","translation":["木糖赖氨酸脱氧胆酸盐"],"phonetic":""}
 {"word":"xyloses","sw":"xyloses","translation":["n. [有化] 木糖"],"phonetic":"'zaɪləʊz; -s"}
 {"word":"xylosidase","sw":"xylosidase","translation":["木糖酶;木糖苷酶"],"phonetic":""}
 {"word":"xylosidases","sw":"xylosidases","translation":["[网络] 木糖苷酶类"],"phonetic":""}
@@ -2947,7 +2621,6 @@
 {"word":"xyluloses","sw":"xyluloses","translation":["[有化] 木酮糖"],"phonetic":"'zailələus"}
 {"word":"xylychloride","sw":"xylychloride","translation":["甲苄基氯"],"phonetic":",zaili'klɔ:raid"}
 {"word":"xylyl","sw":"xylyl","translation":["n. 二甲苯基, 甲苄基","[化] 二甲苯基; 甲苄基"],"phonetic":"'zailil"}
-{"word":"xylyl-mercaptan","sw":"xylylmercaptan","translation":["[化] 苯二甲硫醇; 甲苄基"],"phonetic":""}
 {"word":"xylylamine","sw":"xylylamine","translation":["甲苄胺"],"phonetic":",zaili'læmi:n"}
 {"word":"xylylcarb","sw":"xylylcarb","translation":["灭杀威"],"phonetic":""}
 {"word":"xylylchloride","sw":"xylylchloride","translation":["[化] 甲苄基氯"],"phonetic":""}

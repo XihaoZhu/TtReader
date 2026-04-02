@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
-import { View, Text, StyleSheet, FlatList } from "react-native";
+import { View, Text, StyleSheet, FlatList, Pressable } from "react-native";
 import { splitIntoWords } from "../utils/WordSplitter";
 import { splitIntoSentences } from "../utils/SentenceSplitter";
 import { saveProgress, getProgress } from "../utils/ReadingProgress";
@@ -61,39 +61,53 @@ export default function Reader({
 
         return result;
     }, [content]);
+    // #endregion
 
 
 
     const renderLine = ({ item: sentence, index: sentenceIndex }: { item: string; index: number }) => {
+
+        if (sentence === "") {
+            return (<Pressable
+                onPress={() => {
+                    if (bubbleVisible) { onCloseBubble() }
+                }}><Text style={styles.emptyLine} /></Pressable>)
+        }
         const sentenceWords = splitIntoWords(sentence);
         return (
-            <Text style={styles.line}>
-                {sentenceWords.map((word, wIndex) => {
-                    const isWordSelected =
-                        selectedWordPos?.sIndex === sentenceIndex && selectedWordPos?.wIndex === wIndex;
-                    const isWordSaved = (w: string) => savedWords.includes(w)
-                    const isSentenceSelected = selectedSentenceIndex === sentenceIndex;
+            <Pressable
+                style={styles.lineContainer}
+                onPress={() => {
+                    if (bubbleVisible) { onCloseBubble() }
+                }}>
+                <Text style={styles.line}>
+                    {sentenceWords.map((word, wIndex) => {
+                        const isWordSelected =
+                            selectedWordPos?.sIndex === sentenceIndex && selectedWordPos?.wIndex === wIndex;
+                        const isWordSaved = (w: string) => savedWords.includes(w)
+                        const isSentenceSelected = selectedSentenceIndex === sentenceIndex;
 
-                    return (
-                        <Text
-                            key={wIndex}
-                            onPress={() => {
-                                if (bubbleVisible) { onCloseBubble(); return; }
-                                handleWordPress(sentenceIndex, wIndex, cleanWord(word));
-                            }}
-                            onLongPress={() => handleSentenceLongPress(sentenceIndex, sentence)}
-                            style={[
-                                styles.word,
-                                isWordSelected && styles.selectedWord,
-                                isWordSaved(normalizeWord(cleanWord(word))) && styles.savedWord,
-                                isSentenceSelected && styles.selectedSentence,
-                            ]}
-                        >
-                            {word + " "}
-                        </Text>
-                    );
-                })}
-            </Text>
+                        return (
+                            <Text
+                                key={wIndex}
+                                onPress={() => {
+                                    if (bubbleVisible) { onCloseBubble(); return; }
+                                    handleWordPress(sentenceIndex, wIndex, cleanWord(word));
+                                }}
+                                onLongPress={() => handleSentenceLongPress(sentenceIndex, sentence)}
+                                style={[
+                                    styles.word,
+                                    isWordSelected && styles.selectedWord,
+                                    isWordSaved(normalizeWord(cleanWord(word))) && styles.savedWord,
+                                    isSentenceSelected && styles.selectedSentence,
+                                ]}
+                            >
+                                {word + " "}
+                            </Text>
+                        );
+                    })}
+                </Text>
+            </Pressable>
         );
     };
 
@@ -128,5 +142,13 @@ const styles = StyleSheet.create({
         lineHeight: 24,
         flexDirection: "row",
         flexWrap: "wrap"
+    },
+    emptyLine: {
+        height: 16,
+    },
+    lineContainer: {
+        flexDirection: 'row',
+        flexWrap: 'wrap',
+        minHeight: 30,
     },
 });

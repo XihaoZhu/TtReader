@@ -1,119 +1,3 @@
-{"word":"Q-A","sw":"qa","translation":["abbr. 品质保证（Quality Assurance）；质量评价（Quality Assessment）"],"phonetic":",kju 'e"}
-{"word":"Q-aerial","sw":"qaerial","translation":["Q型天线"],"phonetic":""}
-{"word":"Q-alloy","sw":"qalloy","translation":["Q合金｛镍铬钢｝"],"phonetic":""}
-{"word":"q-analog","sw":"qanalog","translation":["[网络] q-模拟"],"phonetic":""}
-{"word":"q-analogs","sw":"qanalogs","translation":["[网络] q-类似物"],"phonetic":""}
-{"word":"q-analogue","sw":"qanalogue","translation":["[网络] q-类似物"],"phonetic":""}
-{"word":"q-analogues","sw":"qanalogues","translation":["[网络] q-类似物"],"phonetic":""}
-{"word":"q-analyses","sw":"qanalyses","translation":["Q—分析","(q-analysis 的复数)"],"phonetic":""}
-{"word":"Q-analysis","sw":"qanalysis","translation":["Q—分析"],"phonetic":""}
-{"word":"q-and-a","sw":"qanda","translation":["[网络] 七人的莎士比亚；蔷薇色的明天；企鹅革命"],"phonetic":""}
-{"word":"Q-angle","sw":"qangle","translation":["Q角"],"phonetic":""}
-{"word":"q-arm","sw":"qarm","translation":["[网络] 长臂；染色体长臂"],"phonetic":""}
-{"word":"q-ary","sw":"qary","translation":["[网络] 多进制；有限域构造的多元"],"phonetic":""}
-{"word":"Q-axis","sw":"qaxis","translation":["Q坐标"],"phonetic":""}
-{"word":"Q-BA","sw":"qba","translation":["[=quinacrine band]Q带,喹吖因带"],"phonetic":""}
-{"word":"Q-ball","sw":"qball","translation":["n. 球状压力传感器","[网络] 老鼠踢足球；Q球；洗衣球"],"phonetic":""}
-{"word":"Q-band","sw":"qband","translation":["Q波段"],"phonetic":""}
-{"word":"Q-banding","sw":"qbanding","translation":["喹吖因[荧光]显带"],"phonetic":""}
-{"word":"Q-barnling","sw":"qbarnling","translation":["Q显带"],"phonetic":""}
-{"word":"Q-Bert","sw":"qbert","translation":["Q-Bert 游戏"],"phonetic":""}
-{"word":"Q-boat","sw":"qboat","translation":["伪装猎潜船（第一次世界大战末英国用于诱击敌方潜艇的一种伪装商船或捕鱼船, 等于Q ship）"],"phonetic":""}
-{"word":"Q-branch","sw":"qbranch","translation":["[化] Q支; 零支"],"phonetic":""}
-{"word":"Q-branches","sw":"qbranches","translation":["(Q-branch 的复数) [化] Q支; 零支"],"phonetic":""}
-{"word":"Q-bridge","sw":"qbridge","translation":["电桥"],"phonetic":""}
-{"word":"Q-car","sw":"qcar","translation":["[网络] Q车"],"phonetic":""}
-{"word":"Q-carbon","sw":"qcarbon","translation":["[网络] Q-碳"],"phonetic":""}
-{"word":"q-cars","sw":"qcars","translation":["[网络] Q车","(q-car 的复数)"],"phonetic":""}
-{"word":"Q-Cells","sw":"qcells","translation":["[网络] 德国；德国太阳能电池大厂；德意志交易所"],"phonetic":""}
-{"word":"Q-Celtic","sw":"qceltic","translation":["[网络] 凯尔特人"],"phonetic":""}
-{"word":"Q-character","sw":"qcharacter","translation":["n. 【计算机】特征位"],"phonetic":"'kju:'kæriktə"}
-{"word":"Q-Clearance","sw":"qclearance","translation":["n. (接触有关核武器机密资料的)Q级许可证，绝密级许可证[亦作Q-clearance]"],"phonetic":"'kju:,kliərəns"}
-{"word":"Q-code","sw":"qcode","translation":["n. Q缩语电码","[网络] Q代码；条码读取器"],"phonetic":""}
-{"word":"Q-codes","sw":"qcodes","translation":["[网络] Q代码"],"phonetic":""}
-{"word":"Q-communication","sw":"qcommunication","translation":["Q开关"],"phonetic":""}
-{"word":"q-conjugate","sw":"qconjugate","translation":["q共轭元"],"phonetic":""}
-{"word":"Q-Connector","sw":"qconnector","translation":["[网络] 系统面板；系统面板接口；系统控制"],"phonetic":""}
-{"word":"Q-control","sw":"qcontrol","translation":["Q控制器,Q开关"],"phonetic":""}
-{"word":"Q-cumbersome","sw":"qcumbersome","translation":[],"phonetic":""}
-{"word":"Q-curve","sw":"qcurve","translation":["Q曲线"],"phonetic":""}
-{"word":"q-drive","sw":"qdrive","translation":["[网络] 恒压变频控制器；研发水泵专用变频器"],"phonetic":""}
-{"word":"Q-enzyme","sw":"qenzyme","translation":["[化] Q酶"],"phonetic":""}
-{"word":"Q-F","sw":"qf","translation":["abbr. 速射的（Quick-Firing）"],"phonetic":""}
-{"word":"Q-factor","sw":"qfactor","translation":["[计] 品质因数","[医] Q因数(抗阴比因数,谐振线路或线圈的定格,Z/R,或简称Q)"],"phonetic":""}
-{"word":"q-factors","sw":"qfactors","translation":["品质因数"],"phonetic":""}
-{"word":"Q-fan","sw":"qfan","translation":["低噪音风扇"],"phonetic":""}
-{"word":"q-feel","sw":"qfeel","translation":["动压载荷感觉器"],"phonetic":""}
-{"word":"Q-function","sw":"qfunction","translation":["Q 函数"],"phonetic":""}
-{"word":"Q-gain","sw":"qgain","translation":["[电子] Ｑ增益"],"phonetic":""}
-{"word":"Q-gas","sw":"qgas","translation":["[化] Q气"],"phonetic":""}
-{"word":"Q-gasm","sw":"qgasm","translation":[],"phonetic":""}
-{"word":"Q-index","sw":"qindex","translation":["[地物] Ｑ指数"],"phonetic":""}
-{"word":"Q-joint","sw":"qjoint","translation":["横节理"],"phonetic":""}
-{"word":"q-line","sw":"qline","translation":["[网络] Q线；纤绿；排队等候买票的队伍"],"phonetic":""}
-{"word":"Q-loaded","sw":"qloaded","translation":["加载品质因数"],"phonetic":""}
-{"word":"Q-magnitude","sw":"qmagnitude","translation":["Q—星等"],"phonetic":""}
-{"word":"Q-matching","sw":"qmatching","translation":["四分之一波长匹配"],"phonetic":""}
-{"word":"Q-matrix","sw":"qmatrix","translation":["Q 矩阵"],"phonetic":""}
-{"word":"q-message","sw":"qmessage","translation":["[网络] 电报；种信文"],"phonetic":""}
-{"word":"Q-meter","sw":"qmeter","translation":["a. 表, 品质因素表","[电] 测Q计"],"phonetic":""}
-{"word":"Q-method","sw":"qmethod","translation":["[网络] q法"],"phonetic":""}
-{"word":"Q-methodology","sw":"qmethodology","translation":["Q方法论"],"phonetic":""}
-{"word":"Q-modulation","sw":"qmodulation","translation":["调Q"],"phonetic":""}
-{"word":"q-multiplier","sw":"qmultiplier","translation":["[电] Q倍增器"],"phonetic":""}
-{"word":"Q-MVC","sw":"qmvc","translation":["[=Q-mitral valve closure interval]Q-二尖瓣关闭间期"],"phonetic":""}
-{"word":"q-number","sw":"qnumber","translation":["q 数"],"phonetic":""}
-{"word":"Q-particle","sw":"qparticle","translation":["Q粒"],"phonetic":""}
-{"word":"Q-PCR","sw":"qpcr","translation":["定量聚合酶链反应"],"phonetic":""}
-{"word":"Q-plasma","sw":"qplasma","translation":["宁静等离[子]体"],"phonetic":""}
-{"word":"q-pot","sw":"qpot","translation":["动压载荷感觉器"],"phonetic":""}
-{"word":"Q-process","sw":"qprocess","translation":["Q 过程"],"phonetic":""}
-{"word":"Q-properties","sw":"qproperties","translation":["Q性质"],"phonetic":""}
-{"word":"q-q","sw":"qq","translation":["[网络] 有尾巴的字母形象；短缺数量为"],"phonetic":""}
-{"word":"q-quit","sw":"qquit","translation":["[网络] 退出；离去；离开"],"phonetic":""}
-{"word":"q-quits","sw":"qquits","translation":["[网络] 退出；离去；离开","(q-quit 的复数)"],"phonetic":""}
-{"word":"q-r","sw":"qr","translation":["abbr. recrystallised quartz 重结晶石英（科技符号）"],"phonetic":"kjuː ɑː(r)"}
-{"word":"Q-rating","sw":"qrating","translation":["n. 观众反应测试系统；演员(或运动员)声誉的评级(或评价)；(放款机构发行的)存款单的信用等级[亦作Q rating]"],"phonetic":"'kju:,reitiŋ"}
-{"word":"q-ratio","sw":"qratio","translation":["[网络] 比率"],"phonetic":""}
-{"word":"Q-Santonin","sw":"qsantonin","translation":["伪山道年"],"phonetic":""}
-{"word":"q-school","sw":"qschool","translation":["[网络] 选拔赛；资格巡回赛；资格考试"],"phonetic":""}
-{"word":"Q-section","sw":"qsection","translation":["四分之一波长线段"],"phonetic":""}
-{"word":"Q-server","sw":"qserver","translation":["[网络] 伺服机"],"phonetic":""}
-{"word":"q-set","sw":"qset","translation":["[网络] 统计用问卷调查；依恋行为分类卡片"],"phonetic":""}
-{"word":"q-ship","sw":"qship","translation":["abbr. disguised man-of-war used to decoy enemy vessels 习惯用于诱骗敌人的掩饰军舰（代号）"],"phonetic":"kjuː ʃip"}
-{"word":"q-ships","sw":"qships","translation":["(q-ship 的复数) abbr. disguised man-of-war used to decoy enemy vessels 习惯用于诱骗敌人的掩饰军舰（代号）"],"phonetic":""}
-{"word":"q-signal","sw":"qsignal","translation":["[电] Q讯号"],"phonetic":""}
-{"word":"q-sort","sw":"qsort","translation":["[医]q分类，q选择"],"phonetic":"k'ju:s'ɔ:t"}
-{"word":"Q-sorting","sw":"qsorting","translation":["Q分类"],"phonetic":""}
-{"word":"q-sound","sw":"qsound","translation":["[网络] 回音"],"phonetic":""}
-{"word":"q-sounds","sw":"qsounds","translation":["[网络] 回音","(q-sound 的复数)"],"phonetic":""}
-{"word":"q-space","sw":"qspace","translation":["q-空间"],"phonetic":"k'juːsp'eɪs"}
-{"word":"q-spoil","sw":"qspoil","translation":["[电] Q压制"],"phonetic":""}
-{"word":"Q-spoiled","sw":"qspoiled","translation":["adj. =Q-switched"],"phonetic":"'kju:spɔild"}
-{"word":"Q-spoiling","sw":"qspoiling","translation":["n. Q突变"],"phonetic":""}
-{"word":"q-sport","sw":"qsport","translation":["[网络] 喜得龙；凯胜；吉威"],"phonetic":""}
-{"word":"Q-statistics","sw":"qstatistics","translation":["Q统计量"],"phonetic":""}
-{"word":"q-steer","sw":"qsteer","translation":["[网络] 迷你摇控车；红外微型遥控车"],"phonetic":""}
-{"word":"Q-switch","sw":"qswitch","translation":["[网络] Q开关；光量开关；品质开关原理"],"phonetic":""}
-{"word":"q-switched","sw":"qswitched","translation":["使用Q开关的"],"phonetic":""}
-{"word":"Q-switching","sw":"qswitching","translation":["Q开关"],"phonetic":""}
-{"word":"q-t","sw":"qt","translation":["[网络] 电量法；间期延长的观察与治疗；间期代表的是"],"phonetic":""}
-{"word":"q-tech","sw":"qtech","translation":["[网络] 晶振；西瑞；贴片电感"],"phonetic":""}
-{"word":"Q-technique","sw":"qtechnique","translation":["Q技术, Q型技术；Q型技巧"],"phonetic":""}
-{"word":"Q-tempering","sw":"qtempering","translation":["淬火回火"],"phonetic":""}
-{"word":"Q-terminals","sw":"qterminals","translation":["n. Q信号输出端"],"phonetic":""}
-{"word":"q-tim","sw":"qtim","translation":["[网络] 花铺棉"],"phonetic":""}
-{"word":"q-tip","sw":"qtip","translation":["= cotton bud"],"phonetic":""}
-{"word":"Q-tips","sw":"qtips","translation":["[网络] 棉签；棉花棒；宝宝专用棉签"],"phonetic":"'kjuː .tɪp"}
-{"word":"q-tof","sw":"qtof","translation":["[网络] 四极杆飞行时间；质谱；四级杆飞行时间质谱"],"phonetic":""}
-{"word":"q-type","sw":"qtype","translation":["[网络] 查询类型；脱氧剂"],"phonetic":""}
-{"word":"q-u","sw":"qu","translation":["[网络] 石英岩；轻裘；陈宝华"],"phonetic":""}
-{"word":"Q-unloaded","sw":"qunloaded","translation":["无载品质因数"],"phonetic":""}
-{"word":"Q-unsatisfiability","sw":"qunsatisfiability","translation":["Q不可满足性"],"phonetic":""}
-{"word":"Q-value","sw":"qvalue","translation":["[化] Q值"],"phonetic":""}
-{"word":"Q-values","sw":"qvalues","translation":["[网络] Q值"],"phonetic":""}
-{"word":"Q-wave","sw":"qwave","translation":["un. Q波","[网络] 酷浪；酷儿女及变性亚太组织"],"phonetic":""}
-{"word":"q-zacke","sw":"qzacke","translation":["q波"],"phonetic":""}
 {"word":"qa","sw":"qa","translation":["abbr. 品质保证（Quality Assurance）；质量评价（Quality Assessment）"],"phonetic":""}
 {"word":"qaa","sw":"qaa","translation":["[医]喹胺酸，螯核羧酚[抗辐射药]"],"phonetic":""}
 {"word":"qaanaaq","sw":"qaanaaq","translation":["[网络] 卡纳克；卡纳克城；那克"],"phonetic":""}
@@ -200,7 +84,6 @@
 {"word":"qajars","sw":"qajars","translation":["[网络] 卡贾尔王朝；卡扎尔"],"phonetic":""}
 {"word":"QAL","sw":"qal","translation":["abbr. Quality Assurance Laboratory 质量保证实验室"],"phonetic":""}
 {"word":"qala","sw":"qala","translation":["[地名] [马耳他] 加拉"],"phonetic":""}
-{"word":"qala-i-jangi","sw":"qalaijangi","translation":["[网络] 恰拉疆；拉疆基堡"],"phonetic":""}
 {"word":"Qalagai","sw":"qalagai","translation":["[地名] 卡拉盖 ( 阿富 )"],"phonetic":""}
 {"word":"qalamdan","sw":"qalamdan","translation":[],"phonetic":""}
 {"word":"Qalamoun","sw":"qalamoun","translation":["[网络] 卡拉门"],"phonetic":""}
@@ -295,7 +178,6 @@
 {"word":"qasims","sw":"qasims","translation":["n. 卡西姆（巴基斯坦港口）","(qasim 的复数)"],"phonetic":""}
 {"word":"Qasin","sw":"qasin","translation":["[地名] 盖辛 ( 也 )"],"phonetic":""}
 {"word":"qasr","sw":"qasr","translation":["[网络] 卡斯尔；定量构效关系"],"phonetic":""}
-{"word":"qasr-e-shirin","sw":"qasreshirin","translation":["[网络] 西林宫；席林堡"],"phonetic":""}
 {"word":"qasrs","sw":"qasrs","translation":["[网络] 有效认可课程证书；持有有效认可课程证书"],"phonetic":""}
 {"word":"qassam","sw":"qassam","translation":["[网络] 卡萨姆；卡桑；卡萨姆火箭"],"phonetic":""}
 {"word":"qassams","sw":"qassams","translation":["[网络] 卡桑；阿萨姆火箭弹；阿萨姆火箭"],"phonetic":""}
@@ -334,7 +216,6 @@
 {"word":"QAWG","sw":"qawg","translation":["[=Quality Assurance Working Group]质量保证工作小组"],"phonetic":""}
 {"word":"qawwal","sw":"qawwal","translation":["[网络] 瓦尔；瓦力的歌手"],"phonetic":""}
 {"word":"qawwali","sw":"qawwali","translation":["n. 克瓦利（苏菲派穆斯林用于祈祷的音乐）"],"phonetic":"kɔ:wə'lɪ"}
-{"word":"qawwali-like","sw":"qawwalilike","translation":["[网络] qawwali喜欢"],"phonetic":""}
 {"word":"qawwalis","sw":"qawwalis","translation":["[网络] 卡瓦利；印度古吉拉特语；卡瓦里"],"phonetic":""}
 {"word":"qawwalli","sw":"qawwalli","translation":["n. 克瓦利(苏菲派穆斯林用于祈祷的音乐)"],"phonetic":"kəˈvɑ:li:"}
 {"word":"Qawz","sw":"qawz","translation":["[地名] 高兹 ( 苏丹 )"],"phonetic":""}
@@ -468,7 +349,6 @@
 {"word":"QEW","sw":"qew","translation":["[网络] 沙伯女皇公路；伊丽莎白女王路；伊利沙伯皇后道(Queen Elizabeth Way)"],"phonetic":""}
 {"word":"Qezel","sw":"qezel","translation":["[地名] 克孜勒 ( 阿富 )"],"phonetic":""}
 {"word":"qf","sw":"qf","translation":["abbr. 速射的（Quick-Firing）"],"phonetic":""}
-{"word":"QF-DE","sw":"qfde","translation":["[=Quick-Freezing and Deep-Etching]急速冷冻深度蚀刻"],"phonetic":""}
 {"word":"QFA","sw":"qfa","translation":["Quick-Firing Ammunition 速射武器弹药"],"phonetic":"15"}
 {"word":"QFB","sw":"qfb","translation":["无声快艇"],"phonetic":""}
 {"word":"QFD","sw":"qfd","translation":["量子味动力学"],"phonetic":""}
@@ -501,11 +381,6 @@
 {"word":"qhr","sw":"qhr","translation":["[网络] Quick Hair Restoration; 猜; 技术员"],"phonetic":""}
 {"word":"qhw","sw":"qhw","translation":["[网络] 辅助加热器；挽留"],"phonetic":""}
 {"word":"qi","sw":"qi","translation":["abbr. 质量指标（Quality Index）"],"phonetic":""}
-{"word":"qi-edema","sw":"qiedema","translation":["气水"],"phonetic":""}
-{"word":"qi-hernia","sw":"qihernia","translation":["气疝"],"phonetic":""}
-{"word":"qi-hiccup","sw":"qihiccup","translation":["气呃"],"phonetic":""}
-{"word":"qi-jaundice","sw":"qijaundice","translation":["气黄"],"phonetic":""}
-{"word":"qi-wei","sw":"qiwei","translation":["[网络] 卫琦；魏琦；韦奇"],"phonetic":""}
 {"word":"qia","sw":"qia","translation":["abbr. quantitative image analysis 定量图像分析; Queensland Institute of Architects 昆士兰州建筑学院"],"phonetic":""}
 {"word":"QIAamp","sw":"qiaamp","translation":["病毒RNA提取试剂盒"],"phonetic":""}
 {"word":"qiagen","sw":"qiagen","translation":["[网络] 凯杰；试剂盒；凯杰公司"],"phonetic":""}
@@ -573,7 +448,6 @@
 {"word":"qindars","sw":"qindars","translation":["[网络] 昆达；昆塔"],"phonetic":""}
 {"word":"qinetiq","sw":"qinetiq","translation":["[网络] 奎奈蒂克；奎奈蒂克公司；英国奎奈蒂克公司"],"phonetic":""}
 {"word":"qing","sw":"qing","translation":["清；青（汉语拼音）"],"phonetic":""}
-{"word":"qing-ling","sw":"qingling","translation":["[网络] 秦岭"],"phonetic":""}
 {"word":"qingchengshanensis","sw":"qingchengshanensis","translation":["[网络] 饱竹子"],"phonetic":""}
 {"word":"Qingdai","sw":"qingdai","translation":["[医] 青黛属"],"phonetic":""}
 {"word":"qingdaimeisu","sw":"qingdaimeisu","translation":["[化] 庆大霉素"],"phonetic":""}
@@ -842,11 +716,9 @@
 {"word":"QRN","sw":"qrn","translation":["[=quasiresonant nucleus]半共振核,准共振核"],"phonetic":""}
 {"word":"QRP","sw":"qrp","translation":["abbr. queen's rook's pawn (国际象棋中的)后翼车行兵"],"phonetic":""}
 {"word":"qrs","sw":"qrs","translation":["abbr. quarters 住处; 岗位; quires （复数）对折的一叠纸; （纸的）一刀（共24张或25张）"],"phonetic":""}
-{"word":"QRS-complex","sw":"qrscomplex","translation":["QRS-复波"],"phonetic":""}
 {"word":"QRSA","sw":"qrsa","translation":["[网络] 卫星天线；用田阻的平均值；电轴"],"phonetic":""}
 {"word":"QRSS","sw":"qrss","translation":["[网络] 准随机信号序列(Quasi-Random Signal Sequence)；准随机信号源；伪随机序列"],"phonetic":""}
 {"word":"QRT","sw":"qrt","translation":["快速反应训练（Quick Response Training）","快速反应小组（Quick Response Team）"],"phonetic":""}
-{"word":"qrt-pcr","sw":"qrtpcr","translation":["[网络] 定量聚合酶链反应；定量反转录聚合酶链式反应；实时定量聚合酶链式反应"],"phonetic":""}
 {"word":"QRV","sw":"qrv","translation":["abbr.=quick-release valve 快泄阀；Qualified Real-estate Valuer 合格的不动产估价者"],"phonetic":"k'juː'ɑːrv'iː"}
 {"word":"qry","sw":"qry","translation":["abbr. quality and reliability year 质量和可靠性年限"],"phonetic":""}
 {"word":"QRZ","sw":"qrz","translation":["[=Quaddel Reaktion Zeit]划痕反应时间,集总反应时间"],"phonetic":""}
@@ -919,10 +791,6 @@
 {"word":"Qtz","sw":"qtz","translation":["[网络] 圆锥法；塔式起重机；漆膜圆锥弯曲试验仪"],"phonetic":""}
 {"word":"qu","sw":"qu","translation":["n. 合格单位"],"phonetic":""}
 {"word":"qua","sw":"qua","translation":["prep. 作为"],"phonetic":"kwei"}
-{"word":"Qua-Bid","sw":"quabid","translation":["盐酸罂粟碱胶囊"],"phonetic":""}
-{"word":"qua-bird","sw":"quabird","translation":["[网络] 鸟鸟"],"phonetic":""}
-{"word":"qua-birds","sw":"quabirds","translation":["[网络] 准鸟"],"phonetic":""}
-{"word":"qua-sum","sw":"quasum","translation":["[网络] 数量"],"phonetic":""}
 {"word":"quaa","sw":"quaa","translation":["[网络] 髊"],"phonetic":""}
 {"word":"Quaalude","sw":"quaalude","translation":["n. [药]安眠酮[商标名]"],"phonetic":"'kweilu:d,'kwɑ:-"}
 {"word":"quaaludes","sw":"quaaludes","translation":["n. 安眠酮"],"phonetic":"'kweilu:d; 'kwɑ:-"}
@@ -937,10 +805,6 @@
 {"word":"quachamacine","sw":"quachamacine","translation":["夸马辛"],"phonetic":",kwɔtʃә'mæsi:n"}
 {"word":"quachas","sw":"quachas","translation":["[网络] 夸夸"],"phonetic":""}
 {"word":"quack","sw":"quack","translation":["n. 鸭叫声, 冒牌医生, 冒充内行之人","a. 冒牌医生的","v. 嘎嘎叫, 当冒牌医生, 夸大广告"],"phonetic":"kwæk"}
-{"word":"quack-belly","sw":"quackbelly","translation":["[网络] qu肚"],"phonetic":""}
-{"word":"quack-grass","sw":"quackgrass","translation":["un. 速生匍匐冰草","[网络] 偃麦草；庸医草；放牧"],"phonetic":""}
-{"word":"quack-quack","sw":"quackquack","translation":["n. 嘎嘎鸭"],"phonetic":"'kwæk,kwæk"}
-{"word":"quack-salver","sw":"quacksalver","translation":["[网络] qu ack。"],"phonetic":""}
 {"word":"quackademic","sw":"quackademic","translation":["[网络] 学术学科"],"phonetic":""}
 {"word":"quackademics","sw":"quackademics","translation":["[网络] 学术学科"],"phonetic":""}
 {"word":"quackbuster","sw":"quackbuster","translation":["[网络] 惩治庸医"],"phonetic":""}
@@ -974,7 +838,6 @@
 {"word":"quackling","sw":"quackling","translation":["[网络] qu"],"phonetic":""}
 {"word":"quackmire","sw":"quackmire","translation":["[网络] 泥ire"],"phonetic":""}
 {"word":"quacks","sw":"quacks","translation":["abbr. quacksalvers 庸医, 骗子(16世纪习惯用水银或汞治疗梅毒的人)","n. <英>江湖医生( quack的名词复数 ); 江湖郎中; （鸭子的）呱呱声","v. （鸭子）发出嘎嘎声( quack的第三人称单数 )"],"phonetic":"kwæks"}
-{"word":"quacks-quacks","sw":"quacksquacks","translation":["n. 嘎嘎鸭","(quack-quack 的复数)"],"phonetic":""}
 {"word":"quacksalver","sw":"quacksalver","translation":["n. 冒牌医生, 骗子","[法] 庸医, 骗子"],"phonetic":"'kwæksælvә"}
 {"word":"quacksalvers","sw":"quacksalvers","translation":["n. (=quack名词)骗子 ；〈古〉庸医","[网络] 庸医的医术"],"phonetic":""}
 {"word":"quacksalves","sw":"quacksalves","translation":["[医] 江湖医"],"phonetic":""}
@@ -984,14 +847,6 @@
 {"word":"quacky","sw":"quacky","translation":["[网络] 奇怪的"],"phonetic":""}
 {"word":"quaco","sw":"quaco","translation":["[网络] 夸克"],"phonetic":""}
 {"word":"quad","sw":"quad","translation":["n. 铅块, 监狱, 四方院子, 四胞胎, 四胞胎中的一个孩子, 成套的四件东西","[计] 四芯导线"],"phonetic":"kwɔd"}
-{"word":"quad-band","sw":"quadband","translation":["[网络] 四频；所谓的四频；四频段"],"phonetic":""}
-{"word":"quad-city","sw":"quadcity","translation":["[网络] 莫林；莫林机场；四城市"],"phonetic":""}
-{"word":"quad-core","sw":"quadcore","translation":["[网络] 四核；四核心；双核心"],"phonetic":""}
-{"word":"quad-play","sw":"quadplay","translation":["[网络] 四重播放；四重业务；四合一"],"phonetic":""}
-{"word":"quad-processor","sw":"quadprocessor","translation":["[网络] 四处理器"],"phonetic":""}
-{"word":"quad-processors","sw":"quadprocessors","translation":["[网络] 四处理器","(quad-processor 的复数)"],"phonetic":""}
-{"word":"quad-speed","sw":"quadspeed","translation":["[计][WIN]四速"],"phonetic":"k'wɒdsp'i:d"}
-{"word":"quad-word","sw":"quadword","translation":["n. 四倍长字","[网络] 四字；四倍字"],"phonetic":""}
 {"word":"quada","sw":"quada","translation":["[网络] 德国柯特；德国进口柯特"],"phonetic":""}
 {"word":"Quadaffi","sw":"quadaffi","translation":["[网络] 卡扎菲"],"phonetic":""}
 {"word":"Quadafi","sw":"quadafi","translation":["[网络] 卡扎菲"],"phonetic":""}
@@ -1052,7 +907,6 @@
 {"word":"quadpots","sw":"quadpots","translation":["[网络] 四点"],"phonetic":""}
 {"word":"quadr","sw":"quadr","translation":["Quadruple 四位的"],"phonetic":""}
 {"word":"quadra","sw":"quadra","translation":["正方形的框架, 浅浮雕周围的方框, 任何浮雕框架的边沿"],"phonetic":"'kwɔdrә"}
-{"word":"quadra-phase","sw":"quadraphase","translation":["[计] 四相制"],"phonetic":""}
 {"word":"quadrable","sw":"quadrable","translation":["a. 可用等积正方形表示的, 可自乘的"],"phonetic":"'kwɒdrәbl"}
 {"word":"quadracci","sw":"quadracci","translation":["[网络] 夸特希；密尔沃基美术博物馆夸特希"],"phonetic":""}
 {"word":"quadracycline","sw":"quadracycline","translation":["盐酸四环素"],"phonetic":""}
@@ -1077,8 +931,6 @@
 {"word":"quadragesimarian","sw":"quadragesimarian","translation":["[网络] 十进制的"],"phonetic":""}
 {"word":"quadragesimas","sw":"quadragesimas","translation":["n. 四旬节（四旬斋的第一个星期日）"],"phonetic":",kwɔdrə'dʒesimə"}
 {"word":"Quadragesime","sw":"quadragesime","translation":["[网络] 四边形"],"phonetic":""}
-{"word":"quadragesimo-octavo","sw":"quadragesimooctavo","translation":["[网络] 四十八开本"],"phonetic":""}
-{"word":"quadragesimo-octavos","sw":"quadragesimooctavos","translation":["[网络] 十字形八角形"],"phonetic":""}
 {"word":"quadragintesimal","sw":"quadragintesimal","translation":["[网络] 四码头"],"phonetic":""}
 {"word":"quadragintireme","sw":"quadragintireme","translation":["[网络] 四合一"],"phonetic":""}
 {"word":"quadragintiremes","sw":"quadragintiremes","translation":["[网络] 四合一"],"phonetic":""}
@@ -1174,7 +1026,6 @@
 {"word":"quadrative","sw":"quadrative","translation":["[网络] 二次方"],"phonetic":""}
 {"word":"quadratmeter","sw":"quadratmeter","translation":["平方米"],"phonetic":""}
 {"word":"quadratmillimeter","sw":"quadratmillimeter","translation":["平方毫米"],"phonetic":""}
-{"word":"Quadrato-jugal","sw":"quadratojugal","translation":["方轭骨"],"phonetic":""}
 {"word":"quadratojugal","sw":"quadratojugal","translation":["[脊椎] 方轭骨"],"phonetic":"kwɒ'dreɪtəʊ'dʒuːɡəl"}
 {"word":"quadratojugale","sw":"quadratojugale","translation":["方轭骨"],"phonetic":""}
 {"word":"quadratojugals","sw":"quadratojugals","translation":["[网络] 四方块"],"phonetic":""}
@@ -1189,10 +1040,6 @@
 {"word":"quadratum","sw":"quadratum","translation":["[网络] 创意方块；四方节蜱属；方颅"],"phonetic":""}
 {"word":"quadratura","sw":"quadratura","translation":["[网络] 等面"],"phonetic":""}
 {"word":"quadrature","sw":"quadrature","translation":["n. 求面积, 正交, 弦","[计] 正交"],"phonetic":"'kwɒdrәtʃә"}
-{"word":"quadrature-adjust","sw":"quadratureadjust","translation":["正交调节"],"phonetic":""}
-{"word":"quadrature-axis","sw":"quadratureaxis","translation":["正交轴线"],"phonetic":""}
-{"word":"quadrature-lagging","sw":"quadraturelagging","translation":["滞后90度，后移90度"],"phonetic":""}
-{"word":"quadrature-sampled","sw":"quadraturesampled","translation":["正交取样"],"phonetic":""}
 {"word":"quadratureaxis","sw":"quadratureaxis","translation":["正交轴"],"phonetic":""}
 {"word":"quadraturedetector","sw":"quadraturedetector","translation":["正交检波器"],"phonetic":""}
 {"word":"quadraturelagging","sw":"quadraturelagging","translation":["n.后移"],"phonetic":"kwɒdrətʃə'læɡɪŋ"}
@@ -1262,7 +1109,6 @@
 {"word":"quadridentatus","sw":"quadridentatus","translation":["[网络] 四齿大额蟹"],"phonetic":""}
 {"word":"quadridichotomum","sw":"quadridichotomum","translation":["[网络] 扩德瑞弟求偷米油；四叉"],"phonetic":""}
 {"word":"quadridigitate","sw":"quadridigitate","translation":["[医] 四指(趾)[畸形]的"],"phonetic":""}
-{"word":"quadridigitato-pinnate","sw":"quadridigitatopinnate","translation":["四出羽状的"],"phonetic":""}
 {"word":"quadridigitatus","sw":"quadridigitatus","translation":["掌状四裂的"],"phonetic":"kwədrɪdɪdʒɪ'teɪtəs"}
 {"word":"quadridimensional","sw":"quadridimensional","translation":["[网络] 四维"],"phonetic":""}
 {"word":"quadridirectional","sw":"quadridirectional","translation":["[网络] 四方向"],"phonetic":""}
@@ -1536,16 +1382,6 @@
 {"word":"quadruplate","sw":"quadruplate","translation":["[网络] 四倍"],"phonetic":""}
 {"word":"quadruplator","sw":"quadruplator","translation":["[网络] 四倍频器"],"phonetic":""}
 {"word":"quadruple","sw":"quadruple","translation":["a. 四倍的, 四重的, 四部分组成的","n. 四倍","vt. 使成四倍","vi. 成为四倍"],"phonetic":"'kwɒdrupl"}
-{"word":"quadruple-address","sw":"quadrupleaddress","translation":["四址"],"phonetic":""}
-{"word":"quadruple-bogey","sw":"quadruplebogey","translation":["[网络] 四柏忌；多标准杆数四杆；打中四个可怕的人"],"phonetic":""}
-{"word":"quadruple-bogeys","sw":"quadruplebogeys","translation":["[网络] 四柏忌；多标准杆数四杆；打中四个可怕的人","(quadruple-bogey 的复数)"],"phonetic":""}
-{"word":"quadruple-bypass","sw":"quadruplebypass","translation":["[网络] 冠状动脉旁导管手术"],"phonetic":""}
-{"word":"quadruple-click","sw":"quadrupleclick","translation":["[网络] 四点击"],"phonetic":""}
-{"word":"quadruple-clicked","sw":"quadrupleclicked","translation":["[网络] 四点击"],"phonetic":""}
-{"word":"quadruple-clicking","sw":"quadrupleclicking","translation":["[网络] 四点击"],"phonetic":""}
-{"word":"quadruple-clicks","sw":"quadrupleclicks","translation":["[网络] 四点击"],"phonetic":""}
-{"word":"Quadruple-Croche","sw":"quadruplecroche","translation":["六十四分音符"],"phonetic":""}
-{"word":"quadruple-dipping","sw":"quadrupledipping","translation":["n. [主美国英语](退休者)四重津贴制"],"phonetic":",kwɔdrupl'dipiŋ"}
 {"word":"quadrupled","sw":"quadrupled","translation":["v. （使）成四倍( quadruple的过去式和过去分词 )"],"phonetic":"kwɔˈdru:pəld"}
 {"word":"quadruplegic","sw":"quadruplegic","translation":["[网络] 四足"],"phonetic":""}
 {"word":"quadrupleness","sw":"quadrupleness","translation":["四重性"],"phonetic":""}
@@ -1612,7 +1448,6 @@
 {"word":"quaestorships","sw":"quaestorships","translation":["[网络] 审判"],"phonetic":""}
 {"word":"Quafe","sw":"quafe","translation":[],"phonetic":""}
 {"word":"quaff","sw":"quaff","translation":["v. 狂饮, 大口地喝","n. 大口喝下的酒, 痛饮"],"phonetic":"kwæf"}
-{"word":"quaff-tide","sw":"quafftide","translation":["[网络] 潮流"],"phonetic":""}
 {"word":"quaffability","sw":"quaffability","translation":["[网络] 可靠性"],"phonetic":""}
 {"word":"quaffable","sw":"quaffable","translation":["adj. （酒）可饮用的"],"phonetic":"k'wɒfeɪbl"}
 {"word":"quaffably","sw":"quaffably","translation":["[网络] 可口可乐"],"phonetic":""}
@@ -1662,7 +1497,6 @@
 {"word":"quaiches","sw":"quaiches","translation":["n. （苏格兰）双耳小浅酒杯"],"phonetic":"kweik"}
 {"word":"quaichs","sw":"quaichs","translation":["n. 〈英〉双耳小浅酒杯","[网络] 双耳浅酒杯；葵克浅杯；双耳小酒杯"],"phonetic":""}
 {"word":"quaid","sw":"quaid","translation":["奎德（人名）"],"phonetic":""}
-{"word":"quaid-i-azam","sw":"quaidiazam","translation":["[网络] 伟大领袖；巴基斯坦穆斯林联盟"],"phonetic":""}
 {"word":"quaids","sw":"quaids","translation":["奎德（人名）"],"phonetic":""}
 {"word":"quaier","sw":"quaier","translation":["n. [法语] = quay"],"phonetic":"kei"}
 {"word":"quaife","sw":"quaife","translation":["[人名] 奎夫"],"phonetic":""}
@@ -1670,11 +1504,6 @@
 {"word":"quaighs","sw":"quaighs","translation":["quaigh","[kweik]","n.","= quaich"],"phonetic":"kweɪk"}
 {"word":"quaik","sw":"quaik","translation":["[网络] 一词的由来"],"phonetic":""}
 {"word":"quail","sw":"quail","translation":["n. 鹌鹑","vi. 胆怯, 畏缩"],"phonetic":"kweil"}
-{"word":"quail-dove","sw":"quaildove","translation":["[网络] 鹌鹑"],"phonetic":""}
-{"word":"quail-doves","sw":"quaildoves","translation":["[网络] 鹌鹑"],"phonetic":""}
-{"word":"quail-pipe","sw":"quailpipe","translation":["[网络] 鹌鹑管"],"phonetic":""}
-{"word":"quail-pipes","sw":"quailpipes","translation":["[网络] 鹌鹑管"],"phonetic":""}
-{"word":"quail-roost","sw":"quailroost","translation":["n. 大学女宿舍"],"phonetic":"'kweilru:st"}
 {"word":"quailbush","sw":"quailbush","translation":["(=quail-brush)大滨藜"],"phonetic":"'kweil,buʃ"}
 {"word":"quailed","sw":"quailed","translation":["v. 害怕, 发抖, 畏缩( quail的过去式和过去分词 )"],"phonetic":"kweɪld"}
 {"word":"quailer","sw":"quailer","translation":["[网络] 鹌鹑"],"phonetic":""}
@@ -1718,10 +1547,6 @@
 {"word":"quaisy","sw":"quaisy","translation":["[网络] qu aisy"],"phonetic":""}
 {"word":"quait","sw":"quait","translation":["氯羟安定","氯羟二氮卓","氯羟去甲安定（抗焦虑药）"],"phonetic":""}
 {"word":"quake","sw":"quake","translation":["vi. 颤抖, 地震","n. 颤抖, 地震"],"phonetic":"kweɪk|kweɪk"}
-{"word":"quake-prone","sw":"quakeprone","translation":["adj. 经常发生地震的，易发地震的；[比喻]动荡不定的"],"phonetic":"'kweikprəun"}
-{"word":"quake-proof","sw":"quakeproof","translation":["耐震的;抗震"],"phonetic":""}
-{"word":"quake-resistant","sw":"quakeresistant","translation":["un. 抗震的","[网络] 防震的；耐震"],"phonetic":""}
-{"word":"quake-stricken","sw":"quakestricken","translation":["地震侵袭过的","遭受地震的"],"phonetic":""}
 {"word":"quakebuttock","sw":"quakebuttock","translation":["[网络] 地震"],"phonetic":""}
 {"word":"quakebuttocks","sw":"quakebuttocks","translation":["[网络] 地震"],"phonetic":""}
 {"word":"quaked","sw":"quaked","translation":["v. 颤抖, （因害怕或寒冷而）发抖( quake的过去式和过去分词 ); （地面）震动"],"phonetic":"kweɪkt"}
@@ -1731,7 +1556,6 @@
 {"word":"quakeproofing","sw":"quakeproofing","translation":["adj.耐地震的"],"phonetic":"'kweɪkpruːf"}
 {"word":"quakeproofs","sw":"quakeproofs","translation":["[网络] 防火墙"],"phonetic":""}
 {"word":"quaker","sw":"quaker","translation":["n. 贵格会教徒"],"phonetic":"'kweikә"}
-{"word":"Quaker-ladies","sw":"quakerladies","translation":["n. [植]矢车菊等之蓝色小花"],"phonetic":"'kweikә,leidiz"}
 {"word":"quakerbird","sw":"quakerbird","translation":["n. 乌信天翁"],"phonetic":"'kweikәbә:d"}
 {"word":"quakerbirds","sw":"quakerbirds","translation":["n. 信天翁"],"phonetic":""}
 {"word":"Quakerdom","sw":"quakerdom","translation":["n. = Quakerism"],"phonetic":"'kweikədəm"}
@@ -1764,7 +1588,6 @@
 {"word":"quakily","sw":"quakily","translation":["[网络] 太好了"],"phonetic":""}
 {"word":"quakiness","sw":"quakiness","translation":["易震动的性质或状态"],"phonetic":"'kweikinis"}
 {"word":"quaking","sw":"quaking","translation":["n. 白扬"],"phonetic":""}
-{"word":"quaking-grass","sw":"quakinggrass","translation":["un. 凌风草属","[网络] 小判草；与人相处的抖动草花精；摇草"],"phonetic":""}
 {"word":"quakingly","sw":"quakingly","translation":["adv. quake的变形"],"phonetic":""}
 {"word":"quakings","sw":"quakings","translation":["n. 白扬"],"phonetic":"kwekiŋ"}
 {"word":"quakka","sw":"quakka","translation":["[网络] 短尾沙袋鼠；小袋鼠"],"phonetic":""}
@@ -1785,7 +1608,6 @@
 {"word":"qualgoid","sw":"qualgoid","translation":["n. [主英国英语]准自治地方管理机构；准自治地方教育机构"],"phonetic":"'kwælɡɔid"}
 {"word":"qualgos","sw":"qualgos","translation":["[网络] 素质"],"phonetic":""}
 {"word":"quali","sw":"quali","translation":["[网络] 质量；蒙蒙鱼；鹌鹑"],"phonetic":""}
-{"word":"quali-pop","sw":"qualipop","translation":["n. 小报式报道"],"phonetic":""}
 {"word":"qualia","sw":"qualia","translation":["n. 感受性"],"phonetic":"'kwɔliə"}
 {"word":"Qualiano","sw":"qualiano","translation":["[地名] 夸利亚诺 ( 意 )"],"phonetic":""}
 {"word":"qualias","sw":"qualias","translation":["n. 感受性"],"phonetic":"'kwɑli"}
@@ -1840,32 +1662,9 @@
 {"word":"qualitication","sw":"qualitication","translation":["合格"],"phonetic":""}
 {"word":"qualitied","sw":"qualitied","translation":["n. 性质；特性；品德, 品性","a. 优质的, 优良的；上层社会的"],"phonetic":"'kwɒlɪtɪ"}
 {"word":"qualities","sw":"qualities","translation":["n. 质( quality的名词复数 ); 特点; 品质; 优点"],"phonetic":"ˈkwɔlitiz"}
-{"word":"qualities-of-working-life","sw":"qualitiesofworkinglife","translation":["工作生活质量","(quality-of-working-life 的复数)"],"phonetic":""}
 {"word":"qualitiness","sw":"qualitiness","translation":["[网络] 质量"],"phonetic":""}
 {"word":"qualitive","sw":"qualitive","translation":["[网络] 质化观测值；质的；质性的"],"phonetic":""}
 {"word":"quality","sw":"quality","translation":["n. 品质, 特性, 才能, 质量","a. 优质的","[计] 品质"],"phonetic":"ˈkwɒləti|ˈkwɑːləti"}
-{"word":"quality-adjusted","sw":"qualityadjusted","translation":["[网络] 品质调整"],"phonetic":""}
-{"word":"quality-assurance","sw":"qualityassurance","translation":["un. 质量保证；品质保证"],"phonetic":""}
-{"word":"quality-assurances","sw":"qualityassurances","translation":["[网络] 品质保证部门"],"phonetic":""}
-{"word":"quality-assured","sw":"qualityassured","translation":["[网络] 质量保证的"],"phonetic":""}
-{"word":"quality-based","sw":"qualitybased","translation":["[网络] 基于质量；品质基础"],"phonetic":""}
-{"word":"quality-class","sw":"qualityclass","translation":["质量级"],"phonetic":""}
-{"word":"quality-conscious","sw":"qualityconscious","translation":["[网络] 品质感受；确保品质；品质敏感"],"phonetic":""}
-{"word":"quality-control","sw":"qualitycontrol","translation":["na. 质量控制","[网络] 质量控制专家；品质管控；冬虫夏草"],"phonetic":""}
-{"word":"quality-controlled","sw":"qualitycontrolled","translation":["[网络] 质量全部是控制的；质量受控；质量控制型方法"],"phonetic":""}
-{"word":"quality-controls","sw":"qualitycontrols","translation":["质量控制，质量管理"],"phonetic":""}
-{"word":"quality-driven","sw":"qualitydriven","translation":["[网络] 质量驱动；品质激励；品质导向"],"phonetic":""}
-{"word":"quality-improvement","sw":"qualityimprovement","translation":["un. 质量改善","[网络] 质量改进"],"phonetic":""}
-{"word":"quality-increment","sw":"qualityincrement","translation":["形质生长"],"phonetic":""}
-{"word":"quality-management","sw":"qualitymanagement","translation":["[网络] 质量管理；品质管理；质量管理学"],"phonetic":""}
-{"word":"quality-mind","sw":"qualitymind","translation":["产品质量"],"phonetic":""}
-{"word":"quality-monitoring","sw":"qualitymonitoring","translation":["n. [经管] 质量监控；质量监测；质量监督"],"phonetic":""}
-{"word":"quality-monitorings","sw":"qualitymonitorings","translation":["n. [经管] 质量监控；质量监测；质量监督","(quality-monitoring 的复数)"],"phonetic":""}
-{"word":"quality-of-care","sw":"qualityofcare","translation":["[网络] 医疗品质；照护品质；护理质量"],"phonetic":""}
-{"word":"quality-of-life","sw":"qualityoflife","translation":["un. 生活质量","[网络] 生活品质；生存质量；生活的品质"],"phonetic":""}
-{"word":"quality-of-working-life","sw":"qualityofworkinglife","translation":["工作生活质量"],"phonetic":""}
-{"word":"quality-oriented","sw":"qualityoriented","translation":["[网络] 素质导向的；以质量为导向；质量为导向的"],"phonetic":""}
-{"word":"quality-time","sw":"qualitytime","translation":["na. 〈美口〉宝贵时光；不受干扰地与他人欢聚的一段时间","[网络] 时间相处"],"phonetic":""}
 {"word":"qualityadjusted","sw":"qualityadjusted","translation":["质量调整"],"phonetic":""}
 {"word":"qualityless","sw":"qualityless","translation":["[网络] 无质量"],"phonetic":""}
 {"word":"qualitymind","sw":"qualitymind","translation":["un. 品质意识；质量意识"],"phonetic":""}
@@ -2029,14 +1828,11 @@
 {"word":"quantifications","sw":"quantifications","translation":["(quantification 的复数) [计] 量化, 定量","[经] 定量比率"],"phonetic":""}
 {"word":"quantified","sw":"quantified","translation":["v. 确定…的数量( quantify的过去式和过去分词 )"],"phonetic":"ˈkwɔntifaid"}
 {"word":"quantifier","sw":"quantifier","translation":["n. 数量词, 精于计算的人","[计] 量词"],"phonetic":"'kwɒntifaiә"}
-{"word":"quantifier-free","sw":"quantifierfree","translation":["[语] 无量词"],"phonetic":""}
-{"word":"quantifier-raising","sw":"quantifierraising","translation":["n. 【语法学】量词提升"],"phonetic":"'kwɔntifaiə,reiziŋ"}
 {"word":"quantifiers","sw":"quantifiers","translation":["(quantifier 的复数) n. 数量词, 精于计算的人","[计] 量词"],"phonetic":""}
 {"word":"quantifies","sw":"quantifies","translation":["v. 确定…的数量( quantify的第三人称单数 )"],"phonetic":"ˈkwɔntifaiz"}
 {"word":"quantify","sw":"quantify","translation":["vt. 定量, 用数量表示, 测量"],"phonetic":"ˈkwɒntɪfaɪ|ˈkwɑːntɪfaɪ"}
 {"word":"quantifying","sw":"quantifying","translation":["n. 定量法"],"phonetic":"'kwɔntifaiiŋ"}
 {"word":"quantile","sw":"quantile","translation":["n. 分位数；分位点"],"phonetic":"'kwɔntail"}
-{"word":"quantile-quantile","sw":"quantilequantile","translation":["[网络] 分位图；位点"],"phonetic":""}
 {"word":"quantiles","sw":"quantiles","translation":["(quantile 的第三人称 -s形式) n. 分位数；分位点"],"phonetic":""}
 {"word":"Quantimet","sw":"quantimet","translation":["定量电视显微镜"],"phonetic":"'kwɔntimit"}
 {"word":"quantimete","sw":"quantimete","translation":["X射线放射量计"],"phonetic":""}
@@ -2064,8 +1860,6 @@
 {"word":"quantitations","sw":"quantitations","translation":["[网络] 量化"],"phonetic":""}
 {"word":"quantitationtype","sw":"quantitationtype","translation":["[网络] 选测量类型"],"phonetic":""}
 {"word":"quantitative","sw":"quantitative","translation":["a. 数量的, 定量的","[医] 定量的, 数量的"],"phonetic":"ˈkwɒntɪtətɪv|ˈkwɑːntəteɪtɪv"}
-{"word":"quantitative-easing","sw":"quantitativeeasing","translation":["[网络] 量化宽松；定量宽松；量化宽松政策"],"phonetic":""}
-{"word":"quantitative-EEG","sw":"quantitativeeeg","translation":["数量化脑电图"],"phonetic":""}
 {"word":"quantitativeattribute","sw":"quantitativeattribute","translation":["数量属性"],"phonetic":""}
 {"word":"quantitatively","sw":"quantitatively","translation":["adv. 量, 数量上, 定量"],"phonetic":""}
 {"word":"quantitativeness","sw":"quantitativeness","translation":["定量"],"phonetic":""}
@@ -2081,10 +1875,6 @@
 {"word":"quantitively","sw":"quantitively","translation":["数量上"],"phonetic":""}
 {"word":"quantitizer","sw":"quantitizer","translation":["量化装置,数字转换器"],"phonetic":""}
 {"word":"quantity","sw":"quantity","translation":["n. 量, 数量, 总量","[计] 数量; 量"],"phonetic":"ˈkwɒntəti|ˈkwɑːntəti"}
-{"word":"quantity-built","sw":"quantitybuilt","translation":["成批生产的"],"phonetic":""}
-{"word":"quantity-mark","sw":"quantitymark","translation":["n. 【语言学】(标于元音之上的)音量记号"],"phonetic":"'kwɔntətimɑ:k"}
-{"word":"quantity-ordered","sw":"quantityordered","translation":["订货数量","订购量"],"phonetic":""}
-{"word":"quantity-ordereds","sw":"quantityordereds","translation":["订货数量","订购量","(quantity-ordered 的复数)"],"phonetic":""}
 {"word":"quantitywise","sw":"quantitywise","translation":["[网络] 量化"],"phonetic":""}
 {"word":"quantivalenc","sw":"quantivalenc","translation":["化合价,原子价"],"phonetic":""}
 {"word":"quantivalence","sw":"quantivalence","translation":["n. [化] 原子价"],"phonetic":",kwɔnti'veilәns"}
@@ -2125,16 +1915,6 @@
 {"word":"quantulate","sw":"quantulate","translation":["[网络] 量化"],"phonetic":""}
 {"word":"quantulum","sw":"quantulum","translation":["[网络] 量子"],"phonetic":""}
 {"word":"quantum","sw":"quantum","translation":["n. 量, 量子","[计] 量子"],"phonetic":"'kwɒntәm"}
-{"word":"quantum-computing","sw":"quantumcomputing","translation":["[网络] 量子计算；量子运算；昆腾计算"],"phonetic":""}
-{"word":"quantum-confined","sw":"quantumconfined","translation":["[网络] 量子局限"],"phonetic":""}
-{"word":"quantum-dot","sw":"quantumdot","translation":["n. 量子点"],"phonetic":""}
-{"word":"quantum-entangled","sw":"quantumentangled","translation":["[网络] 量子纠结"],"phonetic":""}
-{"word":"quantum-field-theory","sw":"quantumfieldtheory","translation":["un. 量子场论"],"phonetic":""}
-{"word":"quantum-gravity","sw":"quantumgravity","translation":["n. 量子引力","[网络] 量子重力；量子重力学；量子引力学"],"phonetic":""}
-{"word":"quantum-limit","sw":"quantumlimit","translation":["[网络] 量子限；量子极限"],"phonetic":""}
-{"word":"quantum-mechanical","sw":"quantummechanical","translation":["a. 量子力学的"],"phonetic":"'kwɔntәmmi'kænikәl"}
-{"word":"quantum-mechanics","sw":"quantummechanics","translation":["量子力学"],"phonetic":""}
-{"word":"quantum-scale","sw":"quantumscale","translation":["[网络] 量子"],"phonetic":""}
 {"word":"QuantumFilm","sw":"quantumfilm","translation":["[网络] 量子薄膜；量子胶片；量子膜"],"phonetic":""}
 {"word":"quantumlike","sw":"quantumlike","translation":["[网络] 量子式"],"phonetic":""}
 {"word":"quantumly","sw":"quantumly","translation":["[网络] 量子"],"phonetic":""}
@@ -2163,7 +1943,6 @@
 {"word":"quaquversal","sw":"quaquversal","translation":["n. 穹状物(结构)","adj. 向四方倾斜的,穹状的"],"phonetic":""}
 {"word":"quaquversally","sw":"quaquversally","translation":["adv. 向四方倾斜地,穹状地"],"phonetic":""}
 {"word":"quar","sw":"quar","translation":["abbr. quarter 四分之一; quarterly 季刊; quarantive 检疫（处）; quart 夸脱（英美容量单位, 等于1/4加仑）"],"phonetic":"k'wɔ:"}
-{"word":"quar-man","sw":"quarman","translation":["[网络] 四分卫"],"phonetic":""}
 {"word":"quara","sw":"quara","translation":["[网络] 泉逸；夸拉风；萨尔塔"],"phonetic":""}
 {"word":"quarai","sw":"quarai","translation":["[网络] 夸拉伊；卡塞罗斯山附近的夸拉伊"],"phonetic":""}
 {"word":"quarancy","sw":"quarancy","translation":["[网络] 季度"],"phonetic":""}
@@ -2250,7 +2029,6 @@
 {"word":"quarred","sw":"quarred","translation":["[网络] quar"],"phonetic":""}
 {"word":"quarrefour","sw":"quarrefour","translation":["[网络] 四分之一"],"phonetic":""}
 {"word":"quarrel","sw":"quarrel","translation":["n. 吵架, 反目, 怨言, 方头凿","vi. 吵架, 争论, 挑剔"],"phonetic":"ˈkwɒrəl|ˈkwɑːrəl"}
-{"word":"quarrel-picker","sw":"quarrelpicker","translation":["[网络] 争吵选择"],"phonetic":""}
 {"word":"quarreled","sw":"quarreled","translation":["vi. 争辩, 争吵（quarrel的过去式与过去分词形式）"],"phonetic":""}
 {"word":"quarreler","sw":"quarreler","translation":["n. 争吵者, 吵架者"],"phonetic":""}
 {"word":"quarrelers","sw":"quarrelers","translation":["[网络] 吵架"],"phonetic":""}
@@ -2296,8 +2074,6 @@
 {"word":"quarronses","sw":"quarronses","translation":["[网络] 争吵"],"phonetic":""}
 {"word":"quarrs","sw":"quarrs","translation":["quarries 猎物、追求物、追求目标","(quarr 的复数)"],"phonetic":""}
 {"word":"quarry","sw":"quarry","translation":["n. 采石场, 方形石, 猎物, 被追求物, 来源","vt. 挖出, 努力挖掘","vi. 费力地找"],"phonetic":"'kwɒri"}
-{"word":"quarry-faced","sw":"quarryfaced","translation":["a. (石料)粗面的"],"phonetic":"'kwɔrifeist"}
-{"word":"quarry-pitched","sw":"quarrypitched","translation":["粗凿"],"phonetic":""}
 {"word":"quarrycord","sw":"quarrycord","translation":["采石场用点火线"],"phonetic":""}
 {"word":"quarryfaced","sw":"quarryfaced","translation":["原开石面的,粗面的,毛面的"],"phonetic":""}
 {"word":"quarrying","sw":"quarrying","translation":["v. 采石"],"phonetic":"'kwɔriiŋ"}
@@ -2309,10 +2085,6 @@
 {"word":"quarrystone","sw":"quarrystone","translation":["粗石"],"phonetic":""}
 {"word":"quarryville","sw":"quarryville","translation":["[地名] [加拿大、美国] 阔里维尔"],"phonetic":""}
 {"word":"quart","sw":"quart","translation":["n. 夸脱","[医] 夸脱(四分之一加仑)"],"phonetic":"kwɔːt|kwɔːrt"}
-{"word":"quart-major","sw":"quartmajor","translation":["[网络] 夸脱主角"],"phonetic":""}
-{"word":"quart-pot","sw":"quartpot","translation":["[网络] 器皿"],"phonetic":""}
-{"word":"quart-pots","sw":"quartpots","translation":["[网络] 夸特锅"],"phonetic":""}
-{"word":"quart-size","sw":"quartsize","translation":["[网络] 夹链袋"],"phonetic":""}
 {"word":"quarta","sw":"quarta","translation":["[网络] 夸尔达"],"phonetic":""}
 {"word":"quartal","sw":"quartal","translation":["a. [音](和声)以四度音程为基础的"],"phonetic":"'kwɔ:tәl"}
 {"word":"quartan","sw":"quartan","translation":["a. 每第四天复发的","n. 三日症"],"phonetic":"'kwɒ:tn"}
@@ -2330,7 +2102,6 @@
 {"word":"quartaxil","sw":"quartaxil","translation":["四分歧腕板"],"phonetic":""}
 {"word":"quartboat","sw":"quartboat","translation":["主操测船"],"phonetic":""}
 {"word":"quarte","sw":"quarte","translation":["n. （击剑）第4姿势；（纸牌）四张同花顺"],"phonetic":"kɑ:t"}
-{"word":"quarte-wavelength","sw":"quartewavelength","translation":["[电] 四分之一波长"],"phonetic":""}
 {"word":"quarteer","sw":"quarteer","translation":["[网络] 夸特尔"],"phonetic":""}
 {"word":"Quarteira","sw":"quarteira","translation":["[地名] 夸尔泰拉 ( 葡 )"],"phonetic":""}
 {"word":"quartel","sw":"quartel","translation":["林斑"],"phonetic":"kwɔ:'tel"}
@@ -2338,107 +2109,6 @@
 {"word":"quartene","sw":"quartene","translation":["[网络] 四分之一"],"phonetic":""}
 {"word":"quartenylic","sw":"quartenylic","translation":[],"phonetic":""}
 {"word":"quarter","sw":"quarter","translation":["n. 四分之一, 一刻钟, 季度, 地区","vt. 四等分, 肢解","vi. 驻扎, 住宿"],"phonetic":"ˈkwɔːtə(r)|ˈkwɔːrtər"}
-{"word":"quarter-back","sw":"quarterback","translation":["n. 橄榄球的四分卫","vt. （以四分卫）指挥进攻；领导；操纵","vi. （橄榄球中）担任四分卫"],"phonetic":"'kwɔːtəbæk"}
-{"word":"quarter-backs","sw":"quarterbacks","translation":["(quarter-back 的复数) n. 橄榄球的四分卫","vt. （以四分卫）指挥进攻；领导；操纵","vi. （橄榄球中）担任四分卫"],"phonetic":""}
-{"word":"quarter-bell","sw":"quarterbell","translation":["n. 每一刻钟报时的钟铃"],"phonetic":"'kwɔ:tәbel"}
-{"word":"quarter-bloke","sw":"quarterbloke","translation":["[网络] 四分之一"],"phonetic":""}
-{"word":"quarter-blokes","sw":"quarterblokes","translation":["[网络] 四分之一"],"phonetic":""}
-{"word":"quarter-boards","sw":"quarterboards","translation":["na. 舰尾的防波板","[网络] 舰尾上舷；舰艉舷墙板"],"phonetic":""}
-{"word":"quarter-bound","sw":"quarterbound","translation":["a. 皮脊硬面装订的"],"phonetic":"'kwɔ:tәbajnd"}
-{"word":"quarter-breed","sw":"quarterbreed","translation":["n. [贬义、冒犯语]有四分之一异族血统的人(尤指有四分之一白人血统的印第安人)"],"phonetic":"'kwɔ:təbri:d"}
-{"word":"quarter-cart","sw":"quartercart","translation":["[网络] 四分之一车"],"phonetic":""}
-{"word":"quarter-caste","sw":"quartercaste","translation":["[网络] 四分之一种姓"],"phonetic":""}
-{"word":"quarter-centuries","sw":"quartercenturies","translation":["[网络] 四分之一世纪","(quarter-century 的复数)"],"phonetic":""}
-{"word":"quarter-century","sw":"quartercentury","translation":["[网络] 四分之一世纪"],"phonetic":""}
-{"word":"quarter-circle","sw":"quartercircle","translation":["[网络] 四分之一圆"],"phonetic":""}
-{"word":"quarter-circles","sw":"quartercircles","translation":["[网络] 四分之一圆","(quarter-circle 的复数)"],"phonetic":""}
-{"word":"quarter-cleft","sw":"quartercleft","translation":["[网络] 四分之一裂"],"phonetic":""}
-{"word":"quarter-cosen","sw":"quartercosen","translation":["[网络] 四分之一"],"phonetic":""}
-{"word":"quarter-cousen","sw":"quartercousen","translation":["[网络] 四分之一钟"],"phonetic":""}
-{"word":"quarter-cut","sw":"quartercut","translation":["径锯;径面刨切的"],"phonetic":""}
-{"word":"quarter-day","sw":"quarterday","translation":["na. 四季结账日","[网络] 四季结帐日"],"phonetic":""}
-{"word":"quarter-days","sw":"quarterdays","translation":["na. 四季结账日","[网络] 四季度支付期；四季结帐日；四大节日"],"phonetic":""}
-{"word":"quarter-deck","sw":"quarterdeck","translation":["n. 后甲板，高级船员或军官","v. 来回走动"],"phonetic":"k'wɔ:tərd'ek"}
-{"word":"quarter-decks","sw":"quarterdecks","translation":["[网络] 四分之一甲板"],"phonetic":""}
-{"word":"quarter-evil","sw":"quarterevil","translation":["un. 黑腿病","[网络] 气肿疽"],"phonetic":""}
-{"word":"quarter-final","sw":"quarterfinal","translation":["a. 四分之一决赛 的,复赛的","n. 复赛"],"phonetic":"'kwɔ:tәfain(ә)l"}
-{"word":"quarter-finalist","sw":"quarterfinalist","translation":["n. 进入复赛的人"],"phonetic":"k'wɔ:tərf'aɪnəlɪst"}
-{"word":"quarter-finalists","sw":"quarterfinalists","translation":["(quarter-finalist 的复数) n. 进入复赛的人"],"phonetic":""}
-{"word":"quarter-finals","sw":"quarterfinals","translation":["(quarter-final 的复数) adj.四分之一决赛 的,复赛的","n. 复赛"],"phonetic":""}
-{"word":"quarter-gallery","sw":"quartergallery","translation":["un. 后部了望台","[网络] 阳台"],"phonetic":""}
-{"word":"quarter-gallon","sw":"quartergallon","translation":["[网络] 四分之一加仑"],"phonetic":""}
-{"word":"quarter-girth","sw":"quartergirth","translation":["[林] 四分周干围"],"phonetic":""}
-{"word":"quarter-guard","sw":"quarterguard","translation":["[网络] 四分卫"],"phonetic":""}
-{"word":"quarter-gunner","sw":"quartergunner","translation":["[网络] 四分之一枪手"],"phonetic":""}
-{"word":"quarter-hard","sw":"quarterhard","translation":["四分之一硬"],"phonetic":""}
-{"word":"quarter-hoop","sw":"quarterhoop","translation":["[网络] 木桶箍"],"phonetic":""}
-{"word":"quarter-horse","sw":"quarterhorse","translation":["na. 1/4 英里赛跑马","[网络] 夸特马；奎特马；四分之一哩的竞赛马"],"phonetic":""}
-{"word":"quarter-hour","sw":"quarterhour","translation":["n. 一刻钟，钟面上标明第一刻钟（或第三刻钟的）点"],"phonetic":"k'wɔ:tər'aʊər"}
-{"word":"quarter-hours","sw":"quarterhours","translation":["n. 一刻钟；钟面上标明第一刻钟或第三刻钟的点"],"phonetic":"'kwɔ:tə'auə"}
-{"word":"quarter-ill","sw":"quarterill","translation":["un. 黑腿病"],"phonetic":""}
-{"word":"quarter-jack","sw":"quarterjack","translation":["abbr. (=quartermaster)","[网络] 报刻提升器"],"phonetic":""}
-{"word":"quarter-length","sw":"quarterlength","translation":["[网络] 比赛每节长度；单节比赛长度；比赛单节时间"],"phonetic":""}
-{"word":"quarter-life","sw":"quarterlife","translation":["四分之一寿命"],"phonetic":""}
-{"word":"quarter-light","sw":"quarterlight","translation":["n. （汽车的）边窗"],"phonetic":"k'wɔ:tərl'aɪt"}
-{"word":"quarter-lights","sw":"quarterlights","translation":["(quarter-light 的复数) n. （汽车的）边窗"],"phonetic":""}
-{"word":"quarter-line","sw":"quarterline","translation":["na. 【航】军舰的雁行式阵形","[网络] 中卫的攻防线；四分线；后倒缆"],"phonetic":""}
-{"word":"Quarter-mast","sw":"quartermast","translation":["歉年"],"phonetic":""}
-{"word":"quarter-mile","sw":"quartermile","translation":["na. 1/4英里","[网络] 英里冲刺；优良驾驶"],"phonetic":""}
-{"word":"quarter-miler","sw":"quartermiler","translation":["n. 【体育】四分之一英里赛跑选手"],"phonetic":",kwɔ:tə'mailə"}
-{"word":"quarter-milers","sw":"quartermilers","translation":["quarter-miler","[,kwɔ:tə'mailə]","n.","【体育】四分之一英里赛跑选手"],"phonetic":",kwɔ:tə'mailə"}
-{"word":"quarter-miles","sw":"quartermiles","translation":["[网络] 四分一英里加速"],"phonetic":""}
-{"word":"quarter-moon","sw":"quartermoon","translation":["[网络] 四分之一图片；半月；月球"],"phonetic":""}
-{"word":"quarter-note","sw":"quarternote","translation":["na. 【乐】四分音符"],"phonetic":""}
-{"word":"quarter-on-quarter","sw":"quarteronquarter","translation":["[网络] 季度环比；与去年同季相比的"],"phonetic":""}
-{"word":"quarter-ordinate","sw":"quarterordinate","translation":["un. 四方之一肋距处的纵坐标","[网络] 四分之一肋距处的纵坐标"],"phonetic":""}
-{"word":"quarter-page","sw":"quarterpage","translation":["[网络] 四分之一版之广告"],"phonetic":""}
-{"word":"quarter-past","sw":"quarterpast","translation":["[网络] 四分之一"],"phonetic":""}
-{"word":"quarter-pasts","sw":"quarterpasts","translation":["[网络] 四分之一","(quarter-past 的复数)"],"phonetic":""}
-{"word":"quarter-penny","sw":"quarterpenny","translation":["[网络] 钱"],"phonetic":""}
-{"word":"quarter-phase","sw":"quarterphase","translation":["双相的;双相位;两相"],"phonetic":"ˈkwɔ:təˌfeɪz"}
-{"word":"quarter-piece","sw":"quarterpiece","translation":["[网络] 四分之一片"],"phonetic":""}
-{"word":"quarter-pipe","sw":"quarterpipe","translation":["[网络] 四分之一管做单次回旋；船尾导缆孔；起跑台"],"phonetic":""}
-{"word":"quarter-pipes","sw":"quarterpipes","translation":["[网络] 四分之一管道"],"phonetic":""}
-{"word":"quarter-plate","sw":"quarterplate","translation":["n. 【摄影术】8.3×10.8厘米的底版"],"phonetic":"'kwɔ:təpleit"}
-{"word":"quarter-point","sw":"quarterpoint","translation":["四分之一罗经点"],"phonetic":""}
-{"word":"quarter-points","sw":"quarterpoints","translation":["(quarter-point 的复数) 四分之一罗经点"],"phonetic":""}
-{"word":"quarter-pound","sw":"quarterpound","translation":["[网络] 四分之一磅"],"phonetic":""}
-{"word":"quarter-pounder","sw":"quarterpounder","translation":["[网络] 汉堡；足三两；牛肉芝士包"],"phonetic":""}
-{"word":"quarter-pounders","sw":"quarterpounders","translation":["[网络] 磅大汉堡"],"phonetic":""}
-{"word":"quarter-pounds","sw":"quarterpounds","translation":["[网络] 四分之一磅","(quarter-pound 的复数)"],"phonetic":""}
-{"word":"quarter-rotary-cut","sw":"quarterrotarycut","translation":["径面旋切"],"phonetic":""}
-{"word":"quarter-round","sw":"quarterround","translation":["un. 四分之一圆","[网络] 四分条；圆木条；带料价格"],"phonetic":""}
-{"word":"quarter-rounds","sw":"quarterrounds","translation":["un. 四分之一圆","[网络] 四分条；圆木条；带料价格","(quarter-round 的复数)"],"phonetic":""}
-{"word":"quarter-saw","sw":"quartersaw","translation":["v. 把(木头)打直锯成四块"],"phonetic":""}
-{"word":"quarter-sawed","sw":"quartersawed","translation":["四分之一径向锯"],"phonetic":""}
-{"word":"quarter-sawing","sw":"quartersawing","translation":["n. 【林业】径切"],"phonetic":"'kwɔ:təsɔ:iŋ"}
-{"word":"quarter-sawn","sw":"quartersawn","translation":["adj. 径切的","[网络] 四分之一锯法"],"phonetic":""}
-{"word":"quarter-saws","sw":"quartersaws","translation":["[网络] 四分之一钟"],"phonetic":""}
-{"word":"quarter-scale","sw":"quarterscale","translation":["[网络] 之比例尺"],"phonetic":""}
-{"word":"quarter-sections","sw":"quartersections","translation":["四分之一图幅"],"phonetic":""}
-{"word":"quarter-sheet","sw":"quartersheet","translation":["n. 马毯","[网络] 蛋糕店订了小长方型"],"phonetic":""}
-{"word":"quarter-sheets","sw":"quartersheets","translation":["(quarter-sheet 的复数) n. 马毯","[网络] 蛋糕店订了小长方型"],"phonetic":""}
-{"word":"quarter-size","sw":"quartersize","translation":["un. 四分之一缩尺","[网络] 四分之一大小；四分之一的大小是"],"phonetic":""}
-{"word":"quarter-speed","sw":"quarterspeed","translation":["n. 四分之一速度"],"phonetic":""}
-{"word":"quarter-staff","sw":"quarterstaff","translation":["n. 铁头木棒（英国旧时的一种武器, 长六英尺至八英尺）"],"phonetic":"'kwɔːtəstɑːf"}
-{"word":"quarter-staffs","sw":"quarterstaffs","translation":["(quarter-staff 的复数) n. 铁头木棒（英国旧时的一种武器, 长六英尺至八英尺）"],"phonetic":""}
-{"word":"quarter-tense","sw":"quartertense","translation":["[网络] 四分之一秒"],"phonetic":""}
-{"word":"quarter-to","sw":"quarterto","translation":["[网络] 差一刻；点四十五分"],"phonetic":""}
-{"word":"quarter-to-quarter","sw":"quartertoquarter","translation":["[网络] 季度相比；算为季成长率；固定资本投资的季成长率"],"phonetic":""}
-{"word":"quarter-tone","sw":"quartertone","translation":["四分之一音；四分音"],"phonetic":""}
-{"word":"quarter-tones","sw":"quartertones","translation":["四分音"],"phonetic":""}
-{"word":"quarter-truth","sw":"quartertruth","translation":["(极不真实的)欺人之谈"],"phonetic":""}
-{"word":"quarter-turn","sw":"quarterturn","translation":["直角回转"],"phonetic":"k'wɔ:tərt'ɜ:n"}
-{"word":"quarter-turns","sw":"quarterturns","translation":["[网络] 直角回转锁"],"phonetic":""}
-{"word":"quarter-vine","sw":"quartervine","translation":["[网络] 紫葳藤"],"phonetic":""}
-{"word":"quarter-vines","sw":"quartervines","translation":["[网络] 紫葳藤","(quarter-vine 的复数)"],"phonetic":""}
-{"word":"quarter-waiter","sw":"quarterwaiter","translation":["[网络] 四分卫服务员"],"phonetic":""}
-{"word":"quarter-wave","sw":"quarterwave","translation":["四分之一波长"],"phonetic":"k'wɔ:tərw'eɪv"}
-{"word":"quarter-wavelength","sw":"quarterwavelength","translation":["un. 四方之一波长","[网络] 四分之一波长"],"phonetic":""}
-{"word":"quarter-wavelengths","sw":"quarterwavelengths","translation":["un. 四方之一波长","[网络] 四分之一波长","(quarter-wavelength 的复数)"],"phonetic":""}
-{"word":"quarter-wind","sw":"quarterwind","translation":["n. 船尾吹来的风","[网络] 后侧风；尾舷风"],"phonetic":""}
-{"word":"quarter-witted","sw":"quarterwitted","translation":["a. 智力极低的"],"phonetic":"'kwɔ:tә'witid"}
-{"word":"quarter-yearly","sw":"quarteryearly","translation":["adv. adj.每三个月（的）, 一年4次（的）"],"phonetic":"'kwɔ:tә'j\\\\:li"}
 {"word":"quarterage","sw":"quarterage","translation":["n. 季度工资, 季度津贴, 季度税, 住宿费用","[经] 按季收付的款项, 季度工资, 季度税"],"phonetic":"'kwɔ:tә,ridʒ"}
 {"word":"quarterages","sw":"quarterages","translation":["[网络] 四分卫"],"phonetic":""}
 {"word":"quarterback","sw":"quarterback","translation":["n. 四分卫","vi. 担任四分卫"],"phonetic":"'kwɒ:tәbæk"}
@@ -2482,15 +2152,12 @@
 {"word":"quarterlights","sw":"quarterlights","translation":["na. (车辆的)边窗"],"phonetic":""}
 {"word":"quarterline","sw":"quarterline","translation":["四等分线"],"phonetic":""}
 {"word":"quarterly","sw":"quarterly","translation":["a. 季度的, 按季度的, 每季的","adv. 按季, 每三个月, 每季一次","n. 季刊"],"phonetic":"ˈkwɔːtəli|ˈkwɔːrtərli"}
-{"word":"quarterly-earnings","sw":"quarterlyearnings","translation":["[网络] 分析师评估企业季度盈余"],"phonetic":""}
 {"word":"quarterm","sw":"quarterm","translation":["四等份,四分之一"],"phonetic":""}
 {"word":"quartermaine","sw":"quartermaine","translation":["[人名] [英格兰人姓氏] 夸特梅因 Quartermain的变体"],"phonetic":""}
 {"word":"quartermaines","sw":"quartermaines","translation":["[人名] [英格兰人姓氏] 夸特梅因 Quartermain的变体","(quartermaine 的复数)"],"phonetic":""}
 {"word":"quarterman","sw":"quarterman","translation":["造船厂工段长"],"phonetic":"k'wɔ:təmən"}
 {"word":"quartermaster","sw":"quartermaster","translation":["n. 军需官","[法] 军需官, 后勤官, 军需主任"],"phonetic":"'kwɒ:tә.mɑ:stә"}
-{"word":"quartermaster-general","sw":"quartermastergeneral","translation":["na. 兵站总监〔略 Q.M.G.〕","[网络] 从军监总监；军需总监"],"phonetic":""}
 {"word":"quartermasters","sw":"quartermasters","translation":["n. <军>军需官, 军需主任( quartermaster的复数形式 ); <海>舵手"],"phonetic":"ˈkwɔ:rtəˌmɑ:stəz"}
-{"word":"quartermasters-general","sw":"quartermastersgeneral","translation":["na. 兵站总监〔略 Q.M.G.〕","[网络] 从军监总监；军需总监","(quartermaster-general 的复数)"],"phonetic":""}
 {"word":"quartermastership","sw":"quartermastership","translation":["[网络] 季度管理"],"phonetic":""}
 {"word":"quartermasterships","sw":"quartermasterships","translation":["[网络] 季度管理"],"phonetic":""}
 {"word":"quartermile","sw":"quartermile","translation":["na. 1/4英里","[网络] 英里冲刺；优良驾驶"],"phonetic":""}
@@ -2498,7 +2165,6 @@
 {"word":"quartermistress","sw":"quartermistress","translation":["[网络] 四分之一主席"],"phonetic":""}
 {"word":"quartermistresses","sw":"quartermistresses","translation":["[网络] 四分之一主席"],"phonetic":""}
 {"word":"quartern","sw":"quartern","translation":["n. 四分之一, 四分之一品脱"],"phonetic":"'kwɔ:tәn"}
-{"word":"quartern-olaf","sw":"quarternolaf","translation":["[网络] 四磅重的面包"],"phonetic":""}
 {"word":"quarternary","sw":"quarternary","translation":["[计] 四元的"],"phonetic":"'kwɔ:tәnәri"}
 {"word":"quarternate","sw":"quarternate","translation":["四个一组的"],"phonetic":"'kwɔ:tәneit"}
 {"word":"quarterne","sw":"quarterne","translation":["[网络] 四分之一"],"phonetic":""}
@@ -2585,58 +2251,6 @@
 {"word":"quartus","sw":"quartus","translation":["a. 第四的"],"phonetic":"'kwɔ:tәs"}
 {"word":"quartyer","sw":"quartyer","translation":["[网络] 25美分硬币"],"phonetic":""}
 {"word":"quartz","sw":"quartz","translation":["n. 石英","[化] 石英"],"phonetic":"kwɔːts|kwɔːrts"}
-{"word":"quartz-albitite","sw":"quartzalbitite","translation":["石英纳长岩"],"phonetic":""}
-{"word":"quartz-amphibolediorite","sw":"quartzamphibolediorite","translation":["石英闪长岩"],"phonetic":""}
-{"word":"quartz-andesinite","sw":"quartzandesinite","translation":["石英中长岩"],"phonetic":""}
-{"word":"quartz-andesite","sw":"quartzandesite","translation":["石英安山岩"],"phonetic":""}
-{"word":"quartz-anorthitegabbro","sw":"quartzanorthitegabbro","translation":["石英钙长辉长岩"],"phonetic":""}
-{"word":"quartz-anorthosite","sw":"quartzanorthosite","translation":["石英斜长岩"],"phonetic":""}
-{"word":"quartz-arenitic","sw":"quartzarenitic","translation":["[网络] 石英棉"],"phonetic":""}
-{"word":"quartz-augite-diorite","sw":"quartzaugitediorite","translation":["英辉闪长岩"],"phonetic":""}
-{"word":"quartz-augite-porphyrite","sw":"quartzaugiteporphyrite","translation":["英辉玢岩"],"phonetic":""}
-{"word":"quartz-banakite","sw":"quartzbanakite","translation":["石英粗面粒玄岩"],"phonetic":""}
-{"word":"quartz-basalt","sw":"quartzbasalt","translation":["石英玄武岩"],"phonetic":""}
-{"word":"quartz-biotite-diorite","sw":"quartzbiotitediorite","translation":["英云闪长岩"],"phonetic":""}
-{"word":"quartz-bostonite","sw":"quartzbostonite","translation":["英淡歪细晶岩"],"phonetic":""}
-{"word":"quartz-bytownite","sw":"quartzbytownite","translation":["石英倍长岩"],"phonetic":""}
-{"word":"quartz-ceramics","sw":"quartzceramics","translation":["石英陶瓷"],"phonetic":""}
-{"word":"quartz-diabase","sw":"quartzdiabase","translation":["石英辉绿岩"],"phonetic":""}
-{"word":"quartz-diopside-diorite","sw":"quartzdiopsidediorite","translation":["石英透辉闪长岩"],"phonetic":""}
-{"word":"quartz-diorite","sw":"quartzdiorite","translation":["un. 石英闪长岩","[网络] 石英闪绿岩；石英岩"],"phonetic":""}
-{"word":"quartz-diorite-porphyry","sw":"quartzdioriteporphyry","translation":["石英闪长斑岩"],"phonetic":""}
-{"word":"quartz-dolerite","sw":"quartzdolerite","translation":["石英煌绿岩"],"phonetic":""}
-{"word":"quartz-felsite","sw":"quartzfelsite","translation":["石英霏细岩"],"phonetic":""}
-{"word":"quartz-gabbro","sw":"quartzgabbro","translation":["石英辉长岩"],"phonetic":""}
-{"word":"quartz-halogen","sw":"quartzhalogen","translation":["adj. （灯泡）石英卤素的"],"phonetic":"'kwɔ:ts'hælədʒin"}
-{"word":"quartz-indicator","sw":"quartzindicator","translation":["石英指示器;晶体指示器"],"phonetic":""}
-{"word":"quartz-iodine","sw":"quartziodine","translation":["lamp 石英碘灯"],"phonetic":"'kwɔ:ts'aiəudi:n"}
-{"word":"quartz-keratophyre","sw":"quartzkeratophyre","translation":["石英角斑岩"],"phonetic":""}
-{"word":"quartz-keratophyrite","sw":"quartzkeratophyrite","translation":["石英角斑玢岩"],"phonetic":""}
-{"word":"quartz-kersantite","sw":"quartzkersantite","translation":["英云斜煌斑岩"],"phonetic":""}
-{"word":"quartz-lamp","sw":"quartzlamp","translation":["[医] 石英灯"],"phonetic":""}
-{"word":"quartz-latite","sw":"quartzlatite","translation":["石英二长安山岩"],"phonetic":""}
-{"word":"quartz-melaphyre","sw":"quartzmelaphyre","translation":["石英黑玢岩"],"phonetic":""}
-{"word":"quartz-mica-diorite","sw":"quartzmicadiorite","translation":["英云闪长岩"],"phonetic":""}
-{"word":"quartz-mica-diorite-porphyrite","sw":"quartzmicadioriteporphyrite","translation":["英云闪长玢岩"],"phonetic":""}
-{"word":"quartz-mica-hypersthene-diorite","sw":"quartzmicahypersthenediorite","translation":["英云紫苏闪长岩"],"phonetic":""}
-{"word":"quartz-mica-porphyrite","sw":"quartzmicaporphyrite","translation":["英云玢岩"],"phonetic":""}
-{"word":"quartz-monzonite","sw":"quartzmonzonite","translation":["石英二长岩"],"phonetic":""}
-{"word":"quartz-monzonite-aplite","sw":"quartzmonzoniteaplite","translation":["石英二长细晶岩"],"phonetic":""}
-{"word":"quartz-monzonite-porphyry","sw":"quartzmonzoniteporphyry","translation":["石英二长斑岩"],"phonetic":""}
-{"word":"quartz-nordmarkite","sw":"quartznordmarkite","translation":["英硷正长岩"],"phonetic":""}
-{"word":"quartz-orthophyre","sw":"quartzorthophyre","translation":["石英正长斑岩"],"phonetic":""}
-{"word":"quartz-phyllite","sw":"quartzphyllite","translation":["石英千枚岩"],"phonetic":""}
-{"word":"quartz-plagiophyre","sw":"quartzplagiophyre","translation":["石英斜长斑岩"],"phonetic":""}
-{"word":"quartz-porphyrite","sw":"quartzporphyrite","translation":["石英玢岩"],"phonetic":""}
-{"word":"quartz-porphyry","sw":"quartzporphyry","translation":["石英斑岩"],"phonetic":""}
-{"word":"quartz-printer","sw":"quartzprinter","translation":["打印式石英校表仪"],"phonetic":""}
-{"word":"quartz-propylite","sw":"quartzpropylite","translation":["石英青盘岩"],"phonetic":""}
-{"word":"quartz-schist","sw":"quartzschist","translation":["石英片岩"],"phonetic":""}
-{"word":"quartz-syenite","sw":"quartzsyenite","translation":["石英正长岩"],"phonetic":""}
-{"word":"quartz-timer","sw":"quartztimer","translation":["石英表校表仪;数字式石英校表仪;晶体定时器"],"phonetic":""}
-{"word":"quartz-tonalite","sw":"quartztonalite","translation":["石英闪长岩"],"phonetic":""}
-{"word":"quartz-trachyandesite","sw":"quartztrachyandesite","translation":["石英粗安岩"],"phonetic":""}
-{"word":"quartz-trachyte","sw":"quartztrachyte","translation":["石英粗面岩"],"phonetic":""}
 {"word":"quartzandesite","sw":"quartzandesite","translation":["n. 石英安山岩"],"phonetic":"kwɔːtzən'desaɪt"}
 {"word":"quartzarenite","sw":"quartzarenite","translation":["石英砂屑岩; 正石英岩"],"phonetic":""}
 {"word":"quartzcrystal","sw":"quartzcrystal","translation":["un. 石英晶体","[网络] 水晶；白水晶；石英晶振"],"phonetic":""}
@@ -2657,7 +2271,6 @@
 {"word":"quartzite","sw":"quartzite","translation":["n. 石英岩","[化] 石英岩"],"phonetic":"'kwɒ:tsait"}
 {"word":"quartzites","sw":"quartzites","translation":["(quartzite 的复数) n. 石英岩","[化] 石英岩"],"phonetic":""}
 {"word":"quartzitic","sw":"quartzitic","translation":["a. 石英岩的, 由石英质组成的"],"phonetic":"kwɔ:t'sitik"}
-{"word":"quartzlabradorite-monzonite","sw":"quartzlabradoritemonzonite","translation":["英拉二长岩"],"phonetic":""}
 {"word":"quartzlamp","sw":"quartzlamp","translation":["石英灯"],"phonetic":""}
 {"word":"quartzlens","sw":"quartzlens","translation":["石英透镜"],"phonetic":""}
 {"word":"quartzless","sw":"quartzless","translation":["[网络] 无石英"],"phonetic":""}
@@ -2690,7 +2303,6 @@
 {"word":"Quarzan","sw":"quarzan","translation":["克利溴铵,溴奎环二苯酯制剂的商品名"],"phonetic":""}
 {"word":"quarzitic","sw":"quarzitic","translation":["[网络] 争吵"],"phonetic":""}
 {"word":"quas","sw":"quas","translation":["[计]= QUantum Amplification by Stimulated emission of radiation,受激幅射量子放大（率）"],"phonetic":""}
-{"word":"quas-static","sw":"quasstatic","translation":["准静态"],"phonetic":""}
 {"word":"quasage","sw":"quasage","translation":["类星星系"],"phonetic":"'kweisidʒ"}
 {"word":"quasar","sw":"quasar","translation":["n. 类星射电源, 类星体"],"phonetic":"'kweisɑ:"}
 {"word":"quasarlike","sw":"quasarlike","translation":["[网络] 类星体"],"phonetic":""}
@@ -2713,381 +2325,6 @@
 {"word":"quashings","sw":"quashings","translation":["v. 拒绝接受( quash的现在分词 ); 镇压; 平息; 压服","(quashing 的复数)"],"phonetic":""}
 {"word":"quashy","sw":"quashy","translation":["a. 似沼泽的"],"phonetic":"'kwɔʃi"}
 {"word":"quasi","sw":"quasi","translation":["a. 类似的, 准的","[经] 半, 准; 类似的"],"phonetic":"'kwɑ:zi:"}
-{"word":"quasi-academic","sw":"quasiacademic","translation":["[网络] 准学术性的"],"phonetic":""}
-{"word":"quasi-academics","sw":"quasiacademics","translation":["(quasi-academic 的复数) [网络] 准学术性的"],"phonetic":""}
-{"word":"quasi-adiabatic","sw":"quasiadiabatic","translation":["准绝热"],"phonetic":""}
-{"word":"quasi-adjective","sw":"quasiadjective","translation":["[网络] 准形容词"],"phonetic":""}
-{"word":"quasi-adult","sw":"quasiadult","translation":["[法] 准成年"],"phonetic":""}
-{"word":"quasi-algebra","sw":"quasialgebra","translation":["拟代数"],"phonetic":""}
-{"word":"quasi-algebraic","sw":"quasialgebraic","translation":["[数] 拟代数的"],"phonetic":""}
-{"word":"quasi-algebroidal","sw":"quasialgebroidal","translation":["拟代数体的"],"phonetic":""}
-{"word":"quasi-alliance","sw":"quasialliance","translation":["[网络] 准联盟；准同盟；准结盟"],"phonetic":""}
-{"word":"Quasi-alum","sw":"quasialum","translation":["拟矾"],"phonetic":""}
-{"word":"quasi-analytic","sw":"quasianalytic","translation":["[数] 拟解析的"],"phonetic":""}
-{"word":"quasi-analyticity","sw":"quasianalyticity","translation":["拟解析性"],"phonetic":""}
-{"word":"quasi-arbitrage","sw":"quasiarbitrage","translation":["[网络] 准套利；套利"],"phonetic":""}
-{"word":"quasi-arbitrator","sw":"quasiarbitrator","translation":["[法] 准仲裁人"],"phonetic":""}
-{"word":"quasi-arbitrators","sw":"quasiarbitrators","translation":["(quasi-arbitrator 的复数) [法] 准仲裁人"],"phonetic":""}
-{"word":"quasi-arithmetic","sw":"quasiarithmetic","translation":["[数] 拟算术的"],"phonetic":""}
-{"word":"quasi-asymptote","sw":"quasiasymptote","translation":["拟渐近线"],"phonetic":""}
-{"word":"quasi-atom","sw":"quasiatom","translation":["准原子"],"phonetic":""}
-{"word":"quasi-attenuance","sw":"quasiattenuance","translation":["似衰减光度"],"phonetic":""}
-{"word":"quasi-autocorrelation","sw":"quasiautocorrelation","translation":["拟自相关"],"phonetic":""}
-{"word":"quasi-automatic","sw":"quasiautomatic","translation":["[网络] 准自动"],"phonetic":""}
-{"word":"quasi-autonomous","sw":"quasiautonomous","translation":["[网络] 准自主性；自主权"],"phonetic":""}
-{"word":"quasi-bargain","sw":"quasibargain","translation":["准买卖"],"phonetic":""}
-{"word":"quasi-boson","sw":"quasiboson","translation":["准玻色子"],"phonetic":""}
-{"word":"quasi-botatron","sw":"quasibotatron","translation":["准电子感应加速器"],"phonetic":""}
-{"word":"quasi-bound","sw":"quasibound","translation":["准束缚的"],"phonetic":""}
-{"word":"quasi-bounded","sw":"quasibounded","translation":["[数] 拟有界的"],"phonetic":""}
-{"word":"quasi-burglar","sw":"quasiburglar","translation":["[法] 准窃盗犯"],"phonetic":""}
-{"word":"quasi-character","sw":"quasicharacter","translation":["拟特征标"],"phonetic":""}
-{"word":"quasi-Christian","sw":"quasichristian","translation":["[网络] 基督徒"],"phonetic":""}
-{"word":"quasi-circle","sw":"quasicircle","translation":["拟圆周"],"phonetic":""}
-{"word":"quasi-circular","sw":"quasicircular","translation":["准圆形"],"phonetic":""}
-{"word":"quasi-classical","sw":"quasiclassical","translation":["un. 准经曲的","[网络] 准经典的"],"phonetic":""}
-{"word":"quasi-closed","sw":"quasiclosed","translation":["[数] 拟闭的"],"phonetic":""}
-{"word":"quasi-coherent","sw":"quasicoherent","translation":["[物] 拟凝聚的"],"phonetic":""}
-{"word":"quasi-coincidence","sw":"quasicoincidence","translation":["拟重合"],"phonetic":""}
-{"word":"quasi-colonial","sw":"quasicolonial","translation":["[网络] 准殖民地；现象；半殖民现象"],"phonetic":""}
-{"word":"quasi-command","sw":"quasicommand","translation":["[计] 拟指令, 伪指令"],"phonetic":""}
-{"word":"quasi-commercial","sw":"quasicommercial","translation":["[网络] 准商业化；类商业"],"phonetic":""}
-{"word":"quasi-compact","sw":"quasicompact","translation":["adj. 〔数〕拟紧的"],"phonetic":""}
-{"word":"quasi-compactness","sw":"quasicompactness","translation":["拟紧性"],"phonetic":""}
-{"word":"quasi-competitive","sw":"quasicompetitive","translation":["[网络] 准竞争"],"phonetic":""}
-{"word":"quasi-complement","sw":"quasicomplement","translation":["拟补"],"phonetic":""}
-{"word":"quasi-complete","sw":"quasicomplete","translation":["[网络] 准完全溶剂化"],"phonetic":""}
-{"word":"quasi-complex","sw":"quasicomplex","translation":["[数] 拟复的"],"phonetic":""}
-{"word":"quasi-complexity","sw":"quasicomplexity","translation":["拟复性"],"phonetic":""}
-{"word":"quasi-component","sw":"quasicomponent","translation":["拟分量"],"phonetic":""}
-{"word":"quasi-concavity","sw":"quasiconcavity","translation":["拟凹性"],"phonetic":""}
-{"word":"quasi-conductor","sw":"quasiconductor","translation":["[计] 半导体"],"phonetic":""}
-{"word":"quasi-conformal","sw":"quasiconformal","translation":["[数] 拟保角的"],"phonetic":""}
-{"word":"quasi-conformality","sw":"quasiconformality","translation":["拟保形"],"phonetic":""}
-{"word":"quasi-conjugation","sw":"quasiconjugation","translation":["[化] 超共轭效应; 似共轭效应"],"phonetic":""}
-{"word":"quasi-conjunction","sw":"quasiconjunction","translation":["[数] 拟合取式"],"phonetic":""}
-{"word":"quasi-conservative","sw":"quasiconservative","translation":["准保守性[的]"],"phonetic":""}
-{"word":"quasi-constant","sw":"quasiconstant","translation":["[网络] 准恒定；之类恒定"],"phonetic":""}
-{"word":"quasi-constitutional","sw":"quasiconstitutional","translation":["[网络] 准宪政"],"phonetic":""}
-{"word":"quasi-continuity","sw":"quasicontinuity","translation":["拟连续性"],"phonetic":""}
-{"word":"quasi-continuous","sw":"quasicontinuous","translation":["[数] 拟连续的"],"phonetic":""}
-{"word":"quasi-contract","sw":"quasicontract","translation":["[经] 准契约"],"phonetic":""}
-{"word":"quasi-contracts","sw":"quasicontracts","translation":["(quasi-contract 的复数) [经] 准契约"],"phonetic":""}
-{"word":"quasi-contractual","sw":"quasicontractual","translation":["准契约的"],"phonetic":""}
-{"word":"quasi-convergence","sw":"quasiconvergence","translation":["拟收敛"],"phonetic":""}
-{"word":"quasi-convergent","sw":"quasiconvergent","translation":["拟收敛的"],"phonetic":""}
-{"word":"quasi-convex","sw":"quasiconvex","translation":["拟凸"],"phonetic":""}
-{"word":"quasi-convexity","sw":"quasiconvexity","translation":["拟凸性"],"phonetic":""}
-{"word":"quasi-coordinate","sw":"quasicoordinate","translation":["[计] 准坐标"],"phonetic":""}
-{"word":"quasi-corporate","sw":"quasicorporate","translation":["[网络] 准法人团体"],"phonetic":""}
-{"word":"quasi-corporation","sw":"quasicorporation","translation":["准法人"],"phonetic":"k'wɑːziːkɔːpər'eɪʃn"}
-{"word":"quasi-correspondence","sw":"quasicorrespondence","translation":["类对应"],"phonetic":""}
-{"word":"quasi-craton","sw":"quasicraton","translation":["准坚稳地"],"phonetic":""}
-{"word":"quasi-crime","sw":"quasicrime","translation":["[法] 准犯罪"],"phonetic":""}
-{"word":"quasi-criminal","sw":"quasicriminal","translation":["[网络] 准刑事案；准刑事性；准刑事犯罪"],"phonetic":""}
-{"word":"quasi-criminals","sw":"quasicriminals","translation":["[网络] 准刑事案；准刑事性；准刑事犯罪","(quasi-criminal 的复数)"],"phonetic":""}
-{"word":"quasi-crosslink","sw":"quasicrosslink","translation":["准交联"],"phonetic":""}
-{"word":"quasi-crystal","sw":"quasicrystal","translation":["准晶"],"phonetic":""}
-{"word":"quasi-crystalline","sw":"quasicrystalline","translation":["准晶体的"],"phonetic":""}
-{"word":"quasi-crystals","sw":"quasicrystals","translation":["[网络] 准晶；晶体"],"phonetic":""}
-{"word":"quasi-decentralization","sw":"quasidecentralization","translation":["[经] 准分权制"],"phonetic":""}
-{"word":"quasi-decimal","sw":"quasidecimal","translation":["拟小数"],"phonetic":""}
-{"word":"quasi-definite","sw":"quasidefinite","translation":["拟定义"],"phonetic":""}
-{"word":"quasi-delict","sw":"quasidelict","translation":["[网络] 准侵权行为；准不法行为；准合同"],"phonetic":""}
-{"word":"quasi-delicts","sw":"quasidelicts","translation":["[网络] 准侵权行为；准不法行为；准合同","(quasi-delict 的复数)"],"phonetic":""}
-{"word":"quasi-delictum","sw":"quasidelictum","translation":["[法] 准私犯"],"phonetic":""}
-{"word":"quasi-democratic","sw":"quasidemocratic","translation":["[网络] 准民主"],"phonetic":""}
-{"word":"quasi-derelict","sw":"quasiderelict","translation":["准弃船"],"phonetic":""}
-{"word":"quasi-derivative","sw":"quasiderivative","translation":["[网络] 准衍生"],"phonetic":""}
-{"word":"quasi-diagonal","sw":"quasidiagonal","translation":["拟对角的"],"phonetic":""}
-{"word":"quasi-dictatorship","sw":"quasidictatorship","translation":["[网络] 准独裁"],"phonetic":""}
-{"word":"quasi-dielectric","sw":"quasidielectric","translation":["[电] 准介电质"],"phonetic":""}
-{"word":"quasi-differentiable","sw":"quasidifferentiable","translation":["[网络] 准可微分"],"phonetic":""}
-{"word":"quasi-differential","sw":"quasidifferential","translation":["拟微分"],"phonetic":""}
-{"word":"quasi-digit","sw":"quasidigit","translation":["准数位"],"phonetic":""}
-{"word":"quasi-discontinuity","sw":"quasidiscontinuity","translation":["[计] 拟不连续性"],"phonetic":""}
-{"word":"quasi-disjunction","sw":"quasidisjunction","translation":["拟析取式"],"phonetic":""}
-{"word":"quasi-distance","sw":"quasidistance","translation":["拟距离"],"phonetic":""}
-{"word":"quasi-divinity","sw":"quasidivinity","translation":["[网络] 准神性"],"phonetic":""}
-{"word":"quasi-divisor","sw":"quasidivisor","translation":["亚因子;拟因子"],"phonetic":""}
-{"word":"quasi-documentary","sw":"quasidocumentary","translation":["[网络] 半纪录片"],"phonetic":""}
-{"word":"quasi-dominant","sw":"quasidominant","translation":["半显性"],"phonetic":""}
-{"word":"quasi-dual","sw":"quasidual","translation":["[数] 拟对偶的"],"phonetic":""}
-{"word":"quasi-easement","sw":"quasieasement","translation":["[网络] 准地役权"],"phonetic":""}
-{"word":"quasi-economic","sw":"quasieconomic","translation":["[网络] 这种方法也可以从准经济"],"phonetic":""}
-{"word":"quasi-elastic","sw":"quasielastic","translation":["准弹性的"],"phonetic":""}
-{"word":"quasi-electron","sw":"quasielectron","translation":["准电子"],"phonetic":""}
-{"word":"quasi-electroneutrality","sw":"quasielectroneutrality","translation":["准电中性"],"phonetic":""}
-{"word":"quasi-elliptic","sw":"quasielliptic","translation":["准椭圆形的"],"phonetic":""}
-{"word":"quasi-enantiomer","sw":"quasienantiomer","translation":["准对映体"],"phonetic":""}
-{"word":"quasi-entail","sw":"quasientail","translation":["准限嗣继承财产"],"phonetic":"k'wɑːziːent'eɪl"}
-{"word":"quasi-equal","sw":"quasiequal","translation":["[计] 拟相等"],"phonetic":""}
-{"word":"quasi-equality","sw":"quasiequality","translation":["拟等值"],"phonetic":""}
-{"word":"quasi-equilibrium","sw":"quasiequilibrium","translation":["准平衡"],"phonetic":""}
-{"word":"quasi-equivalence","sw":"quasiequivalence","translation":["准等价"],"phonetic":""}
-{"word":"quasi-equivalent","sw":"quasiequivalent","translation":["un. 拟竺价的","[网络] 拟等价的"],"phonetic":""}
-{"word":"quasi-ergodic","sw":"quasiergodic","translation":["准遍历性的"],"phonetic":""}
-{"word":"quasi-eutectic","sw":"quasieutectic","translation":["伪共晶的"],"phonetic":""}
-{"word":"quasi-eutectoid","sw":"quasieutectoid","translation":["伪共析"],"phonetic":""}
-{"word":"quasi-everywhere","sw":"quasieverywhere","translation":["拟处处"],"phonetic":""}
-{"word":"quasi-expectation","sw":"quasiexpectation","translation":["拟期望值"],"phonetic":""}
-{"word":"quasi-experiment","sw":"quasiexperiment","translation":["准实验"],"phonetic":"k'wɑ:zi:ɪksp'erɪmənt"}
-{"word":"quasi-experimental","sw":"quasiexperimental","translation":["[网络] 准实验；准实验性研究法；类实验设计"],"phonetic":""}
-{"word":"quasi-exponential","sw":"quasiexponential","translation":["[数] 拟指数的"],"phonetic":""}
-{"word":"quasi-factor","sw":"quasifactor","translation":["拟因子"],"phonetic":""}
-{"word":"quasi-families","sw":"quasifamilies","translation":["[网络] 着原始亲兵制中准家族","(quasi-family 的复数)"],"phonetic":""}
-{"word":"quasi-family","sw":"quasifamily","translation":["[网络] 着原始亲兵制中准家族"],"phonetic":""}
-{"word":"quasi-fascist","sw":"quasifascist","translation":["[网络] 准法西斯主义；法西斯分子"],"phonetic":""}
-{"word":"quasi-federal","sw":"quasifederal","translation":["准联邦制"],"phonetic":"k'wɑːziːf'edərəl"}
-{"word":"quasi-federalist","sw":"quasifederalist","translation":["[网络] 准联邦主义者"],"phonetic":""}
-{"word":"quasi-feudal","sw":"quasifeudal","translation":["[网络] 准封建的"],"phonetic":""}
-{"word":"quasi-fibrous","sw":"quasifibrous","translation":["准纤维的"],"phonetic":""}
-{"word":"quasi-field","sw":"quasifield","translation":["[计] 拟域"],"phonetic":""}
-{"word":"quasi-fission","sw":"quasifission","translation":["准裂变"],"phonetic":""}
-{"word":"quasi-fixed","sw":"quasifixed","translation":["准固定的"],"phonetic":""}
-{"word":"quasi-flow","sw":"quasiflow","translation":["[化] 准流动; 半流动"],"phonetic":""}
-{"word":"quasi-fluxon","sw":"quasifluxon","translation":["准磁通量子"],"phonetic":""}
-{"word":"quasi-formal","sw":"quasiformal","translation":["[网络] 正式照顾体系；位格和性体的"],"phonetic":""}
-{"word":"quasi-free","sw":"quasifree","translation":["[数] 拟自由的"],"phonetic":""}
-{"word":"quasi-freedom","sw":"quasifreedom","translation":["准自由"],"phonetic":"k'wɑːziːfr'iːdəm"}
-{"word":"quasi-full","sw":"quasifull","translation":["准完全"],"phonetic":""}
-{"word":"quasi-function","sw":"quasifunction","translation":["拟函数"],"phonetic":""}
-{"word":"quasi-geodesic","sw":"quasigeodesic","translation":["拟测地线"],"phonetic":""}
-{"word":"quasi-geoid","sw":"quasigeoid","translation":["似大地水准面"],"phonetic":""}
-{"word":"quasi-geostrophic","sw":"quasigeostrophic","translation":["准地转的"],"phonetic":""}
-{"word":"quasi-goods","sw":"quasigoods","translation":["准货物"],"phonetic":""}
-{"word":"quasi-government","sw":"quasigovernment","translation":["[网络] 准政府；准政府机构；准官方"],"phonetic":""}
-{"word":"quasi-governmental","sw":"quasigovernmental","translation":["半官方的","半政府的"],"phonetic":""}
-{"word":"quasi-governments","sw":"quasigovernments","translation":["[网络] 准政府；准政府机构；准官方","(quasi-government 的复数)"],"phonetic":""}
-{"word":"quasi-gravity","sw":"quasigravity","translation":["人造重力"],"phonetic":""}
-{"word":"quasi-group","sw":"quasigroup","translation":["拟群"],"phonetic":""}
-{"word":"quasi-guardian","sw":"quasiguardian","translation":["[法] 准监护人"],"phonetic":""}
-{"word":"quasi-heterogeneous","sw":"quasiheterogeneous","translation":["[数] 拟均匀的"],"phonetic":""}
-{"word":"quasi-hierarchical","sw":"quasihierarchical","translation":["[网络] 准等级式的模式"],"phonetic":""}
-{"word":"quasi-historical","sw":"quasihistorical","translation":["a. 带有历史性质的"],"phonetic":""}
-{"word":"quasi-holographic","sw":"quasiholographic","translation":["[计] 准全息的"],"phonetic":""}
-{"word":"quasi-homeomorphic","sw":"quasihomeomorphic","translation":["拟同胚"],"phonetic":""}
-{"word":"quasi-homeomorphism","sw":"quasihomeomorphism","translation":["拟同胚"],"phonetic":""}
-{"word":"quasi-homogeneous","sw":"quasihomogeneous","translation":["准齐次"],"phonetic":""}
-{"word":"quasi-ideal","sw":"quasiideal","translation":["拟理想"],"phonetic":""}
-{"word":"quasi-idempotency","sw":"quasiidempotency","translation":["拟幂等"],"phonetic":""}
-{"word":"quasi-identities","sw":"quasiidentities","translation":["拟恒等式"],"phonetic":""}
-{"word":"quasi-identity","sw":"quasiidentity","translation":["[数] 拟恒等"],"phonetic":""}
-{"word":"quasi-immortal","sw":"quasiimmortal","translation":["[网络] 准永生"],"phonetic":""}
-{"word":"quasi-indecomposable","sw":"quasiindecomposable","translation":["拟不可分解的"],"phonetic":""}
-{"word":"quasi-independence","sw":"quasiindependence","translation":["准立性"],"phonetic":""}
-{"word":"quasi-independent","sw":"quasiindependent","translation":["n. 拟无关的","[网络] 正发展出一个准独立；正发展出一个准独立的"],"phonetic":""}
-{"word":"quasi-instantaneous","sw":"quasiinstantaneous","translation":["准同时的"],"phonetic":""}
-{"word":"quasi-instruction","sw":"quasiinstruction","translation":["[计] 伪指令, 拟指令"],"phonetic":""}
-{"word":"quasi-insulato","sw":"quasiinsulato","translation":["准绝缘体"],"phonetic":""}
-{"word":"quasi-insulator","sw":"quasiinsulator","translation":["准绝缘体"],"phonetic":""}
-{"word":"quasi-integral","sw":"quasiintegral","translation":["拟积分的"],"phonetic":""}
-{"word":"quasi-intellectual","sw":"quasiintellectual","translation":["[网络] 理智的"],"phonetic":""}
-{"word":"quasi-invariant","sw":"quasiinvariant","translation":["[数] 拟不变的"],"phonetic":""}
-{"word":"quasi-inverse","sw":"quasiinverse","translation":["拟逆元"],"phonetic":""}
-{"word":"quasi-isloates","sw":"quasiisloates","translation":["准细目"],"phonetic":""}
-{"word":"quasi-isobaric","sw":"quasiisobaric","translation":["拟等压的,拟同量异序的"],"phonetic":""}
-{"word":"quasi-isothermal","sw":"quasiisothermal","translation":["拟等温的"],"phonetic":""}
-{"word":"quasi-isotropic","sw":"quasiisotropic","translation":["准各向同性"],"phonetic":"k'wɑ:zi:aɪsətr'ɒpɪk"}
-{"word":"quasi-isotropy","sw":"quasiisotropy","translation":["类无向性"],"phonetic":""}
-{"word":"quasi-judicial","sw":"quasijudicial","translation":["a. 准司法的","[法] 准司法的, 具有某些司法权的"],"phonetic":",kwɑ:zi:dʒu:'diʃәl"}
-{"word":"quasi-judicially","sw":"quasijudicially","translation":["adv.准司法性地"],"phonetic":"k'wɑːziːdʒuːd'ɪʃəlɪ"}
-{"word":"quasi-language","sw":"quasilanguage","translation":["[计] 拟语言, 准语言"],"phonetic":""}
-{"word":"quasi-lattice","sw":"quasilattice","translation":["似晶格"],"phonetic":""}
-{"word":"quasi-lawabiding","sw":"quasilawabiding","translation":["[法] 半守法的"],"phonetic":""}
-{"word":"quasi-lawbreaking","sw":"quasilawbreaking","translation":["[法] 半违法的"],"phonetic":""}
-{"word":"quasi-left-continuity","sw":"quasileftcontinuity","translation":["拟左连续性"],"phonetic":""}
-{"word":"quasi-legal","sw":"quasilegal","translation":["adj. 准法律的，准合法的"],"phonetic":"ˈkwɑ:zi(:) ˈli:ɡəl"}
-{"word":"quasi-legislative","sw":"quasilegislative","translation":["a. 准立法的","[法] 准立法的"],"phonetic":",kwɑ:zi:'ledʒislәtiv"}
-{"word":"quasi-length","sw":"quasilength","translation":["拟长度"],"phonetic":""}
-{"word":"quasi-levelling","sw":"quasilevelling","translation":["准水准"],"phonetic":""}
-{"word":"quasi-likelihood","sw":"quasilikelihood","translation":["准概似；准概度"],"phonetic":""}
-{"word":"quasi-linear","sw":"quasilinear","translation":["[计] 拟线性"],"phonetic":""}
-{"word":"quasi-linearity","sw":"quasilinearity","translation":["拟线性性"],"phonetic":""}
-{"word":"quasi-linearization","sw":"quasilinearization","translation":["[计] 拟线性化"],"phonetic":""}
-{"word":"quasi-linkage","sw":"quasilinkage","translation":["准连锁,类连锁"],"phonetic":""}
-{"word":"quasi-liquid","sw":"quasiliquid","translation":["似液体;半液体"],"phonetic":""}
-{"word":"quasi-liquidation","sw":"quasiliquidation","translation":["[法] 准清算"],"phonetic":""}
-{"word":"quasi-loan","sw":"quasiloan","translation":["[金融] 准贷款"],"phonetic":""}
-{"word":"quasi-loans","sw":"quasiloans","translation":["(quasi-loan 的复数) [金融] 准贷款"],"phonetic":""}
-{"word":"quasi-marine","sw":"quasimarine","translation":["准海成的，准海相的，准海洋的"],"phonetic":""}
-{"word":"quasi-market","sw":"quasimarket","translation":["准市场"],"phonetic":""}
-{"word":"quasi-markets","sw":"quasimarkets","translation":["[网络] 准市场；市场机制；准市场机制"],"phonetic":""}
-{"word":"quasi-martingale","sw":"quasimartingale","translation":["拟鞅"],"phonetic":""}
-{"word":"quasi-metaphorical","sw":"quasimetaphorical","translation":["[网络] 准隐喻型"],"phonetic":""}
-{"word":"quasi-metric","sw":"quasimetric","translation":["拟度量的"],"phonetic":""}
-{"word":"quasi-military","sw":"quasimilitary","translation":["adj. 准军事的"],"phonetic":"'kwɑ:sai'militəri"}
-{"word":"quasi-mode","sw":"quasimode","translation":["准模"],"phonetic":""}
-{"word":"quasi-modern","sw":"quasimodern","translation":["[网络] 准现代"],"phonetic":""}
-{"word":"quasi-molecule","sw":"quasimolecule","translation":["准分子"],"phonetic":""}
-{"word":"quasi-moments","sw":"quasimoments","translation":["拟矩"],"phonetic":""}
-{"word":"quasi-momentum","sw":"quasimomentum","translation":["准动量"],"phonetic":""}
-{"word":"quasi-money","sw":"quasimoney","translation":["[经] 准货币"],"phonetic":""}
-{"word":"quasi-monochromati","sw":"quasimonochromati","translation":["准单色的"],"phonetic":""}
-{"word":"quasi-monochromatic","sw":"quasimonochromatic","translation":["[医]准单色的"],"phonetic":"k'wɑ:zi:mɒnəkrəm'ætɪk"}
-{"word":"quasi-monopolar","sw":"quasimonopolar","translation":["准单极的,似单极的"],"phonetic":""}
-{"word":"quasi-monopolies","sw":"quasimonopolies","translation":["(quasi-monopoly 的复数) 类垄断"],"phonetic":""}
-{"word":"quasi-monopolistic","sw":"quasimonopolistic","translation":["[网络] 就会造成种种准垄断"],"phonetic":""}
-{"word":"quasi-monopoly","sw":"quasimonopoly","translation":["类垄断"],"phonetic":""}
-{"word":"quasi-monotone","sw":"quasimonotone","translation":["拟单调的"],"phonetic":""}
-{"word":"quasi-monotonic","sw":"quasimonotonic","translation":["拟单调的"],"phonetic":""}
-{"word":"quasi-morphism","sw":"quasimorphism","translation":["[数] 拟态射"],"phonetic":""}
-{"word":"quasi-multiple","sw":"quasimultiple","translation":["拟倍数"],"phonetic":""}
-{"word":"quasi-multiplication","sw":"quasimultiplication","translation":["拟乘法"],"phonetic":""}
-{"word":"quasi-negative","sw":"quasinegative","translation":["[网络] 准否定词"],"phonetic":""}
-{"word":"quasi-neutrality","sw":"quasineutrality","translation":["[法] 准中立"],"phonetic":""}
-{"word":"quasi-NGO","sw":"quasingo","translation":["[网络] 准非政府组织"],"phonetic":""}
-{"word":"quasi-ngoes","sw":"quasingoes","translation":["[网络] 准非政府组织","(quasi-ngo 的复数)"],"phonetic":""}
-{"word":"quasi-nilgroup","sw":"quasinilgroup","translation":["拟零群"],"phonetic":""}
-{"word":"quasi-nilpotent","sw":"quasinilpotent","translation":["[数] 拟幂零的"],"phonetic":""}
-{"word":"quasi-nilring","sw":"quasinilring","translation":["[数] 拟零环"],"phonetic":""}
-{"word":"quasi-nondivergence","sw":"quasinondivergence","translation":["准无辐散"],"phonetic":""}
-{"word":"quasi-nondivergent","sw":"quasinondivergent","translation":["准非辐散[的]"],"phonetic":""}
-{"word":"quasi-norm","sw":"quasinorm","translation":["拟范数"],"phonetic":""}
-{"word":"quasi-normal","sw":"quasinormal","translation":["拟正常"],"phonetic":""}
-{"word":"quasi-normality","sw":"quasinormality","translation":["拟正规性"],"phonetic":""}
-{"word":"quasi-normals","sw":"quasinormals","translation":["拟正常型"],"phonetic":""}
-{"word":"quasi-observation","sw":"quasiobservation","translation":["拟观测值"],"phonetic":""}
-{"word":"quasi-official","sw":"quasiofficial","translation":["a. 半官方的"],"phonetic":"'kwɑ:zi:ә'fiʃәl"}
-{"word":"quasi-one-dimensional","sw":"quasionedimensional","translation":["准一维的"],"phonetic":""}
-{"word":"quasi-operator","sw":"quasioperator","translation":["拟算子"],"phonetic":""}
-{"word":"quasi-optical","sw":"quasioptical","translation":["[电] 类光"],"phonetic":""}
-{"word":"quasi-optics","sw":"quasioptics","translation":["[光] 准光学"],"phonetic":""}
-{"word":"quasi-optimal","sw":"quasioptimal","translation":["[计] 准最优, 近似最优"],"phonetic":""}
-{"word":"quasi-order","sw":"quasiorder","translation":["[计] 拟序"],"phonetic":""}
-{"word":"quasi-ordering","sw":"quasiordering","translation":["[计] 拟排序"],"phonetic":""}
-{"word":"quasi-organism","sw":"quasiorganism","translation":["准生物, 拟生物体, 拟有机体"],"phonetic":""}
-{"word":"quasi-orthogonal","sw":"quasiorthogonal","translation":["准正交线"],"phonetic":""}
-{"word":"quasi-orthotropic","sw":"quasiorthotropic","translation":["准正交各向异性的"],"phonetic":""}
-{"word":"quasi-oscillation","sw":"quasioscillation","translation":["准周期振动"],"phonetic":""}
-{"word":"quasi-paracomplex","sw":"quasiparacomplex","translation":["拟仿复的"],"phonetic":""}
-{"word":"quasi-parahermitian","sw":"quasiparahermitian","translation":["拟仿埃尔米特的"],"phonetic":""}
-{"word":"quasi-parallelism","sw":"quasiparallelism","translation":["[计] 拟并行性"],"phonetic":""}
-{"word":"quasi-particle","sw":"quasiparticle","translation":["[计] 准粒子","[化] 准粒子"],"phonetic":""}
-{"word":"quasi-partner","sw":"quasipartner","translation":["[经] 准合伙人, 类似合伙人"],"phonetic":""}
-{"word":"quasi-partnership","sw":"quasipartnership","translation":["半合伙"],"phonetic":"k'wɑ:zi:p'ɑ:tnəʃɪp"}
-{"word":"quasi-partnerships","sw":"quasipartnerships","translation":["(quasi-partnership 的复数)  半合伙"],"phonetic":""}
-{"word":"quasi-peak","sw":"quasipeak","translation":["准峰值"],"phonetic":""}
-{"word":"quasi-perfect","sw":"quasiperfect","translation":["[科技] 准完备的"],"phonetic":""}
-{"word":"quasi-period","sw":"quasiperiod","translation":["准周期"],"phonetic":""}
-{"word":"quasi-periodic","sw":"quasiperiodic","translation":["准周期的"],"phonetic":""}
-{"word":"quasi-periodicities","sw":"quasiperiodicities","translation":["n. [数] 准周期，[数] 拟周期；准周期性"],"phonetic":"'kweizai,piəriə'disiti"}
-{"word":"quasi-periodicity","sw":"quasiperiodicity","translation":["拟周期;准周期性"],"phonetic":""}
-{"word":"quasi-permanent","sw":"quasipermanent","translation":["adj. [建]准永久的"],"phonetic":"k'wɑ:zi:p'ɜ:mənənt"}
-{"word":"quasi-personal","sw":"quasipersonal","translation":["[网络] 次人格的；人格"],"phonetic":""}
-{"word":"quasi-personalty","sw":"quasipersonalty","translation":["[法] 准动产"],"phonetic":""}
-{"word":"quasi-piracy","sw":"quasipiracy","translation":["[法] 准海盗行为"],"phonetic":""}
-{"word":"quasi-planar","sw":"quasiplanar","translation":["[数] 拟平面的"],"phonetic":""}
-{"word":"quasi-plane","sw":"quasiplane","translation":["拟平面"],"phonetic":""}
-{"word":"quasi-political","sw":"quasipolitical","translation":["[网络] 准政治的；准政治性"],"phonetic":""}
-{"word":"quasi-polynomial","sw":"quasipolynomial","translation":["拟多项式"],"phonetic":""}
-{"word":"quasi-possession","sw":"quasipossession","translation":["[法] 准占有"],"phonetic":""}
-{"word":"quasi-possessor","sw":"quasipossessor","translation":["[法] 准占有人"],"phonetic":""}
-{"word":"quasi-potential","sw":"quasipotential","translation":["准势"],"phonetic":""}
-{"word":"quasi-private","sw":"quasiprivate","translation":["[网络] 准私营"],"phonetic":""}
-{"word":"quasi-probability","sw":"quasiprobability","translation":["拟概率"],"phonetic":""}
-{"word":"quasi-project","sw":"quasiproject","translation":["准方案"],"phonetic":""}
-{"word":"quasi-projective","sw":"quasiprojective","translation":["拟射影的"],"phonetic":""}
-{"word":"quasi-proprietary","sw":"quasiproprietary","translation":["准所有权"],"phonetic":""}
-{"word":"quasi-propulsivecoefficient","sw":"quasipropulsivecoefficient","translation":["[网络] 准推进系数"],"phonetic":""}
-{"word":"quasi-public","sw":"quasipublic","translation":["a. 准公共性的","[法] 私有但属公共性质的, 私营公用事业的"],"phonetic":"'kwɑ:zi:'pʌblik"}
-{"word":"quasi-public-good","sw":"quasipublicgood","translation":["[网络] 准公共财；准公共产品；准公共品"],"phonetic":""}
-{"word":"quasi-publics","sw":"quasipublics","translation":["quasi-public","['kweizai'pʌblik]","adj.","(公司、企业等)私营公用事业的","准公共性的"],"phonetic":"'kweizai'pʌblik"}
-{"word":"quasi-quaternionic","sw":"quasiquaternionic","translation":["拟四元数的"],"phonetic":""}
-{"word":"quasi-racemate","sw":"quasiracemate","translation":["似外消旋物"],"phonetic":""}
-{"word":"quasi-random","sw":"quasirandom","translation":["拟随机"],"phonetic":""}
-{"word":"quasi-range","sw":"quasirange","translation":["[统计] 拟全距"],"phonetic":""}
-{"word":"quasi-ranges","sw":"quasiranges","translation":["准全距"],"phonetic":""}
-{"word":"quasi-rational","sw":"quasirational","translation":["[网络] 假性理性；理性投资人；准理性行为"],"phonetic":""}
-{"word":"quasi-real-time","sw":"quasirealtime","translation":["准实时"],"phonetic":""}
-{"word":"quasi-realistic","sw":"quasirealistic","translation":["[网络] 浸在仿实境"],"phonetic":""}
-{"word":"quasi-realtime","sw":"quasirealtime","translation":["[计] 准实时"],"phonetic":""}
-{"word":"quasi-realty","sw":"quasirealty","translation":["[法] 准不动产"],"phonetic":""}
-{"word":"quasi-reentrant","sw":"quasireentrant","translation":["[计] 拟重入"],"phonetic":""}
-{"word":"quasi-reflection","sw":"quasireflection","translation":["n. 【光学】准反射"],"phonetic":"'kweizai,ri'flekʃən"}
-{"word":"quasi-reflectoin","sw":"quasireflectoin","translation":["准反射"],"phonetic":""}
-{"word":"quasi-regular","sw":"quasiregular","translation":["[数] 拟正则的"],"phonetic":""}
-{"word":"quasi-regularity","sw":"quasiregularity","translation":["拟正则性"],"phonetic":""}
-{"word":"quasi-religion","sw":"quasireligion","translation":["拟似宗教；准宗教"],"phonetic":""}
-{"word":"quasi-religious","sw":"quasireligious","translation":["[网络] 类似宗教的；伪似宗教的；准宗教"],"phonetic":""}
-{"word":"quasi-rent","sw":"quasirent","translation":["[经] 近似租金, 准租金"],"phonetic":""}
-{"word":"quasi-rents","sw":"quasirents","translation":["(quasi-rent 的复数) [经] 近似租金, 准租金"],"phonetic":""}
-{"word":"quasi-reorganization","sw":"quasireorganization","translation":["[经] 准改组, 半改组, 假改组"],"phonetic":""}
-{"word":"quasi-reorganizations","sw":"quasireorganizations","translation":["[网络] 准重组"],"phonetic":""}
-{"word":"quasi-research","sw":"quasiresearch","translation":["[网络] 准研究"],"phonetic":""}
-{"word":"quasi-residual","sw":"quasiresidual","translation":["拟剩余的"],"phonetic":""}
-{"word":"quasi-resonance","sw":"quasiresonance","translation":["准共振"],"phonetic":""}
-{"word":"quasi-reversible","sw":"quasireversible","translation":["[数] 拟可逆的"],"phonetic":""}
-{"word":"quasi-ring","sw":"quasiring","translation":["拟环"],"phonetic":""}
-{"word":"quasi-rotation","sw":"quasirotation","translation":["拟旋转"],"phonetic":""}
-{"word":"quasi-royal","sw":"quasiroyal","translation":["[网络] 准王室"],"phonetic":""}
-{"word":"quasi-sacramental","sw":"quasisacramental","translation":["[网络] 类圣事"],"phonetic":""}
-{"word":"quasi-saturation","sw":"quasisaturation","translation":["[医]准饱和"],"phonetic":"k'wɑ:zi:sætʃər'eɪʃn"}
-{"word":"quasi-scale","sw":"quasiscale","translation":["类似量表"],"phonetic":""}
-{"word":"quasi-science","sw":"quasiscience","translation":["[网络] 准科学；伪科学；类科学"],"phonetic":""}
-{"word":"quasi-sciences","sw":"quasisciences","translation":["[网络] 准科学；伪科学；类科学","(quasi-science 的复数)"],"phonetic":""}
-{"word":"quasi-scientific","sw":"quasiscientific","translation":["[网络] 科学的"],"phonetic":""}
-{"word":"quasi-section","sw":"quasisection","translation":["准剖面"],"phonetic":""}
-{"word":"quasi-sexual","sw":"quasisexual","translation":["[网络] 准性慾"],"phonetic":""}
-{"word":"quasi-shawl","sw":"quasishawl","translation":["n. 类似围巾的东西"],"phonetic":"'kwɑ:ziʃɔ:l"}
-{"word":"quasi-shock","sw":"quasishock","translation":["准击波"],"phonetic":""}
-{"word":"quasi-simple","sw":"quasisimple","translation":["拟单的"],"phonetic":""}
-{"word":"quasi-sine-wave","sw":"quasisinewave","translation":["准正弦波"],"phonetic":""}
-{"word":"quasi-single-sideband","sw":"quasisinglesideband","translation":["[电] 类似单独边带"],"phonetic":""}
-{"word":"quasi-sinusoid","sw":"quasisinusoid","translation":["准正弦波"],"phonetic":""}
-{"word":"quasi-social","sw":"quasisocial","translation":["[网络] 准社会"],"phonetic":""}
-{"word":"quasi-socialist","sw":"quasisocialist","translation":["[网络] 半社会主义；一个半统治式"],"phonetic":""}
-{"word":"quasi-solid","sw":"quasisolid","translation":["准固体的"],"phonetic":""}
-{"word":"quasi-son-in-law","sw":"quasisoninlaw","translation":["[法] 赘婿"],"phonetic":""}
-{"word":"quasi-sovereign","sw":"quasisovereign","translation":["a. 半独立的, 半主权的","[法] 半独立的, 半主权的"],"phonetic":",kwɑ:zi'sɔvrin"}
-{"word":"quasi-sovereignty","sw":"quasisovereignty","translation":["[网络] 类主权"],"phonetic":""}
-{"word":"quasi-speech","sw":"quasispeech","translation":["类言语"],"phonetic":""}
-{"word":"quasi-spherical","sw":"quasispherical","translation":["准球形"],"phonetic":"k'wɑːziːsf'erɪkl"}
-{"word":"quasi-spiral","sw":"quasispiral","translation":["拟螺线"],"phonetic":""}
-{"word":"quasi-spiritual","sw":"quasispiritual","translation":["[网络] 精神方面的"],"phonetic":""}
-{"word":"quasi-stability","sw":"quasistability","translation":["准稳定性;似稳态"],"phonetic":""}
-{"word":"quasi-stable","sw":"quasistable","translation":["似稳定"],"phonetic":""}
-{"word":"quasi-state","sw":"quasistate","translation":["[法] 半独立国, 半主权国"],"phonetic":""}
-{"word":"quasi-states","sw":"quasistates","translation":["[网络] 准国家"],"phonetic":""}
-{"word":"quasi-static","sw":"quasistatic","translation":["准静力的，准静态的，似稳"],"phonetic":"k'wɑ:zi:st'ætɪk"}
-{"word":"quasi-statics","sw":"quasistatics","translation":["[力] 准静力学"],"phonetic":""}
-{"word":"quasi-stational","sw":"quasistational","translation":["[网络] 似稳的"],"phonetic":""}
-{"word":"quasi-stationary","sw":"quasistationary","translation":["似稳;似稳定"],"phonetic":""}
-{"word":"quasi-statistical","sw":"quasistatistical","translation":["准统计的"],"phonetic":""}
-{"word":"quasi-steady","sw":"quasisteady","translation":["准稳定的"],"phonetic":""}
-{"word":"quasi-steady-state","sw":"quasisteadystate","translation":["准稳态"],"phonetic":"k'wɑ:zi:st'edi:st'eɪt"}
-{"word":"quasi-stellar","sw":"quasistellar","translation":["adj. 【天文学】类星体的"],"phonetic":"'kweizai'stelə"}
-{"word":"quasi-stochastic","sw":"quasistochastic","translation":["拟随机"],"phonetic":""}
-{"word":"quasi-sufficiency","sw":"quasisufficiency","translation":["拟充分性"],"phonetic":""}
-{"word":"quasi-superordinate","sw":"quasisuperordinate","translation":["[网络] 准上义词"],"phonetic":""}
-{"word":"quasi-superordinates","sw":"quasisuperordinates","translation":["[网络] 准上义词","(quasi-superordinate 的复数)"],"phonetic":""}
-{"word":"quasi-symmetrical","sw":"quasisymmetrical","translation":["[数] 拟对称的"],"phonetic":""}
-{"word":"quasi-synchronization","sw":"quasisynchronization","translation":["准同步"],"phonetic":""}
-{"word":"quasi-synchronous","sw":"quasisynchronous","translation":["[计] 准同步的"],"phonetic":""}
-{"word":"quasi-synonymity","sw":"quasisynonymity","translation":["准同义性"],"phonetic":""}
-{"word":"quasi-syntactic","sw":"quasisyntactic","translation":["拟语法的"],"phonetic":"k'wɑːziːsɪnt'æktɪk"}
-{"word":"quasi-syntax","sw":"quasisyntax","translation":["[计] 拟语法"],"phonetic":""}
-{"word":"quasi-thixotropy","sw":"quasithixotropy","translation":["准触变性"],"phonetic":""}
-{"word":"quasi-tort","sw":"quasitort","translation":["[法] 准侵权行为"],"phonetic":""}
-{"word":"quasi-traditio","sw":"quasitraditio","translation":["[网络] 准交付"],"phonetic":""}
-{"word":"quasi-traditional","sw":"quasitraditional","translation":["半传统的"],"phonetic":""}
-{"word":"quasi-transcendental","sw":"quasitranscendental","translation":["[网络] 准超验；准先验；准先验的"],"phonetic":""}
-{"word":"quasi-translation","sw":"quasitranslation","translation":["拟平移"],"phonetic":""}
-{"word":"quasi-transverse","sw":"quasitransverse","translation":["准横向传播"],"phonetic":""}
-{"word":"quasi-treaties","sw":"quasitreaties","translation":["准条约","(quasi-treaty 的复数)"],"phonetic":""}
-{"word":"quasi-treaty","sw":"quasitreaty","translation":["准条约"],"phonetic":"k'wɑːziːtr'iːtɪ"}
-{"word":"quasi-trustee","sw":"quasitrustee","translation":["[法] 准信托人"],"phonetic":""}
-{"word":"quasi-two-dimensional","sw":"quasitwodimensional","translation":["[网络] 准二维"],"phonetic":""}
-{"word":"quasi-umbilical","sw":"quasiumbilical","translation":["[数] 拟脐的"],"phonetic":""}
-{"word":"quasi-unemployment","sw":"quasiunemployment","translation":["准失业"],"phonetic":""}
-{"word":"quasi-uniformity","sw":"quasiuniformity","translation":["[数] 拟一致性"],"phonetic":""}
-{"word":"quasi-unit","sw":"quasiunit","translation":["[数] 拟单位元"],"phonetic":""}
-{"word":"quasi-unitary","sw":"quasiunitary","translation":["拟酉的"],"phonetic":""}
-{"word":"quasi-universal","sw":"quasiuniversal","translation":["[网络] 大致的普遍性；近似普遍"],"phonetic":""}
-{"word":"quasi-ususfructus","sw":"quasiususfructus","translation":["[法] 准用益权"],"phonetic":""}
-{"word":"quasi-variable","sw":"quasivariable","translation":["准变量，拟变量"],"phonetic":""}
-{"word":"quasi-viscous","sw":"quasiviscous","translation":["半粘性的"],"phonetic":""}
-{"word":"quasi-wave","sw":"quasiwave","translation":["准波"],"phonetic":""}
 {"word":"quasianalytic","sw":"quasianalytic","translation":["[网络] 准分析"],"phonetic":""}
 {"word":"quasianalyticity","sw":"quasianalyticity","translation":["[网络] 拟解析性"],"phonetic":""}
 {"word":"quasianisotropy","sw":"quasianisotropy","translation":["类蛤异性"],"phonetic":"k'weɪziənɪsətrəpɪ"}
@@ -3353,7 +2590,6 @@
 {"word":"quassative","sw":"quassative","translation":["[网络] 简约的"],"phonetic":""}
 {"word":"quasses","sw":"quasses","translation":["quass","[kwɑ:s]","n.","= kvass"],"phonetic":"kwɑːs"}
 {"word":"quassia","sw":"quassia","translation":["n. 苦木科植物, 苦木浸膏","[化] 苦木"],"phonetic":"'kwɒʃiә"}
-{"word":"Quassia-wood","sw":"quassiawood","translation":["苦木"],"phonetic":""}
 {"word":"quassias","sw":"quassias","translation":["n. 【植】苦树；苦木属；苦树木料[树皮,根]；由苦树采取的苦味液","[网络] 美洲苦木；啤酒苦味剂；苦木科植物"],"phonetic":""}
 {"word":"quassiin","sw":"quassiin","translation":["牙买加苦木素"],"phonetic":""}
 {"word":"quassimarin","sw":"quassimarin","translation":["苦木苦素"],"phonetic":""}
@@ -3378,11 +2614,6 @@
 {"word":"quatek","sw":"quatek","translation":["[网络] 德技"],"phonetic":""}
 {"word":"quatenus","sw":"quatenus","translation":["[网络] 我是信徒"],"phonetic":""}
 {"word":"quater","sw":"quater","translation":["[网络] 四，四倍"],"phonetic":""}
-{"word":"quater-centenary","sw":"quatercentenary","translation":["n. 四百年祭"],"phonetic":""}
-{"word":"quater-cosin","sw":"quatercosin","translation":["[网络] 四分卫"],"phonetic":""}
-{"word":"quater-cousin","sw":"quatercousin","translation":["[网络] 四分之三表弟"],"phonetic":""}
-{"word":"quater-pierced","sw":"quaterpierced","translation":["[网络] 四分之一刺穿"],"phonetic":""}
-{"word":"quater-temper","sw":"quatertemper","translation":["[网络] 四分之一"],"phonetic":""}
 {"word":"quatercentenaries","sw":"quatercentenaries","translation":["n. 四百周年(纪念)"],"phonetic":".kwætə(r)sen'tiːnəri"}
 {"word":"quatercentenary","sw":"quatercentenary","translation":["a. 400年的,400周年纪念的"],"phonetic":", kwætәsen'ti:nәri"}
 {"word":"quatercentennial","sw":"quatercentennial","translation":["a. 400周年的,400周年纪念的"],"phonetic":",kwætәsen'teniәl,,kwei-"}
@@ -3445,22 +2676,17 @@
 {"word":"quatrain","sw":"quatrain","translation":["n. 四行诗"],"phonetic":"'kwɒtrein"}
 {"word":"quatrains","sw":"quatrains","translation":["n. 四行诗（quatrain的复数形式）"],"phonetic":""}
 {"word":"quatre","sw":"quatre","translation":["n. 四点"],"phonetic":"'kɒtә"}
-{"word":"Quatre-Bras","sw":"quatrebras","translation":["卡特布哈斯"],"phonetic":""}
-{"word":"quatre-couleur","sw":"quatrecouleur","translation":["[网络] 。re。"],"phonetic":""}
-{"word":"Quatre-foil","sw":"quatrefoil","translation":["n. 四叶片之叶；四瓣花；四叶饰"],"phonetic":"'kætrəfɒɪl"}
 {"word":"quatrefoil","sw":"quatrefoil","translation":["n. 十字花, 四小叶复叶, 四叶饰"],"phonetic":"'kætәfɒil"}
 {"word":"quatrefoils","sw":"quatrefoils","translation":["(quatrefoil 的第三人称 -s形式) n. 十字花, 四小叶复叶, 四叶饰"],"phonetic":""}
 {"word":"quatreme","sw":"quatreme","translation":["[网络] 四分之一"],"phonetic":""}
 {"word":"quatremere","sw":"quatremere","translation":["[网络] 曼尔"],"phonetic":""}
 {"word":"quatres","sw":"quatres","translation":["n. 四点"],"phonetic":"'kætrə"}
 {"word":"quatresin","sw":"quatresin","translation":["氯甲十四烷基吡啶"],"phonetic":""}
-{"word":"quatrevingt-treize","sw":"quatrevingttreize","translation":["[网络] 九三年；双雄义死录"],"phonetic":""}
 {"word":"quatrimycin","sw":"quatrimycin","translation":["差向四环素, 四-霉素"],"phonetic":",kwɔtri'maisin"}
 {"word":"quatrin","sw":"quatrin","translation":["[网络] quatrain"],"phonetic":""}
 {"word":"quatriplate","sw":"quatriplate","translation":["[网络] 五星"],"phonetic":""}
 {"word":"quatrivial","sw":"quatrivial","translation":["[网络] 。"],"phonetic":""}
 {"word":"quatro","sw":"quatro","translation":["n. =cuatro[变体]"],"phonetic":"'kwɑ:trәj"}
-{"word":"Quatro-Virelon","sw":"quatrovirelon","translation":["白喉-破伤风-百日咳-脊髓灰质炎菌苗"],"phonetic":""}
 {"word":"quatroes","sw":"quatroes","translation":["n. 四弦吉他（等于cuatro）"],"phonetic":"'kwa:trəu"}
 {"word":"quatroon","sw":"quatroon","translation":["[网络] quadroon"],"phonetic":""}
 {"word":"quatrumvirate","sw":"quatrumvirate","translation":["[网络] 藜ate"],"phonetic":""}
@@ -3503,13 +2729,9 @@
 {"word":"quaviver","sw":"quaviver","translation":["[网络] qu鱼"],"phonetic":""}
 {"word":"quavy","sw":"quavy","translation":["[网络] qu"],"phonetic":""}
 {"word":"quaw","sw":"quaw","translation":["[网络] qu"],"phonetic":""}
-{"word":"quaw-bird","sw":"quawbird","translation":["[网络] aw鸟"],"phonetic":""}
 {"word":"quawk","sw":"quawk","translation":["[网络] qu"],"phonetic":""}
 {"word":"quax","sw":"quax","translation":["[网络] 马上就会送一对袜仔"],"phonetic":""}
 {"word":"quay","sw":"quay","translation":["n. 码头, 驳岸","[经] 贴岸码头"],"phonetic":"ki:"}
-{"word":"quay-side","sw":"quayside","translation":["n. 码头周围地区"],"phonetic":"'kiːsaɪd"}
-{"word":"quay-sides","sw":"quaysides","translation":["n. 码头周围地区"],"phonetic":"'kiːsaɪd"}
-{"word":"quay-to-quay","sw":"quaytoquay","translation":["码头到码头"],"phonetic":""}
 {"word":"quayage","sw":"quayage","translation":["n. 码头税, 系船费, 码头","[经] 码头使用费"],"phonetic":"'ki:idʒ"}
 {"word":"quayages","sw":"quayages","translation":["n. 码头使用税[费]；码头空位；码头用地；一组码头","[网络] 码头地区；码头长度；码头费"],"phonetic":""}
 {"word":"quayd","sw":"quayd","translation":["[网络] 码头"],"phonetic":""}
@@ -3602,7 +2824,6 @@
 {"word":"queazy","sw":"queazy","translation":["a. 不稳的, 动荡不定的, 要呕吐的, 不舒服的, 局促不安的, 脆弱的, 挑剔的"],"phonetic":""}
 {"word":"quebas","sw":"quebas","translation":["[网络] que"],"phonetic":""}
 {"word":"quebec","sw":"quebec","translation":["n. 魁北克（加拿大港市省名）"],"phonetic":"kwi'bek"}
-{"word":"quebec-labrador","sw":"quebeclabrador","translation":["[网络] 魁北克省与拉布拉多省"],"phonetic":""}
 {"word":"Quebecer","sw":"quebecer","translation":["n. (加拿大)魁北克人[亦作 Quebecker, Québecois, Quebecois]"],"phonetic":"kwi'bekə; kə-"}
 {"word":"quebecers","sw":"quebecers","translation":["[网络] 魁北克人；魁人"],"phonetic":""}
 {"word":"Quebecism","sw":"quebecism","translation":["[网络] 魁北克主义"],"phonetic":""}
@@ -3628,9 +2849,6 @@
 {"word":"quebrachite","sw":"quebrachite","translation":["白雀醇"],"phonetic":"'keibrәkait"}
 {"word":"quebrachitol","sw":"quebrachitol","translation":["[医] 白坚木醇"],"phonetic":""}
 {"word":"quebracho","sw":"quebracho","translation":["n. 白坚木树, 红破斧木树","[医] 白坚木皮"],"phonetic":"kei'brɒtʃәu"}
-{"word":"quebracho-catechin","sw":"quebrachocatechin","translation":["白雀儿茶酸"],"phonetic":""}
-{"word":"quebracho-catechol","sw":"quebrachocatechol","translation":["白坚木儿茶酚"],"phonetic":""}
-{"word":"quebracho-extract","sw":"quebrachoextract","translation":["白坚木栲胶"],"phonetic":""}
 {"word":"Quebrachol","sw":"quebrachol","translation":["β-谷甾醇"],"phonetic":""}
 {"word":"quebrachomine","sw":"quebrachomine","translation":["白雀碱"],"phonetic":""}
 {"word":"Quebrachos","sw":"quebrachos","translation":["n. 破釜树 (Schinopsis lorentzii)","[网络] 白坚木；白雀树；罗氏破斧木"],"phonetic":""}
@@ -3671,22 +2889,6 @@
 {"word":"queel","sw":"queel","translation":["[网络] 。"],"phonetic":""}
 {"word":"queem","sw":"queem","translation":["[网络] 奇怪"],"phonetic":""}
 {"word":"queen","sw":"queen","translation":["n. 王后, 女王","vt. 立为女王","vi. 做女王"],"phonetic":"kwiːn|kwiːn"}
-{"word":"Queen-Anne","sw":"queenanne","translation":["n. 〈建〉安妮女王风格"],"phonetic":"kwi:n ˈæn"}
-{"word":"queen-bee","sw":"queenbee","translation":["蜂王；社交界女王"],"phonetic":""}
-{"word":"queen-bees","sw":"queenbees","translation":["蜂王；社交界女王"],"phonetic":""}
-{"word":"queen-cake","sw":"queencake","translation":["[网络] 放入葡萄干的蛋糕；心形的葡萄干小软饼"],"phonetic":""}
-{"word":"queen-cup","sw":"queencup","translation":["[网络] 女王杯"],"phonetic":""}
-{"word":"queen-dowager","sw":"queendowager","translation":["na. (皇)太后","[网络] 王太后；已故君王之妻；孀居的王后"],"phonetic":""}
-{"word":"queen-dowagers","sw":"queendowagers","translation":["na. (皇)太后","[网络] 王太后；已故君王之妻；孀居的王后","(queen-dowager 的复数)"],"phonetic":""}
-{"word":"queen-in-parliament","sw":"queeninparliament","translation":["[网络] 而是送呈女皇会同国会；而是送呈女王会同国会"],"phonetic":""}
-{"word":"queen-like","sw":"queenlike","translation":["adj. 女王般的"],"phonetic":"'kwi:nlaik"}
-{"word":"queen-mother","sw":"queenmother","translation":["na. (皇)太后；(生有太子或公主的)现任女王","[网络] 母后"],"phonetic":""}
-{"word":"queen-mothers","sw":"queenmothers","translation":["n. 太后；母后；皇太后"],"phonetic":""}
-{"word":"queen-post","sw":"queenpost","translation":["na. 【建】双柱架","[网络] 双支撑构桁；柱木椼架"],"phonetic":""}
-{"word":"queen-size","sw":"queensize","translation":["a. 大号的"],"phonetic":""}
-{"word":"queen-sized","sw":"queensized","translation":["a. [美国英语]；大号的(仅次于特大号)"],"phonetic":"'kwi:nsaiz"}
-{"word":"queen-sizer","sw":"queensizer","translation":["adj. [美国英语]；大号的(仅次于特大号)"],"phonetic":"'kwi:nsaiz"}
-{"word":"queen-sizest","sw":"queensizest","translation":["adj. [美国英语]；大号的(仅次于特大号)"],"phonetic":"'kwi:nsaiz"}
 {"word":"queena","sw":"queena","translation":["n. 昆娜（女子名）"],"phonetic":""}
 {"word":"queenan","sw":"queenan","translation":["[网络] 昆南；奎恩"],"phonetic":""}
 {"word":"Queenborough","sw":"queenborough","translation":["[地名] 昆伯勒 ( 英 )"],"phonetic":""}
@@ -3776,15 +2978,6 @@
 {"word":"queeps","sw":"queeps","translation":["[网络] 颤抖"],"phonetic":""}
 {"word":"queequeg","sw":"queequeg","translation":["[网络] 魁魁格；奎奎格；奎克革"],"phonetic":""}
 {"word":"queer","sw":"queer","translation":["n. 怪人, 同性恋者","a. 奇怪的, 不舒服的, 可疑的","vt. 搞糟"],"phonetic":"kwɪə(r)|kwɪr"}
-{"word":"queer-baiting","sw":"queerbaiting","translation":["[网络] 奇怪的诱饵"],"phonetic":""}
-{"word":"queer-bash","sw":"queerbash","translation":[],"phonetic":""}
-{"word":"queer-bashing","sw":"queerbashing","translation":["[网络] 酷儿的攻击；酷儿打压"],"phonetic":""}
-{"word":"queer-bashings","sw":"queerbashings","translation":["[网络] 酷儿的攻击；酷儿打压","(queer-bashing 的复数)"],"phonetic":""}
-{"word":"queer-beer","sw":"queerbeer","translation":["n. 劣质啤酒；酒精度低的啤酒；adj"],"phonetic":"k'wiərb'iər"}
-{"word":"queer-eye","sw":"queereye","translation":[],"phonetic":""}
-{"word":"queer-eyed","sw":"queereyed","translation":[],"phonetic":""}
-{"word":"queer-eyes","sw":"queereyes","translation":[],"phonetic":""}
-{"word":"queer-looking","sw":"queerlooking","translation":["怪模怪样的；怪模怪样"],"phonetic":"kwiə ˈlukiŋ"}
 {"word":"queerbait","sw":"queerbait","translation":["[网络] 奇怪的"],"phonetic":""}
 {"word":"queerbaiting","sw":"queerbaiting","translation":["[网络] 奇怪的"],"phonetic":""}
 {"word":"queercore","sw":"queercore","translation":["n. 同性恋核"],"phonetic":"'kwiəkɔ:"}
@@ -3862,7 +3055,6 @@
 {"word":"queken","sw":"queken","translation":["[网络] 奎因"],"phonetic":""}
 {"word":"quel","sw":"quel","translation":["n. [医]嘧啶醇；植物生长抑制剂嘧啶醇"],"phonetic":""}
 {"word":"Quela","sw":"quela","translation":["[地名] 凯拉 ( 安哥 )"],"phonetic":""}
-{"word":"Quelaines-St-Gault","sw":"quelainesstgault","translation":["[地名] 克莱讷-圣戈 ( 法 )"],"phonetic":""}
 {"word":"Quelamycin","sw":"quelamycin","translation":["三铁阿霉素"],"phonetic":""}
 {"word":"quelbe","sw":"quelbe","translation":["[网络] 夸贝"],"phonetic":""}
 {"word":"quelch","sw":"quelch","translation":["[网络] 奎尔奇；奎尔克"],"phonetic":""}
@@ -3878,7 +3070,6 @@
 {"word":"Quelicin","sw":"quelicin","translation":["琥珀胆碱制剂的商品名"],"phonetic":""}
 {"word":"Quelimane","sw":"quelimane","translation":["克利马内(莫桑比克东部港市)"],"phonetic":",kili'mɑ:ni"}
 {"word":"Quelite","sw":"quelite","translation":["[地名] 克利特 ( 墨 )"],"phonetic":""}
-{"word":"quelk-chose","sw":"quelkchose","translation":["[网络] quelk选择"],"phonetic":""}
 {"word":"quell","sw":"quell","translation":["vt. 压制, 平息, 减轻"],"phonetic":"kwel"}
 {"word":"quella","sw":"quella","translation":["[地名] [智利] 克亚"],"phonetic":""}
 {"word":"quellable","sw":"quellable","translation":["可平定的"],"phonetic":""}
@@ -3906,7 +3097,6 @@
 {"word":"Quelo","sw":"quelo","translation":["[地名] 凯洛 ( 安哥 )"],"phonetic":""}
 {"word":"queloz","sw":"queloz","translation":["奎洛兹"],"phonetic":""}
 {"word":"quelpart","sw":"quelpart","translation":["[网络] 济州岛"],"phonetic":""}
-{"word":"quelque-chose","sw":"quelquechose","translation":["na. 〈外〉小事","[网络] 琐事"],"phonetic":""}
 {"word":"quelquechose","sw":"quelquechose","translation":["na. 〈外〉小事"],"phonetic":""}
 {"word":"quels","sw":"quels","translation":["[网络] qu"],"phonetic":""}
 {"word":"quelt","sw":"quelt","translation":["[网络] 遗憾"],"phonetic":""}
@@ -3934,12 +3124,6 @@
 {"word":"Quenamari","sw":"quenamari","translation":["[地名] 克纳马里 ( 玻 )"],"phonetic":""}
 {"word":"quence","sw":"quence","translation":["[网络] 昆斯"],"phonetic":""}
 {"word":"quench","sw":"quench","translation":["vt. 熄灭, 结束, 使冷却, 将...淬火","vi. 熄灭, 平息"],"phonetic":"kwentʃ|kwentʃ"}
-{"word":"quench-aging","sw":"quenchaging","translation":["冷淬时效;马氏体时效处理"],"phonetic":""}
-{"word":"quench-annealing","sw":"quenchannealing","translation":["淬火韧化"],"phonetic":""}
-{"word":"quench-coal","sw":"quenchcoal","translation":["[网络] 淬火煤"],"phonetic":""}
-{"word":"quench-fire","sw":"quenchfire","translation":["[网络] 淬火"],"phonetic":""}
-{"word":"quench-harden","sw":"quenchharden","translation":["vt. 【冶金学】把…淬火；使…淬硬"],"phonetic":"'kwentʃ,hɑ:dn"}
-{"word":"quench-hardening","sw":"quenchhardening","translation":["淬硬;急冷硬化"],"phonetic":""}
 {"word":"quenchable","sw":"quenchable","translation":["a. 可熄灭的, 可冷却的, 可压制的"],"phonetic":""}
 {"word":"quenchaging","sw":"quenchaging","translation":["un. 淬火时效；固溶后的时效硬化处理"],"phonetic":""}
 {"word":"quenchant","sw":"quenchant","translation":["淬火介质"],"phonetic":""}
@@ -4017,7 +3201,6 @@
 {"word":"quercetagitrin","sw":"quercetagitrin","translation":["槲皮万寿菊苷"],"phonetic":""}
 {"word":"quercetic","sw":"quercetic","translation":["adj. 栎精的"],"phonetic":"kwə'siːtɪk"}
 {"word":"quercetin","sw":"quercetin","translation":["n. 槲皮苷","[化] 栎精酸; 栎精"],"phonetic":"'kwә:sitin"}
-{"word":"quercetin-bioside","sw":"quercetinbioside","translation":["槲皮素二糖甙"],"phonetic":""}
 {"word":"quercetinase","sw":"quercetinase","translation":["栎皮黄酮酶"],"phonetic":""}
 {"word":"quercetine","sw":"quercetine","translation":["[网络] 檞皮黄素"],"phonetic":""}
 {"word":"quercetins","sw":"quercetins","translation":["[网络] 槲皮素苷"],"phonetic":""}
@@ -4103,8 +3286,6 @@
 {"word":"querier","sw":"querier","translation":["n. 查询器"],"phonetic":""}
 {"word":"queriers","sw":"queriers","translation":["[网络] 查询器"],"phonetic":""}
 {"word":"queries","sw":"queries","translation":["n. 问题；怀疑；问号（query的复数形式）"],"phonetic":""}
-{"word":"queries-by-example","sw":"queriesbyexample","translation":["实例查询","(query-by-example 的复数)"],"phonetic":""}
-{"word":"queries-per-second","sw":"queriespersecond","translation":["[网络] 每秒查询数"],"phonetic":""}
 {"word":"queriest","sw":"queriest","translation":["[网络] 最奇怪"],"phonetic":""}
 {"word":"querieth","sw":"querieth","translation":["[网络] 第五十"],"phonetic":""}
 {"word":"querimonies","sw":"querimonies","translation":["n. 埋怨；怨言"],"phonetic":"'kwɪrɪ,moni"}
@@ -4126,7 +3307,6 @@
 {"word":"querl","sw":"querl","translation":["[网络] 查尔斯"],"phonetic":""}
 {"word":"quermassintegrals","sw":"quermassintegrals","translation":["[网络] 粗麻布"],"phonetic":""}
 {"word":"quern","sw":"quern","translation":["n. 手推石磨"],"phonetic":"kwә:n"}
-{"word":"quern-stone","sw":"quernstone","translation":["un. 磨石"],"phonetic":""}
 {"word":"quernal","sw":"quernal","translation":["[网络] 春季"],"phonetic":""}
 {"word":"querned","sw":"querned","translation":["quern","[kwə:n]","n.","(小型)手推磨(原指碾磨粮食的手工磨)"],"phonetic":"kwɜːn"}
 {"word":"querner","sw":"querner","translation":["[网络] 查询者"],"phonetic":""}
@@ -4167,15 +3347,12 @@
 {"word":"Quervain","sw":"quervain","translation":["凯文"],"phonetic":""}
 {"word":"Querwellen","sw":"querwellen","translation":["勒夫波"],"phonetic":""}
 {"word":"query","sw":"query","translation":["n. 疑问, 疑问号, 质问, 查询","v. 询问, 质问","[计] 查询"],"phonetic":"ˈkwɪəri|ˈkwɪri"}
-{"word":"query-by-example","sw":"querybyexample","translation":["实例查询"],"phonetic":""}
 {"word":"queryable","sw":"queryable","translation":["[网络] 可查询；可搜寻；属性查询"],"phonetic":""}
 {"word":"querying","sw":"querying","translation":["[计] 询问"],"phonetic":""}
 {"word":"queryingly","sw":"queryingly","translation":["[网络] 询问"],"phonetic":""}
 {"word":"queryings","sw":"queryings","translation":["[网络] 查询"],"phonetic":""}
 {"word":"querystring","sw":"querystring","translation":["n. 查询字符串；参数；字串；属性；变量的名称"],"phonetic":""}
 {"word":"ques","sw":"ques","translation":["(que 的复数) n. 队列"],"phonetic":""}
-{"word":"ques-tion","sw":"question","translation":["[网络] 快是-军；关键部分提出问题"],"phonetic":""}
-{"word":"ques-tions","sw":"questions","translation":["n. [数] 问题（question的复数）","v. 质疑（question的第三人称单数形式）"],"phonetic":"'kwestʃənz"}
 {"word":"Quesa","sw":"quesa","translation":["[地名] 克萨 ( 西 )"],"phonetic":""}
 {"word":"quesada","sw":"quesada","translation":["[人名] 克萨达; [地名] [哥斯达黎加、古巴、危地马拉、西班牙] 克萨达"],"phonetic":""}
 {"word":"quesadilla","sw":"quesadilla","translation":["n. 油炸玉米粉饼(一种墨西哥食品,以干酪等为馅)"],"phonetic":",keisә'di:jә"}
@@ -4196,8 +3373,6 @@
 {"word":"quessenberry","sw":"quessenberry","translation":["[网络] 雪松"],"phonetic":""}
 {"word":"Quessoy","sw":"quessoy","translation":["[地名] 凯苏瓦 ( 法 )"],"phonetic":""}
 {"word":"quest","sw":"quest","translation":["n. 探索, 寻求, 调查","v. 寻找, 找, 追寻猎物"],"phonetic":"kwest|kwest"}
-{"word":"quest-house","sw":"questhouse","translation":["[网络] 任务室"],"phonetic":""}
-{"word":"quest-romance","sw":"questromance","translation":["[网络] 探索传奇"],"phonetic":""}
 {"word":"questa","sw":"questa","translation":["[网络] 搜索者；奎斯塔；昆斯塔"],"phonetic":""}
 {"word":"questane","sw":"questane","translation":["[网络] 任务"],"phonetic":""}
 {"word":"questant","sw":"questant","translation":["[网络] 求职者"],"phonetic":""}
@@ -4225,23 +3400,6 @@
 {"word":"questio","sw":"questio","translation":["[网络] 审问处"],"phonetic":""}
 {"word":"questiomycin","sw":"questiomycin","translation":["寻霉素"],"phonetic":"kwestʃiә'maisin"}
 {"word":"question","sw":"question","translation":["n. 问题, 询问","v. 询问, 审问, 怀疑","[计] 询问"],"phonetic":"ˈkwestʃən|ˈkwestʃən"}
-{"word":"question-and-answer","sw":"questionandanswer","translation":["n. 问答题","[网络] 一问一答；回答；问与答"],"phonetic":""}
-{"word":"question-and-answers","sw":"questionandanswers","translation":["[网络] 神童问与答；问题与解答"],"phonetic":""}
-{"word":"question-answer","sw":"questionanswer","translation":["n. 问题的回答","[网络] 问题答案型；问答法；提问答疑"],"phonetic":""}
-{"word":"question-answering","sw":"questionanswering","translation":["[网络] 问答"],"phonetic":""}
-{"word":"question-answerings","sw":"questionanswerings","translation":["[网络] 问答","(question-answering 的复数)"],"phonetic":""}
-{"word":"question-answers","sw":"questionanswers","translation":["n. 问题的回答","[网络] 问题答案型；问答法；提问答疑","(question-answer 的复数)"],"phonetic":""}
-{"word":"question-asking","sw":"questionasking","translation":["提问"],"phonetic":""}
-{"word":"question-begging","sw":"questionbegging","translation":["[网络] 乞辞术；丐题；问题"],"phonetic":""}
-{"word":"question-beggings","sw":"questionbeggings","translation":["n. 诉诸问题"],"phonetic":"'kwestʃən,beɡiŋ"}
-{"word":"question-mark","sw":"questionmark","translation":["问号","不确定性"],"phonetic":""}
-{"word":"question-marks","sw":"questionmarks","translation":["(question-mark 的复数) 问号","不确定性"],"phonetic":""}
-{"word":"question-master","sw":"questionmaster","translation":["n. 问答节目的主持人"],"phonetic":""}
-{"word":"question-masters","sw":"questionmasters","translation":["n. 主持人, 发问者"],"phonetic":""}
-{"word":"question-tag","sw":"questiontag","translation":["n. 疑问句尾；附加疑问句"],"phonetic":""}
-{"word":"question-tags","sw":"questiontags","translation":["(question-tag 的复数) n. 疑问句尾；附加疑问句"],"phonetic":""}
-{"word":"question-time","sw":"questiontime","translation":["质询时间（英国议会中大臣答复议员所提问题的时候）"],"phonetic":""}
-{"word":"question-times","sw":"questiontimes","translation":["(question-time 的复数) 质询时间（英国议会中大臣答复议员所提问题的时候）"],"phonetic":""}
 {"word":"questionability","sw":"questionability","translation":["可疑性"],"phonetic":""}
 {"word":"questionable","sw":"questionable","translation":["a. 可疑的","[法] 可疑的, 有问题的, 不可靠的"],"phonetic":"'kwestʃәnәbl"}
 {"word":"questionableness","sw":"questionableness","translation":["n. questionable的变形"],"phonetic":""}
@@ -4272,7 +3430,6 @@
 {"word":"questionmaster","sw":"questionmaster","translation":["n. 智力测验节目主持人"],"phonetic":""}
 {"word":"questionmasters","sw":"questionmasters","translation":["(questionmaster 的复数) n. 智力测验节目主持人"],"phonetic":""}
 {"word":"questionnaire","sw":"questionnaire","translation":["n. 调查表, 问卷","[经] 调查表"],"phonetic":"ˌkwestʃəˈneə(r)|ˌkwestʃəˈner"}
-{"word":"Questionnaire-method","sw":"questionnairemethod","translation":["问卷法"],"phonetic":""}
 {"word":"questionnaired","sw":"questionnaired","translation":["[网络] 问答"],"phonetic":""}
 {"word":"questionnairemethod","sw":"questionnairemethod","translation":["问卷研究法"],"phonetic":""}
 {"word":"questionnaires","sw":"questionnaires","translation":["n. 调查表, 问卷( questionnaire的复数形式 )"],"phonetic":"ˌkwestiəˈnɛəz"}
@@ -4338,7 +3495,6 @@
 {"word":"quettas","sw":"quettas","translation":["Quetta","['kwetə]","基达(巴基斯坦俾路支省首府)"],"phonetic":"'kwetə"}
 {"word":"Quettehou","sw":"quettehou","translation":["[地名] 凯特乌 ( 法 )"],"phonetic":""}
 {"word":"Quetteville","sw":"quetteville","translation":["[地名] 凯特维尔 ( 法 )"],"phonetic":""}
-{"word":"Quettreville-sur-Sienne","sw":"quettrevillesursienne","translation":["[地名] 谢讷河畔凯特尔维尔 ( 法 )"],"phonetic":""}
 {"word":"quetzal","sw":"quetzal","translation":["n. 绿咬鹃, 格查尔(危地马拉货币)"],"phonetic":"ket'sɑ:l, 'ketsәl"}
 {"word":"Quetzalapa","sw":"quetzalapa","translation":["奎札拉帕"],"phonetic":""}
 {"word":"Quetzalcoatl","sw":"quetzalcoatl","translation":["n. 羽蛇神(古代墨西哥阿兹特克人与托尔特克人崇奉的重要神袛)"],"phonetic":"ket,sɑ:lkә(u)'ɑ:tl"}
@@ -4355,13 +3511,6 @@
 {"word":"Queuco","sw":"queuco","translation":["[地名] 克乌科 ( 智 )"],"phonetic":""}
 {"word":"Queudes","sw":"queudes","translation":["[网络] 排队"],"phonetic":""}
 {"word":"queue","sw":"queue","translation":["n. 辫子, 一队人, 队列","vt. 使排队, 将...梳成辫子","vi. 排队","[计] 队列"],"phonetic":"kjuː|kjuː"}
-{"word":"queue-jump","sw":"queuejump","translation":["v. 〈英〉插队,加塞儿"],"phonetic":""}
-{"word":"queue-jumped","sw":"queuejumped","translation":["[网络] 插队；加塞儿"],"phonetic":""}
-{"word":"queue-jumper","sw":"queuejumper","translation":["n. 插队的人,加塞儿的人"],"phonetic":""}
-{"word":"queue-jumping","sw":"queuejumping","translation":["n. 插队；加塞儿"],"phonetic":""}
-{"word":"queue-jumpings","sw":"queuejumpings","translation":["vi. （英）加塞儿；插队"],"phonetic":"'kju:,dʒʌmp"}
-{"word":"queue-jumps","sw":"queuejumps","translation":["[网络] 插队；加塞儿"],"phonetic":""}
-{"word":"queue-oriented","sw":"queueoriented","translation":["[计] 面向队列的"],"phonetic":""}
 {"word":"queueable","sw":"queueable","translation":["[网络] 可排队"],"phonetic":""}
 {"word":"queued","sw":"queued","translation":["v. （人、车等）排队等候( queue的过去式和过去分词 ); （使）排队, 列队等待"],"phonetic":"kju:d"}
 {"word":"queueed","sw":"queueed","translation":["n. 辫子, 一队人, 队列","vt. 使排队, 将...梳成辫子","vi. 排队","[计] 队列"],"phonetic":""}
@@ -4425,10 +3574,6 @@
 {"word":"Quhistan","sw":"quhistan","translation":["[网络] 库希斯坦"],"phonetic":""}
 {"word":"quhow","sw":"quhow","translation":["[网络] qu"],"phonetic":""}
 {"word":"qui","sw":"qui","translation":["abbr. 定量超声指数（Quantitative Ultrasound Index）；门控；速度"],"phonetic":""}
-{"word":"qui-etly","sw":"quietly","translation":["adv. 安静地；秘密地；平稳地"],"phonetic":"ˈkwaɪətli"}
-{"word":"qui-gon","sw":"quigon","translation":["奎刚"],"phonetic":""}
-{"word":"qui-hi","sw":"quihi","translation":["[网络] 嗨嗨"],"phonetic":""}
-{"word":"Qui-Lea","sw":"quilea","translation":["炔雌醚,炔雌醇环戊醚,环戊炔雌醇,3-环戊醚雌二醇"],"phonetic":""}
 {"word":"quia","sw":"quia","translation":["[网络] 规那；骷；既然如此"],"phonetic":""}
 {"word":"Quiabentia","sw":"quiabentia","translation":["[网络] 顶花麒麟掌属"],"phonetic":""}
 {"word":"Quiacrin","sw":"quiacrin","translation":["阿的平"],"phonetic":""}
@@ -4480,140 +3625,11 @@
 {"word":"quich","sw":"quich","translation":["abbr. Quichua 盖丘亚族（南美印第安人的一大分支）, 盖丘亚族人"],"phonetic":""}
 {"word":"QUICHA","sw":"quicha","translation":["[=quantitative inhalation challenge apparatus]定量吸入调节装置"],"phonetic":""}
 {"word":"quiche","sw":"quiche","translation":["n. 乳蛋饼"],"phonetic":"ki:ʃ"}
-{"word":"quiche-eater","sw":"quicheeater","translation":["n. [美国俚语]；带有女人气的男人；同性恋者；卑鄙的家伙"],"phonetic":"'ki:ʃ'i:tə"}
 {"word":"quichelike","sw":"quichelike","translation":["[网络] 乳酪状"],"phonetic":""}
 {"word":"quiches","sw":"quiches","translation":["n. 乳蛋饼( quiche的复数形式 )"],"phonetic":"ki:ʃiz"}
 {"word":"quichua","sw":"quichua","translation":["n. 盖丘亚族（南美印第安人的一大分支）盖丘亚族人[语]"],"phonetic":"'kitʃwә"}
 {"word":"Quichuan","sw":"quichuan","translation":["[网络] 川川"],"phonetic":""}
 {"word":"quick","sw":"quick","translation":["a. 快的, 迅速的, 敏捷的, 灵敏的, 急速的","adv. 快","n. 新长出的肉, 要害, 核心, 感觉敏锐部位"],"phonetic":"kwɪk|kwɪk"}
-{"word":"quick-access","sw":"quickaccess","translation":["快速存取"],"phonetic":"k'wɪk'ækses"}
-{"word":"quick-acting","sw":"quickacting","translation":["a. 速效的"],"phonetic":""}
-{"word":"quick-actings","sw":"quickactings","translation":["a. 速效的","(quick-acting 的复数)"],"phonetic":""}
-{"word":"quick-action","sw":"quickaction","translation":["速动"],"phonetic":""}
-{"word":"quick-adjusting","sw":"quickadjusting","translation":["快速调整"],"phonetic":""}
-{"word":"quick-ageing","sw":"quickageing","translation":["[网络] 快速陈化"],"phonetic":""}
-{"word":"quick-and-dirties","sw":"quickanddirties","translation":["[网络] 快速而又脏的"],"phonetic":""}
-{"word":"quick-and-dirty","sw":"quickanddirty","translation":["n. 快餐部"],"phonetic":"'kwikәn'd\\\\:ti"}
-{"word":"quick-and-easy","sw":"quickandeasy","translation":["[网络] 快速上手塔罗牌；快捷；方便快捷"],"phonetic":""}
-{"word":"quick-assembly","sw":"quickassembly","translation":["[网络] 快速封装"],"phonetic":""}
-{"word":"quick-bar","sw":"quickbar","translation":["[网络] 快餐柜台"],"phonetic":""}
-{"word":"quick-blow","sw":"quickblow","translation":["急速冲击"],"phonetic":""}
-{"word":"quick-break","sw":"quickbreak","translation":["[电] 急断"],"phonetic":"'kwik'brek"}
-{"word":"quick-breaker","sw":"quickbreaker","translation":["高速断路器"],"phonetic":""}
-{"word":"quick-buck","sw":"quickbuck","translation":["容易到手的钱"],"phonetic":""}
-{"word":"quick-change","sw":"quickchange","translation":["a. 速变的"],"phonetic":""}
-{"word":"quick-changer","sw":"quickchanger","translation":["adj. (演员等)换装迅速的；(零件等)可迅速更换的"],"phonetic":"'kwik'tʃeindʒ"}
-{"word":"quick-changes","sw":"quickchanges","translation":["(quick-change 的复数) a. 速变的"],"phonetic":""}
-{"word":"quick-changest","sw":"quickchangest","translation":["adj. (演员等)换装迅速的；(零件等)可迅速更换的"],"phonetic":"'kwik'tʃeindʒ"}
-{"word":"quick-changing","sw":"quickchanging","translation":["速变"],"phonetic":"k'wɪktʃ'eɪndʒɪŋ"}
-{"word":"quick-changings","sw":"quickchangings","translation":["速变","(quick-changing 的复数)"],"phonetic":""}
-{"word":"quick-chaws","sw":"quickchaws","translation":["[网络] 快手"],"phonetic":""}
-{"word":"quick-condition","sw":"quickcondition","translation":["流沙状况；流砂条件"],"phonetic":""}
-{"word":"quick-connect","sw":"quickconnect","translation":["[网络] 安装迅速"],"phonetic":""}
-{"word":"quick-cook","sw":"quickcook","translation":["[网络] 快速厨师；小把快熟"],"phonetic":""}
-{"word":"quick-cooking","sw":"quickcooking","translation":["un. 快速蒸煮","[网络] 速煮"],"phonetic":""}
-{"word":"quick-cut","sw":"quickcut","translation":["[网络] 快切；快照；快速单剪"],"phonetic":""}
-{"word":"quick-cutting","sw":"quickcutting","translation":["高速切削"],"phonetic":"k'wɪkk'ʌtɪŋ"}
-{"word":"quick-delivery","sw":"quickdelivery","translation":["[网络] 快速运输；快速交货；很快出货"],"phonetic":""}
-{"word":"quick-detachable","sw":"quickdetachable","translation":["可迅速拆卸"],"phonetic":""}
-{"word":"quick-disconnect","sw":"quickdisconnect","translation":["[电] 急分离"],"phonetic":""}
-{"word":"quick-dissolving","sw":"quickdissolving","translation":["速溶的"],"phonetic":""}
-{"word":"quick-draw","sw":"quickdraw","translation":["[网络] 快速推断；快挂"],"phonetic":""}
-{"word":"quick-draws","sw":"quickdraws","translation":["[网络] 快扣；快挂"],"phonetic":""}
-{"word":"quick-drier","sw":"quickdrier","translation":["[网络] 吸湿速干；速干衣","(quick-dry 的比较级)"],"phonetic":""}
-{"word":"quick-driest","sw":"quickdriest","translation":["[网络] 吸湿速干；速干衣","(quick-dry 的最高级)"],"phonetic":""}
-{"word":"quick-dry","sw":"quickdry","translation":["[网络] 吸湿速干；速干衣"],"phonetic":""}
-{"word":"quick-drying","sw":"quickdrying","translation":["快干"],"phonetic":"k'wɪkdr'aɪɪŋ"}
-{"word":"quick-dryings","sw":"quickdryings","translation":["快干"],"phonetic":""}
-{"word":"quick-eared","sw":"quickeared","translation":["a. 听觉灵敏的"],"phonetic":""}
-{"word":"quick-edit","sw":"quickedit","translation":["[网络] 快速编辑"],"phonetic":""}
-{"word":"quick-energy","sw":"quickenergy","translation":["[网络] 通力电梯用电量计算工具"],"phonetic":""}
-{"word":"quick-eyed","sw":"quickeyed","translation":["a. 眼睛尖的"],"phonetic":""}
-{"word":"quick-fire","sw":"quickfire","translation":["a. 急射的, 速射的"],"phonetic":""}
-{"word":"quick-firer","sw":"quickfirer","translation":["n. 速射枪"],"phonetic":""}
-{"word":"quick-fires","sw":"quickfires","translation":["quick-fire","['kwik,faiə]","adj.","速射的[亦作 quick-firing]"],"phonetic":"'kwik,faiə"}
-{"word":"quick-firing","sw":"quickfiring","translation":["a. 急射的, 速射的"],"phonetic":""}
-{"word":"quick-firings","sw":"quickfirings","translation":["a. 急射的, 速射的","(quick-firing 的复数)"],"phonetic":""}
-{"word":"quick-fix","sw":"quickfix","translation":["n. 权宜之计","[网络] 快速治疗者；快速答案；速效办法"],"phonetic":""}
-{"word":"quick-fixes","sw":"quickfixes","translation":["n. 权宜之计","[网络] 快速修复；快速到位；快速解决方案"],"phonetic":""}
-{"word":"quick-freeze","sw":"quickfreeze","translation":["vt. 使速冻"],"phonetic":""}
-{"word":"quick-freezed","sw":"quickfreezed","translation":["adj. 速冻的"],"phonetic":""}
-{"word":"quick-freezes","sw":"quickfreezes","translation":["v. 使急速冷冻( quick-freeze的第三人称单数 )"],"phonetic":""}
-{"word":"quick-freezing","sw":"quickfreezing","translation":["v. 使急速冷冻( quick-freeze的现在分词 )"],"phonetic":"kwik ˈfri:ziŋ"}
-{"word":"quick-froze","sw":"quickfroze","translation":["v. 使急速冷冻( quick-freeze的过去式 )"],"phonetic":"kwik frəuz"}
-{"word":"quick-frozen","sw":"quickfrozen","translation":["使急速冷冻( quick-freeze的过去分词 ); [医]迅速冷冻的"],"phonetic":"kwik ˈfrəʊzən"}
-{"word":"quick-grass","sw":"quickgrass","translation":["na. (长得极快的)鹅观草","[网络] 青草"],"phonetic":""}
-{"word":"quick-growing","sw":"quickgrowing","translation":["生长迅速的"],"phonetic":"k'wɪkɡr'əʊɪŋ"}
-{"word":"quick-growings","sw":"quickgrowings","translation":["生长迅速的","(quick-growing 的复数)"],"phonetic":""}
-{"word":"quick-handed","sw":"quickhanded","translation":["[网络] 快手快脚的"],"phonetic":""}
-{"word":"quick-handedness","sw":"quickhandedness","translation":["[网络] 快速的"],"phonetic":""}
-{"word":"quick-hardening","sw":"quickhardening","translation":["快速硬化"],"phonetic":""}
-{"word":"quick-hedge","sw":"quickhedge","translation":["树篱"],"phonetic":""}
-{"word":"quick-hit","sw":"quickhit","translation":["[网络] 快速打击"],"phonetic":""}
-{"word":"quick-hitting","sw":"quickhitting","translation":["n. 【橄榄球】快速击球"],"phonetic":"'kwik'hitiŋ"}
-{"word":"Quick-K","sw":"quickk","translation":["碳酸氢钾片剂"],"phonetic":""}
-{"word":"quick-line","sw":"quickline","translation":["[网络] 加压水带线"],"phonetic":""}
-{"word":"quick-look","sw":"quicklook","translation":["n. 快速检查；初步试验；初步评定 [亦作quick look]"],"phonetic":"'kwik'luk"}
-{"word":"quick-lunch","sw":"quicklunch","translation":["n. 快餐"],"phonetic":""}
-{"word":"quick-make","sw":"quickmake","translation":["[电] 急造"],"phonetic":""}
-{"word":"quick-march","sw":"quickmarch","translation":["齐步行进"],"phonetic":""}
-{"word":"quick-match","sw":"quickmatch","translation":["un. 速燃导火索","[网络] 快速配对；快速比赛；速燃引信头"],"phonetic":""}
-{"word":"quick-minded","sw":"quickminded","translation":["a. 头脑敏捷的"],"phonetic":""}
-{"word":"quick-mix","sw":"quickmix","translation":["n. 市场上作料已经调配现成只待烹熟的速食品"],"phonetic":""}
-{"word":"quick-mounting","sw":"quickmounting","translation":["速装"],"phonetic":""}
-{"word":"quick-moving","sw":"quickmoving","translation":["un. 迅速动作","[网络] 动作迅速"],"phonetic":""}
-{"word":"quick-movings","sw":"quickmovings","translation":["un. 迅速动作","[网络] 动作迅速","(quick-moving 的复数)"],"phonetic":""}
-{"word":"quick-operating","sw":"quickoperating","translation":["[计] 快速操作"],"phonetic":""}
-{"word":"quick-over","sw":"quickover","translation":["n. 迅速打量"],"phonetic":"'kwik'əuvə"}
-{"word":"quick-quick","sw":"quickquick","translation":["[网络] 快点快点；大牌；快捷导航"],"phonetic":""}
-{"word":"quick-reaction","sw":"quickreaction","translation":["un. 快速反应","[网络] 一个士兵的快速反应；机智的反应；立即反应"],"phonetic":""}
-{"word":"quick-reactions","sw":"quickreactions","translation":["un. 快速反应","[网络] 一个士兵的快速反应；机智的反应；立即反应","(quick-reaction 的复数)"],"phonetic":""}
-{"word":"quick-reference","sw":"quickreference","translation":["n. 快速索引","[网络] 快速参考；快速查询；快速参阅"],"phonetic":""}
-{"word":"quick-references","sw":"quickreferences","translation":["[网络] 快捷参考"],"phonetic":""}
-{"word":"quick-release","sw":"quickrelease","translation":["速释"],"phonetic":"k'wɪkrɪl'i:s"}
-{"word":"quick-releases","sw":"quickreleases","translation":["[网络] 快卸"],"phonetic":""}
-{"word":"quick-replaceable","sw":"quickreplaceable","translation":["快速更换的"],"phonetic":""}
-{"word":"quick-response","sw":"quickresponse","translation":["快速反应，快速响应，灵敏"],"phonetic":"k'wɪkrɪsp'ɒns"}
-{"word":"quick-responses","sw":"quickresponses","translation":["quick-response","['kwikri'spɔns]","adj.","快速反应的，灵敏的"],"phonetic":"'kwikri'spɔns"}
-{"word":"quick-return","sw":"quickreturn","translation":["快速返回;快速回行"],"phonetic":""}
-{"word":"quick-rising","sw":"quickrising","translation":["un. 速浮","[网络] 干酵母"],"phonetic":""}
-{"word":"quick-sand","sw":"quicksand","translation":["流砂"],"phonetic":""}
-{"word":"quick-service","sw":"quickservice","translation":["n. 快修","[网络] 特快服务；快餐；速食连锁"],"phonetic":""}
-{"word":"quick-services","sw":"quickservices","translation":["n. 快修","[网络] 特快服务；快餐；速食连锁","(quick-service 的复数)"],"phonetic":""}
-{"word":"quick-set","sw":"quickset","translation":["快凝"],"phonetic":""}
-{"word":"quick-setting","sw":"quicksetting","translation":["n. 快凝","[网络] 快速凝固的；早凝的"],"phonetic":""}
-{"word":"quick-setup","sw":"quicksetup","translation":["[网络] 快速设置；快速设定；快速安装"],"phonetic":""}
-{"word":"quick-sighted","sw":"quicksighted","translation":["a. 目光灵敏的, 眼力锐利的, 慧眼的"],"phonetic":""}
-{"word":"quick-silve","sw":"quicksilve","translation":["汞,水银"],"phonetic":""}
-{"word":"quick-silver","sw":"quicksilver","translation":["[机] 水银"],"phonetic":""}
-{"word":"quick-silvers","sw":"quicksilvers","translation":["adj. 水银的；水银似的；多变的","n. 水银；汞","vt. 涂水银于；用水银处理"],"phonetic":"'kwɪksɪlvə"}
-{"word":"quick-speed","sw":"quickspeed","translation":["高速"],"phonetic":""}
-{"word":"quick-start","sw":"quickstart","translation":["n. 快速起动","[网络] 快速启动；快启动机制"],"phonetic":""}
-{"word":"quick-starts","sw":"quickstarts","translation":["n. 快速入门"],"phonetic":""}
-{"word":"quick-step","sw":"quickstep","translation":["[网络] 快步舞；快步地板；快四步"],"phonetic":""}
-{"word":"quick-stick","sw":"quickstick","translation":["[网络] 极快速的粘黏性；很快的棍子；快粘"],"phonetic":""}
-{"word":"quick-sticks","sw":"quicksticks","translation":["[网络] 快棍"],"phonetic":""}
-{"word":"quick-stop","sw":"quickstop","translation":["[网络] 紧急停止"],"phonetic":""}
-{"word":"quick-strike","sw":"quickstrike","translation":["[网络] 快速打击；神空斩；奇袭"],"phonetic":""}
-{"word":"quick-tempered","sw":"quicktempered","translation":["a. 性急的, 易怒的"],"phonetic":"kwik 'tempәd"}
-{"word":"quick-thinking","sw":"quickthinking","translation":["[网络] 思维敏捷"],"phonetic":""}
-{"word":"quick-thinkings","sw":"quickthinkings","translation":["[网络] 思维敏捷","(quick-thinking 的复数)"],"phonetic":""}
-{"word":"quick-to-fix","sw":"quicktofix","translation":["[网络] 快速修正"],"phonetic":""}
-{"word":"quick-to-strike","sw":"quicktostrike","translation":["[网络] 一秒内压两次橘色按钮"],"phonetic":""}
-{"word":"quick-tongued","sw":"quicktongued","translation":["快嘴"],"phonetic":""}
-{"word":"quick-traverse","sw":"quicktraverse","translation":["[网络] 快速横动"],"phonetic":""}
-{"word":"quick-triggered","sw":"quicktriggered","translation":["adj. 射击很快的；反应迅速的；动作敏捷的；对答如流的"],"phonetic":"'kwik'triɡəd"}
-{"word":"quick-turn","sw":"quickturn","translation":["un. 快速转身","[网络] 改变了低产量与快速转换"],"phonetic":""}
-{"word":"quick-turning","sw":"quickturning","translation":["[网络] 快捷车削"],"phonetic":""}
-{"word":"quick-view","sw":"quickview","translation":["快速检视；快速查看"],"phonetic":""}
-{"word":"quick-wash","sw":"quickwash","translation":["[网络] 快洗；快洗键；快速洗程"],"phonetic":""}
-{"word":"quick-washes","sw":"quickwashes","translation":["[网络] 快洗；快洗键；快速洗程","(quick-wash 的复数)"],"phonetic":""}
-{"word":"quick-witted","sw":"quickwitted","translation":["a. 富有机智的, 机敏的"],"phonetic":"kwik 'witid"}
-{"word":"quick-wittedly","sw":"quickwittedly","translation":["adv. quick-witted的变形"],"phonetic":""}
-{"word":"quick-wittedness","sw":"quickwittedness","translation":["急智"],"phonetic":""}
-{"word":"quick-wittednesses","sw":"quickwittednesses","translation":["思维敏捷","机敏"],"phonetic":""}
-{"word":"quick-witteds","sw":"quickwitteds","translation":["quick-witted","['kwik'witid]","adj.","机敏的；才思敏捷的；急中生智的"],"phonetic":"'kwik'witid"}
-{"word":"quick-work","sw":"quickwork","translation":["[网络] 破案；破案神速；快速工作"],"phonetic":""}
 {"word":"quickaccess","sw":"quickaccess","translation":["un. 快速存取","[网络] 快捷；伸入包内取放装备的快捷；快捷访问"],"phonetic":""}
 {"word":"quickacting","sw":"quickacting","translation":["adj.快速的(快作用的；高速的；灵敏的)"],"phonetic":"kwɪ'kæktɪŋ"}
 {"word":"quickaction","sw":"quickaction","translation":["n. 速动","[网络] 快捷动作"],"phonetic":""}
@@ -4647,7 +3663,6 @@
 {"word":"quickedit","sw":"quickedit","translation":["[网络] 快捷键编辑；非官方版型造成之快速编辑"],"phonetic":""}
 {"word":"quickely","sw":"quickely","translation":["[网络] 快点"],"phonetic":""}
 {"word":"quicken","sw":"quicken","translation":["vt. 加快, 激发, 使有生气, 鼓舞, 使复活","vi. 加快, 变活跃, 进入胎动期"],"phonetic":"'kwikәn"}
-{"word":"quicken-tree","sw":"quickentree","translation":["[网络] 加快树"],"phonetic":""}
 {"word":"quickenance","sw":"quickenance","translation":["[网络] 加快"],"phonetic":""}
 {"word":"quickened","sw":"quickened","translation":["v. （使）变快, 增速, 加快( quicken的过去式和过去分词 ); 苏醒, 使有生机"],"phonetic":"ˈkwɪkənd"}
 {"word":"quickener","sw":"quickener","translation":["n. quicken的变形"],"phonetic":""}
@@ -4655,16 +3670,13 @@
 {"word":"quickenest","sw":"quickenest","translation":["[网络] 最快"],"phonetic":""}
 {"word":"quickeneth","sw":"quickeneth","translation":["[网络] 加快"],"phonetic":""}
 {"word":"quickening","sw":"quickening","translation":["n. 胎动初期","a. 加快的, 活跃的"],"phonetic":"'kwikәniŋ"}
-{"word":"quickening-grass","sw":"quickeninggrass","translation":["[网络] 加快草"],"phonetic":""}
 {"word":"quickeningly","sw":"quickeningly","translation":["[网络] 加快"],"phonetic":""}
 {"word":"quickenings","sw":"quickenings","translation":["(quickening 的复数) n. 胎动初期","a. 加快的, 活跃的"],"phonetic":""}
 {"word":"quickens","sw":"quickens","translation":["v. （使）变快, 增速, 加快( quicken的第三人称单数 ); 苏醒, 使有生机"],"phonetic":"ˈkwɪkənz"}
 {"word":"quicker","sw":"quicker","translation":["a. 快些（quick的形容词比较级）"],"phonetic":""}
-{"word":"quicker-and-dirtier","sw":"quickeranddirtier","translation":["[网络] 更快更脏"],"phonetic":""}
 {"word":"quickerer","sw":"quickerer","translation":["a. 快些（quick的形容词比较级）","(quicker 的比较级)"],"phonetic":""}
 {"word":"quickerest","sw":"quickerest","translation":["a. 快些（quick的形容词比较级）","(quicker 的最高级)"],"phonetic":""}
 {"word":"quickest","sw":"quickest","translation":["a. 最快的"],"phonetic":""}
-{"word":"quickest-and-dirtiest","sw":"quickestanddirtiest","translation":["[网络] 最快最肮脏的"],"phonetic":""}
 {"word":"quickeyed","sw":"quickeyed","translation":["adj.眼睛尖的"],"phonetic":"k'wɪkiːd"}
 {"word":"quickfire","sw":"quickfire","translation":["na. 【军】速射","[网络] 快火"],"phonetic":"k'wɪkfaɪər"}
 {"word":"quickfirer","sw":"quickfirer","translation":["n.速射枪"],"phonetic":"kwɪk'fɜːər"}
@@ -4681,7 +3693,6 @@
 {"word":"quickie","sw":"quickie","translation":["n. 匆匆做成的事","a. 简短的, 迅速的, 突发的"],"phonetic":"'kwiki"}
 {"word":"quickies","sw":"quickies","translation":["n. <口>迅速做成的事( quickie的复数形式 ); 匆匆做成的事; （酒的）一饮而尽; 草草完事的性交"],"phonetic":"ˈkwɪki:z"}
 {"word":"quicking","sw":"quicking","translation":["快镀"],"phonetic":""}
-{"word":"quicking-drag","sw":"quickingdrag","translation":["[网络] 快速拖动"],"phonetic":""}
 {"word":"quickish","sw":"quickish","translation":["[网络] 相当快的"],"phonetic":""}
 {"word":"quickley","sw":"quickley","translation":["[网络] 很快"],"phonetic":""}
 {"word":"quicklier","sw":"quicklier","translation":["[网络] 更快"],"phonetic":""}
@@ -4693,7 +3704,6 @@
 {"word":"quickliming","sw":"quickliming","translation":["quicklime","['kwiklaim]","n.","生石灰"],"phonetic":"'kwɪklaɪm"}
 {"word":"quicklunch","sw":"quicklunch","translation":["快餐"],"phonetic":""}
 {"word":"quickly","sw":"quickly","translation":["adv. 很快地"],"phonetic":"ˈkwɪkli|ˈkwɪkli"}
-{"word":"quickly-cured","sw":"quicklycured","translation":["a. 迅速治愈的"],"phonetic":""}
 {"word":"quickmake","sw":"quickmake","translation":["un. 快速闭合","[网络] 简谱软件"],"phonetic":""}
 {"word":"quickmatch","sw":"quickmatch","translation":["速燃导火索"],"phonetic":""}
 {"word":"quickmounting","sw":"quickmounting","translation":["n. 速装的"],"phonetic":""}
@@ -4784,7 +3794,6 @@
 {"word":"Quicute","sw":"quicute","translation":["[地名] 基库泰 ( 安哥 )"],"phonetic":""}
 {"word":"Quicuto","sw":"quicuto","translation":["[地名] 基库托 ( 安哥 )"],"phonetic":""}
 {"word":"quid","sw":"quid","translation":["n. 一镑金币, 一镑, 咀嚼物"],"phonetic":"kwid"}
-{"word":"quid-pro-quo","sw":"quidproquo","translation":["na. 补偿物；交换物；赔偿；报酬"],"phonetic":"ˌkwɪd prəʊ 'kwəʊ"}
 {"word":"quidam","sw":"quidam","translation":["[网络] 跨世纪巡礼；奇幻之旅；神秘人"],"phonetic":""}
 {"word":"quidams","sw":"quidams","translation":["[网络] 不具名剧团；法国不具名剧团"],"phonetic":""}
 {"word":"quiddative","sw":"quiddative","translation":["[网络] 质疑"],"phonetic":""}
@@ -4816,7 +3825,6 @@
 {"word":"quidony","sw":"quidony","translation":["[网络] qu"],"phonetic":""}
 {"word":"quidproquo","sw":"quidproquo","translation":["n. 赔偿[物] ;报复"],"phonetic":"ˊkwidprouˊkwou"}
 {"word":"quids","sw":"quids","translation":["(quid 的复数) n. 一镑金币, 一镑, 咀嚼物"],"phonetic":""}
-{"word":"Quids-in","sw":"quidsin","translation":["[网络] 有钱了；坐在家里收钱"],"phonetic":""}
 {"word":"quidsworth","sw":"quidsworth","translation":["n. <俚>1镑的价值, 价值1镑的东西"],"phonetic":"'kwidzw\\\\:θ"}
 {"word":"quie","sw":"quie","translation":["[网络] 安静的；大同；询问"],"phonetic":""}
 {"word":"Quiebel","sw":"quiebel","translation":["仲丁比妥钠和颠茄提取物胶囊"],"phonetic":""}
@@ -4833,7 +3841,6 @@
 {"word":"Quierschied","sw":"quierschied","translation":["[地名] 奎尔希德 ( 德 )"],"phonetic":""}
 {"word":"quierzy","sw":"quierzy","translation":["[网络] 基耶尔济；奎亚兹"],"phonetic":""}
 {"word":"quiesce","sw":"quiesce","translation":["v. 静默, 沉寂"],"phonetic":"kwaɪ'es"}
-{"word":"quiesce-completed","sw":"quiescecompleted","translation":["静止期结束，禁止操作完成"],"phonetic":""}
 {"word":"quiesced","sw":"quiesced","translation":["vi. 静默"],"phonetic":"kwai'es, kwi-"}
 {"word":"quiescence","sw":"quiescence","translation":["n. 静止, 不活动, 寂静","[电] 静止"],"phonetic":"kwai'esns"}
 {"word":"quiescences","sw":"quiescences","translation":["n. 静止；沉默"],"phonetic":"kwaɪ'ɛsns"}
@@ -4850,8 +3857,6 @@
 {"word":"Quiess","sw":"quiess","translation":["盐酸羟嗪制剂"],"phonetic":""}
 {"word":"quiestus","sw":"quiestus","translation":["静止状态,平息,制止"],"phonetic":""}
 {"word":"quiet","sw":"quiet","translation":["n. 安静, 闲适, 平静","a. 安静的, 静止的, 寂静的, 朴素的, 从容的, 暗中的","vi. 平静下来","vt. 使平静, 使平息, 使安心, 安慰"],"phonetic":"ˈkwaɪət|ˈkwaɪət"}
-{"word":"quiet-spoken","sw":"quietspoken","translation":["adj. 说话文静的"],"phonetic":"k'waɪətsp'əʊkən"}
-{"word":"quiet-spokens","sw":"quietspokens","translation":["adj. 说话文静的","(quiet-spoken 的复数)"],"phonetic":""}
 {"word":"quieta","sw":"quieta","translation":["[网络] 不安静"],"phonetic":""}
 {"word":"quietage","sw":"quietage","translation":["[网络] 安静"],"phonetic":""}
 {"word":"quietance","sw":"quietance","translation":["[网络] 安静"],"phonetic":""}
@@ -4936,8 +3941,6 @@
 {"word":"quijibo","sw":"quijibo","translation":[],"phonetic":""}
 {"word":"quijote","sw":"quijote","translation":["[网络] 吉诃德；唐吉柯德；吉歌德博物馆"],"phonetic":""}
 {"word":"quik","sw":"quik","translation":["[网络] 快客；奎克；联华快客(Q U IC K)"],"phonetic":""}
-{"word":"Quik-Cept","sw":"quikcept","translation":["妊娠测定盒"],"phonetic":""}
-{"word":"Quik-Cult","sw":"quikcult","translation":["粪潜血检测盒"],"phonetic":""}
 {"word":"quikclot","sw":"quikclot","translation":["[网络] 止血粉；颗粒状无机物的止血剂"],"phonetic":""}
 {"word":"quike","sw":"quike","translation":["[网络] 快克；奎克；快客"],"phonetic":""}
 {"word":"quikk","sw":"quikk","translation":["[网络] 夸克"],"phonetic":""}
@@ -4968,11 +3971,6 @@
 {"word":"quilis","sw":"quilis","translation":["基利斯"],"phonetic":""}
 {"word":"quilish","sw":"quilish","translation":["[网络] 绗缝"],"phonetic":""}
 {"word":"quill","sw":"quill","translation":["n. 羽根, 大翎毛, 羽毛笔","vt. 刺穿"],"phonetic":"kwil"}
-{"word":"quill-coverts","sw":"quillcoverts","translation":["n. [鸟] 绒羽,冉羽（羽根处的细毛）"],"phonetic":"'kwil,kʌvәts"}
-{"word":"quill-drive","sw":"quilldrive","translation":["[电][铁路] 空心轴传动，[机] 套管传动；[机] 空心轴弹性传动"],"phonetic":""}
-{"word":"quill-driver","sw":"quilldriver","translation":["n. 作家, 抄写员, 新闻记者"],"phonetic":""}
-{"word":"quill-like","sw":"quilllike","translation":["[医]羽管状"],"phonetic":"k'wɪll'aɪk"}
-{"word":"quill-pen","sw":"quillpen","translation":["n. 羽毛笔"],"phonetic":"'kwilpen"}
 {"word":"quilla","sw":"quilla","translation":["[网络] 奎拉；基利亚；月神"],"phonetic":""}
 {"word":"Quillabamba","sw":"quillabamba","translation":["[地名] 基亚班巴 ( 秘 )"],"phonetic":""}
 {"word":"Quillagua","sw":"quillagua","translation":["[地名] 基亚瓜 ( 智 )"],"phonetic":""}
@@ -4982,8 +3980,6 @@
 {"word":"quillain","sw":"quillain","translation":["皂树酸"],"phonetic":""}
 {"word":"quillais","sw":"quillais","translation":["[网络] 基莱"],"phonetic":""}
 {"word":"quillaja","sw":"quillaja","translation":["[化] 皂树"],"phonetic":""}
-{"word":"quillaja-saponin","sw":"quillajasaponin","translation":["[医] 皂树皂甙"],"phonetic":""}
-{"word":"quillaja-sapotoxin","sw":"quillajasapotoxin","translation":["[医] 皂树皂毒素"],"phonetic":""}
 {"word":"quillan","sw":"quillan","translation":["[地名] [法国] 基扬"],"phonetic":""}
 {"word":"quillard","sw":"quillard","translation":["[网络] 基亚尔"],"phonetic":""}
 {"word":"quillarin","sw":"quillarin","translation":["皂树酸"],"phonetic":""}
@@ -4993,12 +3989,9 @@
 {"word":"quillbacks","sw":"quillbacks","translation":["n. 【动】鲤型亚口鱼属","[网络] 北美淡水鱼"],"phonetic":""}
 {"word":"quilldriver","sw":"quilldriver","translation":["n. 耍笔杆的人"],"phonetic":""}
 {"word":"quille","sw":"quille","translation":["[网络] 奎尔"],"phonetic":""}
-{"word":"Quillebeuf-sur-Seine","sw":"quillebeufsurseine","translation":["[地名] 塞纳河畔基耶伯夫 ( 法 )"],"phonetic":""}
 {"word":"quilled","sw":"quilled","translation":["a. 有硬毛的, 羽毛状的"],"phonetic":"kwild"}
 {"word":"quillen","sw":"quillen","translation":["[人名] 奎林"],"phonetic":""}
 {"word":"Quiller","sw":"quiller","translation":["奎勒(姓氏)"],"phonetic":"'kwilә"}
-{"word":"quiller-couch","sw":"quillercouch","translation":["n. 奎勒-库奇"],"phonetic":""}
-{"word":"quiller-couches","sw":"quillercouches","translation":["n. 奎勒-库奇","(quiller-couch 的复数)"],"phonetic":""}
 {"word":"quillers","sw":"quillers","translation":["[网络] 千斤顶"],"phonetic":""}
 {"word":"quillet","sw":"quillet","translation":["n. 托辞,借口,搪塞"],"phonetic":"'kwilit"}
 {"word":"quilleted","sw":"quilleted","translation":["adj. quillet的变形"],"phonetic":""}
@@ -5089,9 +4082,7 @@
 {"word":"quims","sw":"quims","translation":["[网络] 奎姆；基姆；昆姆"],"phonetic":""}
 {"word":"quimsa","sw":"quimsa","translation":["[网络] 奇姆萨"],"phonetic":""}
 {"word":"quin","sw":"quin","translation":["n. 五个一套；五胞胎（等于quintuplet）"],"phonetic":"kwin"}
-{"word":"Quin-Release","sw":"quinrelease","translation":["奎尼丁葡萄糖酸盐缓释片"],"phonetic":""}
 {"word":"quina","sw":"quina","translation":["n. 金鸡纳皮, 奎宁","[医] 金鸡纳皮"],"phonetic":"'ki:nә"}
-{"word":"quina-quina","sw":"quinaquina","translation":["规那"],"phonetic":""}
 {"word":"quinabactin","sw":"quinabactin","translation":["[网络] 喹喔啉"],"phonetic":""}
 {"word":"quinacainol","sw":"quinacainol","translation":["[网络] 喹那卡诺"],"phonetic":""}
 {"word":"quinacetin","sw":"quinacetin","translation":["[医] 奎纳西丁"],"phonetic":""}
@@ -5101,7 +4092,6 @@
 {"word":"quinacridone","sw":"quinacridone","translation":["n. [化]喹吖(二) 酮, 二羟基喹啉并吖啶"],"phonetic":"kwin'ækridәjn"}
 {"word":"quinacridones","sw":"quinacridones","translation":["[网络] 喹吖啶酮"],"phonetic":""}
 {"word":"quinacrine","sw":"quinacrine","translation":["n. [药]奎纳克林,阿的平(一种抗疟药)"],"phonetic":"'kwinә,kri:n"}
-{"word":"quinacrine-stained","sw":"quinacrinestained","translation":["阿的平染色的"],"phonetic":""}
 {"word":"quinacrines","sw":"quinacrines","translation":["[网络] 喹吖啶"],"phonetic":""}
 {"word":"quinade","sw":"quinade","translation":["[网络] 奎宁"],"phonetic":""}
 {"word":"quinadinered","sw":"quinadinered","translation":["奎哪啶红"],"phonetic":""}
@@ -5212,7 +4202,6 @@
 {"word":"quincupedal","sw":"quincupedal","translation":["[网络] 五金"],"phonetic":""}
 {"word":"quincuple","sw":"quincuple","translation":["[网络] 五金"],"phonetic":""}
 {"word":"Quincy","sw":"quincy","translation":["n. 昆西(m.)"],"phonetic":"'kwinsi"}
-{"word":"Quincy-Voisins","sw":"quincyvoisins","translation":["[地名] 坎西瓦桑 ( 法 )"],"phonetic":""}
 {"word":"Quincyte","sw":"quincyte","translation":["水硅铁镁石;海泡石"],"phonetic":""}
 {"word":"quindecad","sw":"quindecad","translation":["[网络] 昆达克"],"phonetic":""}
 {"word":"quindecagon","sw":"quindecagon","translation":["n. [数]十五角(边)形"],"phonetic":"kwin'dekә^ɔn"}
@@ -5450,7 +4439,6 @@
 {"word":"quinomycin","sw":"quinomycin","translation":["[医] 醌霉素"],"phonetic":""}
 {"word":"quinondiimine","sw":"quinondiimine","translation":["[化] 醌二亚胺"],"phonetic":""}
 {"word":"quinone","sw":"quinone","translation":["n. [化]醌, 苯醌"],"phonetic":"kwi'nәun, 'kwinәun"}
-{"word":"quinone-imine","sw":"quinoneimine","translation":["[化] 醌亚胺"],"phonetic":""}
 {"word":"quinoneimine","sw":"quinoneimine","translation":["[网络] 生成红色亚醌化合物；醌亚胺；有色醌亚胺"],"phonetic":""}
 {"word":"quinoneoxime","sw":"quinoneoxime","translation":["[网络] 醌肟"],"phonetic":""}
 {"word":"quinoneoximes","sw":"quinoneoximes","translation":["[网络] 醌肟"],"phonetic":""}
@@ -5500,8 +4488,6 @@
 {"word":"quinovose","sw":"quinovose","translation":["鸡纳糖, 奎诺糖, 异鼠李糖, 6-去氧葡糖"],"phonetic":"'kwinәvәus"}
 {"word":"quinoxalin","sw":"quinoxalin","translation":["喹恶啉"],"phonetic":""}
 {"word":"quinoxaline","sw":"quinoxaline","translation":["喹喔啉"],"phonetic":"kwi'nɔksәli:n"}
-{"word":"quinoxaline-di-N-xoide","sw":"quinoxalinedinxoide","translation":["喹喔啉-N-二氧化物"],"phonetic":""}
-{"word":"quinoxaline-N-oxide","sw":"quinoxalinenoxide","translation":["喹噁啉-N-氧化物"],"phonetic":""}
 {"word":"quinoxalinedione","sw":"quinoxalinedione","translation":["[网络] 喹喔啉二酮"],"phonetic":""}
 {"word":"quinoxalinediones","sw":"quinoxalinediones","translation":["[网络] 喹喔啉"],"phonetic":""}
 {"word":"quinoxalines","sw":"quinoxalines","translation":["[网络] 喹恶啉类药物；喹喔啉类；喹嗯啉类药物"],"phonetic":""}
@@ -5648,8 +4634,6 @@
 {"word":"quinsyberry","sw":"quinsyberry","translation":["黑茶蔗子"],"phonetic":"'kwinzibәri"}
 {"word":"quinsywort","sw":"quinsywort","translation":["[网络] 金丝雀"],"phonetic":""}
 {"word":"quint","sw":"quint","translation":["n. 五度音程, 五胞胎之一, 五个一组, 篮球队"],"phonetic":"kwint"}
-{"word":"quint-exact","sw":"quintexact","translation":["[法] 第五次催告出庭"],"phonetic":""}
-{"word":"quint-pertite","sw":"quintpertite","translation":["[网络] 四分之一"],"phonetic":""}
 {"word":"Quinta","sw":"quinta","translation":["n. (西班牙和拉丁美洲的)别墅, (有葡萄园等的)乡间邸宅"],"phonetic":"'ki:ntә"}
 {"word":"quintafurcation","sw":"quintafurcation","translation":["五分支"],"phonetic":""}
 {"word":"quintagenarians","sw":"quintagenarians","translation":["[网络] 精神分裂症患者"],"phonetic":""}
@@ -5785,12 +4769,6 @@
 {"word":"quints","sw":"quints","translation":["[美]=quintuplets"],"phonetic":"kwints"}
 {"word":"quintuplation","sw":"quintuplation","translation":["[网络] 五次"],"phonetic":""}
 {"word":"quintuple","sw":"quintuple","translation":["a. 五倍的, 五重的, 五部分构成的","n. 五倍量, 五个一组","vt. 使成五倍"],"phonetic":"'kwintjupl"}
-{"word":"quintuple-click","sw":"quintupleclick","translation":["[网络] 五点击"],"phonetic":""}
-{"word":"quintuple-clicked","sw":"quintupleclicked","translation":["[网络] 五点击"],"phonetic":""}
-{"word":"quintuple-clicking","sw":"quintupleclicking","translation":["[网络] 五点击"],"phonetic":""}
-{"word":"quintuple-clicks","sw":"quintupleclicks","translation":["[网络] 五点击"],"phonetic":""}
-{"word":"quintuple-nerved","sw":"quintuplenerved","translation":["具五脉的"],"phonetic":""}
-{"word":"quintuple-ribbed","sw":"quintupleribbed","translation":["五中脉的"],"phonetic":""}
 {"word":"quintupled","sw":"quintupled","translation":["a. [医]五倍的","v. 使成五倍( quintuple的过去式和过去分词 )"],"phonetic":"ˈkwintju(:)pld"}
 {"word":"quintupler","sw":"quintupler","translation":["[计] 乘5装置, 五倍器"],"phonetic":"'kwintjuplә"}
 {"word":"quintuples","sw":"quintuples","translation":["v. 使成五倍( quintuple的第三人称单数 )"],"phonetic":"ˈkwintju(:)plz"}
@@ -5907,7 +4885,6 @@
 {"word":"Quirite","sw":"quirite","translation":["[网络] 奎尔特"],"phonetic":""}
 {"word":"Quirites","sw":"quirites","translation":["[复] n.(古罗马的)公民"],"phonetic":"kwi'raiti:z"}
 {"word":"quirk","sw":"quirk","translation":["n. 古怪举动, 俏皮话, 急转"],"phonetic":"kwә:k"}
-{"word":"quirk-bead","sw":"quirkbead","translation":["凹槽圆线脚"],"phonetic":""}
 {"word":"Quirke","sw":"quirke","translation":["[网络] 夸克；奎尔克；奎克"],"phonetic":""}
 {"word":"quirked","sw":"quirked","translation":["n. 怪癖；急转；借口","n. (Quirk)人名；(英)夸克"],"phonetic":"kwɜːk"}
 {"word":"quirken","sw":"quirken","translation":["[网络] 夸克"],"phonetic":""}
@@ -5998,10 +4975,6 @@
 {"word":"Quisultidine","sw":"quisultidine","translation":["喹磺吩嗪"],"phonetic":""}
 {"word":"quisumbing","sw":"quisumbing","translation":["[网络] 基松宾"],"phonetic":""}
 {"word":"quit","sw":"quit","translation":["vi. 离开, 辞职, 停止","vt. 离开, 放弃, 使解除, 停止","n. 离开","[计] 结束, 退出"],"phonetic":"kwɪt|kwɪt"}
-{"word":"quit-claim","sw":"quitclaim","translation":["un. 放弃权利","[网络] 放弃产权；退出索赔；诈骗高手"],"phonetic":""}
-{"word":"quit-rent","sw":"quitrent","translation":["un. 偿还地租；免役税","[网络] 代役租"],"phonetic":""}
-{"word":"quit-rents","sw":"quitrents","translation":["n. 免役税"],"phonetic":"'kwɪtrent"}
-{"word":"quit-smoking","sw":"quitsmoking","translation":["[网络] 戒烟；戒菸；停止吸烟"],"phonetic":""}
 {"word":"quita","sw":"quita","translation":["[网络] 奎塔"],"phonetic":""}
 {"word":"quitadamo","sw":"quitadamo","translation":["n. (Quitadamo)人名；(意)奎塔达莫"],"phonetic":""}
 {"word":"quital","sw":"quital","translation":["[网络] 退休"],"phonetic":""}
@@ -6066,7 +5039,6 @@
 {"word":"quittered","sw":"quittered","translation":["[网络] 被淘汰"],"phonetic":""}
 {"word":"quitters","sw":"quitters","translation":["n. <贬>有始无终的人, 虎头蛇尾的人, 半途而废者( quitter的复数形式 )"],"phonetic":"ˈkwɪtəz"}
 {"word":"quitting","sw":"quitting","translation":["[经] 书面收据"],"phonetic":""}
-{"word":"quitting-time","sw":"quittingtime","translation":["n. 〈美〉下班时间","[网络] 下课时间；结束的时间"],"phonetic":""}
 {"word":"quittingtime","sw":"quittingtime","translation":["n. 〈美〉下班时间","[网络] 下课时间；结束的时间"],"phonetic":""}
 {"word":"quittner","sw":"quittner","translation":["[网络] 奎特纳"],"phonetic":""}
 {"word":"quittor","sw":"quittor","translation":["n. [兽医]马蹄疽,化脓性蹄软骨炎"],"phonetic":"'kwitә"}
@@ -6116,12 +5088,8 @@
 {"word":"quixotry","sw":"quixotry","translation":["n. 唐吉诃德式性格[行为], 不切实际的思想或性格"],"phonetic":"k'wɪksətrɪ"}
 {"word":"quixtar","sw":"quixtar","translation":["[网络] 捷星；安利；安利捷星公司"],"phonetic":""}
 {"word":"quiz","sw":"quiz","translation":["n. 考查, 课堂测验, 恶作剧, 智力测验","vt. 戏弄, 考查, 恶作剧"],"phonetic":"kwɪz|kwɪz"}
-{"word":"quiz-kid","sw":"quizkid","translation":["na. 聪明孩子；神童","[网络] 极聪明的孩子"],"phonetic":""}
-{"word":"quiz-show","sw":"quizshow","translation":["un. 广播","[网络] 机智问答；幕后谎言；智力竞赛节目"],"phonetic":""}
 {"word":"quiza","sw":"quiza","translation":["[网络] 艺名奎扎"],"phonetic":""}
 {"word":"quizalofop","sw":"quizalofop","translation":["喹禾灵"],"phonetic":""}
-{"word":"Quizalofop-ethyl","sw":"quizalofopethyl","translation":["禾草克"],"phonetic":""}
-{"word":"quizalofop-P-tefuryl","sw":"quizalofopptefuryl","translation":["喹禾糠酯"],"phonetic":""}
 {"word":"quizas","sw":"quizas","translation":["[网络] 也许；或许；花样年华"],"phonetic":""}
 {"word":"quizbook","sw":"quizbook","translation":["[网络] 问卷"],"phonetic":""}
 {"word":"quizbooks","sw":"quizbooks","translation":["[网络] 问答"],"phonetic":""}
@@ -6163,7 +5131,6 @@
 {"word":"quizzifying","sw":"quizzifying","translation":["[网络] 测验"],"phonetic":""}
 {"word":"quizziness","sw":"quizziness","translation":["[网络] 奇怪"],"phonetic":""}
 {"word":"quizzing","sw":"quizzing","translation":["n. 挖苦（考问）"],"phonetic":""}
-{"word":"quizzing-glass","sw":"quizzingglass","translation":["[网络] 单眼镜"],"phonetic":""}
 {"word":"quizzingly","sw":"quizzingly","translation":["[网络] 猜测"],"phonetic":""}
 {"word":"quizzings","sw":"quizzings","translation":["[网络] 测验"],"phonetic":""}
 {"word":"quizzish","sw":"quizzish","translation":["[网络] 奇怪的"],"phonetic":""}
@@ -6200,7 +5167,6 @@
 {"word":"Quntalan","sw":"quntalan","translation":["消胆胺"],"phonetic":""}
 {"word":"qunty","sw":"qunty","translation":["n.数量"],"phonetic":"kwn'tɪ"}
 {"word":"quo","sw":"quo","translation":["vt. [古]说"],"phonetic":""}
-{"word":"quo-so","sw":"quoso","translation":["[网络] 就这样"],"phonetic":""}
 {"word":"quoad","sw":"quoad","translation":["[网络] 调整"],"phonetic":""}
 {"word":"quoads","sw":"quoads","translation":["[网络] 调整","(quoad 的复数)"],"phonetic":""}
 {"word":"quob","sw":"quob","translation":["[网络] 摧；山人月"],"phonetic":""}
@@ -6208,8 +5174,6 @@
 {"word":"quobmire","sw":"quobmire","translation":["[网络] 泥ire"],"phonetic":""}
 {"word":"quobs","sw":"quobs","translation":["[网络] 夸克斯"],"phonetic":""}
 {"word":"quoc","sw":"quoc","translation":["[网络] 丈夫国"],"phonetic":""}
-{"word":"quoc-khanh","sw":"quockhanh","translation":["[网络] 郭庆；国卿"],"phonetic":""}
-{"word":"Quoc-ngu","sw":"quocngu","translation":["[网络] 国语；罗马字"],"phonetic":""}
 {"word":"quock","sw":"quock","translation":["[网络] ock"],"phonetic":""}
 {"word":"quocs","sw":"quocs","translation":["[网络] 丈夫国","(quoc 的复数)"],"phonetic":""}
 {"word":"quocyent","sw":"quocyent","translation":["[网络] 奇怪的"],"phonetic":""}
@@ -6309,8 +5273,6 @@
 {"word":"quost","sw":"quost","translation":["[网络] 郭司特；蜀葵归于郭司特；蜀葵属於郭斯特"],"phonetic":""}
 {"word":"quot","sw":"quot","translation":["n. 引用语；开价, 报价；行市"],"phonetic":""}
 {"word":"quota","sw":"quota","translation":["n. 配额, 限额","[化] 定额"],"phonetic":"ˈkwəʊtə|ˈkwəʊtə"}
-{"word":"quota-free","sw":"quotafree","translation":["[网络] 免固打"],"phonetic":""}
-{"word":"quota-hopping","sw":"quotahopping","translation":["[网络] 配额跳过"],"phonetic":""}
 {"word":"quotabilities","sw":"quotabilities","translation":["[网络] 参数"],"phonetic":""}
 {"word":"quotability","sw":"quotability","translation":["n. 引用价值"],"phonetic":".kwәutә'biliti"}
 {"word":"quotable","sw":"quotable","translation":["a. 可引用的, 有引用价值的, 适于引用的"],"phonetic":"'kwәutәbl"}
@@ -6327,7 +5289,6 @@
 {"word":"quotannal","sw":"quotannal","translation":["[网络] 配额"],"phonetic":""}
 {"word":"quotas","sw":"quotas","translation":["n. （正式限定的）定量( quota的复数形式 ); 定额; 指标; 摊派"],"phonetic":"k'wəʊtəz"}
 {"word":"quotation","sw":"quotation","translation":["n. 引用语, 语录, 牌价, 报价","[化] 报价"],"phonetic":"kwəʊˈteɪʃn|kwəʊˈteɪʃn"}
-{"word":"quotation-mark","sw":"quotationmark","translation":["na. 引号","[网络] 双引号；注意引号；属性值使用双引号"],"phonetic":""}
 {"word":"quotational","sw":"quotational","translation":["[网络] 报价"],"phonetic":""}
 {"word":"quotationally","sw":"quotationally","translation":["[网络] 引用"],"phonetic":""}
 {"word":"quotationist","sw":"quotationist","translation":["[网络] 引号"],"phonetic":""}
@@ -6340,9 +5301,6 @@
 {"word":"quotativeness","sw":"quotativeness","translation":["[网络] 专利"],"phonetic":""}
 {"word":"quotatives","sw":"quotatives","translation":["[网络] 名词"],"phonetic":""}
 {"word":"quote","sw":"quote","translation":["n. 引用","vt. 引述, 举证, 报(价)","vi. 引用"],"phonetic":"kwəʊt|kwəʊt"}
-{"word":"quote-driven","sw":"quotedriven","translation":["[网络] 报价驱动；以报价带动；报价导向"],"phonetic":""}
-{"word":"quote-identify","sw":"quoteidentify","translation":["识别引用"],"phonetic":""}
-{"word":"quote-unquote","sw":"quoteunquote","translation":["[网络] 所谓的"],"phonetic":""}
 {"word":"quotebook","sw":"quotebook","translation":["[网络] 报价单"],"phonetic":""}
 {"word":"quotebooks","sw":"quotebooks","translation":["[网络] 报价单"],"phonetic":""}
 {"word":"quoted","sw":"quoted","translation":["v. 引证（quote的过去式）"],"phonetic":""}
@@ -6381,9 +5339,6 @@
 {"word":"quotidien","sw":"quotidien","translation":["[网络] 日报"],"phonetic":""}
 {"word":"quotidienne","sw":"quotidienne","translation":["[网络] 日常"],"phonetic":""}
 {"word":"quotient","sw":"quotient","translation":["n. 商, 份额","[计] 商"],"phonetic":"'kwәuʃәnt"}
-{"word":"quotient-closed","sw":"quotientclosed","translation":["[数] 商闭的"],"phonetic":""}
-{"word":"quotient-meter","sw":"quotientmeter","translation":["商值表"],"phonetic":""}
-{"word":"quotient-space","sw":"quotientspace","translation":["un. 商空间","[网络] 商空间模型"],"phonetic":""}
 {"word":"quotientive","sw":"quotientive","translation":["[网络] 专业性"],"phonetic":""}
 {"word":"quotients","sw":"quotients","translation":["n. 商, 商数( quotient的复数形式 )"],"phonetic":"ˈkwəʊʃənts"}
 {"word":"quoties","sw":"quoties","translation":["常常,按需要,需时即用"],"phonetic":""}
@@ -6407,7 +5362,6 @@
 {"word":"quow","sw":"quow","translation":["[网络] 哇"],"phonetic":""}
 {"word":"quowke","sw":"quowke","translation":["[网络] 夸克"],"phonetic":""}
 {"word":"quoy","sw":"quoy","translation":[],"phonetic":""}
-{"word":"quoy-duck","sw":"quoyduck","translation":["[网络] oy鸭"],"phonetic":""}
 {"word":"quoye","sw":"quoye","translation":["[网络] 引用"],"phonetic":""}
 {"word":"quoyl","sw":"quoyl","translation":["[网络] 喹喔啉"],"phonetic":""}
 {"word":"quoyle","sw":"quoyle","translation":["[网络] 奎尔"],"phonetic":""}
@@ -6462,7 +5416,6 @@
 {"word":"qutayba","sw":"qutayba","translation":["[网络] 屈底波"],"phonetic":""}
 {"word":"qutaybah","sw":"qutaybah","translation":["[网络] 古太白；暴躁的"],"phonetic":""}
 {"word":"qutb","sw":"qutb","translation":["n. (Qutb)人名；(阿拉伯)库特卜"],"phonetic":""}
-{"word":"qutb-ud-din","sw":"qutbuddin","translation":["[网络] 艾巴克；印度总督库特乌定"],"phonetic":""}
 {"word":"Quthing","sw":"quthing","translation":["[地名] 古廷 ( 莱索 )"],"phonetic":""}
 {"word":"Qutiabad","sw":"qutiabad","translation":["库提亚巴德"],"phonetic":""}
 {"word":"qutient","sw":"qutient","translation":["商数,系数"],"phonetic":""}

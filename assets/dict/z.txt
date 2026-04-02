@@ -1,151 +1,4 @@
-{"word":"Z-address","sw":"zaddress","translation":["[计] Z地址"],"phonetic":""}
-{"word":"Z-alloy","sw":"zalloy","translation":["铝轴承合金"],"phonetic":""}
-{"word":"z-aminoethanethiol","sw":"zaminoethanethiol","translation":["＝ethano-lamine"],"phonetic":",æminəu'eθəniθiə"}
-{"word":"Z-angle","sw":"zangle","translation":["[材] Ｚ型角铁"],"phonetic":""}
-{"word":"Z-AR","sw":"zar","translation":["[=Zondek-Aschheim reaction]宋-阿二氏反应"],"phonetic":""}
-{"word":"Z-araboketose","sw":"zaraboketose","translation":["n. ＝ ribulose"],"phonetic":""}
-{"word":"Z-Arg-Arg-AMC","sw":"zargargamc","translation":["N-苄氧羰基-L-精氨酰-L-精氨酸-7-酰氨基-4-甲基香豆素"],"phonetic":""}
-{"word":"Z-Arg-Arg-p-NA","sw":"zargargpna","translation":["N-苄氧羰基-L-精氨酰-L-精氨酸-对硝基苯胺"],"phonetic":""}
-{"word":"z-average","sw":"zaverage","translation":["[网络] 平均粒子尺寸"],"phonetic":""}
-{"word":"z-averages","sw":"zaverages","translation":["[网络] 平均粒子尺寸","(z-average 的复数)"],"phonetic":""}
-{"word":"z-axes","sw":"zaxes","translation":["n. 【数】z 轴(线)","[网络] Z轴；定义轴方向；弱轴"],"phonetic":""}
-{"word":"z-axis","sw":"zaxis","translation":["n. 轴","[计] Z轴"],"phonetic":"'zed,æksis"}
-{"word":"z-b","sw":"zb","translation":["[网络] 水力控制阀选用标准；阻抗继电器；膨胀过程"],"phonetic":""}
-{"word":"Z-band","sw":"zband","translation":["Z盘,Z带,肌间盘"],"phonetic":""}
-{"word":"z-bar","sw":"zbar","translation":["[电] Z棒"],"phonetic":""}
-{"word":"Z-beacon","sw":"zbeacon","translation":["Z信标"],"phonetic":""}
-{"word":"Z-beam","sw":"zbeam","translation":["n. Z形梁；Z字钢"],"phonetic":""}
-{"word":"Z-bend","sw":"zbend","translation":["n. Z形弯道，之字形弯道"],"phonetic":"'zedbend; 'zi:-"}
-{"word":"Z-bending","sw":"zbending","translation":["Z-bend","['zedbend; 'zi:-]","n.","Z形弯道，之字形弯道"],"phonetic":"'zedbend; 'zi:-"}
-{"word":"z-best","sw":"zbest","translation":["[网络] 原动力"],"phonetic":""}
-{"word":"Z-Bird","sw":"zbird","translation":["[网络] 钻石小鸟"],"phonetic":""}
-{"word":"Z-boson","sw":"zboson","translation":["[网络] 玻色子"],"phonetic":""}
-{"word":"Z-bosons","sw":"zbosons","translation":["[网络] Z-玻色子"],"phonetic":""}
-{"word":"z-boys","sw":"zboys","translation":["[网络] 西风少年；指秋风少年"],"phonetic":""}
-{"word":"z-buffer","sw":"zbuffer","translation":["[网络] 深度缓存；缓冲；缓冲深度"],"phonetic":""}
-{"word":"Z-buffering","sw":"zbuffering","translation":["n. 深度缓冲技术"],"phonetic":""}
-{"word":"z-buffers","sw":"zbuffers","translation":["z-缓存区"],"phonetic":""}
-{"word":"Z-bus","sw":"zbus","translation":["n. Z总线；zilog总线"],"phonetic":""}
-{"word":"Z-calender","sw":"zcalender","translation":["[网络] z型四辊压边机"],"phonetic":""}
-{"word":"z-car","sw":"zcar","translation":["n. 全称是“Nissan Z-car“, 通常指日产汽车制造有限公司生产的一个名为Z系列的跑车。1969年10月以一款“日产‘Z仙子’”在日本上市, 而它的出口型为“DaTSUN 240-Z“。"],"phonetic":"zed kɑ:"}
-{"word":"z-card","sw":"zcard","translation":["[网络] 知卡"],"phonetic":""}
-{"word":"z-cars","sw":"zcars","translation":["(z-car 的复数) n. 全称是“Nissan Z-car“, 通常指日产汽车制造有限公司生产的一个名为Z系列的跑车。1969年10月以一款“日产‘Z仙子’”在日本上市, 而它的出口型为“DaTSUN 240-Z“。"],"phonetic":""}
-{"word":"Z-CAV","sw":"zcav","translation":["n. 区位恒定角速度"],"phonetic":""}
-{"word":"z-chart","sw":"zchart","translation":["Z图"],"phonetic":""}
-{"word":"z-chromosome","sw":"zchromosome","translation":["z染色体"],"phonetic":""}
-{"word":"Z-CLV","sw":"zclv","translation":["[网络] 恒定线速度；速度太慢了；恒定线速度模式"],"phonetic":""}
-{"word":"z-code","sw":"zcode","translation":["[电] Z缩语"],"phonetic":""}
-{"word":"z-codes","sw":"zcodes","translation":["[电] Z缩语","(z-code 的复数)"],"phonetic":""}
-{"word":"Z-component","sw":"zcomponent","translation":["Z分量"],"phonetic":""}
-{"word":"z-components","sw":"zcomponents","translation":["Z分量","(z-component 的复数)"],"phonetic":""}
-{"word":"Z-connection","sw":"zconnection","translation":["曲折接法"],"phonetic":""}
-{"word":"z-coordinate","sw":"zcoordinate","translation":["z坐标"],"phonetic":""}
-{"word":"z-coordinates","sw":"zcoordinates","translation":["z-坐标"],"phonetic":""}
-{"word":"Z-crank","sw":"zcrank","translation":["n. Z形曲柄"],"phonetic":""}
-{"word":"z-culling","sw":"zculling","translation":["[网络] z剔除"],"phonetic":""}
-{"word":"Z-cut","sw":"zcut","translation":["n. Z截割；垂直于Y轴的石英晶体截割法"],"phonetic":""}
-{"word":"z-day","sw":"zday","translation":["na. 会议闭幕日"],"phonetic":""}
-{"word":"Z-dependence","sw":"zdependence","translation":["Z依持性"],"phonetic":""}
-{"word":"Z-digitizer","sw":"zdigitizer","translation":["Z-数字变换器"],"phonetic":""}
-{"word":"z-direction","sw":"zdirection","translation":["[网络] 方向；Z向；Z轴向"],"phonetic":""}
-{"word":"z-directions","sw":"zdirections","translation":["z向"],"phonetic":""}
-{"word":"Z-disc","sw":"zdisc","translation":["Z盘,肌间盘"],"phonetic":""}
-{"word":"z-disk","sw":"zdisk","translation":["[计]Z盘, （会话监督系统）系统磁盘CMS的扩充"],"phonetic":""}
-{"word":"z-disks","sw":"zdisks","translation":["(z-disk 的复数)  [计]Z盘, （会话监督系统）系统磁盘CMS的扩充"],"phonetic":""}
-{"word":"z-distribution","sw":"zdistribution","translation":["z-分布；z-分配, z分布；z分配, Z 分布"],"phonetic":""}
-{"word":"Z-DNA","sw":"zdna","translation":["Z-DNA"],"phonetic":""}
-{"word":"z-domain","sw":"zdomain","translation":["z 域"],"phonetic":""}
-{"word":"Z-drive","sw":"zdrive","translation":["[网络] Z型驱动；Z型传动装置；Z形传动装置"],"phonetic":""}
-{"word":"Z-drug","sw":"zdrug","translation":["[网络] Z药"],"phonetic":""}
-{"word":"Z-drugs","sw":"zdrugs","translation":["[网络] 药物"],"phonetic":""}
-{"word":"Z-enzyme","sw":"zenzyme","translation":["Z酵素, Z-酵素"],"phonetic":""}
-{"word":"Z-even","sw":"zeven","translation":["Z偶数"],"phonetic":""}
-{"word":"z-factor","sw":"zfactor","translation":["[电] Z因子"],"phonetic":""}
-{"word":"z-fighting","sw":"zfighting","translation":["[网络] 深度冲突；不存在深度冲突；深度冲突问题"],"phonetic":""}
-{"word":"Z-filaments","sw":"zfilaments","translation":["Z丝"],"phonetic":""}
-{"word":"Z-flap","sw":"zflap","translation":["Z形瓣"],"phonetic":""}
-{"word":"Z-fold","sw":"zfold","translation":["adj. Z形折叠的(打印输出线)"],"phonetic":"'zedfəuld; 'zi:-"}
-{"word":"Z-frame","sw":"zframe","translation":["[网络] Z形肋骨"],"phonetic":""}
-{"word":"Z-Gly-Leu-Phe-CMK","sw":"zglyleuphecmk","translation":["Z-甘氨酰亮氨酰苯丙氨酰氯甲基酮"],"phonetic":""}
-{"word":"Z-hour","sw":"zhour","translation":["Z时"],"phonetic":""}
-{"word":"Z-ing","sw":"zing","translation":["n. (罪犯)寻找以 Z 字母开头的出租汽车牌照为袭击目标"],"phonetic":""}
-{"word":"z-intercept","sw":"zintercept","translation":["[计] Z截距"],"phonetic":""}
-{"word":"z-intercepts","sw":"zintercepts","translation":["[网络] z截取"],"phonetic":""}
-{"word":"Z-iron","sw":"ziron","translation":["n. Z形铁；Z字钢"],"phonetic":""}
-{"word":"Z-isomer","sw":"zisomer","translation":["Z异构体"],"phonetic":""}
-{"word":"z-j","sw":"zj","translation":["[网络] 炙只摭瘠嵴跖；含苞欲放的花；佐诅诅俎"],"phonetic":""}
-{"word":"Z-lanceol","sw":"zlanceol","translation":["Z-[澳]白檀醇"],"phonetic":""}
-{"word":"Z-lay","sw":"zlay","translation":["右捻"],"phonetic":""}
-{"word":"Z-line","sw":"zline","translation":["n. [生物] 间线"],"phonetic":""}
-{"word":"z-link","sw":"zlink","translation":["[网络] 蓝芽；众联科技"],"phonetic":""}
-{"word":"Z-list","sw":"zlist","translation":["[网络] 所有工会列表；元素列表"],"phonetic":""}
-{"word":"z-mail","sw":"zmail","translation":["z-mail 程式"],"phonetic":""}
-{"word":"z-mails","sw":"zmails","translation":["z-mail 程式","(z-mail 的复数)"],"phonetic":""}
-{"word":"z-man","sw":"zman","translation":["abbr. U. S. Army reserve 美国陆军后备队（代号）"],"phonetic":"zed mæn"}
-{"word":"Z-material","sw":"zmaterial","translation":["Z物质,Z基质"],"phonetic":""}
-{"word":"Z-matrix","sw":"zmatrix","translation":["n. Z矩阵"],"phonetic":""}
-{"word":"Z-membrane","sw":"zmembrane","translation":["Z膜"],"phonetic":""}
-{"word":"Z-metal","sw":"zmetal","translation":["Z珠光体可锻铸铁"],"phonetic":""}
-{"word":"Z-meter","sw":"zmeter","translation":["n. 阻抗表","[网络] Z表"],"phonetic":""}
-{"word":"Z-mode","sw":"zmode","translation":["Z模"],"phonetic":""}
-{"word":"Z-modem","sw":"zmodem","translation":["Zmodem文件传输协议"],"phonetic":""}
-{"word":"Z-motion","sw":"zmotion","translation":["n. 在Z轴方向的运动"],"phonetic":""}
-{"word":"z-n","sw":"zn","translation":["[网络] 萋尼氏染色法；纳塔；非均相催化剂"],"phonetic":""}
-{"word":"Z-nickel","sw":"znickel","translation":["乙镍"],"phonetic":""}
-{"word":"Z-nuciferol","sw":"znuciferol","translation":["Z-荷叶醇"],"phonetic":""}
-{"word":"Z-odd","sw":"zodd","translation":["Z奇数"],"phonetic":""}
-{"word":"z-order","sw":"zorder","translation":["n. Z轴次序"],"phonetic":""}
-{"word":"z-orders","sw":"zorders","translation":["n. Z轴次序"],"phonetic":""}
-{"word":"Z-P","sw":"zp","translation":["[=Z-plasty]Z-整形术"],"phonetic":""}
-{"word":"Z-pak","sw":"zpak","translation":["[网络] 阿奇霉素五天疗法"],"phonetic":""}
-{"word":"z-parameter","sw":"zparameter","translation":["开路阻抗参数"],"phonetic":"zed pəˈræmitə"}
-{"word":"z-parameters","sw":"zparameters","translation":["(z-parameter 的复数)  开路阻抗参数"],"phonetic":""}
-{"word":"Z-peller","sw":"zpeller","translation":["[网络] Z形推进系；Z形传动螺旋桨；Z形传动螺旋浆"],"phonetic":""}
-{"word":"Z-Phe-Arg-AMC","sw":"zpheargamc","translation":["N-苄氧羰基-L-苯丙氨酰-L-精氨酸-7-酰氨基-4-甲基香豆素"],"phonetic":""}
-{"word":"Z-pile","sw":"zpile","translation":["[木] 乱堆"],"phonetic":""}
-{"word":"Z-pinch","sw":"zpinch","translation":["Z箍缩"],"phonetic":""}
-{"word":"z-plane","sw":"zplane","translation":["z 平面"],"phonetic":""}
-{"word":"Z-Plasties","sw":"zplasties","translation":["Z形整形术"],"phonetic":""}
-{"word":"Z-plasty","sw":"zplasty","translation":["[医] Z形整形术(用以解除疤痕挛缩)"],"phonetic":""}
-{"word":"Z-plot","sw":"zplot","translation":["Z值图"],"phonetic":""}
-{"word":"Z-propeller","sw":"zpropeller","translation":["[网络] Z形传动螺旋桨；全向推进器"],"phonetic":""}
-{"word":"Z-Ro","sw":"zro","translation":[],"phonetic":""}
-{"word":"Z-scheme","sw":"zscheme","translation":["Z 图式"],"phonetic":""}
-{"word":"z-score","sw":"zscore","translation":["[网络] z分数；Z评分；Z比分数"],"phonetic":""}
-{"word":"z-scores","sw":"zscores","translation":["[网络] 得分；分数；Z比分值"],"phonetic":""}
-{"word":"Z-search","sw":"zsearch","translation":["Z形搜索飞行"],"phonetic":""}
-{"word":"Z-section","sw":"zsection","translation":["n. Z形截面"],"phonetic":""}
-{"word":"z-series","sw":"zseries","translation":["[网络] 核心系统"],"phonetic":""}
-{"word":"z-shaped","sw":"zshaped","translation":["[网络] Z形截面"],"phonetic":""}
-{"word":"z-shapeds","sw":"zshapeds","translation":["Z-shaped","['zedʃeipt; 'zi:-]","adj.","Z形的"],"phonetic":"'zedʃeipt; 'zi:-"}
-{"word":"z-star","sw":"zstar","translation":["[网络] 星徽"],"phonetic":""}
-{"word":"Z-statistic","sw":"zstatistic","translation":["[统计 数] Ｚ统计量"],"phonetic":""}
-{"word":"z-steel","sw":"zsteel","translation":["n. Z型钢","[网络] Z字钢；Z形钢；乙字钢"],"phonetic":""}
-{"word":"Z-SUB","sw":"zsub","translation":["零减法指令"],"phonetic":""}
-{"word":"z-tech","sw":"ztech","translation":["[网络] 足球女孩"],"phonetic":""}
-{"word":"z-term","sw":"zterm","translation":["z－项；木村项(纬度变化)"],"phonetic":""}
-{"word":"z-test","sw":"ztest","translation":["abbr. Zulliger test 祖里格测试"],"phonetic":"zed test"}
-{"word":"Z-therapy","sw":"ztherapy","translation":["【心理学】(美国心理学家) Z 氏(心理)疗法，扎氏疗法，Z疗法(一种心理疗法)"],"phonetic":"'zed,θerəpi; 'zi:-"}
-{"word":"Z-Tranche","sw":"ztranche","translation":["[网络] 零息债券"],"phonetic":""}
-{"word":"z-transform","sw":"ztransform","translation":["z 变换"],"phonetic":""}
-{"word":"Z-transformation","sw":"ztransformation","translation":["n. Z变换"],"phonetic":""}
-{"word":"Z-trasformation","sw":"ztrasformation","translation":["[自] Ｚ变换"],"phonetic":""}
-{"word":"z-turn","sw":"zturn","translation":["Z捻"],"phonetic":""}
-{"word":"Z-twist","sw":"ztwist","translation":["右捻"],"phonetic":""}
-{"word":"Z-type","sw":"ztype","translation":["[网络] Z型；Z形"],"phonetic":""}
-{"word":"z-v","sw":"zv","translation":["[网络] 袖珍型雷击计数器测试仪"],"phonetic":""}
-{"word":"Z-Val-Ala-Asp-DCB","sw":"zvalalaaspdcb","translation":["苄氧羰基缬-丙-天冬氨酸-[(2,6-二氯苯甲酰)-氧]甲基酮"],"phonetic":""}
-{"word":"z-value","sw":"zvalue","translation":["un. Z值","[网络] 该通道提供一种缓冲深度；Z准数；zz值"],"phonetic":""}
-{"word":"z-values","sw":"zvalues","translation":["[网络] 卡钳松脱所需要力量"],"phonetic":""}
-{"word":"z-variant","sw":"zvariant","translation":["[网络] Z-变体"],"phonetic":""}
-{"word":"z-variants","sw":"zvariants","translation":["[网络] z变体"],"phonetic":""}
-{"word":"z-varnish","sw":"zvarnish","translation":["[涂料] 硝基清漆"],"phonetic":""}
-{"word":"Z-Wave","sw":"zwave","translation":["Z-Wave"],"phonetic":""}
-{"word":"Z-winding","sw":"zwinding","translation":["n. 顺时针方向绕线法","[网络] 顺时针方向绕法"],"phonetic":""}
 {"word":"za","sw":"za","translation":["n. 南非"],"phonetic":"zɑ:"}
-{"word":"ZA-worm","sw":"zaworm","translation":["[机] ＺＡ蜗杆"],"phonetic":""}
-{"word":"za-za","sw":"zaza","translation":["[网络] 札札咖啡-复北店；札札咖啡-中坜店；颧弓宽度"],"phonetic":""}
-{"word":"za-zen","sw":"zazen","translation":["n. [佛教]打坐,坐禅"],"phonetic":"'zɑ:'zen"}
 {"word":"zaa","sw":"zaa","translation":["[网络] 渣；炸；诈"],"phonetic":""}
 {"word":"zaabal","sw":"zaabal","translation":["扎巴勒"],"phonetic":""}
 {"word":"Zaachila","sw":"zaachila","translation":["萨奇拉"],"phonetic":""}
@@ -514,7 +367,6 @@
 {"word":"Zahedan","sw":"zahedan","translation":["扎黑丹(伊朗东部城市, 亦作 Zahican)"],"phonetic":"zɑ:hi'dɑ:n"}
 {"word":"Zahedi","sw":"zahedi","translation":["扎赫迪"],"phonetic":""}
 {"word":"zaheer","sw":"zaheer","translation":["n. (Zaheer)人名；(巴基、阿富)查希尔"],"phonetic":""}
-{"word":"Zaheer-ul-Islam","sw":"zaheerulislam","translation":["[网络] 伊斯兰"],"phonetic":""}
 {"word":"zaheers","sw":"zaheers","translation":["n. (Zaheer)人名；(巴基、阿富)查希尔","(zaheer 的复数)"],"phonetic":""}
 {"word":"zaher","sw":"zaher","translation":["[网络] 札赫"],"phonetic":""}
 {"word":"zaherite","sw":"zaherite","translation":["[网络] 多水铝矾"],"phonetic":""}
@@ -757,8 +609,6 @@
 {"word":"zalka","sw":"zalka","translation":["[网络] 黎巴嫩；佐尔卡"],"phonetic":""}
 {"word":"zalkind","sw":"zalkind","translation":["[网络] 柴尔金氏"],"phonetic":""}
 {"word":"zall","sw":"zall","translation":["[人名] 扎尔"],"phonetic":""}
-{"word":"Zall-Dardha","sw":"zalldardha","translation":["[地名] 扎尔达尔扎 ( 阿尔巴 )"],"phonetic":""}
-{"word":"Zall-Xhuxha","sw":"zallxhuxha","translation":["[地名] 扎尔朱扎 ( 阿尔巴 )"],"phonetic":""}
 {"word":"zaller","sw":"zaller","translation":["[网络] 扎勒；佐莱尔"],"phonetic":""}
 {"word":"zalloy","sw":"zalloy","translation":["n. Z合金"],"phonetic":""}
 {"word":"zalm","sw":"zalm","translation":["[网络] 扎尔姆；沙文鱼；三文鱼"],"phonetic":""}
@@ -798,10 +648,7 @@
 {"word":"zalusky","sw":"zalusky","translation":["[网络] 扎洛斯基"],"phonetic":""}
 {"word":"zalutumumab","sw":"zalutumumab","translation":["[网络] 扎鲁目单抗"],"phonetic":""}
 {"word":"zam","sw":"zam","translation":["abbr. examination(s) 考试; 检查（代号）; Z-axis modulation Z轴调制; zinc"],"phonetic":""}
-{"word":"Zam-buk","sw":"zambuk","translation":["[网络] 南非青草膏；里拿出油；紫草膏"],"phonetic":""}
-{"word":"Zam-buks","sw":"zambuks","translation":["[网络] 赞姆布克"],"phonetic":""}
 {"word":"Zama","sw":"zama","translation":["n. 梵谷水郡；扎马（北非古城）；座间"],"phonetic":"'zeimə; 'zɑ:mə"}
-{"word":"zama-zama","sw":"zamazama","translation":[],"phonetic":""}
 {"word":"zamacueca","sw":"zamacueca","translation":["[网络] 桑马古威卡舞；萨马奎卡舞；萨玛奎卡"],"phonetic":""}
 {"word":"zamagni","sw":"zamagni","translation":["[网络] 赞玛尼"],"phonetic":""}
 {"word":"Zamak","sw":"zamak","translation":["扎马克锌基压铸合金"],"phonetic":"'zæmәk"}
@@ -811,7 +658,6 @@
 {"word":"zamaleks","sw":"zamaleks","translation":["[网络] 扎马雷克；扎马里克；扎马雷克岛","(zamalek 的复数)"],"phonetic":""}
 {"word":"zamalia","sw":"zamalia","translation":["[网络] 济马利耶"],"phonetic":""}
 {"word":"Zamami","sw":"zamami","translation":["[地名] 座间味 ( 日 )"],"phonetic":""}
-{"word":"Zamami-jima","sw":"zamamijima","translation":["[地名] 座间味岛 ( 日 )"],"phonetic":""}
 {"word":"zaman","sw":"zaman","translation":["[网络] 曼人；时代报；萨曼"],"phonetic":""}
 {"word":"zamang","sw":"zamang","translation":["[网络] 扎马"],"phonetic":""}
 {"word":"zamangs","sw":"zamangs","translation":["[网络] 扎马斯"],"phonetic":""}
@@ -1037,7 +883,6 @@
 {"word":"Zanella","sw":"zanella","translation":["扎内拉伞布"],"phonetic":"zә'nelә"}
 {"word":"zanen","sw":"zanen","translation":["[人名] 扎嫩"],"phonetic":""}
 {"word":"zanens","sw":"zanens","translation":["[人名] 扎嫩","(zanen 的复数)"],"phonetic":""}
-{"word":"zaner-bloser","sw":"zanerbloser","translation":["[网络] 布拉瑟公司"],"phonetic":""}
 {"word":"zanes","sw":"zanes","translation":["[网络] 宙斯像群；宙斯群像"],"phonetic":""}
 {"word":"Zanesville","sw":"zanesville","translation":["n. 赞斯维尔（美国俄亥俄州城市）"],"phonetic":"'zeinzvil"}
 {"word":"zanetta","sw":"zanetta","translation":["[网络] 扎内塔"],"phonetic":""}
@@ -1045,7 +890,6 @@
 {"word":"zanfirici","sw":"zanfirici","translation":["[网络] 扎伊菲里奇"],"phonetic":""}
 {"word":"zanflo","sw":"zanflo","translation":["杂弗洛多糖"],"phonetic":""}
 {"word":"zang","sw":"zang","translation":["n. 气力；特种颜色"],"phonetic":"zæŋ"}
-{"word":"zang-fu","sw":"zangfu","translation":["[网络] 五脏六腑"],"phonetic":""}
 {"word":"zangana","sw":"zangana","translation":["[网络] 桑加纳"],"phonetic":""}
 {"word":"zanganeh","sw":"zanganeh","translation":["[网络] 赞加内"],"phonetic":""}
 {"word":"zangara","sw":"zangara","translation":["[网络] 赞加拉"],"phonetic":""}
@@ -1164,7 +1008,6 @@
 {"word":"zantzinger","sw":"zantzinger","translation":["灿青格"],"phonetic":""}
 {"word":"zantzingers","sw":"zantzingers","translation":["灿青格","(zantzinger 的复数)"],"phonetic":""}
 {"word":"ZANU","sw":"zanu","translation":["abbr.Zimbabwe African National Union 津巴布韦非洲民族联盟"],"phonetic":"'zɑ:nu:"}
-{"word":"Zanu-PF","sw":"zanupf","translation":["[网络] 非洲民族联盟爱国阵线；民盟；辛巴威非洲民族联盟"],"phonetic":""}
 {"word":"zanuck","sw":"zanuck","translation":["n. (Zanuck)人名；(英)扎纳克"],"phonetic":""}
 {"word":"zanucks","sw":"zanucks","translation":["n. (Zanuck)人名；(英)扎纳克","(zanuck 的复数)"],"phonetic":""}
 {"word":"zanussi","sw":"zanussi","translation":["[网络] 金章；扎努西；金章原装"],"phonetic":""}
@@ -1196,13 +1039,11 @@
 {"word":"Zaokskiy","sw":"zaokskiy","translation":["[地名] 扎奥克斯基 ( 俄 )"],"phonetic":""}
 {"word":"zaomycin","sw":"zaomycin","translation":["沙阿霉素"],"phonetic":"zau'maisin"}
 {"word":"Zaorejas","sw":"zaorejas","translation":["[地名] 绍雷哈斯 ( 西 )"],"phonetic":""}
-{"word":"Zaoro-Songou","sw":"zaorosongou","translation":["[地名] 扎奥罗松古 ( 中非 )"],"phonetic":""}
 {"word":"Zaouatallaz","sw":"zaouatallaz","translation":["[地名] 扎瓦塔拉兹 ( 阿尔及 )"],"phonetic":""}
 {"word":"zaouia","sw":"zaouia","translation":[],"phonetic":""}
 {"word":"zaouias","sw":"zaouias","translation":["[网络] 扎奥亚斯"],"phonetic":""}
 {"word":"Zaozhuang","sw":"zaozhuang","translation":["n.枣庄"],"phonetic":""}
 {"word":"zap","sw":"zap","translation":["vt. 杀死, 快速推动, 闪电般击中","vi. 快速移动","n. 活力, 精力, 震击","interj. (表示快速)嚓"],"phonetic":"zæp"}
-{"word":"zap-proof","sw":"zapproof","translation":["adj. (电视或录像观众)难以跳台的；防删节的"],"phonetic":"'zæp,pru:f"}
 {"word":"zapa","sw":"zapa","translation":["[网络] 靓鸿达；三角洲；空气保护优先区"],"phonetic":""}
 {"word":"Zapala","sw":"zapala","translation":["[地名] 萨帕拉 ( 阿根 )"],"phonetic":""}
 {"word":"zapalac","sw":"zapalac","translation":["[网络] 扎帕拉克"],"phonetic":""}
@@ -1234,7 +1075,6 @@
 {"word":"Zapfendorf","sw":"zapfendorf","translation":["[地名] 蔡普芬多夫 ( 德 )"],"phonetic":""}
 {"word":"zapflap","sw":"zapflap","translation":["查普式后退襟翼"],"phonetic":"'zæpflæp"}
 {"word":"zaphiriou","sw":"zaphiriou","translation":["扎菲里乌"],"phonetic":""}
-{"word":"Zaphnath-paaneah","sw":"zaphnathpaaneah","translation":["[网络] 撒发那忒巴内亚"],"phonetic":""}
 {"word":"zaphod","sw":"zaphod","translation":["[网络] 赞福德"],"phonetic":""}
 {"word":"Zaphrehtoidea","sw":"zaphrehtoidea","translation":["内沟珊瑚亚目(原隔壁亚目)"],"phonetic":""}
 {"word":"Zaphrentis","sw":"zaphrentis","translation":["内沟珊瑚, 内沟珊瑚属〔D〕"],"phonetic":""}
@@ -1458,7 +1298,6 @@
 {"word":"zarnowski","sw":"zarnowski","translation":["[网络] 扎诺夫斯基"],"phonetic":""}
 {"word":"Zarnuqa","sw":"zarnuqa","translation":["札尔奴卡"],"phonetic":""}
 {"word":"zaro","sw":"zaro","translation":["[网络] 奇异的；奇怪的；怆"],"phonetic":""}
-{"word":"Zaro-xolyn","sw":"zaroxolyn","translation":["美托拉宗"],"phonetic":""}
 {"word":"Zaroko","sw":"zaroko","translation":["[地名] 扎罗科 ( 科特 )"],"phonetic":""}
 {"word":"Zaronden","sw":"zaronden","translation":["乙琥胺制剂"],"phonetic":""}
 {"word":"Zaronthin","sw":"zaronthin","translation":["乙琥胺,柴浪丁"],"phonetic":""}
@@ -1611,7 +1450,6 @@
 {"word":"zavoski","sw":"zavoski","translation":["[网络] 扎沃斯基"],"phonetic":""}
 {"word":"zavtra","sw":"zavtra","translation":["[网络] 明日报"],"phonetic":""}
 {"word":"zaw","sw":"zaw","translation":["abbr. Zuid-Afrikaansche Weehuis (Afrikaans=South African Orphan Asylum) （南非丹麦语）南非孤儿院"],"phonetic":""}
-{"word":"zaw-zaw","sw":"zawzaw","translation":["[网络] 卓卓；佐佐；梢梢"],"phonetic":""}
 {"word":"zawacki","sw":"zawacki","translation":["[网络] 扎瓦奇"],"phonetic":""}
 {"word":"Zawada","sw":"zawada","translation":["[地名] 扎瓦达 ( 波 )"],"phonetic":""}
 {"word":"zawadi","sw":"zawadi","translation":["[网络] 札瓦蒂；学习用品等礼物"],"phonetic":""}
@@ -1739,7 +1577,6 @@
 {"word":"zBX","sw":"zbx","translation":["[网络] 正丁基黄原酸锌；趋；赵欣"],"phonetic":""}
 {"word":"zbys","sw":"zbys","translation":["[网络] 许宝安；限公司"],"phonetic":""}
 {"word":"zc","sw":"zc","translation":["abbr. 泽迦利亚（Zechariah, 希伯来先知）"],"phonetic":""}
-{"word":"ZC-worm","sw":"zcworm","translation":["[机] ＺＣ蜗杆"],"phonetic":""}
 {"word":"zcalo","sw":"zcalo","translation":["[网络] 中央广场"],"phonetic":""}
 {"word":"zcard","sw":"zcard","translation":["[网络] Z型卡"],"phonetic":""}
 {"word":"Zcat","sw":"zcat","translation":["[网络] 压缩打包；压缩和扩展数据；解压"],"phonetic":""}
@@ -1794,7 +1631,6 @@
 {"word":"Zdziechowice","sw":"zdziechowice","translation":["[地名] 兹杰霍维采 ( 波 )"],"phonetic":""}
 {"word":"Zdzieszowice","sw":"zdzieszowice","translation":["[地名] 兹杰绍维采 ( 波 )"],"phonetic":""}
 {"word":"ze","sw":"ze","translation":["abbr. 玉米纤维；区带电泳（zone electrophoresis）"],"phonetic":""}
-{"word":"ze-min","sw":"zemin","translation":["[网络] 泽明"],"phonetic":""}
 {"word":"Zea","sw":"zea","translation":["n. 齐娥(f.)"],"phonetic":"'zi:ә"}
 {"word":"zeacarotene","sw":"zeacarotene","translation":["[网络] 玉米胡萝卜素；视网醛"],"phonetic":""}
 {"word":"zeagonite","sw":"zeagonite","translation":["水钙沸石"],"phonetic":"'zi:^ә,nait"}
@@ -1880,12 +1716,6 @@
 {"word":"Zeboim","sw":"zeboim","translation":["[网络] 赛波音；洗编；波音谷"],"phonetic":""}
 {"word":"Zeboudja","sw":"zeboudja","translation":["[地名] 宰布贾 ( 阿尔及 )"],"phonetic":""}
 {"word":"zebra","sw":"zebra","translation":["n. 斑马"],"phonetic":"ˈzebrə|ˈziːbrə"}
-{"word":"zebra-crossing","sw":"zebracrossing","translation":["n. 斑马线"],"phonetic":""}
-{"word":"zebra-crossings","sw":"zebracrossings","translation":["n. 斑马线"],"phonetic":""}
-{"word":"zebra-like","sw":"zebralike","translation":["adj. 似斑马的"],"phonetic":""}
-{"word":"zebra-mussel","sw":"zebramussel","translation":["[网络] 斑马贻贝；斑马贝；斑马纹贻贝"],"phonetic":""}
-{"word":"zebra-stripe","sw":"zebrastripe","translation":["斑马纹"],"phonetic":"ˈzi:brə straip"}
-{"word":"zebra-striped","sw":"zebrastriped","translation":["[网络] 斑马线表格"],"phonetic":""}
 {"word":"zebrack","sw":"zebrack","translation":["[网络] 斑马"],"phonetic":""}
 {"word":"zebrafish","sw":"zebrafish","translation":["n. 斑马鱼"],"phonetic":"zi:b'rɑ:fi:ʃ"}
 {"word":"zebrafishes","sw":"zebrafishes","translation":["n. 斑马鱼"],"phonetic":"'zi:brə,fiʃ"}
@@ -1956,9 +1786,6 @@
 {"word":"zectran","sw":"zectran","translation":["自克威"],"phonetic":""}
 {"word":"Zectril","sw":"zectril","translation":["捷赐瑞,赖诺普利"],"phonetic":""}
 {"word":"zed","sw":"zed","translation":["n. Z字母"],"phonetic":"zed"}
-{"word":"zed-bar","sw":"zedbar","translation":["n. [主英国英语]＝Z-bar"],"phonetic":"'zed,bɑ:"}
-{"word":"Zed-car","sw":"zedcar","translation":["[网络] Zed车"],"phonetic":""}
-{"word":"Zed-Zed","sw":"zedzed","translation":["ZZ进场系统"],"phonetic":""}
 {"word":"Zedad","sw":"zedad","translation":["[网络] 西达达"],"phonetic":""}
 {"word":"zedakah","sw":"zedakah","translation":["[网络] 施舍"],"phonetic":""}
 {"word":"zedalon","sw":"zedalon","translation":["[药]泽达龙"],"phonetic":"'zedәlɔn"}
@@ -1997,8 +1824,6 @@
 {"word":"zeduan","sw":"zeduan","translation":["[网络] ed"],"phonetic":""}
 {"word":"ZedZap","sw":"zedzap","translation":["一种文件传输协议,是ZMODEM的扩充,支持重传"],"phonetic":""}
 {"word":"zee","sw":"zee","translation":["n. （美）英语字母Z和z；Z形物"],"phonetic":"zi:"}
-{"word":"zee-bar","sw":"zeebar","translation":["n. Z字钢"],"phonetic":"'ziːb'ɑːr"}
-{"word":"zee-crank","sw":"zeecrank","translation":["[网络] Z型曲柄"],"phonetic":""}
 {"word":"zeeb","sw":"zeeb","translation":["abbr. Zeebrugge 泽布勒赫（比利时西北部港市）"],"phonetic":""}
 {"word":"zeebra","sw":"zeebra","translation":["[网络] 斑马；观看；折笠富美子"],"phonetic":""}
 {"word":"Zeebrugge","sw":"zeebrugge","translation":["泽布勒赫[比利时西北部港市]"],"phonetic":"'zi:bru^ә"}
@@ -2029,7 +1854,6 @@
 {"word":"zeesen","sw":"zeesen","translation":["[网络] 区式淳"],"phonetic":""}
 {"word":"zeesenboot","sw":"zeesenboot","translation":["波罗的海半甲板拖网渔帆渔"],"phonetic":""}
 {"word":"zeesZ","sw":"zeesz","translation":["[网络] 字钢"],"phonetic":""}
-{"word":"Zeeuwsch-Vlaanderen","sw":"zeeuwschvlaanderen","translation":["[地名] 泽兰-佛兰德(地区) ( 荷 )"],"phonetic":""}
 {"word":"zeev","sw":"zeev","translation":["n. (Zeev)人名；(以)泽埃夫"],"phonetic":""}
 {"word":"zeevi","sw":"zeevi","translation":["[网络] 以色列兹维公司；泽维"],"phonetic":""}
 {"word":"zeevis","sw":"zeevis","translation":["[网络] 以色列兹维公司；泽维","(zeevi 的复数)"],"phonetic":""}
@@ -2280,7 +2104,6 @@
 {"word":"zelkowitz","sw":"zelkowitz","translation":["[网络] 泽尔科维茨"],"phonetic":""}
 {"word":"zell","sw":"zell","translation":["abbr. zero-length launching 零距离发射"],"phonetic":""}
 {"word":"zella","sw":"zella","translation":["n. 【女名】女子名","[网络] 桃花源私微博；孪生姊妹洁拉"],"phonetic":""}
-{"word":"Zella-Mehlis","sw":"zellamehlis","translation":["采拉美利斯"],"phonetic":""}
 {"word":"zellars","sw":"zellars","translation":["[网络] 西勒斯号"],"phonetic":""}
 {"word":"Zellatmin","sw":"zellatmin","translation":["还原型谷胱甘肽注射剂"],"phonetic":""}
 {"word":"zelle","sw":"zelle","translation":["[人名] [英格兰人姓氏] 泽尔 Sell的变体"],"phonetic":""}
@@ -2335,7 +2158,6 @@
 {"word":"zelterman","sw":"zelterman","translation":["[网络] 泽尔特曼"],"phonetic":""}
 {"word":"zelters","sw":"zelters","translation":["[网络] 策尔特；歌德的朋友蔡尔特；特尔","(zelter 的复数)"],"phonetic":""}
 {"word":"Zeltingen","sw":"zeltingen","translation":["德国莫赛尔地方产的优质白葡萄酒"],"phonetic":""}
-{"word":"Zeltingen-Rachtig","sw":"zeltingenrachtig","translation":["[地名] 采尔廷根-拉赫蒂希 ( 德 )"],"phonetic":""}
 {"word":"zeltinger","sw":"zeltinger","translation":["捷尔定酒（一种葡萄酒）"],"phonetic":""}
 {"word":"zeltser","sw":"zeltser","translation":["[网络] 策尔特西"],"phonetic":""}
 {"word":"Zeltweg","sw":"zeltweg","translation":["[地名] 采尔特韦格 ( 奥 )"],"phonetic":""}
@@ -2412,9 +2234,6 @@
 {"word":"zemuns","sw":"zemuns","translation":["[地名] [塞尔维亚] 泽蒙","(zemun 的复数)"],"phonetic":""}
 {"word":"zemzem","sw":"zemzem","translation":["[网络] 露营地；则牧则牧；渗渗"],"phonetic":""}
 {"word":"Zen","sw":"zen","translation":["n. 禅宗"],"phonetic":"zen"}
-{"word":"zen-like","sw":"zenlike","translation":["[网络] 极富有禅意；禅意地；禅相"],"phonetic":""}
-{"word":"zen-liker","sw":"zenliker","translation":["[网络] 极富有禅意；禅意地；禅相","(zen-like 的比较级)"],"phonetic":""}
-{"word":"zen-likest","sw":"zenlikest","translation":["[网络] 极富有禅意；禅意地；禅相","(zen-like 的最高级)"],"phonetic":""}
 {"word":"Zena","sw":"zena","translation":["扑热息痛、无水咖啡因复方制剂"],"phonetic":"'zenә"}
 {"word":"Zenadrex","sw":"zenadrex","translation":["去氢氯地孕酮,1-去氢氯地孕酮"],"phonetic":""}
 {"word":"Zenaga","sw":"zenaga","translation":["[网络] 泽纳加语；哲纳加语；则拿加文"],"phonetic":""}
@@ -2435,9 +2254,6 @@
 {"word":"zenchiku","sw":"zenchiku","translation":["[网络] 全国畜产公司"],"phonetic":""}
 {"word":"zencius","sw":"zencius","translation":["[网络] 禅宗"],"phonetic":""}
 {"word":"Zend","sw":"zend","translation":["n. (波斯琐罗亚斯德教圣书)阿维斯陀经注解,古波斯语"],"phonetic":"zend"}
-{"word":"Zend-Avesta","sw":"zendavesta","translation":["n. 《亚吠陀》经解合刊","[网络] 阿维斯陀经；波斯祆教圣典；阿维斯陀经注解"],"phonetic":""}
-{"word":"Zend-Avestaic","sw":"zendavestaic","translation":["adj. Zend-Avesta的变形"],"phonetic":",zendəves'teiik"}
-{"word":"zend-avestas","sw":"zendavestas","translation":["Zend-Avesta","[,zendə'vestə]","n.","【琐罗亚斯德教】(波斯圣书)阿维斯陀古经"],"phonetic":",zendə'vestə"}
 {"word":"zenda","sw":"zenda","translation":["[网络] 怔达；神圣的；珊达"],"phonetic":""}
 {"word":"zendas","sw":"zendas","translation":["[网络] 怔达；神圣的；珊达","(zenda 的复数)"],"phonetic":""}
 {"word":"zende","sw":"zende","translation":["[网络] 正德国际拍卖艺术"],"phonetic":""}
@@ -2460,7 +2276,6 @@
 {"word":"zenel","sw":"zenel","translation":["一种滋补强壮剂"],"phonetic":"'zenil"}
 {"word":"zenelmin","sw":"zenelmin","translation":["维生素A、D2、B1、B2、B6、B12、烟酰胺、叶酸、钙、铁、镁复方制剂"],"phonetic":"'zenilmin"}
 {"word":"Zener","sw":"zener","translation":["[计] 齐纳"],"phonetic":"'zi:nә(r),'ze-"}
-{"word":"Zener-diode","sw":"zenerdiode","translation":["[电子] 稳压二极管；[电子] 齐纳二极管"],"phonetic":""}
 {"word":"Zeners","sw":"zeners","translation":["(Zener 的复数) [计] 齐纳"],"phonetic":""}
 {"word":"zeng","sw":"zeng","translation":["n. 曾（中文姓氏）"],"phonetic":""}
 {"word":"zenga","sw":"zenga","translation":["abbr. Zengakuren (Japanese leftwing students) 日本极端左翼学生运动"],"phonetic":""}
@@ -2502,7 +2317,6 @@
 {"word":"zenkerism","sw":"zenkerism","translation":["岑克尔氏变性"],"phonetic":"'tseŋkә,rizәm"}
 {"word":"zenkerize","sw":"zenkerize","translation":["岑克尔氏溶液固定"],"phonetic":"'tseŋkә,raiz"}
 {"word":"zenko","sw":"zenko","translation":["abbr. Zen Nihon Kinsoku Kazan Rodo Kumiai Rengokai (Japanese=All-Japan Federation of Metal Miners Union) （日语）日本金属矿工大联盟"],"phonetic":""}
-{"word":"zenko-ji","sw":"zenkoji","translation":["[网络] 善光寺；拨打善光寺"],"phonetic":""}
 {"word":"zenkoes","sw":"zenkoes","translation":["abbr. Zen Nihon Kinsoku Kazan Rodo Kumiai Rengokai (Japanese=All-Japan Federation of Metal Miners Union) （日语）日本金属矿工大联盟","(zenko 的复数)"],"phonetic":""}
 {"word":"zenkoku","sw":"zenkoku","translation":["[网络] 全国"],"phonetic":""}
 {"word":"Zenkov","sw":"zenkov","translation":["珍科夫"],"phonetic":""}
@@ -2564,7 +2378,6 @@
 {"word":"zentralkassen","sw":"zentralkassen","translation":["中央金库"],"phonetic":""}
 {"word":"zentropil","sw":"zentropil","translation":["二苯基咪唑啉二酮"],"phonetic":"'zentrәpil"}
 {"word":"zentrum","sw":"zentrum","translation":["[网络] 中心；中央党；中心时"],"phonetic":""}
-{"word":"Zentsuji-shi","sw":"zentsujishi","translation":["善通寺市"],"phonetic":""}
 {"word":"ZENworks","sw":"zenworks","translation":["[网络] 可以禁用吗"],"phonetic":""}
 {"word":"zenya","sw":"zenya","translation":["[网络] 今夜"],"phonetic":""}
 {"word":"zenz","sw":"zenz","translation":["[网络] 奔驰"],"phonetic":""}
@@ -2578,8 +2391,6 @@
 {"word":"zenzizenzizenzizenzike","sw":"zenzizenzizenzizenzike","translation":[],"phonetic":""}
 {"word":"Zenzontepec","sw":"zenzontepec","translation":["[地名] 森松特佩克 ( 墨 )"],"phonetic":""}
 {"word":"zeo","sw":"zeo","translation":["abbr. zeolites 沸石"],"phonetic":""}
-{"word":"Zeo-Dur","sw":"zeodur","translation":["硅酸盐阳离子交换剂"],"phonetic":""}
-{"word":"Zeo-Karb","sw":"zeokarb","translation":["磺化煤阳离子交换剂"],"phonetic":""}
 {"word":"zeocin","sw":"zeocin","translation":["[网络] 博莱霉素；博来霉素；抗菌素"],"phonetic":""}
 {"word":"zeodur","sw":"zeodur","translation":["n. 硅酸盐阳离子交换剂"],"phonetic":"'ziːəʊdɜːr"}
 {"word":"zeolite","sw":"zeolite","translation":["n. 沸石","[化] 沸石"],"phonetic":"'zi:әlait"}
@@ -2660,7 +2471,6 @@
 {"word":"Zepine","sw":"zepine","translation":["利舍平生物碱片剂"],"phonetic":""}
 {"word":"zepp","sw":"zepp","translation":["abbr. zeppelin 齐柏林飞艇，齐柏林铝合金"],"phonetic":""}
 {"word":"zeppelin","sw":"zeppelin","translation":["n. 齐柏林飞船"],"phonetic":",tsepә'li:n"}
-{"word":"Zeppelin-antenna","sw":"zeppelinantenna","translation":["齐柏林天线"],"phonetic":""}
 {"word":"Zeppelinheim","sw":"zeppelinheim","translation":["[地名] 采珀林海姆 ( 德 )"],"phonetic":""}
 {"word":"zeppelins","sw":"zeppelins","translation":["n. 齐柏林硬式飞艇"],"phonetic":"'zɛpəlɪn"}
 {"word":"Zeppo","sw":"zeppo","translation":["[网络] 泽波；泽波·马克思"],"phonetic":""}
@@ -2672,31 +2482,6 @@
 {"word":"zeps","sw":"zeps","translation":["[网络] 公司股权转让情况"],"phonetic":""}
 {"word":"zeptampere","sw":"zeptampere","translation":["[网络] 芝加哥"],"phonetic":""}
 {"word":"zepto","sw":"zepto","translation":["仄"],"phonetic":"'zeptəʊ"}
-{"word":"zepto-ampere","sw":"zeptoampere","translation":["[网络] 安培耳廓"],"phonetic":""}
-{"word":"zepto-amperes","sw":"zeptoamperes","translation":["[网络] zepto-ampperes"],"phonetic":""}
-{"word":"zepto-candelas","sw":"zeptocandelas","translation":["[网络] 圆角烛台"],"phonetic":""}
-{"word":"zepto-coulomb","sw":"zeptocoulomb","translation":["[网络] zepto-库仑"],"phonetic":""}
-{"word":"zepto-coulombs","sw":"zeptocoulombs","translation":["[网络] zepto-库仑"],"phonetic":""}
-{"word":"zepto-cycle","sw":"zeptocycle","translation":["[网络] zepto循环"],"phonetic":""}
-{"word":"zepto-cycles","sw":"zeptocycles","translation":["[网络] zepto循环"],"phonetic":""}
-{"word":"zepto-farads","sw":"zeptofarads","translation":["[网络] zepto法拉斯"],"phonetic":""}
-{"word":"zepto-grams","sw":"zeptograms","translation":["[网络] zepto-克"],"phonetic":""}
-{"word":"zepto-hertz","sw":"zeptohertz","translation":["[网络] zepto-赫兹"],"phonetic":""}
-{"word":"zepto-joules","sw":"zeptojoules","translation":["[网络] zepto-焦耳"],"phonetic":""}
-{"word":"zepto-lumen","sw":"zeptolumen","translation":["[网络] zepto流明"],"phonetic":""}
-{"word":"zepto-lumens","sw":"zeptolumens","translation":["[网络] zepto流明"],"phonetic":""}
-{"word":"zepto-meters","sw":"zeptometers","translation":["[网络] zepto-meter"],"phonetic":""}
-{"word":"zepto-metre","sw":"zeptometre","translation":["[网络] zepto-meter"],"phonetic":""}
-{"word":"zepto-metres","sw":"zeptometres","translation":["[网络] zepto-meter"],"phonetic":""}
-{"word":"zepto-moles","sw":"zeptomoles","translation":["[网络] zepto-mole"],"phonetic":""}
-{"word":"zepto-newtons","sw":"zeptonewtons","translation":["[网络] 牛津词典"],"phonetic":""}
-{"word":"zepto-ohm","sw":"zeptoohm","translation":["[网络] Zepto-ohm"],"phonetic":""}
-{"word":"zepto-radians","sw":"zeptoradians","translation":["[网络] zepto-弧度"],"phonetic":""}
-{"word":"zepto-siemens","sw":"zeptosiemens","translation":["[网络] 西门子"],"phonetic":""}
-{"word":"zepto-tesla","sw":"zeptotesla","translation":["[网络] zepto特斯拉"],"phonetic":""}
-{"word":"zepto-volts","sw":"zeptovolts","translation":["[网络] zepto-volt"],"phonetic":""}
-{"word":"zepto-watt","sw":"zeptowatt","translation":["[网络] zepto瓦特"],"phonetic":""}
-{"word":"zepto-watts","sw":"zeptowatts","translation":["[网络] 千帕特瓦特"],"phonetic":""}
 {"word":"zeptoampere","sw":"zeptoampere","translation":["[网络] 去甲苯丙胺"],"phonetic":""}
 {"word":"zeptoamperes","sw":"zeptoamperes","translation":["[网络] z。"],"phonetic":""}
 {"word":"zeptogram","sw":"zeptogram","translation":["[网络] 指示符"],"phonetic":""}
@@ -2720,7 +2505,6 @@
 {"word":"zequine","sw":"zequine","translation":["计算起点"],"phonetic":""}
 {"word":"zequyx","sw":"zequyx","translation":[],"phonetic":""}
 {"word":"zer","sw":"zer","translation":["abbr. 玉米赤霉醇（zeranol）"],"phonetic":""}
-{"word":"zer-guy","sw":"zerguy","translation":["桿间水平拉线"],"phonetic":""}
 {"word":"zera","sw":"zera","translation":["abbr. Zero-Energy Critical Assemblies Reactor(s) 零功率临界装置反应堆"],"phonetic":""}
 {"word":"zeraf","sw":"zeraf","translation":["[网络] 零级"],"phonetic":""}
 {"word":"Zerah","sw":"zerah","translation":["齐拉（人名）"],"phonetic":""}
@@ -2786,7 +2570,6 @@
 {"word":"zermattite","sw":"zermattite","translation":["叶蛇纹石"],"phonetic":""}
 {"word":"zermatts","sw":"zermatts","translation":["n. 策马特（位于瑞士瓦莱斯州）","(zermatt 的复数)"],"phonetic":""}
 {"word":"zermelo","sw":"zermelo","translation":["[网络] 策梅罗；策墨洛；策梅洛"],"phonetic":""}
-{"word":"zermelo-set-theory","sw":"zermelosettheory","translation":["[网络] 策梅洛集合论"],"phonetic":""}
 {"word":"zern","sw":"zern","translation":["[网络] 泽恩"],"phonetic":""}
 {"word":"zerner","sw":"zerner","translation":["[网络] 和策那"],"phonetic":""}
 {"word":"Zernez","sw":"zernez","translation":["[地名] 采尔内茨 ( 瑞士 )"],"phonetic":""}
@@ -2800,150 +2583,6 @@
 {"word":"Zernograd","sw":"zernograd","translation":["[地名] 泽尔诺格勒 ( 俄 )"],"phonetic":""}
 {"word":"Zernovoy","sw":"zernovoy","translation":["[地名] 泽尔诺沃伊 ( 俄 )"],"phonetic":""}
 {"word":"zero","sw":"zero","translation":["n. 零, 零点, 零度, 无, 乌有, 最低点","a. 零的, 没有的","vt. 调零, 对(炮火等)作协调校正","[计] 零"],"phonetic":"ˈzɪərəʊ|ˈzɪrəʊ"}
-{"word":"zero-address","sw":"zeroaddress","translation":["[电] 零阶地址"],"phonetic":""}
-{"word":"zero-addresses","sw":"zeroaddresses","translation":["[电] 零阶地址","(zero-address 的复数)"],"phonetic":""}
-{"word":"zero-adjuster","sw":"zeroadjuster","translation":["[电] 零点调节器"],"phonetic":""}
-{"word":"zero-adjusting","sw":"zeroadjusting","translation":["凋零"],"phonetic":"'ziərəʊədʒ'ʌstɪŋ"}
-{"word":"zero-adjustment","sw":"zeroadjustment","translation":["[电] 零值调节法"],"phonetic":""}
-{"word":"zero-base","sw":"zerobase","translation":["a. 从零开始的, 零基的","vt. 对...采用零基方法"],"phonetic":"'ziro'bes"}
-{"word":"zero-based","sw":"zerobased","translation":["从零开始的; 零基础; 零起点"],"phonetic":"'zɪərəʊb'eɪst"}
-{"word":"zero-baseds","sw":"zerobaseds","translation":["adj. 从零开始的"],"phonetic":""}
-{"word":"zero-bases","sw":"zerobases","translation":["zero-base","['ziərəu'beis; 'zi:-]","adj.","从零开始的，零基的[亦作zero-based]","vt.","对…采用零基方法","变形：","vt.","zero-based",". zero-basing"],"phonetic":"'ziro'bes"}
-{"word":"zero-basing","sw":"zerobasing","translation":["vt. zero-base的变形"],"phonetic":""}
-{"word":"zero-beat","sw":"zerobeat","translation":["[电] 零拍, 零差"],"phonetic":""}
-{"word":"zero-beta","sw":"zerobeta","translation":["[网络] 一零贝塔；无市场风险要"],"phonetic":""}
-{"word":"zero-betas","sw":"zerobetas","translation":["[网络] 一零贝塔；无市场风险要","(zero-beta 的复数)"],"phonetic":""}
-{"word":"zero-bias","sw":"zerobias","translation":["零偏压"],"phonetic":""}
-{"word":"Zero-Bug","sw":"zerobug","translation":["零虫"],"phonetic":""}
-{"word":"zero-buoyancy","sw":"zerobuoyancy","translation":["un. 零浮力"],"phonetic":""}
-{"word":"zero-calorie","sw":"zerocalorie","translation":["[网络] 零卡路里"],"phonetic":""}
-{"word":"zero-capacity","sw":"zerocapacity","translation":["[电] 零点电容"],"phonetic":""}
-{"word":"zero-carbon","sw":"zerocarbon","translation":["adj. 零碳的（指碳排放量减为零或通过环保行为抵消的）","[网络] 零碳排放；无碳；五碳"],"phonetic":""}
-{"word":"zero-clearance","sw":"zeroclearance","translation":["无隙"],"phonetic":"'zɪərəʊkl'ɪərəns"}
-{"word":"zero-compensation","sw":"zerocompensation","translation":["[电] 零补偿"],"phonetic":""}
-{"word":"zero-compression","sw":"zerocompression","translation":["[电] 零压缩"],"phonetic":""}
-{"word":"zero-content","sw":"zerocontent","translation":["[网络] 零内容"],"phonetic":""}
-{"word":"zero-cool","sw":"zerocool","translation":["[网络] 周梁寅"],"phonetic":""}
-{"word":"zero-coupon","sw":"zerocoupon","translation":["un. 无息有价证券","[网络] 零息债券；零票息；零息市府公债"],"phonetic":""}
-{"word":"zero-crossing","sw":"zerocrossing","translation":["零交点"],"phonetic":"'zɪərəʊkr'ɒsɪŋ"}
-{"word":"zero-crossings","sw":"zerocrossings","translation":["(zero-crossing 的复数)  零交点"],"phonetic":""}
-{"word":"zero-dagger","sw":"zerodagger","translation":["0+"],"phonetic":""}
-{"word":"zero-day","sw":"zeroday","translation":["[网络] 零时差；零日；零日攻击"],"phonetic":""}
-{"word":"zero-days","sw":"zerodays","translation":["[网络] 零日漏洞"],"phonetic":""}
-{"word":"zero-decrement","sw":"zerodecrement","translation":["零衰减量"],"phonetic":""}
-{"word":"zero-defect","sw":"zerodefect","translation":["零缺陷"],"phonetic":""}
-{"word":"zero-defects","sw":"zerodefects","translation":["(zero-defect 的复数) 零缺陷"],"phonetic":""}
-{"word":"zero-degree","sw":"zerodegree","translation":["un. 零度；零次","[网络] 零度低温；零斜度流线；温度计刻度零表示的温度"],"phonetic":""}
-{"word":"zero-detection","sw":"zerodetection","translation":["检零"],"phonetic":""}
-{"word":"zero-deviation","sw":"zerodeviation","translation":["零偏差"],"phonetic":""}
-{"word":"zero-dimension","sw":"zerodimension","translation":["零维"],"phonetic":""}
-{"word":"zero-dimensional","sw":"zerodimensional","translation":["adj. 零维的","[网络] 零维理想；零维的了；基于零维"],"phonetic":""}
-{"word":"zero-dispersion","sw":"zerodispersion","translation":["零散波"],"phonetic":""}
-{"word":"zero-divisor","sw":"zerodivisor","translation":["[医] 零因子"],"phonetic":""}
-{"word":"zero-dose","sw":"zerodose","translation":["零剂量,零浓度"],"phonetic":""}
-{"word":"zero-draft","sw":"zerodraft","translation":["un. 无锥度"],"phonetic":""}
-{"word":"zero-drift","sw":"zerodrift","translation":["[电] 零漂浮, 零移"],"phonetic":""}
-{"word":"zero-elimination","sw":"zeroelimination","translation":["[电] 零消除"],"phonetic":""}
-{"word":"zero-emission","sw":"zeroemission","translation":["adj. （车辆）零排放的，无污染的"],"phonetic":"'zɪərəʊɪm'ɪʃn"}
-{"word":"zero-emissions","sw":"zeroemissions","translation":["[网络] 排放；零污染；零排放"],"phonetic":""}
-{"word":"zero-energy","sw":"zeroenergy","translation":["adj. [核物理学]零功率的，零级(点)能量的"],"phonetic":"'ziro'ɛnədʒi"}
-{"word":"zero-entry","sw":"zeroentry","translation":["[网络] 零次签证"],"phonetic":""}
-{"word":"zero-error","sw":"zeroerror","translation":["[电] 零误差"],"phonetic":""}
-{"word":"zero-field","sw":"zerofield","translation":["adj. 零场的","[网络] 零场域；零位场；零势场"],"phonetic":""}
-{"word":"zero-fill","sw":"zerofill","translation":["填零，补零"],"phonetic":""}
-{"word":"zero-forcing","sw":"zeroforcing","translation":["迫零"],"phonetic":""}
-{"word":"zero-frequency","sw":"zerofrequency","translation":["零频"],"phonetic":""}
-{"word":"zero-g","sw":"zerog","translation":["零过载，零重力，失重状态"],"phonetic":"'zɪərəʊdʒ'i:"}
-{"word":"zero-gee","sw":"zerogee","translation":["[网络] 零吉"],"phonetic":""}
-{"word":"zero-grade","sw":"zerograde","translation":["[网络] 零级"],"phonetic":""}
-{"word":"zero-graphy","sw":"zerography","translation":["[网络] 静电照相术"],"phonetic":""}
-{"word":"zero-gravities","sw":"zerogravities","translation":["零重力；失重"],"phonetic":""}
-{"word":"zero-gravity","sw":"zerogravity","translation":["[医] 失重[状态]"],"phonetic":""}
-{"word":"zero-grazed","sw":"zerograzed","translation":["[网络] 零放牧"],"phonetic":""}
-{"word":"zero-grazing","sw":"zerograzing","translation":["割青舍饲"],"phonetic":""}
-{"word":"zero-growth","sw":"zerogrowth","translation":["[经] 经济零点增松"],"phonetic":""}
-{"word":"zero-guy","sw":"zeroguy","translation":["杆间水平拉线"],"phonetic":""}
-{"word":"zero-hour","sw":"zerohour","translation":["预定行动开始时间"],"phonetic":""}
-{"word":"zero-hours","sw":"zerohours","translation":["[网络] 零点行动"],"phonetic":""}
-{"word":"zero-impedance","sw":"zeroimpedance","translation":["n. 零阻抗"],"phonetic":"'ziərəʊɪmp'iːdəns"}
-{"word":"zero-in","sw":"zeroin","translation":["归零校正"],"phonetic":""}
-{"word":"zero-incidence","sw":"zeroincidence","translation":["零冲角;零攻角"],"phonetic":""}
-{"word":"zero-initial","sw":"zeroinitial","translation":["零起点偏压"],"phonetic":""}
-{"word":"zero-kill","sw":"zerokill","translation":["un. 零分类","[网络] 除零；零位抑制；消零"],"phonetic":""}
-{"word":"zero-knowledge","sw":"zeroknowledge","translation":["零知识"],"phonetic":""}
-{"word":"zero-lap","sw":"zerolap","translation":["un. 零重叠度","[网络] 零遮盖；零余面；零叠接"],"phonetic":""}
-{"word":"zero-layer","sw":"zerolayer","translation":["零层"],"phonetic":""}
-{"word":"zero-leak","sw":"zeroleak","translation":["adj. 不漏的；无漏泄的","n. 不漏的"],"phonetic":""}
-{"word":"zero-length","sw":"zerolength","translation":["长度为零"],"phonetic":""}
-{"word":"zero-level","sw":"zerolevel","translation":["[计] 零电平, 零级"],"phonetic":""}
-{"word":"zero-lift","sw":"zerolift","translation":["n. 零升力"],"phonetic":"'ziərəʊl'ɪft"}
-{"word":"zero-line","sw":"zeroline","translation":["基准线；[电] 零位线"],"phonetic":""}
-{"word":"zero-load","sw":"zeroload","translation":["[电] 无载"],"phonetic":""}
-{"word":"zero-magnitude","sw":"zeromagnitude","translation":["un. 零级地震"],"phonetic":""}
-{"word":"zero-mark","sw":"zeromark","translation":["零米标高;零位记号"],"phonetic":""}
-{"word":"zero-marking","sw":"zeromarking","translation":["[网络] 零标记"],"phonetic":""}
-{"word":"zero-mass","sw":"zeromass","translation":["零质量"],"phonetic":""}
-{"word":"zero-method","sw":"zeromethod","translation":["[电] 零位法"],"phonetic":""}
-{"word":"zero-moment","sw":"zeromoment","translation":["零矩"],"phonetic":""}
-{"word":"zero-offset","sw":"zerooffset","translation":["[电子] 零点偏移；零点误差"],"phonetic":""}
-{"word":"zero-offsets","sw":"zerooffsets","translation":["[网络] 零点偏置"],"phonetic":""}
-{"word":"zero-one","sw":"zeroone","translation":["n. 零一","[网络] 零壹；小型跑车；异界少年"],"phonetic":""}
-{"word":"zero-order","sw":"zeroorder","translation":["零阶"],"phonetic":"'zɪərəʊ'ɔ:dər"}
-{"word":"zero-percent","sw":"zeropercent","translation":["[网络] 零百分比"],"phonetic":""}
-{"word":"zero-phase","sw":"zerophase","translation":["零相位"],"phonetic":""}
-{"word":"zero-phonon","sw":"zerophonon","translation":["n. 零声子"],"phonetic":"'ziərəʊf'ɒnəʊn"}
-{"word":"zero-point","sw":"zeropoint","translation":["[电] 零点"],"phonetic":""}
-{"word":"zero-points","sw":"zeropoints","translation":["[网络] 称之为零点"],"phonetic":""}
-{"word":"zero-pole","sw":"zeropole","translation":["[电] 零极"],"phonetic":""}
-{"word":"zero-potential","sw":"zeropotential","translation":["[电] 零电位"],"phonetic":""}
-{"word":"zero-power","sw":"zeropower","translation":["adj. 【物理学】零功率的"],"phonetic":"'ziərəu'pauə; 'zi:-"}
-{"word":"zero-power-gain","sw":"zeropowergain","translation":["零功率增益"],"phonetic":""}
-{"word":"zero-pressure","sw":"zeropressure","translation":["零压"],"phonetic":""}
-{"word":"zero-pressure-gradient","sw":"zeropressuregradient","translation":["un. 零压力梯度"],"phonetic":""}
-{"word":"zero-rate","sw":"zerorate","translation":["[金融] 零率"],"phonetic":""}
-{"word":"zero-rated","sw":"zerorated","translation":["不加增值税的（货物、服务等）"],"phonetic":""}
-{"word":"zero-rates","sw":"zerorates","translation":["(zero-rate 的复数) [金融] 零率"],"phonetic":""}
-{"word":"zero-rating","sw":"zerorating","translation":["[经] 免税, 不征税"],"phonetic":""}
-{"word":"zero-ratings","sw":"zeroratings","translation":["[经] 免税, 不征税","(zero-rating 的复数)"],"phonetic":""}
-{"word":"zero-reading","sw":"zeroreading","translation":["[电] 零读数"],"phonetic":""}
-{"word":"zero-risk","sw":"zerorisk","translation":["[网络] 零风险"],"phonetic":""}
-{"word":"zero-risks","sw":"zerorisks","translation":["[网络] 零风险","(zero-risk 的复数)"],"phonetic":""}
-{"word":"zero-sequence","sw":"zerosequence","translation":["零序"],"phonetic":""}
-{"word":"zero-set","sw":"zeroset","translation":["[电] 零组"],"phonetic":""}
-{"word":"zero-shift","sw":"zeroshift","translation":["[电] 零移"],"phonetic":""}
-{"word":"zero-shifting","sw":"zeroshifting","translation":["零点移位法"],"phonetic":""}
-{"word":"zero-signal","sw":"zerosignal","translation":["零信号;无信号"],"phonetic":""}
-{"word":"zero-slip","sw":"zeroslip","translation":["零位滑移"],"phonetic":""}
-{"word":"zero-slope","sw":"zeroslope","translation":["零斜率"],"phonetic":""}
-{"word":"zero-speed","sw":"zerospeed","translation":["零速，静止"],"phonetic":""}
-{"word":"zero-spin","sw":"zerospin","translation":["[物] 无自旋的"],"phonetic":""}
-{"word":"zero-stability","sw":"zerostability","translation":["零稳定性"],"phonetic":""}
-{"word":"zero-state","sw":"zerostate","translation":["零状态（等于zero condition）"],"phonetic":""}
-{"word":"zero-static","sw":"zerostatic","translation":["[网络] 零静差的"],"phonetic":""}
-{"word":"zero-stuffing","sw":"zerostuffing","translation":["补零"],"phonetic":""}
-{"word":"zero-sum","sw":"zerosum","translation":["a. 得失所系的"],"phonetic":"'ziәrәj'sʌm,'zi:-"}
-{"word":"zero-sum-game","sw":"zerosumgame","translation":["un. 零和对策","[网络] 零和博弈；零和赛局；零和对局"],"phonetic":""}
-{"word":"zero-sums","sw":"zerosums","translation":["zero-sum","['ziərəu'sʌm; 'zi:-]","adj.","(赌赛胜负双方)一方得益引起另一方损失的，得失所系的"],"phonetic":"'ziro'sʌm"}
-{"word":"zero-suppression","sw":"zerosuppression","translation":["消零"],"phonetic":""}
-{"word":"zero-surface","sw":"zerosurface","translation":["零面"],"phonetic":""}
-{"word":"zero-synchronization","sw":"zerosynchronization","translation":["零点同步(重定)"],"phonetic":""}
-{"word":"zero-tasking","sw":"zerotasking","translation":["[网络] 放慢步调"],"phonetic":""}
-{"word":"zero-temperature","sw":"zerotemperature","translation":["un. 零温度","[网络] 零度；零度温度；零点温度系数"],"phonetic":""}
-{"word":"zero-test","sw":"zerotest","translation":["零位试验"],"phonetic":""}
-{"word":"zero-tillage","sw":"zerotillage","translation":["[网络] 零耕作；免耕；零耕田"],"phonetic":""}
-{"word":"zero-tolerance","sw":"zerotolerance","translation":["na. 零容忍","[网络] 零容忍度；没有零容忍政策；零容许度"],"phonetic":""}
-{"word":"zero-turn","sw":"zeroturn","translation":["[网络] 零转向"],"phonetic":""}
-{"word":"zero-turn-radius","sw":"zeroturnradius","translation":["[网络] 零回转半径"],"phonetic":""}
-{"word":"Zero-TV","sw":"zerotv","translation":["[网络] 零电视；零电视一族；电视媒介的人数"],"phonetic":""}
-{"word":"zero-valence","sw":"zerovalence","translation":["un. 零价"],"phonetic":""}
-{"word":"zero-valent","sw":"zerovalent","translation":["[机] 零价的"],"phonetic":""}
-{"word":"zero-visibility","sw":"zerovisibility","translation":["[网络] 零视觉"],"phonetic":""}
-{"word":"zero-voc","sw":"zerovoc","translation":["[网络] 零挥发性；挥发性成分"],"phonetic":""}
-{"word":"zero-voltage","sw":"zerovoltage","translation":["零电压"],"phonetic":""}
-{"word":"zero-waste","sw":"zerowaste","translation":["[网络] 零废弃物；零浪费；零废弃指导"],"phonetic":""}
-{"word":"zero-water","sw":"zerowater","translation":["蒸馏水"],"phonetic":""}
-{"word":"zero-year-old","sw":"zeroyearold","translation":["未周年鱼, 零岁；未周年 {鱼}"],"phonetic":""}
-{"word":"zero-zero","sw":"zerozero","translation":["a. 零视度的, 零零条件的"],"phonetic":"'ziәrәj'ziәrәj,'zi:rәj'zi:-"}
 {"word":"zeroable","sw":"zeroable","translation":["[网络] 可零"],"phonetic":""}
 {"word":"zeroaddress","sw":"zeroaddress","translation":["un. 零地址","[网络] 零位址"],"phonetic":""}
 {"word":"zeroadic","sw":"zeroadic","translation":["[网络] 零级"],"phonetic":""}
@@ -2987,7 +2626,6 @@
 {"word":"zeroin","sw":"zeroin","translation":["na. 调整(枪炮的)射距；把(火力)对准目标","[网络] 归零；瞄准；瞄准锁定"],"phonetic":""}
 {"word":"zeroincidence","sw":"zeroincidence","translation":["un. 零倾角"],"phonetic":""}
 {"word":"zeroing","sw":"zeroing","translation":["[计] 调零, 填零, 补零"],"phonetic":"ziәrәuiŋ"}
-{"word":"zeroing-in","sw":"zeroingin","translation":["校正"],"phonetic":""}
 {"word":"zeroingin","sw":"zeroingin","translation":["n. 校对"],"phonetic":"'ziərəʊɪnɡɪn"}
 {"word":"zeroings","sw":"zeroings","translation":["n. 归零，[仪] 零位调整","v. 做归零校正；把…减少到零（zero的现在分词）"],"phonetic":"'ziroɪŋ"}
 {"word":"zeroinitial","sw":"zeroinitial","translation":["[网络] 零声母；零初始化"],"phonetic":""}
@@ -3033,7 +2671,6 @@
 {"word":"zerotemperature","sw":"zerotemperature","translation":["un. 零温度","[网络] 零度；零度温度；零点温度系数"],"phonetic":""}
 {"word":"zerotest","sw":"zerotest","translation":["n. 零位试验"],"phonetic":"'zerəʊtest"}
 {"word":"zeroth","sw":"zeroth","translation":["[计] 第0个"],"phonetic":"'ziәrәjð,-rәjθ,'zi:-"}
-{"word":"zeroth-order","sw":"zerothorder","translation":["零次;零级;零阶"],"phonetic":""}
 {"word":"zerothly","sw":"zerothly","translation":["[网络] 第零点"],"phonetic":""}
 {"word":"zerothorder","sw":"zerothorder","translation":["adj. 零次的"],"phonetic":"ze'ruːthɔːdər"}
 {"word":"zerotime","sw":"zerotime","translation":["n. 零时","[网络] 苏林；也算我一份吧"],"phonetic":""}
@@ -3094,13 +2731,6 @@
 {"word":"zesty","sw":"zesty","translation":["a. 强烈的兴趣, 热心, 热忱, 热情, 滋味, 风趣, 香味, 风味","vt. 给...加香味, 给...调味, 给...添风趣, 给...增兴趣"],"phonetic":"'zesti"}
 {"word":"zet","sw":"zet","translation":["abbr. zetetic(s) 调查的，考究的"],"phonetic":""}
 {"word":"zeta","sw":"zeta","translation":["n. 希腊语第六个字母"],"phonetic":"'zi:tә. 'zei-"}
-{"word":"Zeta-cypermethrin","sw":"zetacypermethrin","translation":["Z-氯氰菊酯"],"phonetic":""}
-{"word":"zeta-distribution","sw":"zetadistribution","translation":["ζ分布"],"phonetic":""}
-{"word":"zeta-function","sw":"zetafunction","translation":["[计]Z函数"],"phonetic":"ˈzi:tə ˈfʌŋkʃən"}
-{"word":"zeta-jones","sw":"zetajones","translation":["[网络] 埃莱娜"],"phonetic":""}
-{"word":"zeta-potential","sw":"zetapotential","translation":["电动电位"],"phonetic":""}
-{"word":"zeta-probe","sw":"zetaprobe","translation":["[网络] 超声探头"],"phonetic":""}
-{"word":"zeta-type","sw":"zetatype","translation":["歹字型构造"],"phonetic":""}
 {"word":"zetabyte","sw":"zetabyte","translation":["[网络] 皆字节"],"phonetic":""}
 {"word":"zetacrit","sw":"zetacrit","translation":["[医]浓集红细胞压积"],"phonetic":"zi:'tækrɪt"}
 {"word":"Zetafuge","sw":"zetafuge","translation":["用于测定zeta沉降率仪器的商品名"],"phonetic":""}
@@ -3140,35 +2770,6 @@
 {"word":"zets","sw":"zets","translation":["打, 击, 拍打, 拳击"],"phonetic":"zets"}
 {"word":"zetsche","sw":"zetsche","translation":["[网络] 蔡彻；戴姆勒首席执行官蔡澈"],"phonetic":""}
 {"word":"zetta","sw":"zetta","translation":[],"phonetic":""}
-{"word":"zetta-ampere","sw":"zettaampere","translation":["[网络] zetta安培"],"phonetic":""}
-{"word":"zetta-amperes","sw":"zettaamperes","translation":["[网络] zetta安培"],"phonetic":""}
-{"word":"zetta-coulomb","sw":"zettacoulomb","translation":["[网络] 泽塔库仑"],"phonetic":""}
-{"word":"zetta-coulombs","sw":"zettacoulombs","translation":["[网络] 泽塔库仑"],"phonetic":""}
-{"word":"zetta-cycle","sw":"zettacycle","translation":["[网络] zetta循环"],"phonetic":""}
-{"word":"zetta-cycles","sw":"zettacycles","translation":["[网络] zetta循环"],"phonetic":""}
-{"word":"zetta-farads","sw":"zettafarads","translation":["[网络] zetta法拉斯"],"phonetic":""}
-{"word":"zetta-grams","sw":"zettagrams","translation":["[网络] 泽塔克"],"phonetic":""}
-{"word":"zetta-gray","sw":"zettagray","translation":["[网络] 泽塔灰色"],"phonetic":""}
-{"word":"zetta-hertz","sw":"zettahertz","translation":["[网络] zetta-赫兹"],"phonetic":""}
-{"word":"zetta-joules","sw":"zettajoules","translation":["[网络] zetta-焦耳"],"phonetic":""}
-{"word":"zetta-kelvin","sw":"zettakelvin","translation":["[网络] 泽泽开尔文"],"phonetic":""}
-{"word":"zetta-lumen","sw":"zettalumen","translation":["[网络] zetta流明"],"phonetic":""}
-{"word":"zetta-lumens","sw":"zettalumens","translation":["[网络] zetta流明"],"phonetic":""}
-{"word":"zetta-meter","sw":"zettameter","translation":["[网络] zetta米"],"phonetic":""}
-{"word":"zetta-meters","sw":"zettameters","translation":["[网络] zetta米"],"phonetic":""}
-{"word":"zetta-metre","sw":"zettametre","translation":["[网络] zetta米"],"phonetic":""}
-{"word":"zetta-metres","sw":"zettametres","translation":["[网络] zetta米"],"phonetic":""}
-{"word":"zetta-mole","sw":"zettamole","translation":["[网络] 泽塔摩尔"],"phonetic":""}
-{"word":"zetta-moles","sw":"zettamoles","translation":["[网络] zetta摩尔"],"phonetic":""}
-{"word":"zetta-newtons","sw":"zettanewtons","translation":["[网络] zetta牛顿"],"phonetic":""}
-{"word":"zetta-radians","sw":"zettaradians","translation":["[网络] zetta-弧度"],"phonetic":""}
-{"word":"zetta-seconds","sw":"zettaseconds","translation":["[网络] zetta秒"],"phonetic":""}
-{"word":"zetta-siemens","sw":"zettasiemens","translation":["[网络] 芝麻菜"],"phonetic":""}
-{"word":"zetta-tesla","sw":"zettatesla","translation":["[网络] zetta特斯拉"],"phonetic":""}
-{"word":"zetta-volt","sw":"zettavolt","translation":["[网络] zetta伏"],"phonetic":""}
-{"word":"zetta-volts","sw":"zettavolts","translation":["[网络] zetta-volt"],"phonetic":""}
-{"word":"zetta-watt","sw":"zettawatt","translation":["[网络] 泽塔瓦特"],"phonetic":""}
-{"word":"zetta-watts","sw":"zettawatts","translation":["[网络] 泽塔瓦特"],"phonetic":""}
 {"word":"zettaampere","sw":"zettaampere","translation":["[网络] 泽塔佩雷"],"phonetic":""}
 {"word":"zettabit","sw":"zettabit","translation":["[网络] 十垓位元"],"phonetic":""}
 {"word":"zettabyte","sw":"zettabyte","translation":["泽字节"],"phonetic":""}
@@ -3430,7 +3031,6 @@
 {"word":"Zheleznodorozhny","sw":"zheleznodorozhny","translation":["热列兹诺多罗日尼"],"phonetic":""}
 {"word":"Zheleznodorozhnyy","sw":"zheleznodorozhnyy","translation":["[地名] 热列兹诺多罗日内 ( 俄 )"],"phonetic":""}
 {"word":"Zheleznogorsk","sw":"zheleznogorsk","translation":["[网络] 热列兹诺戈尔斯克；日列兹诺戈尔斯克"],"phonetic":""}
-{"word":"Zheleznogorsk-Ilimskiy","sw":"zheleznogorskilimskiy","translation":["[地名] 热列兹诺戈尔斯克-伊利姆斯基 ( 俄 )"],"phonetic":""}
 {"word":"Zheleznovodsk","sw":"zheleznovodsk","translation":["[地名] 热列兹诺沃茨克 ( 俄 )"],"phonetic":""}
 {"word":"Zheleznya","sw":"zheleznya","translation":["[地名] 热列兹尼亚 ( 俄 )"],"phonetic":""}
 {"word":"Zheltorangy","sw":"zheltorangy","translation":["[地名] 热尔托兰格 ( 哈 )"],"phonetic":""}
@@ -3494,7 +3094,6 @@
 {"word":"Zhilovaya","sw":"zhilovaya","translation":["[地名] 日洛瓦亚河 ( 俄 )"],"phonetic":""}
 {"word":"zhiltsov","sw":"zhiltsov","translation":["[网络] 日利佐夫"],"phonetic":""}
 {"word":"zhimusaponin","sw":"zhimusaponin","translation":["知母皂甙"],"phonetic":""}
-{"word":"zhing-zhong","sw":"zhingzhong","translation":["[网络] 中兴"],"phonetic":""}
 {"word":"Zhinvali","sw":"zhinvali","translation":["[地名] 任瓦利 ( 格鲁 )"],"phonetic":""}
 {"word":"Zhipkhegen","sw":"zhipkhegen","translation":["[地名] 日普赫根 ( 俄 )"],"phonetic":""}
 {"word":"Zhiqiang","sw":"zhiqiang","translation":["[网络] 香港理工大学"],"phonetic":""}
@@ -3531,7 +3130,6 @@
 {"word":"Zhizhitsa","sw":"zhizhitsa","translation":["[地名] 日日察 ( 俄 )"],"phonetic":""}
 {"word":"zhizn","sw":"zhizn","translation":["[网络] 生活；生活报"],"phonetic":""}
 {"word":"zhkh","sw":"zhkh","translation":["[网络] 走开；综合考核"],"phonetic":""}
-{"word":"Zhllinger-Ellison","sw":"zhllingerellison","translation":["卓-艾"],"phonetic":""}
 {"word":"Zhlobin","sw":"zhlobin","translation":["[地名] 日洛宾 ( 白 )"],"phonetic":""}
 {"word":"zhlub","sw":"zhlub","translation":["n.","[俚语]乡巴佬，蠢人，笨蛋，傻瓜"],"phonetic":"ʒlʌb"}
 {"word":"zhlubby","sw":"zhlubby","translation":["zhlubby","adj.","zhlub的变形","zhlub","[ʒlʌb]","n.","[俚语]乡巴佬，蠢人，笨蛋，傻瓜"],"phonetic":"ʒlʌb"}
@@ -3544,7 +3142,6 @@
 {"word":"zholy","sw":"zholy","translation":["[网络] 赵腊月"],"phonetic":""}
 {"word":"Zholymbet","sw":"zholymbet","translation":["[地名] 若伦别特 ( 哈 )"],"phonetic":""}
 {"word":"zhong","sw":"zhong","translation":["n. 中（汉语拼音）"],"phonetic":""}
-{"word":"zhong-hu","sw":"zhonghu","translation":["[网络] 胡中；胡忠"],"phonetic":""}
 {"word":"zhongbaensis","sw":"zhongbaensis","translation":["[网络] 仲巴蝇子草；仲巴早熟禾"],"phonetic":""}
 {"word":"zhongchao","sw":"zhongchao","translation":["[网络] 中超直播；国足"],"phonetic":""}
 {"word":"Zhongchong","sw":"zhongchong","translation":["中冲"],"phonetic":""}
@@ -3600,8 +3197,6 @@
 {"word":"ZHP","sw":"zhp","translation":["[网络] 程序控制结构；张张；筣"],"phonetic":""}
 {"word":"zhr","sw":"zhr","translation":["abbr. zenith hourly rate 天顶每时出现率; zirconium hydride reactor 氢化锆反应堆"],"phonetic":"'zi:'etʃ'ɑ:r"}
 {"word":"zhu","sw":"zhu","translation":["n. 朱（姓氏）"],"phonetic":""}
-{"word":"Zhu-Takaoka","sw":"zhutakaoka","translation":["Zhu-Takaoka 演算式"],"phonetic":""}
-{"word":"zhu-xi","sw":"zhuxi","translation":["[网络] 朱熹；朱子；朱夫子"],"phonetic":""}
 {"word":"zhuan","sw":"zhuan","translation":["n. 转；专（汉语拼音）"],"phonetic":""}
 {"word":"zhuang","sw":"zhuang","translation":["n. 壮族；壮语"],"phonetic":""}
 {"word":"zhuangbility","sw":"zhuangbility","translation":["装逼的中式英语写法。为网络词汇"],"phonetic":""}
@@ -3663,9 +3258,7 @@
 {"word":"Zhytomyr","sw":"zhytomyr","translation":["[网络] 日托米尔；乌克兰；日托米尔州"],"phonetic":""}
 {"word":"ZHz","sw":"zhz","translation":["[网络] 郑州(Zhengzhou)；夜阑听雨；品牌名称"],"phonetic":""}
 {"word":"zi","sw":"zi","translation":["abbr. 美国本土, 后方地带（等于zone of interior）"],"phonetic":""}
-{"word":"ZI-worm","sw":"ziworm","translation":["[机] ＺＩ蜗杆"],"phonetic":""}
 {"word":"Zia","sw":"zia","translation":["n. 齐娅（女子名）"],"phonetic":""}
-{"word":"zia-ul-haq","sw":"ziaulhaq","translation":["un. 齐亚·哈克","[网络] 齐亚哈克"],"phonetic":""}
 {"word":"ziach","sw":"ziach","translation":["[网络] 邪气"],"phonetic":""}
 {"word":"ziaches","sw":"ziaches","translation":["[网络] 邪气","(ziach 的复数)"],"phonetic":""}
 {"word":"ziad","sw":"ziad","translation":["[网络] 浙江省建筑设计研究院；建筑规划设计研究院；齐亚德"],"phonetic":""}
@@ -3782,13 +3375,10 @@
 {"word":"ziegfelds","sw":"ziegfelds","translation":["齐格菲尔德（人名）","(ziegfeld 的复数)"],"phonetic":""}
 {"word":"ziegfield","sw":"ziegfield","translation":["[网络] 齐格菲尔德"],"phonetic":""}
 {"word":"ziegler","sw":"ziegler","translation":["n. 齐格勒（德语人名）；捷格罗白葡萄酒"],"phonetic":"'zi:^lә"}
-{"word":"Ziegler-Natta","sw":"zieglernatta","translation":["[网络] 纳塔；催化剂；有规立构催化剂"],"phonetic":""}
 {"word":"zieglers","sw":"zieglers","translation":["Ziegler","['zi:ɡlə]","齐格勒(男子名)"],"phonetic":"'zi:ɡlə"}
 {"word":"Zieglerville","sw":"zieglerville","translation":["[地名] 齐格勒维尔 ( 美 )"],"phonetic":""}
 {"word":"Ziehen","sw":"ziehen","translation":["齐恩"],"phonetic":""}
-{"word":"Ziehen-Oppenheim","sw":"ziehenoppenheim","translation":["齐思-奥本海姆"],"phonetic":""}
 {"word":"Ziehl","sw":"ziehl","translation":["[网络] 施乐百；齐尔；继电器"],"phonetic":""}
-{"word":"ziehl-neelsen","sw":"ziehlneelsen","translation":["[网络] 抗酸染色；萋一尼；尼氏"],"phonetic":""}
 {"word":"ziehm","sw":"ziehm","translation":["[网络] 奇目；德国奇目"],"phonetic":""}
 {"word":"ziek","sw":"ziek","translation":["[网络] 齐克"],"phonetic":""}
 {"word":"ziel","sw":"ziel","translation":["[网络] 目标；齐尔；吉祥"],"phonetic":""}
@@ -3829,7 +3419,6 @@
 {"word":"zif","sw":"zif","translation":["abbr. zero insertion force (connector) 零[无]插拔力（连接器）; zero intermediate frequency technology 零中频技术; zero insertion force mating 零[无]插拔力配合; ZyCAD Intermediate Format 中间形式"],"phonetic":""}
 {"word":"zifar","sw":"zifar","translation":["[网络] 齐法尔"],"phonetic":""}
 {"word":"ziff","sw":"ziff","translation":["n. <澳口>(颏上的)胡须, 络腮胡子"],"phonetic":"zif"}
-{"word":"ziff-davis","sw":"ziffdavis","translation":["[网络] 出版公司；齐弗一戴维斯公司"],"phonetic":""}
 {"word":"ziffel","sw":"ziffel","translation":["[网络] 泽菲尔德"],"phonetic":""}
 {"word":"zifferero","sw":"zifferero","translation":["齐费雷罗"],"phonetic":""}
 {"word":"ziffereroes","sw":"ziffereroes","translation":["齐费雷罗","(zifferero 的复数)"],"phonetic":""}
@@ -3838,14 +3427,6 @@
 {"word":"zifs","sw":"zifs","translation":["[网络] 沸石咪唑酯骨架结构材料；沸石咪唑酯骨架材料；咪唑框架材料"],"phonetic":""}
 {"word":"ZIFT","sw":"zift","translation":["abbr. 合子输卵管内移植（Zygote Intrafallopian Transfer）；服装设计与工程"],"phonetic":""}
 {"word":"zig","sw":"zig","translation":["n. 锯齿状的角折转变, 改变方向, 急转","vi. 转弯"],"phonetic":"zig"}
-{"word":"zig-a-zig-ah","sw":"zigazigah","translation":[],"phonetic":""}
-{"word":"zig-zag","sw":"zigzag","translation":["曲折的"],"phonetic":"zɪg'zæg"}
-{"word":"zig-zagged","sw":"zigzagged","translation":["adj. 呈之字形移动的"],"phonetic":""}
-{"word":"zig-zaggeds","sw":"zigzaggeds","translation":["adj. 呈之字形移动的"],"phonetic":"'zɪgzæg"}
-{"word":"zig-zagging","sw":"zigzagging","translation":["n. 之字形运动；锯齿形运动","v. 成之字形（zigzag现在分词）"],"phonetic":""}
-{"word":"zig-zaggings","sw":"zigzaggings","translation":["n. 之字形运动；锯齿形运动","v. 成之字形（zigzag现在分词）"],"phonetic":""}
-{"word":"zig-zags","sw":"zigzags","translation":["(zig-zag 的复数)  曲折的"],"phonetic":""}
-{"word":"zig-zig","sw":"zigzig","translation":["[网络] 往复式；之字扫描"],"phonetic":""}
 {"word":"ziga","sw":"ziga","translation":["[网络] 全佳；全佳系列；施嘉"],"phonetic":""}
 {"word":"zigabo","sw":"zigabo","translation":["[网络] 齐格博"],"phonetic":""}
 {"word":"zigadene","sw":"zigadene","translation":["[网络] 赞子"],"phonetic":""}
@@ -3887,7 +3468,6 @@
 {"word":"zigs","sw":"zigs","translation":["(zig 的第三人称 -s形式) n. 锯齿状的角折转变, 改变方向, 急转","vi. 转弯"],"phonetic":""}
 {"word":"zigsaw","sw":"zigsaw","translation":["[网络] 拼图"],"phonetic":""}
 {"word":"zigsaws","sw":"zigsaws","translation":["[网络] 拼图"],"phonetic":""}
-{"word":"zigu-glucoside","sw":"ziguglucoside","translation":["地榆甙"],"phonetic":""}
 {"word":"zigua","sw":"zigua","translation":["[网络] 范梦婕"],"phonetic":""}
 {"word":"zigueline","sw":"zigueline","translation":["赤铜矿"],"phonetic":""}
 {"word":"zigui","sw":"zigui","translation":["[网络] 秭归"],"phonetic":""}
@@ -3895,8 +3475,6 @@
 {"word":"ziguinchors","sw":"ziguinchors","translation":["[地名] 济金绍尔 ( 塞内 )","(ziguinchor 的复数)"],"phonetic":""}
 {"word":"zigun","sw":"zigun","translation":["[网络] 自贡"],"phonetic":""}
 {"word":"zigzag","sw":"zigzag","translation":["n. 曲折线条, Z字形道路","a. 之字形的, 曲折的, 锯齿形的","adv. 之字形地, 曲折地, 成锯齿形地","vt. 使成之字形, 使曲折进行","vi. 成之字形, 弯曲地走路"],"phonetic":"ˈzɪɡzæɡ|ˈzɪɡzæɡ"}
-{"word":"zigzag-riveting","sw":"zigzagriveting","translation":["交错铆接；差排铆接"],"phonetic":""}
-{"word":"zigzag-spring","sw":"zigzagspring","translation":["[网络] Z字型弹簧"],"phonetic":""}
 {"word":"zigzagged","sw":"zigzagged","translation":["a. 呈之字形移动的","v. 弯弯曲曲地走路, 曲折地前进( zigzag的过去式和过去分词 )"],"phonetic":"'zɪɡzæɡd"}
 {"word":"zigzaggedly","sw":"zigzaggedly","translation":["[网络] 曲折的"],"phonetic":""}
 {"word":"zigzaggedness","sw":"zigzaggedness","translation":["zigzaggedness","n.","zigzag的变形","zigzag","['ziɡzæɡ]","n.","锯齿形，Z字形，之字形","之字形线条，之字形道路(壕沟等)","adj.","锯齿形的，Z字形的，之字形的，曲折的","adv.","曲折地，锯齿形地，Z字形地","vi.","曲折行进，作Z字形行进","vt.","使呈Z字形移动","变形：","vi.","zigzagged",". zigzagging"],"phonetic":"'ziɡzæɡ"}
@@ -3945,7 +3523,6 @@
 {"word":"zikurats","sw":"zikurats","translation":["[网络] ziggurats"],"phonetic":""}
 {"word":"zil","sw":"zil","translation":["abbr. zillion （美口）庞大的数字，无法计算的大数字（让人无法信任的数字）"],"phonetic":""}
 {"word":"zila","sw":"zila","translation":["[网络] 尸罗；吉拉；是露股沟吧"],"phonetic":""}
-{"word":"Zilactin-L","sw":"zilactinl","translation":["2.5%利多卡因和74.9%乙醇溶液"],"phonetic":""}
 {"word":"Ziladent","sw":"ziladent","translation":["6%苯佐卡因和74.9%乙醇凝胶"],"phonetic":""}
 {"word":"Zilaf","sw":"zilaf","translation":["济拉夫"],"phonetic":""}
 {"word":"Zilair","sw":"zilair","translation":["[地名] 济莱尔 ( 俄 )"],"phonetic":""}
@@ -4039,7 +3616,6 @@
 {"word":"zimba","sw":"zimba","translation":["[地名] [刚果民主共和国、坦桑尼亚、赞比亚、中非共和国] 津巴"],"phonetic":""}
 {"word":"zimbabwa","sw":"zimbabwa","translation":["[网络] 非洲"],"phonetic":""}
 {"word":"Zimbabwe","sw":"zimbabwe","translation":["n. 津巴布韦"],"phonetic":"zim'bɑ:bwei"}
-{"word":"Zimbabwe-Rhodesia","sw":"zimbabwerhodesia","translation":["津巴布韦—罗得西亚(1979年成立的津巴布韦过渡政府)"],"phonetic":""}
 {"word":"Zimbabwean","sw":"zimbabwean","translation":["n. 津巴布韦人"],"phonetic":"zim'bɑ:bwiәn"}
 {"word":"Zimbabweanness","sw":"zimbabweanness","translation":["[网络] 津津有味"],"phonetic":""}
 {"word":"Zimbabweans","sw":"zimbabweans","translation":["(Zimbabwean 的复数) n.津巴布韦人"],"phonetic":""}
@@ -4137,39 +3713,6 @@
 {"word":"Zinat","sw":"zinat","translation":["[地名] 济纳特 ( 摩洛 )"],"phonetic":""}
 {"word":"zinberg","sw":"zinberg","translation":["[人名] 津伯格"],"phonetic":""}
 {"word":"zinc","sw":"zinc","translation":["n. 锌","vt. 镀锌于"],"phonetic":"zɪŋk|zɪŋk"}
-{"word":"zinc-air","sw":"zincair","translation":["[网络] 锌空气电池；锌空电池；锌氧"],"phonetic":""}
-{"word":"zinc-aluminate","sw":"zincaluminate","translation":["[网络] 锌铝尖晶石"],"phonetic":""}
-{"word":"zinc-Aluminite","sw":"zincaluminite","translation":["锌矾石"],"phonetic":""}
-{"word":"zinc-alummite","sw":"zincalummite","translation":["锌明矾"],"phonetic":""}
-{"word":"zinc-alumnite","sw":"zincalumnite","translation":["锌明矾"],"phonetic":""}
-{"word":"zinc-aragonite","sw":"zincaragonite","translation":["锌霰石"],"phonetic":""}
-{"word":"zinc-bearing","sw":"zincbearing","translation":["含锌的"],"phonetic":""}
-{"word":"zinc-binding","sw":"zincbinding","translation":["[网络] 键结锌离子"],"phonetic":""}
-{"word":"zinc-carbon","sw":"zinccarbon","translation":["[网络] 锌碳"],"phonetic":""}
-{"word":"zinc-carnosine","sw":"zinccarnosine","translation":["[网络] 专利锌肌肽"],"phonetic":""}
-{"word":"zinc-coated","sw":"zinccoated","translation":["镀锌的"],"phonetic":""}
-{"word":"zinc-duralumin","sw":"zincduralumin","translation":["合锌杜拉铝"],"phonetic":""}
-{"word":"zinc-etching","sw":"zincetching","translation":["锌蚀刻"],"phonetic":""}
-{"word":"zinc-fahlerz","sw":"zincfahlerz","translation":["锌黝铜矿"],"phonetic":""}
-{"word":"zinc-fauserite","sw":"zincfauserite","translation":["锌锰泻盐"],"phonetic":""}
-{"word":"zinc-finger","sw":"zincfinger","translation":["锌指状结构"],"phonetic":""}
-{"word":"zinc-hausmannite","sw":"zinchausmannite","translation":["锌黑锰矿"],"phonetic":""}
-{"word":"zinc-melanterite","sw":"zincmelanterite","translation":["锌绿矾"],"phonetic":""}
-{"word":"zinc-oxide","sw":"zincoxide","translation":["氧化锌"],"phonetic":""}
-{"word":"zinc-oxide-eugenol","sw":"zincoxideeugenol","translation":["氧化锌丁香油酚"],"phonetic":""}
-{"word":"zinc-plate","sw":"zincplate","translation":["锌版"],"phonetic":""}
-{"word":"zinc-plated","sw":"zincplated","translation":["adj. 镀锌的","[网络] 电镀锌；热镀锌"],"phonetic":""}
-{"word":"zinc-plateds","sw":"zincplateds","translation":["adj. 镀锌的","[网络] 电镀锌；热镀锌","(zinc-plated 的复数)"],"phonetic":""}
-{"word":"zinc-plating","sw":"zincplating","translation":["镀锌"],"phonetic":""}
-{"word":"zinc-protamine-glucagon","sw":"zincprotamineglucagon","translation":["锌-精蛋白-高血糖素"],"phonetic":""}
-{"word":"zinc-rich","sw":"zincrich","translation":["[网络] 富锌"],"phonetic":""}
-{"word":"zinc-saponite","sw":"zincsaponite","translation":["(锌蒙脱石)锌皂石"],"phonetic":""}
-{"word":"zinc-schefferite","sw":"zincschefferite","translation":["锌锰红辉石"],"phonetic":""}
-{"word":"zinc-silicate","sw":"zincsilicate","translation":["[电] 硅酸锌"],"phonetic":""}
-{"word":"zinc-spar","sw":"zincspar","translation":["un. 菱锌矿"],"phonetic":""}
-{"word":"zinc-spinel","sw":"zincspinel","translation":["锌尖晶石"],"phonetic":""}
-{"word":"zinc-vitriol","sw":"zincvitriol","translation":["皓矾"],"phonetic":""}
-{"word":"Zinc-zippeite","sw":"zinczippeite","translation":["水锌铀矾, 锌钾铀矾"],"phonetic":""}
 {"word":"Zincali","sw":"zincali","translation":["[网络] 津加利"],"phonetic":""}
 {"word":"zincalism","sw":"zincalism","translation":["慢性锌中毒"],"phonetic":"'ziŋkә,lizәm"}
 {"word":"Zincalo","sw":"zincalo","translation":["[网络] 津卡洛"],"phonetic":""}
@@ -4244,7 +3787,6 @@
 {"word":"Zincomed","sw":"zincomed","translation":["硫酸锌"],"phonetic":""}
 {"word":"zincon","sw":"zincon","translation":["[化] 锌试剂"],"phonetic":""}
 {"word":"zincophyte","sw":"zincophyte","translation":["适锌植物"],"phonetic":""}
-{"word":"Zincoplumbo-dolomite","sw":"zincoplumbodolomite","translation":["锌铅白云石"],"phonetic":""}
 {"word":"zincorange","sw":"zincorange","translation":["锌橙色"],"phonetic":"ziŋ'kɔ:rindʒ"}
 {"word":"Zincorhodochrosite","sw":"zincorhodochrosite","translation":["锌菱锰矿"],"phonetic":""}
 {"word":"zincos","sw":"zincos","translation":["zinco","['ziŋkəu]","n., vt., vi.","= zincograph"],"phonetic":"'ziŋkəu"}
@@ -4275,7 +3817,6 @@
 {"word":"zincyellow","sw":"zincyellow","translation":["n. 锌黄粉"],"phonetic":"zɪnsi'ːeləʊ"}
 {"word":"zinczenko","sw":"zinczenko","translation":["[网络] 锌zen ko"],"phonetic":""}
 {"word":"zind","sw":"zind","translation":["[网络] 真德"],"phonetic":""}
-{"word":"zind-humbrecht","sw":"zindhumbrecht","translation":["[网络] 鸿布列什酒庄；温贝希特酒庄；采访对象是法国幸鸿贝庄园"],"phonetic":""}
 {"word":"zinda","sw":"zinda","translation":["[网络] 囚室惊魂"],"phonetic":""}
 {"word":"zindabad","sw":"zindabad","translation":["vt.[用于口号]祈祝…万岁"],"phonetic":"'zindɑ:bɑ:d"}
 {"word":"Zindajan","sw":"zindajan","translation":["津达占"],"phonetic":""}
@@ -4294,8 +3835,6 @@
 {"word":"zinds","sw":"zinds","translation":["[网络] 真德","(zind 的复数)"],"phonetic":""}
 {"word":"zindzi","sw":"zindzi","translation":["[网络] 女儿金娣；德齐；女儿珍织"],"phonetic":""}
 {"word":"Zine","sw":"zine","translation":["[计] 电子杂志"],"phonetic":"zin"}
-{"word":"zine-plating","sw":"zineplating","translation":["[网络] 化学镀锌"],"phonetic":""}
-{"word":"zine-sulphide","sw":"zinesulphide","translation":["[电] 硫化锌"],"phonetic":""}
 {"word":"zineb","sw":"zineb","translation":["[化]代森锌(一种农业用有机硫杀菌剂)"],"phonetic":"'zineb"}
 {"word":"zinebs","sw":"zinebs","translation":["[化]代森锌(一种农业用有机硫杀菌剂)","(zineb 的复数)"],"phonetic":""}
 {"word":"zinecard","sw":"zinecard","translation":["ADR-529右旋丙亚胺"],"phonetic":""}
@@ -4376,7 +3915,6 @@
 {"word":"Zinjanthropus","sw":"zinjanthropus","translation":["n. 东非人(距今约150万年前的原始人)"],"phonetic":"zin'dʒænθrәpәs,,zindʒæn'θrәj-"}
 {"word":"Zinjibar","sw":"zinjibar","translation":["津吉巴尔"],"phonetic":""}
 {"word":"zink","sw":"zink","translation":["[人名] 津克"],"phonetic":"ziŋk"}
-{"word":"Zink-manganokalcit","sw":"zinkmanganokalcit","translation":["锌锰方解石"],"phonetic":""}
 {"word":"zinkalium","sw":"zinkalium","translation":["津卡锌铝合金"],"phonetic":"'ziŋkәliәm"}
 {"word":"zinkazurite","sw":"zinkazurite","translation":["杂铜皓矾"],"phonetic":"ziŋ'kæʒә,rait"}
 {"word":"Zinkchrysotil","sw":"zinkchrysotil","translation":["锌纤蛇纹石"],"phonetic":""}
@@ -4502,31 +4040,6 @@
 {"word":"ziotard","sw":"ziotard","translation":[],"phonetic":""}
 {"word":"ziotards","sw":"ziotards","translation":["[网络] 齐亚特"],"phonetic":""}
 {"word":"zip","sw":"zip","translation":["n. 尖啸声, 拉链, 活力","vt. 给...以速度, 使增加活力, 拉(拉链)","vi. 有力而迅速地行动, 嘘嘘地响, 拉拉链"],"phonetic":"zɪp|zɪp"}
-{"word":"zip-a-dee-doo-dah","sw":"zipadeedoodah","translation":["[网络] 迪斯尼儿歌；南方之歌；美丽的一天"],"phonetic":""}
-{"word":"zip-a-tone","sw":"zipatone","translation":["透明註记"],"phonetic":""}
-{"word":"zip-bag","sw":"zipbag","translation":["n. 拉链包，拉链袋"],"phonetic":"'zipbæɡ"}
-{"word":"zip-code","sw":"zipcode","translation":["vt. <美>在…上标明邮政编码, 标邮政编码于"],"phonetic":"'zɪpk'əʊd"}
-{"word":"zip-coded","sw":"zipcoded","translation":["vt. zip-code的变形"],"phonetic":""}
-{"word":"zip-coding","sw":"zipcoding","translation":["vt. zip-code的变形"],"phonetic":""}
-{"word":"zip-fastener","sw":"zipfastener","translation":["n. 拉链"],"phonetic":""}
-{"word":"zip-front","sw":"zipfront","translation":["[网络] 前开拉链；前襟拉链"],"phonetic":""}
-{"word":"zip-in","sw":"zipin","translation":["adj. 用拉链拉上的"],"phonetic":"'zip,in"}
-{"word":"zip-line","sw":"zipline","translation":["[网络] 滑行；滑行索道；滑索之旅"],"phonetic":""}
-{"word":"zip-liner","sw":"zipliner","translation":["[网络] 拉链"],"phonetic":""}
-{"word":"zip-liners","sw":"zipliners","translation":["[网络] 拉链"],"phonetic":""}
-{"word":"zip-loc","sw":"ziploc","translation":["[网络] 胶袋"],"phonetic":""}
-{"word":"zip-lock","sw":"ziplock","translation":["vt. 封锁（消息、新闻等）"],"phonetic":"zip'lɔk"}
-{"word":"zip-locked","sw":"ziplocked","translation":["拉链锁","密封"],"phonetic":""}
-{"word":"zip-off","sw":"zipoff","translation":["[网络] 冲出跑道"],"phonetic":""}
-{"word":"zip-out","sw":"zipout","translation":["快速移动出去"],"phonetic":"'zipaut"}
-{"word":"zip-tie","sw":"ziptie","translation":["[网络] 拉链领带；束线带；扣条"],"phonetic":""}
-{"word":"zip-ties","sw":"zipties","translation":["扎线带"],"phonetic":""}
-{"word":"zip-top","sw":"ziptop","translation":["adj. （罐头）易拉式的"],"phonetic":"'zɪpt'ɒp"}
-{"word":"zip-up","sw":"zipup","translation":["用拉链的"],"phonetic":""}
-{"word":"zip-ups","sw":"zipups","translation":["用拉链的","(zip-up 的复数)"],"phonetic":""}
-{"word":"zip-wire","sw":"zipwire","translation":["[网络] 高空飞索；高空滑索"],"phonetic":""}
-{"word":"zip-wires","sw":"zipwires","translation":["[网络] 拉链"],"phonetic":""}
-{"word":"zip-zap","sw":"zipzap","translation":["转台"],"phonetic":""}
 {"word":"zipa","sw":"zipa","translation":["[网络] 哥伦比亚之波哥大；桑给巴尔投资促进委员会；项目促进局"],"phonetic":""}
 {"word":"zipadelli","sw":"zipadelli","translation":["[网络] 拉巴德利"],"phonetic":""}
 {"word":"zipangu","sw":"zipangu","translation":["[网络] 日本国；黄金之国；日本神社"],"phonetic":""}
@@ -4580,16 +4093,12 @@
 {"word":"zipp","sw":"zipp","translation":["锡普糊, 氧化锌碘仿糊"],"phonetic":"zip"}
 {"word":"zippable","sw":"zippable","translation":["[网络] 可拉链"],"phonetic":""}
 {"word":"zipped","sw":"zipped","translation":["a. 用拉链扣上的"],"phonetic":""}
-{"word":"zipped-up","sw":"zippedup","translation":["na. 加油","[网络] 风趣"],"phonetic":""}
 {"word":"zippeite","sw":"zippeite","translation":["水铀矾"],"phonetic":"'zipә,ait"}
 {"word":"zippel","sw":"zippel","translation":["n. (Zippel)人名；(德、意)齐佩尔"],"phonetic":""}
 {"word":"Zippelia","sw":"zippelia","translation":["n. 齐头绒属"],"phonetic":""}
 {"word":"zippels","sw":"zippels","translation":["拉鍊式巡逻"],"phonetic":""}
 {"word":"Zippendorf","sw":"zippendorf","translation":["[地名] 齐彭多夫 ( 德 )"],"phonetic":""}
 {"word":"zipper","sw":"zipper","translation":["n. 拉链"],"phonetic":"ˈzɪpə(r)|ˈzɪpər"}
-{"word":"zipper-like","sw":"zipperlike","translation":["[网络] 拉链机制"],"phonetic":""}
-{"word":"zipper-line","sw":"zipperline","translation":["un. 活扣绳","[网络] 网囊抽口绳；好长的馒头"],"phonetic":""}
-{"word":"zipper-lock","sw":"zipperlock","translation":["[网络] 拉链；透明拉链自封塑料袋；链锁"],"phonetic":""}
 {"word":"zippered","sw":"zippered","translation":["a. 装有拉链的, 拉链式的"],"phonetic":""}
 {"word":"zipperer","sw":"zipperer","translation":["[网络] 伯雷"],"phonetic":""}
 {"word":"zippergate","sw":"zippergate","translation":["[网络] 拉链门；拉链门事件；拉链斗"],"phonetic":""}
@@ -4616,7 +4125,6 @@
 {"word":"zipra","sw":"zipra","translation":["[网络] 津巴布韦人民革命军；津巴布韦人民革命家"],"phonetic":""}
 {"word":"ziprasidone","sw":"ziprasidone","translation":["[网络] 齐拉西酮；齐哌西酮；齐呱西酮"],"phonetic":""}
 {"word":"zips","sw":"zips","translation":["n. 拉链( zip的名词复数 ); 能量; 速度; 零","v. 用拉链拉上或扣上( zip的第三人称单数 ); （使沿某方向）快速移动"],"phonetic":"zips"}
-{"word":"zips-out","sw":"zipsout","translation":["快速移动出去","(zip-out 的复数)"],"phonetic":""}
 {"word":"ziptie","sw":"ziptie","translation":["[网络] 匪徒带备塑胶带"],"phonetic":""}
 {"word":"ziptop","sw":"ziptop","translation":["adj. (罐头等)易开罐的","[网络] 拉链顶部"],"phonetic":""}
 {"word":"zir","sw":"zir","translation":["[网络] 镊劧镊噧"],"phonetic":""}
@@ -4634,7 +4142,6 @@
 {"word":"zircalloys","sw":"zircalloys","translation":["n. 锆锡合金；锆合金（等于zircaloy）"],"phonetic":"'zə:kəlɔi"}
 {"word":"zircaloid","sw":"zircaloid","translation":["[网络] 氧化锆"],"phonetic":""}
 {"word":"zircaloy","sw":"zircaloy","translation":["n. [冶]锆合金(亦作 zircalloy)"],"phonetic":"'zә:kәlɔi"}
-{"word":"zircaloy-clad","sw":"zircaloyclad","translation":["[网络] 带有锆锡合金包壳的"],"phonetic":""}
 {"word":"zircaloys","sw":"zircaloys","translation":["n. 锆合金"],"phonetic":"'zɜːkəlɒɪ"}
 {"word":"Zircarbite","sw":"zircarbite","translation":["碳锆石"],"phonetic":""}
 {"word":"zircite","sw":"zircite","translation":["[化]氧化锆"],"phonetic":"'zә:kait"}
@@ -4644,7 +4151,6 @@
 {"word":"zircoloid","sw":"zircoloid","translation":["[网络] 锆石"],"phonetic":""}
 {"word":"zircoloy","sw":"zircoloy","translation":["[网络] 锆合金"],"phonetic":""}
 {"word":"zircon","sw":"zircon","translation":["n. 锆石","[化] 锆石"],"phonetic":"'zә:kɒn"}
-{"word":"zircon-pyroxene","sw":"zirconpyroxene","translation":["锆辉石类"],"phonetic":""}
 {"word":"zircona","sw":"zircona","translation":["[网络] 氧化锆"],"phonetic":""}
 {"word":"zirconate","sw":"zirconate","translation":["n. 锆酸盐","[机] 锆酸根"],"phonetic":"'zә:kәneit"}
 {"word":"zirconated","sw":"zirconated","translation":["[网络] 锆石化"],"phonetic":""}
@@ -4748,7 +4254,6 @@
 {"word":"zitface","sw":"zitface","translation":["[网络] 字幕"],"phonetic":""}
 {"word":"zitfaces","sw":"zitfaces","translation":["[网络] 字体"],"phonetic":""}
 {"word":"zither","sw":"zither","translation":["n. 齐特琴"],"phonetic":"'ziθә"}
-{"word":"Zither-banjo","sw":"zitherbanjo","translation":["齐特班究琴"],"phonetic":""}
 {"word":"zitherist","sw":"zitherist","translation":["n. 齐特琴演奏者"],"phonetic":"'ziθәrist"}
 {"word":"zitherists","sw":"zitherists","translation":["n. 演奏筝者"],"phonetic":"'zɪθɚɪst"}
 {"word":"zitherlike","sw":"zitherlike","translation":["[网络] 咋样"],"phonetic":""}
@@ -4863,7 +4368,6 @@
 {"word":"zizzy","sw":"zizzy","translation":["[网络] 兹兹"],"phonetic":""}
 {"word":"zj","sw":"zj","translation":["abbr. zipper(ed) jacket 拉链夹克; zonder jaartel (Dutch=without date of publication) （丹麦语）没有出版日"],"phonetic":"'zi:dʒ'eɪ"}
 {"word":"zk","sw":"zk","translation":["[医][=z line]z线（即间板）"],"phonetic":"'zi:k'eɪ"}
-{"word":"ZK-worm","sw":"zkworm","translation":["[机] ＺＫ蜗杆"],"phonetic":""}
 {"word":"zkr","sw":"zkr","translation":["[网络] 艇；直线振动筛；领航时时彩软件怎么样"],"phonetic":""}
 {"word":"zl","sw":"zl","translation":["abbr. 零位线, 基准线（zero line）"],"phonetic":""}
 {"word":"Zlarin","sw":"zlarin","translation":["[地名] 兹拉林 ( 克罗 )"],"phonetic":""}
@@ -4902,7 +4406,6 @@
 {"word":"zLYCK","sw":"zlyck","translation":["烷化剂 zLYCK"],"phonetic":""}
 {"word":"Zlynka","sw":"zlynka","translation":["[地名] 兹伦卡 ( 俄、乌克 )"],"phonetic":""}
 {"word":"ZM","sw":"zm","translation":["[计] 调零; 零调制"],"phonetic":""}
-{"word":"ZM-A","sw":"zma","translation":["[=zygomycin A]轭霉素A"],"phonetic":""}
 {"word":"zma","sw":"zma","translation":["[医][=zinc meta-arsenite,insecticide]偏亚砷酸锌"],"phonetic":""}
 {"word":"Zmagoslav","sw":"zmagoslav","translation":[],"phonetic":""}
 {"word":"zmax","sw":"zmax","translation":["[网络] 希舒美；求最大值；阿齐红霉素"],"phonetic":""}
@@ -4920,14 +4423,6 @@
 {"word":"zmr","sw":"zmr","translation":["abbr. Meran; Italy 意大利; 摩兰机场（代码）; zone-melt recrystallized (material) 区熔再结晶（材料）"],"phonetic":""}
 {"word":"zmud","sw":"zmud","translation":["zMUD是互联网上最好的 MUD 客户端程序之一。它除了一般的功能以外，还提供很多实用的功能，是 MUD 玩家的必备软件。"],"phonetic":""}
 {"word":"Zn","sw":"zn","translation":["[医] 锌(30号元素)"],"phonetic":""}
-{"word":"Zn-chkalovite","sw":"znchkalovite","translation":["锌硅钠石"],"phonetic":""}
-{"word":"zn-finger","sw":"znfinger","translation":["[网络] 锌手指"],"phonetic":""}
-{"word":"zn-fingers","sw":"znfingers","translation":["[网络] 锌指"],"phonetic":""}
-{"word":"Zn-MT","sw":"znmt","translation":["锌金属硫蛋白"],"phonetic":""}
-{"word":"Zn-protoporphyrin","sw":"znprotoporphyrin","translation":["锌-原卟啉"],"phonetic":""}
-{"word":"zn-sod","sw":"znsod","translation":["[网络] 短句来源；人铜锌超氧化物歧化酶"],"phonetic":""}
-{"word":"zn-sods","sw":"znsods","translation":["[网络] 短句来源；人铜锌超氧化物歧化酶","(zn-sod 的复数)"],"phonetic":""}
-{"word":"ZN-worm","sw":"znworm","translation":["[机] ＺＮ蜗杆"],"phonetic":""}
 {"word":"zna","sw":"zna","translation":["[医][=mixture of dill weed and monosodium glutamate]莳萝草和谷氨酸钠混合物"],"phonetic":""}
 {"word":"znaider","sw":"znaider","translation":["[网络] 齐奈德；小提琴家齐奈德"],"phonetic":""}
 {"word":"Znaim","sw":"znaim","translation":["[地名] *茨纳伊姆(兹诺伊莫的旧称) ( 捷 )"],"phonetic":""}
@@ -4956,7 +4451,6 @@
 {"word":"znppix","sw":"znppix","translation":["[网络] 抑制剂锌原卟啉"],"phonetic":""}
 {"word":"ZNPT","sw":"znpt","translation":["[=zinc pyrithione]巯氧毗啶锌,吡硫锌"],"phonetic":""}
 {"word":"ZnS","sw":"zns","translation":["硫化锌"],"phonetic":""}
-{"word":"ZnS-film","sw":"znsfilm","translation":["硫化锌膜"],"phonetic":""}
 {"word":"znso","sw":"znso","translation":["[网络] 硫酸锌；皓矾；亚硫酸锌"],"phonetic":""}
 {"word":"ZNT","sw":"znt","translation":["[=zinc sulfate turbidity test]硫酸锌浊度试验"],"phonetic":""}
 {"word":"zntt","sw":"zntt","translation":["[=zinc sulfate turbidity test]硫酸锌浊度试验"],"phonetic":""}
@@ -5168,7 +4662,6 @@
 {"word":"Zoisia","sw":"zoisia","translation":["[网络] Zoysia"],"phonetic":""}
 {"word":"zoisias","sw":"zoisias","translation":["[网络] Zoysia","(zoisia 的复数)"],"phonetic":""}
 {"word":"zoisite","sw":"zoisite","translation":["n. 黝帘石"],"phonetic":"'zɒisait"}
-{"word":"zoisite-oligoclase-pegmatite","sw":"zoisiteoligoclasepegmatite","translation":["黝帘奥长伟晶岩"],"phonetic":""}
 {"word":"zoisites","sw":"zoisites","translation":["n. [矿物] 黝帘石"],"phonetic":"'zɒɪsaɪt"}
 {"word":"zoisitization","sw":"zoisitization","translation":["黝帘石化(作用)"],"phonetic":",zɔisiti'zeiʃәn"}
 {"word":"zoism","sw":"zoism","translation":["活力论"],"phonetic":"'zәuizm"}
@@ -5239,7 +4732,6 @@
 {"word":"Zollikon","sw":"zollikon","translation":["[地名] 措利孔 ( 瑞士 )"],"phonetic":""}
 {"word":"Zolling","sw":"zolling","translation":["[地名] 措灵 ( 德 )"],"phonetic":""}
 {"word":"zollinger","sw":"zollinger","translation":["[人名] 佐林格"],"phonetic":""}
-{"word":"zollinger-ellison","sw":"zollingerellison","translation":["[网络] 艾；艾综合征；艾氏"],"phonetic":""}
 {"word":"zollingeri","sw":"zollingeri","translation":["[网络] 笔龙胆；青带小公鱼；美誉"],"phonetic":""}
 {"word":"Zollingeria","sw":"zollingeria","translation":["[网络] 长叶苎麻"],"phonetic":""}
 {"word":"zollingers","sw":"zollingers","translation":["n. (Zollinger)人名；(英)佐林格；(德)措林格"],"phonetic":""}
@@ -5299,7 +4791,6 @@
 {"word":"zombic","sw":"zombic","translation":["[网络] 桑比"],"phonetic":""}
 {"word":"zombie","sw":"zombie","translation":["n. 蛇神, 起死回生的魔力, 僵尸, 回魂尸, (美)鸡尾酒, 木鸡, 讨厌的家伙","[计] 僵尸"],"phonetic":"'zɔmbi"}
 {"word":"zombied","sw":"zombied","translation":["[网络] 僵尸"],"phonetic":""}
-{"word":"zombied-out","sw":"zombiedout","translation":["[网络] 僵尸出来"],"phonetic":""}
 {"word":"zombiedom","sw":"zombiedom","translation":["[网络] 僵尸"],"phonetic":""}
 {"word":"zombiefied","sw":"zombiefied","translation":[],"phonetic":""}
 {"word":"zombiehood","sw":"zombiehood","translation":["[网络] 僵尸遮光罩；殭屍状态"],"phonetic":""}
@@ -5349,7 +4840,6 @@
 {"word":"zomvirus","sw":"zomvirus","translation":[],"phonetic":""}
 {"word":"zon","sw":"zon","translation":["n. [暗黑破坏神]见\"ama\""],"phonetic":""}
 {"word":"zona","sw":"zona","translation":["[医] 带, 区; 带状疱疹"],"phonetic":"'zәjnә"}
-{"word":"zona-free","sw":"zonafree","translation":["[网络] 无透明带"],"phonetic":""}
 {"word":"Zonabris","sw":"zonabris","translation":["带芜菁属"],"phonetic":""}
 {"word":"zonadhesin","sw":"zonadhesin","translation":["[网络] 带粘蛋白；透明带粘附素"],"phonetic":""}
 {"word":"zonae","sw":"zonae","translation":["[医]（单zona）带, 区"],"phonetic":"zəʊ'ni:"}
@@ -5389,22 +4879,9 @@
 {"word":"zondi","sw":"zondi","translation":["宗迪"],"phonetic":""}
 {"word":"zondra","sw":"zondra","translation":["[网络] 津德拉"],"phonetic":""}
 {"word":"zone","sw":"zone","translation":["n. 地带, 带, 地区","vt. 环绕, 使分成地带","vi. 分成区","[计] 卡片顶部的三行区; 区; 区域"],"phonetic":"zəʊn|zəʊn"}
-{"word":"zone-bundle","sw":"zonebundle","translation":["n. 晶带束"],"phonetic":"'zəʊnb'ʌndl"}
-{"word":"zone-leveled","sw":"zoneleveled","translation":["区域匀化"],"phonetic":""}
-{"word":"zone-melt","sw":"zonemelt","translation":["vt. zone melting的变形"],"phonetic":""}
-{"word":"zone-perturbation","sw":"zoneperturbation","translation":["区域扰动"],"phonetic":""}
-{"word":"zone-plate","sw":"zoneplate","translation":["同心圆绕射板"],"phonetic":""}
-{"word":"zone-refine","sw":"zonerefine","translation":["区熔提纯;区域精炼"],"phonetic":""}
-{"word":"zone-refined","sw":"zonerefined","translation":["vt. zone-refine（使区域提纯, 使区域精炼, 用区域精炼法生产）的变形"],"phonetic":""}
-{"word":"zone-refining","sw":"zonerefining","translation":["vt. zone-refine的变形"],"phonetic":""}
-{"word":"zone-segregation","sw":"zonesegregation","translation":["n. 熔区偏析"],"phonetic":"'zəʊnseɡrɪɡ'eɪʃn"}
-{"word":"zone-setting","sw":"zonesetting","translation":["区域设置;存储区建立"],"phonetic":""}
-{"word":"zone-void","sw":"zonevoid","translation":["n. 熔区空段"],"phonetic":"'zəʊnv'ɔɪd"}
 {"word":"zonealarm","sw":"zonealarm","translation":["n. 全球最强防火墙"],"phonetic":""}
 {"word":"zonecenter","sw":"zonecenter","translation":["电话区域交换中心"],"phonetic":""}
 {"word":"zoned","sw":"zoned","translation":["a. 佩带象征处女的环带的, 划成区带的, 处女(般)的"],"phonetic":"zәund"}
-{"word":"zoned-air","sw":"zonedair","translation":["分区送风"],"phonetic":""}
-{"word":"zoned-out","sw":"zonedout","translation":["[网络] 区划之地；模范从里面被分区的图片；排挤"],"phonetic":""}
 {"word":"zoneless","sw":"zoneless","translation":["a. 无分区的, 无束带的"],"phonetic":"'zәunlis"}
 {"word":"zonelet","sw":"zonelet","translation":["[网络] 区域"],"phonetic":""}
 {"word":"zonelets","sw":"zonelets","translation":["[网络] 小区"],"phonetic":""}
@@ -5459,7 +4936,6 @@
 {"word":"zonk","sw":"zonk","translation":["vt.& vi. （使）筋疲力尽, （使）疲惫不堪"],"phonetic":"'zəʊŋk"}
 {"word":"zonke","sw":"zonke","translation":["宗克"],"phonetic":""}
 {"word":"zonked","sw":"zonked","translation":["a. 醉酒的, 因吸毒而恍惚的"],"phonetic":"zɒŋkt"}
-{"word":"zonked-out","sw":"zonkedout","translation":["adj. (被麻醉品)麻醉了的；〈美俚〉烂醉如泥的","[网络] 醉酒的；筋疲力尽；醉的"],"phonetic":"zɒŋkt"}
 {"word":"zonkedness","sw":"zonkedness","translation":["[网络] 分区"],"phonetic":""}
 {"word":"zonker","sw":"zonker","translation":["vt. 使惊呆, 把…打晕, 打昏过去, 使失去知觉, 使发呆；枪击, 撞击, 一下子击中(与out连用)：","vi. (因酒精或药物中的毒性)失去知觉(或死亡), 醉晕过去, 吸毒麻醉(常与out连用)；熟睡, 沉睡"],"phonetic":"zɔŋk"}
 {"word":"zonkered","sw":"zonkered","translation":["(zonker 的过去分词) vt. 使惊呆, 把…打晕, 打昏过去, 使失去知觉, 使发呆；枪击, 撞击, 一下子击中(与out连用)：","vi. (因酒精或药物中的毒性)失去知觉(或死亡), 醉晕过去, 吸毒麻醉(常与out连用)；熟睡, 沉睡"],"phonetic":""}
@@ -5535,12 +5011,6 @@
 {"word":"Zonza","sw":"zonza","translation":["[地名] 宗扎 ( 法 )"],"phonetic":""}
 {"word":"Zonzo","sw":"zonzo","translation":["[地名] 宗佐 ( 刚(金) )"],"phonetic":""}
 {"word":"zoo","sw":"zoo","translation":["n. 动物园"],"phonetic":"zuː|zuː"}
-{"word":"zoo-agglutinin","sw":"zooagglutinin","translation":["[医] 动物凝集素(红细胞)"],"phonetic":""}
-{"word":"zoo-anaphylactogen","sw":"zooanaphylactogen","translation":["[医] 动物过敏原"],"phonetic":""}
-{"word":"zoo-ecology","sw":"zooecology","translation":["n. 动物生态学"],"phonetic":""}
-{"word":"zoo-keeper","sw":"zookeeper","translation":["n. 动物园管理员"],"phonetic":"'zu:ki:pə"}
-{"word":"zoo-keepers","sw":"zookeepers","translation":["(zoo-keeper 的复数) n. 动物园管理员"],"phonetic":""}
-{"word":"zoo-mancy","sw":"zoomancy","translation":["n. 动物占卜(指观察动物动作据以占卜)"],"phonetic":""}
 {"word":"zooagglutinin","sw":"zooagglutinin","translation":["n. 动物凝集素"],"phonetic":""}
 {"word":"zooamylon","sw":"zooamylon","translation":["[医] 糖原"],"phonetic":""}
 {"word":"zooanatomy","sw":"zooanatomy","translation":["[动] 动物解剖学"],"phonetic":""}
@@ -5730,7 +5200,6 @@
 {"word":"zoologers","sw":"zoologers","translation":["n. 动物学家"],"phonetic":"zəu'ɔlədʒə"}
 {"word":"zoologic","sw":"zoologic","translation":["a. 动物学的, 关于动物的"],"phonetic":".zәuә'lɒdʒik"}
 {"word":"zoological","sw":"zoological","translation":["a. 动物学的"],"phonetic":"ˌzuːəˈlɒdʒɪkl|ˌzuːəˈlɑːdʒɪkl"}
-{"word":"zoological-garden","sw":"zoologicalgarden","translation":["na. 动物园","[网络] 动物花园；动物学研究园；苏黎世动物园"],"phonetic":""}
 {"word":"zoologically","sw":"zoologically","translation":["adv. 动物学, 动物学论文, 某种动物/动物类型的特性/特征"],"phonetic":""}
 {"word":"zoologies","sw":"zoologies","translation":["n. 动物学；动物区系"],"phonetic":"zuː'ɒlədʒɪ; zəʊ-"}
 {"word":"zoologik","sw":"zoologik","translation":["[网络] 动物学家"],"phonetic":""}
@@ -5745,13 +5214,6 @@
 {"word":"zoology","sw":"zoology","translation":["n. 动物学, 动物区系","[医] 动物学"],"phonetic":"zuˈɒlədʒi|zuˈɑːlədʒi"}
 {"word":"zooly","sw":"zooly","translation":["杰出的 精美的"],"phonetic":""}
 {"word":"zoom","sw":"zoom","translation":["n. 急速上升, 变焦摄影, 嗡嗡声","vi. 猛增, 急速上升, 摄象机移动","vt. 使摄象机移动","[计] 缩放"],"phonetic":"zuːm|zuːm"}
-{"word":"zoom-back","sw":"zoomback","translation":["[计] 移后"],"phonetic":""}
-{"word":"zoom-bombing","sw":"zoombombing","translation":["跃升轰炸"],"phonetic":""}
-{"word":"zoom-in","sw":"zoomin","translation":["[计] 移前"],"phonetic":""}
-{"word":"zoom-ins","sw":"zoomins","translation":["v. 放大"],"phonetic":""}
-{"word":"zoom-lens","sw":"zoomlens","translation":["[电] 攒升透镜"],"phonetic":""}
-{"word":"zoom-out","sw":"zoomout","translation":["{变焦镜头}拉摄"],"phonetic":""}
-{"word":"zoom-up","sw":"zoomup","translation":["放大，推摄；直线上涨"],"phonetic":""}
 {"word":"zooma","sw":"zooma","translation":["[网络] 祖玛；速马；全图"],"phonetic":""}
 {"word":"zoomability","sw":"zoomability","translation":["[网络] 可缩放性"],"phonetic":""}
 {"word":"zoomable","sw":"zoomable","translation":["[网络] 可缩放；则可放大视图坐标"],"phonetic":""}
@@ -5768,7 +5230,6 @@
 {"word":"zoomarlens","sw":"zoomarlens","translation":["可变焦距透镜,可变焦距物镜"],"phonetic":""}
 {"word":"ZooMass","sw":"zoomass","translation":[],"phonetic":""}
 {"word":"zoomasses","sw":"zoomasses","translation":["[网络] 放大倍率"],"phonetic":""}
-{"word":"Zoomastig-ophorea","sw":"zoomastigophorea","translation":["动鞭纲"],"phonetic":""}
 {"word":"Zoomastigina","sw":"zoomastigina","translation":["[医] 动鞭毛亚纲"],"phonetic":""}
 {"word":"zoomastiginas","sw":"zoomastiginas","translation":["n. [无脊椎] 动鞭毛纲"],"phonetic":",zəuə'mæstidʒinə"}
 {"word":"Zoomastigophora","sw":"zoomastigophora","translation":["动鞭纲"],"phonetic":""}
@@ -5780,8 +5241,6 @@
 {"word":"zoome","sw":"zoome","translation":["动物群"],"phonetic":""}
 {"word":"zoomechanics","sw":"zoomechanics","translation":["[复]n.[用作单]=zoodynamics"],"phonetic":",zәuәmi'kæniks"}
 {"word":"zoomed","sw":"zoomed","translation":["v. （飞机、汽车等）急速移动( zoom的过去式 ); （价格、费用等）急升, 猛涨"],"phonetic":"zu:md"}
-{"word":"zoomed-in","sw":"zoomedin","translation":["[网络] 放大"],"phonetic":""}
-{"word":"zoomed-out","sw":"zoomedout","translation":["[网络] 显示缩小；日出康城大楼晃动；远焦"],"phonetic":""}
 {"word":"zoomedical","sw":"zoomedical","translation":["[网络] 放大镜"],"phonetic":""}
 {"word":"zoomelanin","sw":"zoomelanin","translation":["黑色素"],"phonetic":""}
 {"word":"zoomer","sw":"zoomer","translation":["可变焦距镜头"],"phonetic":"'zu:mər"}
@@ -5996,9 +5455,6 @@
 {"word":"Zoostuprum","sw":"zoostuprum","translation":["兽奸"],"phonetic":""}
 {"word":"zoosuccivorous","sw":"zoosuccivorous","translation":["食腐尸的, 吮动物液的"],"phonetic":",zәuә,sәk'sivәrәs"}
 {"word":"zoot","sw":"zoot","translation":["n. =zoot suit[缩略]"],"phonetic":"zu:t"}
-{"word":"zoot-shirt","sw":"zootshirt","translation":["n. [美国俚语]艳丽衬衫"],"phonetic":"'zu:t-ʃə:t"}
-{"word":"zoot-suiter","sw":"zootsuiter","translation":["n. 穿佐特套服的男子"],"phonetic":""}
-{"word":"zoot-suiters","sw":"zootsuiters","translation":["[网络] 动物套装"],"phonetic":""}
 {"word":"zootaxy","sw":"zootaxy","translation":["n. 动物分类学"],"phonetic":"'zәuәtæksi"}
 {"word":"zootch","sw":"zootch","translation":[],"phonetic":""}
 {"word":"zootechnic","sw":"zootechnic","translation":["adj. 畜牧学的"],"phonetic":""}
@@ -6207,7 +5663,6 @@
 {"word":"zorzi","sw":"zorzi","translation":["[网络] 佐尔齐"],"phonetic":""}
 {"word":"Zorzor","sw":"zorzor","translation":["[地名] 佐尔佐尔 ( 利比 )"],"phonetic":""}
 {"word":"zos","sw":"zos","translation":["[网络] 环球；奥索诺机场；奥索诺"],"phonetic":""}
-{"word":"zos-grass","sw":"zosgrass","translation":["[网络] zos草"],"phonetic":""}
 {"word":"Zoser","sw":"zoser","translation":["n. 左赛尔（古埃及第三王朝的法老）"],"phonetic":""}
 {"word":"Zosers","sw":"zosers","translation":["(Zoser 的复数) n. 左赛尔（古埃及第三王朝的法老）"],"phonetic":""}
 {"word":"zoshchenko","sw":"zoshchenko","translation":["[网络] 左琴科；佐先科"],"phonetic":""}
@@ -6269,8 +5724,6 @@
 {"word":"zotzed","sw":"zotzed","translation":["[网络] 动了"],"phonetic":""}
 {"word":"Zotzenheim","sw":"zotzenheim","translation":["[地名] 措岑海姆 ( 德 )"],"phonetic":""}
 {"word":"zou","sw":"zou","translation":["n. 祖省；邹"],"phonetic":""}
-{"word":"Zou-Zou","sw":"zouzou","translation":["[网络] 曹操；祖祖"],"phonetic":""}
-{"word":"Zouan-Hounien","sw":"zouanhounien","translation":["[地名] 祖安胡年 ( 科特 )"],"phonetic":""}
 {"word":"Zouar","sw":"zouar","translation":["[地名] 兹瓦尔 ( 乍 )"],"phonetic":""}
 {"word":"Zouave","sw":"zouave","translation":["n. 轻步兵"],"phonetic":"zu:'ɑ:v,zwɑ:v"}
 {"word":"Zouaves","sw":"zouaves","translation":["(Zouave 的复数) n.轻步兵"],"phonetic":""}
@@ -6284,7 +5737,6 @@
 {"word":"Zougou","sw":"zougou","translation":["[地名] 祖古 ( 贝宁 )"],"phonetic":""}
 {"word":"Zougouyassi","sw":"zougouyassi","translation":["[地名] 祖古亚西 ( 中非 )"],"phonetic":""}
 {"word":"zouk","sw":"zouk","translation":["n. （加勒比地区音乐和西方音乐融汇一体的节奏快速的）祖克乐"],"phonetic":"'zaʊk"}
-{"word":"zouk-like","sw":"zouklike","translation":["[网络] k k"],"phonetic":""}
 {"word":"zouked","sw":"zouked","translation":["n.","佐克(流行)乐曲"],"phonetic":"zu:k"}
 {"word":"zoukifies","sw":"zoukifies","translation":["[网络] zouk化"],"phonetic":""}
 {"word":"zoukifying","sw":"zoukifying","translation":["[网络] zouk化"],"phonetic":""}
@@ -6377,7 +5829,6 @@
 {"word":"zrs","sw":"zrs","translation":["Zr","【化学】元素锆(zirconium)的符号"],"phonetic":""}
 {"word":"zs","sw":"zs","translation":["abbr. 零偏移（zero shift）；（英国）动物协会（ Zoological Society）"],"phonetic":"zedz. zi:z"}
 {"word":"zsa","sw":"zsa","translation":["abbr. zero-set amplifier 零位调整放大器"],"phonetic":"'zə"}
-{"word":"zsa-zsa","sw":"zsazsa","translation":["[网络] 沙沙；莎莎"],"phonetic":""}
 {"word":"Zsana","sw":"zsana","translation":["[地名] 饶瑙 ( 匈 )"],"phonetic":""}
 {"word":"zsas","sw":"zsas","translation":["[网络] 箔纸"],"phonetic":""}
 {"word":"ZSAT","sw":"zsat","translation":["abbr. zinc sulfide atmosphere tracer 硫化锌大气示踪物"],"phonetic":""}
@@ -6424,8 +5875,6 @@
 {"word":"zts","sw":"zts","translation":["[医][=zymosan-treated serum]酵母多糖处理血清"],"phonetic":""}
 {"word":"ztt","sw":"ztt","translation":["[=zinc turbidity test]锌浊度试验"],"phonetic":""}
 {"word":"zu","sw":"zu","translation":["n. 巴比伦神话中的风雨神"],"phonetic":"zu:"}
-{"word":"zu-infinitive","sw":"zuinfinitive","translation":["[网络] 不定式的"],"phonetic":""}
-{"word":"Zu-Zu","sw":"zuzu","translation":["[网络] 自作自受"],"phonetic":""}
 {"word":"Zuata","sw":"zuata","translation":["[地名] 苏阿塔 ( 委 )"],"phonetic":""}
 {"word":"zuba","sw":"zuba","translation":["n. (Zuba)人名；(塞)祖巴"],"phonetic":""}
 {"word":"zubaida","sw":"zubaida","translation":["[网络] 祖巴伊达"],"phonetic":""}
@@ -6548,7 +5997,6 @@
 {"word":"zufolo","sw":"zufolo","translation":["[网络] 哨笛"],"phonetic":""}
 {"word":"Zufre","sw":"zufre","translation":["[地名] 苏夫雷 ( 西 )"],"phonetic":""}
 {"word":"zug","sw":"zug","translation":["n. 楚格州（瑞士中部的州）；楚格（瑞士楚格州首府）；（德）火车"],"phonetic":"tsu:k"}
-{"word":"zug-zug","sw":"zugzug","translation":[],"phonetic":""}
 {"word":"zuga","sw":"zuga","translation":["[网络] 俊嘉"],"phonetic":""}
 {"word":"Zugdidi","sw":"zugdidi","translation":["[网络] 祖格迪迪；鲁斯塔维奥林比；祖格迪迪市"],"phonetic":""}
 {"word":"zugelder","sw":"zugelder","translation":["[网络] 祖母"],"phonetic":""}
@@ -6583,10 +6031,6 @@
 {"word":"zui","sw":"zui","translation":["最（汉语拼音）"],"phonetic":""}
 {"word":"Zuica","sw":"zuica","translation":["珠伊卡酒(罗马尼亚产低酒度白兰地, 以野生李为原料, 酒度36°)"],"phonetic":"'zuikә"}
 {"word":"Zuid","sw":"zuid","translation":["[网络] 南站；南部区；回答"],"phonetic":""}
-{"word":"Zuid-Beijerland","sw":"zuidbeijerland","translation":["[地名] 南拜厄兰 ( 荷 )"],"phonetic":""}
-{"word":"Zuid-Beveland","sw":"zuidbeveland","translation":["[地名] 南贝弗兰岛 ( 荷 )"],"phonetic":""}
-{"word":"zuid-holland","sw":"zuidholland","translation":["[网络] 南荷兰省；南荷省"],"phonetic":""}
-{"word":"Zuid-Willemsvaart","sw":"zuidwillemsvaart","translation":["[地名] 南威廉斯运河 ( 比 )"],"phonetic":""}
 {"word":"Zuidbroek","sw":"zuidbroek","translation":["[地名] 泽伊德布鲁克 ( 荷 )"],"phonetic":""}
 {"word":"zuidema","sw":"zuidema","translation":["[人名] 朱伊德马"],"phonetic":""}
 {"word":"Zuider","sw":"zuider","translation":["(Zuid 的比较级) [网络] 南站；南部区；回答"],"phonetic":""}
@@ -6649,7 +6093,6 @@
 {"word":"zulfikar","sw":"zulfikar","translation":["n. (Zulfikar)人名；(阿拉伯、巴基)佐勒菲卡尔"],"phonetic":""}
 {"word":"zulfikars","sw":"zulfikars","translation":["n. (Zulfikar)人名；(阿拉伯、巴基)佐勒菲卡尔","(zulfikar 的复数)"],"phonetic":""}
 {"word":"zulfiqar","sw":"zulfiqar","translation":["[网络] 佐勒菲卡尔；佐勒菲尔卡；佐勒菲卡尔剑"],"phonetic":""}
-{"word":"Zulgo-Gemzek","sw":"zulgogemzek","translation":[],"phonetic":""}
 {"word":"zulia","sw":"zulia","translation":["[网络] 苏利亚州；委内瑞拉苏利亚；委内瑞拉西北部的佐里亚"],"phonetic":""}
 {"word":"zuliani","sw":"zuliani","translation":["[网络] 朱利安尼"],"phonetic":""}
 {"word":"Zulida","sw":"zulida","translation":["枢力达"],"phonetic":""}
@@ -6672,7 +6115,6 @@
 {"word":"zultanite","sw":"zultanite","translation":["[网络] 水铝石"],"phonetic":""}
 {"word":"Zulte","sw":"zulte","translation":["[地名] 聚尔特 ( 比 )"],"phonetic":""}
 {"word":"zulu","sw":"zulu","translation":["n. 祖鲁语；祖鲁人"],"phonetic":"'zu:lu:"}
-{"word":"zulu-based","sw":"zulubased","translation":["[网络] 以祖鲁族为主的"],"phonetic":""}
 {"word":"Zuluaga","sw":"zuluaga","translation":["[网络] 苏鲁阿嘉"],"phonetic":""}
 {"word":"zulueta","sw":"zulueta","translation":["[人名] 祖卢埃塔"],"phonetic":""}
 {"word":"Zuluise","sw":"zuluise","translation":["[网络] 祖鲁斯"],"phonetic":""}
@@ -6873,7 +6315,6 @@
 {"word":"zuzo","sw":"zuzo","translation":["[网络] 磁展；志诚"],"phonetic":""}
 {"word":"zuzu","sw":"zuzu","translation":["n. (Zuzu)人名；(罗)祖祖"],"phonetic":""}
 {"word":"Zuzwil","sw":"zuzwil","translation":["[地名] 楚茨维尔 ( 瑞士 )"],"phonetic":""}
-{"word":"zvad-fmk","sw":"zvadfmk","translation":["[网络] 抑制剂"],"phonetic":""}
 {"word":"zvara","sw":"zvara","translation":["兹瓦拉"],"phonetic":""}
 {"word":"ZVC","sw":"zvc","translation":["[网络] 过零电压；定向耦合器；强制拍卖与强制管理法"],"phonetic":""}
 {"word":"Zvenigorod","sw":"zvenigorod","translation":["[地名] 兹韦尼哥罗德 ( 俄 )"],"phonetic":""}
@@ -6960,7 +6401,6 @@
 {"word":"zwerg","sw":"zwerg","translation":["[网络] 矮人；小矮人；茨韦格"],"phonetic":""}
 {"word":"zwet","sw":"zwet","translation":["[网络] 茨韦特"],"phonetic":""}
 {"word":"Zwethau","sw":"zwethau","translation":["[地名] 茨韦陶 ( 德 )"],"phonetic":""}
-{"word":"zwetschgen-wasser","sw":"zwetschgenwasser","translation":["梅李白兰地"],"phonetic":""}
 {"word":"Zwettl","sw":"zwettl","translation":["[网络] 茨韦特尔"],"phonetic":""}
 {"word":"Zwevegem","sw":"zwevegem","translation":["[地名] 兹韦弗海姆 ( 比 )"],"phonetic":""}
 {"word":"Zwevezele","sw":"zwevezele","translation":["[地名] 兹韦弗泽勒 ( 比 )"],"phonetic":""}
@@ -6993,7 +6433,6 @@
 {"word":"zwirner","sw":"zwirner","translation":["[网络] 兹威那画廊；茨维尔纳"],"phonetic":""}
 {"word":"zwirners","sw":"zwirners","translation":["[网络] 兹威那画廊；茨维尔纳","(zwirner 的复数)"],"phonetic":""}
 {"word":"zwischen","sw":"zwischen","translation":["[网络] 之间；神与人之间"],"phonetic":""}
-{"word":"zwischen-ferment","sw":"zwischenferment","translation":["[化] 间酶; 6-磷酸葡糖脱氢酶"],"phonetic":""}
 {"word":"zwischenferment","sw":"zwischenferment","translation":["[医] 间酶, 6-磷酸葡萄糖脱氢酶"],"phonetic":""}
 {"word":"Zwischengebirge","sw":"zwischengebirge","translation":["〈德〉(地质)中间带"],"phonetic":""}
 {"word":"Zwischengebriet","sw":"zwischengebriet","translation":["[地质] 中间带"],"phonetic":""}
@@ -7003,7 +6442,6 @@
 {"word":"zwischenzugs","sw":"zwischenzugs","translation":["[网络] zwischengas"],"phonetic":""}
 {"word":"zwither","sw":"zwither","translation":["[德]云英岩"],"phonetic":"'zwiθә"}
 {"word":"zwitter","sw":"zwitter","translation":["[德]雌雄同体的动物, 雌雄两性花"],"phonetic":"'zwitә"}
-{"word":"zwitter-ion","sw":"zwitterion","translation":["两性离子"],"phonetic":"z'wɪtər'aɪən"}
 {"word":"zwittergent","sw":"zwittergent","translation":["两性洗涤剂"],"phonetic":"'zwitәdʒәnt"}
 {"word":"zwitterion","sw":"zwitterion","translation":["n. 两性离子","[化] 两性离子"],"phonetic":"'tsvitәr.aiәn"}
 {"word":"zwitterionic","sw":"zwitterionic","translation":["a. [化]两性离子的"],"phonetic":",zwitәrai'ɔnik,,tsvi-"}
@@ -7080,7 +6518,6 @@
 {"word":"Zygnematales","sw":"zygnematales","translation":["[网络] 双星藻目；l双星藻目；邧陎婍醴"],"phonetic":""}
 {"word":"zygnemataless","sw":"zygnemataless","translation":["Zygnematales","[,ziɡni'meitəlis]","n.","【植物】双星藻目"],"phonetic":",ziɡni'meitəlis"}
 {"word":"zygo","sw":"zygo","translation":["abbr. zygomatic 颧骨的，颧弓的; zygomaticus 颧肌"],"phonetic":"'zɪɡəʊ"}
-{"word":"zygo-pachynema","sw":"zygopachynema","translation":["偶粗线"],"phonetic":""}
 {"word":"zygoamticofacialis","sw":"zygoamticofacialis","translation":["颧面的"],"phonetic":""}
 {"word":"zygoapophyseal","sw":"zygoapophyseal","translation":["[网络] ap ap"],"phonetic":""}
 {"word":"zygoapophysis","sw":"zygoapophysis","translation":["椎骨关节突"],"phonetic":""}
@@ -7121,13 +6558,6 @@
 {"word":"zygomatic","sw":"zygomatic","translation":["a. 颊骨的, 颧骨的","[医] 颧的, 颧骨的"],"phonetic":".zaigәu'mætik"}
 {"word":"zygomatically","sw":"zygomatically","translation":["[网络] 界定的"],"phonetic":""}
 {"word":"zygomatici","sw":"zygomatici","translation":["[网络] z子"],"phonetic":""}
-{"word":"zygomatico-alveolar","sw":"zygomaticoalveolar","translation":["颧牙槽的"],"phonetic":""}
-{"word":"zygomatico-auricular","sw":"zygomaticoauricular","translation":["颧耳的"],"phonetic":""}
-{"word":"zygomatico-auricularis","sw":"zygomaticoauricularis","translation":["[医] 耳前肌"],"phonetic":""}
-{"word":"zygomatico-orbital","sw":"zygomaticoorbital","translation":["颧眶的"],"phonetic":""}
-{"word":"zygomatico-orbitial","sw":"zygomaticoorbitial","translation":["颧眶的"],"phonetic":""}
-{"word":"zygomatico-orbtial","sw":"zygomaticoorbtial","translation":["[医] 颧眶的"],"phonetic":""}
-{"word":"zygomatico-sphenoid","sw":"zygomaticosphenoid","translation":["颧蝶的"],"phonetic":""}
 {"word":"zygomaticoalveolar","sw":"zygomaticoalveolar","translation":["[网络] z骨性肺泡"],"phonetic":""}
 {"word":"zygomaticoauricular","sw":"zygomaticoauricular","translation":["[医]颧耳的"],"phonetic":"zaɪɡəʊmætɪkəʊju:'rɪkjʊlə"}
 {"word":"zygomaticoauricularis","sw":"zygomaticoauricularis","translation":["耳前肌"],"phonetic":""}
@@ -7263,7 +6693,6 @@
 {"word":"zyke","sw":"zyke","translation":["[网络] 霠；中央国家机关；苏凉丶"],"phonetic":""}
 {"word":"zyklolat","sw":"zyklolat","translation":["环戊醇胺酯"],"phonetic":""}
 {"word":"Zyklon","sw":"zyklon","translation":["[网络] 齐克龙"],"phonetic":""}
-{"word":"Zyklon-B","sw":"zyklonb","translation":["[网络] 毒气；数不清的毒药"],"phonetic":""}
 {"word":"zyklopisch","sw":"zyklopisch","translation":["镶嵌状"],"phonetic":""}
 {"word":"Zykovo","sw":"zykovo","translation":["[地名] 济科沃 ( 俄 )"],"phonetic":""}
 {"word":"zyl","sw":"zyl","translation":["abbr. Sylhet, Bangladesh 孟加拉国，锡尔赫特机场（代码）"],"phonetic":""}
@@ -7299,7 +6728,6 @@
 {"word":"zymin","sw":"zymin","translation":["胰提出物"],"phonetic":"'zaimin"}
 {"word":"zymine","sw":"zymine","translation":["胰酶(制剂)"],"phonetic":"'zaimain"}
 {"word":"zymo","sw":"zymo","translation":["abbr. zymolysis 发酵; zymosis 发酵; zymotic(al)(ly) 发酵（的）（地）; zymology 发酵学"],"phonetic":"zɪ'məʊ"}
-{"word":"zymo-exciter","sw":"zymoexciter","translation":["促酶素"],"phonetic":""}
 {"word":"Zymobacterium","sw":"zymobacterium","translation":["[医] 发酵菌属"],"phonetic":""}
 {"word":"zymobexose","sw":"zymobexose","translation":["发酵己糖"],"phonetic":""}
 {"word":"zymochemistery","sw":"zymochemistery","translation":["[网络] 酶化学"],"phonetic":""}
