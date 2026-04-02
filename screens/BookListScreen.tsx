@@ -11,6 +11,7 @@ import { NativeStackNavigationProp } from "@react-navigation/native-stack";
 import { RootStackParamList } from "../App";
 import * as FileSystem from "expo-file-system";
 import { Asset } from "expo-asset";
+import { useBookManager } from "../hooks/useBookManager";
 
 type NavigationProp = NativeStackNavigationProp<
     RootStackParamList,
@@ -26,6 +27,14 @@ interface Book {
     title: string;
     uri: string;
 }
+
+type BookItem = {
+    id: string;
+    name: string;
+    uri: string;
+    type: "txt";
+    addedAt: number;
+};
 
 export default function BookListScreen({ navigation }: Props) {
     const [books, setBooks] = useState<Book[]>([]);
@@ -56,26 +65,40 @@ export default function BookListScreen({ navigation }: Props) {
         setBooks(loadedBooks);
     };
 
-    const openBook = (book: Book) => {
+    const openBook = (book: BookItem) => {
         navigation.navigate("BookReader", {
             filePath: book.uri,
-            title: book.title,
+            title: book.name,
         });
     };
 
+    // #region real books import
+    const { bookList, importBook, removeBook } = useBookManager();
+
+
+    // #endregion
     return (
         <View style={styles.container}>
+            <TouchableOpacity style={styles.importBtn} onPress={importBook}>
+                <Text style={{ color: 'white', fontWeight: 'bold' }}>Import Book</Text>
+            </TouchableOpacity>
+
             <FlatList
-                data={books}
-                keyExtractor={(item) => item.id}
+                data={bookList}
+                keyExtractor={item => item.id}
+                contentContainerStyle={{ padding: 16 }}
                 renderItem={({ item }) => (
-                    <TouchableOpacity
-                        style={styles.item}
-                        onPress={() => openBook(item)}
-                    >
-                        <Text style={styles.title}>{item.title}</Text>
-                        <Text style={styles.path}>{item.uri}</Text>
-                    </TouchableOpacity>
+                    <View style={styles.bookItem}>
+                        <Text style={styles.bookName}>{item.name}</Text>
+                        <View style={styles.actions}>
+                            <TouchableOpacity onPress={() => openBook(item)}>
+                                <Text style={styles.openBtn}>Open</Text>
+                            </TouchableOpacity>
+                            <TouchableOpacity onPress={() => removeBook(item.id)}>
+                                <Text style={styles.removeBtn}>Remove</Text>
+                            </TouchableOpacity>
+                        </View>
+                    </View>
                 )}
             />
         </View>
@@ -83,12 +106,27 @@ export default function BookListScreen({ navigation }: Props) {
 }
 
 const styles = StyleSheet.create({
-    container: { flex: 1, padding: 16 },
-    item: {
-        padding: 12,
-        borderBottomWidth: 1,
-        borderBottomColor: "#ccc",
+    container: { flex: 1, backgroundColor: '#f5f5f7' },
+    importBtn: {
+        backgroundColor: '#007aff',
+        margin: 16,
+        paddingVertical: 12,
+        borderRadius: 10,
+        alignItems: 'center',
     },
-    title: { fontSize: 18, fontWeight: "bold" },
-    path: { fontSize: 12, color: "gray" },
+    bookItem: {
+        backgroundColor: '#fff',
+        padding: 14,
+        borderRadius: 12,
+        marginBottom: 12,
+        shadowColor: '#000',
+        shadowOpacity: 0.06,
+        shadowRadius: 8,
+        shadowOffset: { width: 0, height: 4 },
+        elevation: 2,
+    },
+    bookName: { fontSize: 16, fontWeight: '500', color: '#222' },
+    actions: { flexDirection: 'row', marginTop: 8, justifyContent: 'flex-end' },
+    openBtn: { color: '#007aff', marginRight: 16 },
+    removeBtn: { color: '#ff3b30' },
 });

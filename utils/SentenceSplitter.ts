@@ -2,7 +2,6 @@
 export function splitIntoSentences(text: string): string[] {
     if (!text) return [];
 
-
     const rawSentences = text
         .replace(/\n+/g, " ")
         .split(/(?<=[.!?。！？])\s+/)

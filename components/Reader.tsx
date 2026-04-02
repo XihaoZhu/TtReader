@@ -1,6 +1,5 @@
 import React, { useMemo, useState } from "react";
 import { View, Text, StyleSheet, FlatList } from "react-native";
-import { splitIntoSentences } from "../utils/SentenceSplitter";
 import { splitIntoWords } from "../utils/WordSplitter";
 
 interface Props {
@@ -20,7 +19,6 @@ export default function Reader({
     onCloseBubble,
     savedWords,
 }: Props) {
-    const sentences = useMemo(() => splitIntoSentences(content), [content]);
 
     const [selectedWordPos, setSelectedWordPos] = useState<{ sIndex: number; wIndex: number } | null>(null);
     const [selectedSentenceIndex, setSelectedSentenceIndex] = useState<number | null>(null);
