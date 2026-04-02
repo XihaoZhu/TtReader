@@ -42,6 +42,7 @@ export default function BookReaderScreen({ route }: Props) {
     const [bubbleVisible, setBubbleVisible] = useState(false);
     const [currentText, setCurrentText] = useState("");
     const [translation, setTranslation] = useState<string[]>([]);
+    const [phonetic, setPhonetic] = useState<string | null>(null);
 
     // short press on word
     const handleWordPress = async (word: string) => {
@@ -51,7 +52,8 @@ export default function BookReaderScreen({ route }: Props) {
         const result = await lookupLocalWord(word);
 
         if (result) {
-            setTranslation(result.translation);
+            setTranslation(result.translation)
+            setPhonetic(result.phonetic || null);
         } else {
             setTranslation(["No local result"]);
         }
@@ -76,7 +78,7 @@ export default function BookReaderScreen({ route }: Props) {
 
     const loadSavedWords = async () => {
         const words = await getSavedWords();
-        setSavedWords(words);
+        setSavedWords(words.map(w => w.word));
     };
 
     const handleSave = async () => {
@@ -119,6 +121,7 @@ export default function BookReaderScreen({ route }: Props) {
                             text={currentText}
                             translation={translation}
                             isSaved={isSaved}
+                            phonetic={phonetic}
                             onSave={handleSave}
                             onRemove={handleRemove}
                         />
@@ -131,7 +134,8 @@ export default function BookReaderScreen({ route }: Props) {
 const styles = StyleSheet.create({
     container: { flex: 1 },
     title: {
-        fontSize: 20,
+        alignSelf: "center",
+        fontSize: 24,
         fontWeight: "bold",
         padding: 16,
     },

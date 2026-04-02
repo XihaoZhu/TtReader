@@ -7,6 +7,7 @@ interface Props {
     visible: boolean;
     text: string;
     translation: string[];
+    phonetic?: string | null;
     onSave: () => void;
     onRemove: () => void;
     isSaved: boolean;
@@ -18,6 +19,7 @@ export default function TranslationBubble({
     translation,
     onSave,
     onRemove,
+    phonetic,
     isSaved,
 }: Props) {
     if (!visible) return null;
@@ -37,6 +39,9 @@ export default function TranslationBubble({
                         </Text>
                     </TouchableOpacity>
                 </View>
+                {phonetic && (
+                    <Text style={styles.phonetic}>{phonetic}</Text>
+                )}
                 {translation.length > 0 ? (
                     translation.map((t, i) => (
                         <Text key={i} style={styles.translation}>
@@ -86,5 +91,10 @@ const styles = StyleSheet.create({
         alignItems: "center",
         justifyContent: "space-between",
         marginBottom: 8,
-    }
+    },
+    phonetic: {
+        fontSize: 14,
+        color: "#666",
+        marginBottom: 8,
+    },
 });

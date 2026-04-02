@@ -48,7 +48,7 @@ export default function Reader({
     const lines = useMemo(() => content.split(/\r?\n/), [content]);
 
     const renderLine = ({ item: line, index: lineIndex }: { item: string; index: number }) => {
-        const sentenceWords = splitIntoWords(line); // 不拆句，按空格/标点切单词
+        const sentenceWords = splitIntoWords(line);
         return (
             <Text style={styles.line}>
                 {sentenceWords.map((word, wIndex) => {
