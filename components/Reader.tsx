@@ -1,6 +1,10 @@
-import React, { useMemo, useState } from "react";
+import React, { useEffect, useMemo, useRef, useState } from "react";
 import { View, Text, StyleSheet, FlatList } from "react-native";
 import { splitIntoWords } from "../utils/WordSplitter";
+import { splitIntoSentences } from "../utils/SentenceSplitter";
+import { saveProgress, getProgress } from "../utils/ReadingProgress";
+
+const contentCache = new Map<string, string[]>();
 
 interface Props {
     content: string;
@@ -20,6 +24,7 @@ export default function Reader({
     savedWords,
 }: Props) {
 
+    // #region Selection state
     const [selectedWordPos, setSelectedWordPos] = useState<{ sIndex: number; wIndex: number } | null>(null);
     const [selectedSentenceIndex, setSelectedSentenceIndex] = useState<number | null>(null);
 
@@ -42,27 +47,41 @@ export default function Reader({
     function normalizeWord(word: string) {
         return word.replace(/[^a-zA-Z]/g, "").toLowerCase();
     }
+    // #endregion
 
-    const lines = useMemo(() => content.split(/\r?\n/), [content]);
 
-    const renderLine = ({ item: line, index: lineIndex }: { item: string; index: number }) => {
-        const sentenceWords = splitIntoWords(line);
+    // #region memorize location
+    const sentences = useMemo(() => {
+        if (contentCache.has(content)) {
+            return contentCache.get(content)!;
+        }
+
+        const result = splitIntoSentences(content);
+        contentCache.set(content, result);
+
+        return result;
+    }, [content]);
+
+
+
+    const renderLine = ({ item: sentence, index: sentenceIndex }: { item: string; index: number }) => {
+        const sentenceWords = splitIntoWords(sentence);
         return (
             <Text style={styles.line}>
                 {sentenceWords.map((word, wIndex) => {
                     const isWordSelected =
-                        selectedWordPos?.sIndex === lineIndex && selectedWordPos?.wIndex === wIndex;
-                    const isWordSaved = (word: string) => savedWords.includes(word);
-                    const isSentenceSelected = selectedSentenceIndex === lineIndex;
+                        selectedWordPos?.sIndex === sentenceIndex && selectedWordPos?.wIndex === wIndex;
+                    const isWordSaved = (w: string) => savedWords.includes(w)
+                    const isSentenceSelected = selectedSentenceIndex === sentenceIndex;
 
                     return (
                         <Text
                             key={wIndex}
                             onPress={() => {
                                 if (bubbleVisible) { onCloseBubble(); return; }
-                                handleWordPress(lineIndex, wIndex, cleanWord(word));
+                                handleWordPress(sentenceIndex, wIndex, cleanWord(word));
                             }}
-                            onLongPress={() => handleSentenceLongPress(lineIndex, line)}
+                            onLongPress={() => handleSentenceLongPress(sentenceIndex, sentence)}
                             style={[
                                 styles.word,
                                 isWordSelected && styles.selectedWord,
@@ -81,7 +100,7 @@ export default function Reader({
     return (
         <FlatList
             style={styles.container}
-            data={lines}
+            data={sentences}
             renderItem={renderLine}
             keyExtractor={(_, index) => index.toString()}
             onTouchStart={() => {

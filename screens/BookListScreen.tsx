@@ -37,33 +37,6 @@ type BookItem = {
 };
 
 export default function BookListScreen({ navigation }: Props) {
-    const [books, setBooks] = useState<Book[]>([]);
-
-    useEffect(() => {
-        loadBooks();
-    }, []);
-
-    const loadBooks = async () => {
-
-        const assets = [
-            require("../assets/books/book1.txt"),
-        ];
-
-        const loadedBooks: Book[] = [];
-
-        for (let i = 0; i < assets.length; i++) {
-            const asset = Asset.fromModule(assets[i]);
-            await asset.downloadAsync();
-
-            loadedBooks.push({
-                id: String(i),
-                title: `Book ${i + 1}`,
-                uri: asset.localUri || asset.uri,
-            });
-        }
-
-        setBooks(loadedBooks);
-    };
 
     const openBook = (book: BookItem) => {
         navigation.navigate("BookReader", {
@@ -88,17 +61,21 @@ export default function BookListScreen({ navigation }: Props) {
                 keyExtractor={item => item.id}
                 contentContainerStyle={{ padding: 16 }}
                 renderItem={({ item }) => (
-                    <View style={styles.bookItem}>
+                    <TouchableOpacity
+                        style={styles.bookItem}
+                        activeOpacity={0.8}
+                        onPress={() => openBook(item)}
+                    >
                         <Text style={styles.bookName}>{item.name}</Text>
+
                         <View style={styles.actions}>
-                            <TouchableOpacity onPress={() => openBook(item)}>
-                                <Text style={styles.openBtn}>Open</Text>
-                            </TouchableOpacity>
-                            <TouchableOpacity onPress={() => removeBook(item.id)}>
+                            <TouchableOpacity
+                                onPress={() => removeBook(item.id)}
+                            >
                                 <Text style={styles.removeBtn}>Remove</Text>
                             </TouchableOpacity>
                         </View>
-                    </View>
+                    </TouchableOpacity>
                 )}
             />
         </View>
@@ -127,6 +104,5 @@ const styles = StyleSheet.create({
     },
     bookName: { fontSize: 16, fontWeight: '500', color: '#222' },
     actions: { flexDirection: 'row', marginTop: 8, justifyContent: 'flex-end' },
-    openBtn: { color: '#007aff', marginRight: 16 },
     removeBtn: { color: '#ff3b30' },
 });
