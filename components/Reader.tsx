@@ -162,7 +162,6 @@ export default function Reader({
                 offset: estimatedLineHeight * index,
                 index,
             })}
-            initialNumToRender={20}
             windowSize={21}
             onViewableItemsChanged={onViewableItemsChanged}
             viewabilityConfig={{ itemVisiblePercentThreshold: 50 }}
