@@ -94,7 +94,7 @@ export default function Reader({
                 index: initialIndex,
                 animated: true,
             });
-
+            setReady(true);
         }
     }, [listReady, initialIndex]);
 
@@ -167,8 +167,6 @@ export default function Reader({
             onViewableItemsChanged={onViewableItemsChanged}
             viewabilityConfig={{ itemVisiblePercentThreshold: 50 }}
             onLayout={() => setListReady(true)}
-            onMomentumScrollEnd={() => setReady(true)}
-
         />
     );
 }
