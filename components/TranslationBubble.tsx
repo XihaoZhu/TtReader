@@ -1,6 +1,6 @@
 
 import React from "react";
-import { View, Text, StyleSheet, TouchableWithoutFeedback, TouchableOpacity } from "react-native";
+import { View, Text, StyleSheet, TouchableWithoutFeedback, TouchableOpacity, Pressable } from "react-native";
 
 
 interface Props {
@@ -22,10 +22,11 @@ export default function TranslationBubble({
     phonetic,
     isSaved,
 }: Props) {
+
     if (!visible) return null;
 
     return (
-        <TouchableWithoutFeedback onPress={() => { }}>
+        <Pressable onPress={() => { }}>
             <View style={styles.container}>
                 <View style={styles.row}>
                     <Text style={styles.word}>{text}</Text>
@@ -52,7 +53,7 @@ export default function TranslationBubble({
                     <Text style={styles.translation}>No translation found</Text>
                 )}
             </View>
-        </TouchableWithoutFeedback>
+        </Pressable>
     );
 }
 

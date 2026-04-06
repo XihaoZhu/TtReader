@@ -1,6 +1,6 @@
 // /src/screens/BookReaderScreen.tsx
 import React, { useEffect, useState } from "react";
-import { View, Text, StyleSheet, ActivityIndicator, TouchableWithoutFeedback } from "react-native";
+import { View, Text, StyleSheet, ActivityIndicator, TouchableWithoutFeedback, Pressable } from "react-native";
 import { RouteProp } from "@react-navigation/native";
 import { RootStackParamList } from "../App";
 import * as FileSystem from "expo-file-system/legacy";
@@ -45,10 +45,16 @@ export default function BookReaderScreen({ route }: Props) {
     const [translation, setTranslation] = useState<string[]>([]);
     const [phonetic, setPhonetic] = useState<string | null>(null);
 
+    const openBubble = (text: string) => {
+        setCurrentText(text);
+        setTranslation([]);
+        setPhonetic(null);
+        setBubbleVisible(true);;
+    };
+
     // short press on word
     const handleWordPress = async (word: string) => {
-        setCurrentText(word);
-        setBubbleVisible(true);
+        openBubble(word);
 
         const result = await lookupLocalWord(word);
 
@@ -62,8 +68,7 @@ export default function BookReaderScreen({ route }: Props) {
 
     // long press on sentence
     const handleSentenceLongPress = async (sentence: string) => {
-        setCurrentText(sentence);
-        setBubbleVisible(true);
+        openBubble(sentence);
 
         // temproray mock
         setTranslation(["Sentence translation coming soon..."]);
@@ -107,11 +112,13 @@ export default function BookReaderScreen({ route }: Props) {
     // #endregion
 
     return (
-        <TouchableWithoutFeedback onPress={() => {
+        <Pressable onPress={() => {
             if (bubbleVisible) {
                 setBubbleVisible(false);
             }
-        }}>
+        }}
+            style={{ width: "100%", height: "100%" }}
+        >
             <View style={styles.container}>
                 {loading ? (
                     <ActivityIndicator size="large" />
@@ -142,7 +149,7 @@ export default function BookReaderScreen({ route }: Props) {
                     </>
                 )}
             </View>
-        </TouchableWithoutFeedback>);
+        </Pressable>);
 }
 
 const styles = StyleSheet.create({
