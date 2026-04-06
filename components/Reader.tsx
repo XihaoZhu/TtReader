@@ -88,15 +88,29 @@ export default function Reader({
     const listRef = useRef<FlatList>(null);
     const [ready, setReady] = useState(false);
     const [listReady, setListReady] = useState(false);
+
+    const hasScrolledRef = useRef(false);
+
     useEffect(() => {
-        if (listReady && initialIndex != null && listRef.current) {
-            listRef.current.scrollToIndex({
-                index: initialIndex,
-                animated: true,
-            });
-            setReady(true);
+        if (!hasScrolledRef.current && listReady && initialIndex != null) {
+            hasScrolledRef.current = true;
+
+            setTimeout(() => {
+                scrollToInitialIndex();
+                setReady(true);
+            }, 0);
         }
     }, [listReady, initialIndex]);
+
+    const scrollToInitialIndex = () => {
+        if (initialIndex == null) return;
+
+        listRef.current?.scrollToIndex({
+            index: initialIndex,
+            animated: true,
+        });
+    };
+
 
     // #endregion
 
@@ -157,11 +171,24 @@ export default function Reader({
                 setSelectedWordPos(null);
                 setSelectedSentenceIndex(null);
             }}
-            getItemLayout={(_, index) => ({
-                length: estimatedLineHeight,
-                offset: estimatedLineHeight * index,
-                index,
-            })}
+            // getItemLayout={(_, index) => ({
+            //     length: estimatedLineHeight,
+            //     offset: estimatedLineHeight * index,
+            //     index,
+            // })}
+            onScrollToIndexFailed={(info) => {
+
+                listRef.current?.scrollToOffset({
+                    offset: info.averageItemLength * info.index,
+                    animated: false,
+                });
+                setTimeout(() => {
+                    listRef.current?.scrollToIndex({
+                        index: info.index,
+                        animated: true,
+                    });
+                }, 100);
+            }}
             windowSize={21}
             onViewableItemsChanged={onViewableItemsChanged}
             viewabilityConfig={{ itemVisiblePercentThreshold: 50 }}
