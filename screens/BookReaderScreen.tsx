@@ -10,6 +10,7 @@ import TranslationBubble from "../components/TranslationBubble";
 import { lookupLocalWord } from "../services/WordDictionary";
 import { getSavedWords, saveWord, removeWord } from "../services/CasheService";
 import { saveProgress, getProgress } from "../utils/ReadingProgress";
+import { translate } from "../services/TranslationService";
 
 
 type BookReaderRouteProp = RouteProp<RootStackParamList, "BookReader">;
@@ -68,10 +69,14 @@ export default function BookReaderScreen({ route }: Props) {
 
     // long press on sentence
     const handleSentenceLongPress = async (sentence: string) => {
-        openBubble(sentence);
-
-        // temproray mock
-        setTranslation(["Sentence translation coming soon..."]);
+        try {
+            openBubble(sentence);
+            setTranslation(["Translating..."]);
+            const translated = await translate(sentence);
+            setTranslation(translated);
+        } catch (err) {
+            console.log("FULL ERROR:", err);
+        }
     };
     // #endregion
 

@@ -45,12 +45,12 @@ export default function TranslationBubble({
                 )}
                 {translation.length > 0 ? (
                     translation.map((t, i) => (
-                        <Text key={i} style={styles.translation}>
+                        <Text key={i} style={styles.wordTranslation}>
                             {t}
                         </Text>
                     ))
                 ) : (
-                    <Text style={styles.translation}>No translation found</Text>
+                    <Text style={styles.sentenceTranslation}>{translation[0]}</Text>
                 )}
             </View>
         </Pressable>
@@ -78,7 +78,11 @@ const styles = StyleSheet.create({
         paddingHorizontal: 8,
         paddingVertical: 4,
     },
-    translation: {
+    wordTranslation: {
+        fontSize: 16,
+    },
+    sentenceTranslation: {
+        marginTop: 8,
         fontSize: 16,
     },
     buttonContainer: {
