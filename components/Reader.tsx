@@ -7,7 +7,7 @@ import { saveProgress } from "../utils/ReadingProgress";
 
 
 
-const estimatedLineHeight = 24 * 1.5;
+const estimatedLineHeight = 44;
 
 
 interface Props {
@@ -183,15 +183,21 @@ export default function Reader({
                     animated: false,
                 });
                 setTimeout(() => {
-                    listRef.current?.scrollToIndex({
-                        index: info.index,
-                        animated: true,
+                    requestAnimationFrame(() => {
+                        listRef.current?.scrollToIndex({
+                            index: info.index,
+                            animated: true,
+                        });
                     });
-                }, 100);
+                }, 0);
             }}
-            windowSize={21}
+            windowSize={5}
+            initialNumToRender={10}
+            maxToRenderPerBatch={10}
+            removeClippedSubviews={true}
             onViewableItemsChanged={onViewableItemsChanged}
             viewabilityConfig={{ itemVisiblePercentThreshold: 50 }}
+            showsVerticalScrollIndicator={false}
             onLayout={() => setListReady(true)}
         />
     );

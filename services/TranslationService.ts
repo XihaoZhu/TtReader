@@ -1,9 +1,10 @@
 
-
-const BASE_URL = 'http://192.168.0.110:8000';
+const BASE_URL = 'http://192.168.1.118:8000';
 
 export async function translate(text: string): Promise<string[]> {
     try {
+
+
         const res = await fetch(`${BASE_URL}/translate`, {
             method: "POST",
             headers: {

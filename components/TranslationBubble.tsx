@@ -11,6 +11,7 @@ interface Props {
     onSave: () => void;
     onRemove: () => void;
     isSaved: boolean;
+    isWord: boolean;
 }
 
 export default function TranslationBubble({
@@ -21,6 +22,7 @@ export default function TranslationBubble({
     onRemove,
     phonetic,
     isSaved,
+    isWord,
 }: Props) {
 
     if (!visible) return null;
@@ -35,15 +37,17 @@ export default function TranslationBubble({
                         onPress={isSaved ? onRemove : onSave}
                         style={styles.buttonContainer}
                     >
-                        <Text style={styles.button}>
-                            {isSaved ? "★ Saved" : "☆ Save"}
-                        </Text>
+                        {isWord && (
+                            <Text style={styles.button}>
+                                {isSaved ? "★ Saved" : "☆ Save"}
+                            </Text>
+                        )}
                     </TouchableOpacity>
                 </View>
                 {phonetic && (
                     <Text style={styles.phonetic}>{phonetic}</Text>
                 )}
-                {translation.length > 0 ? (
+                {isWord ? (
                     translation.map((t, i) => (
                         <Text key={i} style={styles.wordTranslation}>
                             {t}

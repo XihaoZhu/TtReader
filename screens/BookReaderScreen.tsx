@@ -45,6 +45,7 @@ export default function BookReaderScreen({ route }: Props) {
     const [currentText, setCurrentText] = useState("");
     const [translation, setTranslation] = useState<string[]>([]);
     const [phonetic, setPhonetic] = useState<string | null>(null);
+    const [isWord, setIsWord] = useState(true);
 
     const openBubble = (text: string) => {
         setCurrentText(text);
@@ -56,6 +57,7 @@ export default function BookReaderScreen({ route }: Props) {
     // short press on word
     const handleWordPress = async (word: string) => {
         openBubble(word);
+        setIsWord(true);
 
         const result = await lookupLocalWord(word);
 
@@ -69,6 +71,7 @@ export default function BookReaderScreen({ route }: Props) {
 
     // long press on sentence
     const handleSentenceLongPress = async (sentence: string) => {
+        setIsWord(false);
         try {
             openBubble(sentence);
             setTranslation(["Translating..."]);
@@ -150,6 +153,7 @@ export default function BookReaderScreen({ route }: Props) {
                             phonetic={phonetic}
                             onSave={handleSave}
                             onRemove={handleRemove}
+                            isWord={isWord}
                         />
                     </>
                 )}
