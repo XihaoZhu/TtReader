@@ -68,45 +68,47 @@ export default function WordDetailModal({
 const styles = StyleSheet.create({
     overlay: {
         flex: 1,
-        backgroundColor: "rgba(0,0,0,0.35)",
+        backgroundColor: "rgba(17,24,39,0.42)",
         justifyContent: "center",
         alignItems: "center",
     },
 
     bubble: {
         width: "85%",
-        backgroundColor: "#fff",
+        backgroundColor: "#fffdf8",
         borderRadius: 20,
 
         paddingHorizontal: 20,
         paddingVertical: 18,
 
         shadowColor: "#000",
-        shadowOpacity: 0.15,
-        shadowRadius: 20,
-        shadowOffset: { width: 0, height: 10 },
+        shadowOpacity: 0.16,
+        shadowRadius: 28,
+        shadowOffset: { width: 0, height: 18 },
 
         elevation: 10,
+        borderWidth: StyleSheet.hairlineWidth,
+        borderColor: "#e7e0d6",
     },
 
     word: {
         fontSize: 24,
         fontWeight: "600",
-        color: "#111",
+        color: "#111827",
 
         marginBottom: 6,
     },
 
     phonetic: {
         fontSize: 14,
-        color: "#666",
+        color: "#6b7280",
 
         marginBottom: 12,
     },
 
     translation: {
         fontSize: 16,
-        color: "#333",
+        color: "#374151",
 
         lineHeight: 22,
         marginBottom: 6,
@@ -116,8 +118,8 @@ const styles = StyleSheet.create({
         marginTop: 16,
         paddingTop: 12,
 
-        borderTopWidth: 1,
-        borderTopColor: "#eee",
+        borderTopWidth: StyleSheet.hairlineWidth,
+        borderTopColor: "#e7e0d6",
 
         flexDirection: "row",
         justifyContent: "flex-end",
@@ -125,7 +127,7 @@ const styles = StyleSheet.create({
 
     delete: {
         fontSize: 15,
-        color: "#ff4d4f",
+        color: "#d92d20",
         fontWeight: "500",
     },
 });

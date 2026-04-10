@@ -12,6 +12,7 @@ import { RootStackParamList } from "../App";
 import * as FileSystem from "expo-file-system";
 import { Asset } from "expo-asset";
 import { useBookManager } from "../hooks/useBookManager";
+import { useReader } from "../components/ReaderContext";
 
 type NavigationProp = NativeStackNavigationProp<
     RootStackParamList,
@@ -37,12 +38,10 @@ type BookItem = {
 };
 
 export default function BookListScreen({ navigation }: Props) {
+    const { openReader } = useReader();
 
     const openBook = (book: BookItem) => {
-        navigation.navigate("BookReader", {
-            filePath: book.uri,
-            title: book.name,
-        });
+        openReader(book.uri, book.name);
     };
 
     // #region real books import
@@ -83,26 +82,33 @@ export default function BookListScreen({ navigation }: Props) {
 }
 
 const styles = StyleSheet.create({
-    container: { flex: 1, backgroundColor: '#f5f5f7' },
+    container: { flex: 1, backgroundColor: "#f3f0ea" },
     importBtn: {
-        backgroundColor: '#007aff',
+        backgroundColor: "#0a6cff",
         margin: 16,
         paddingVertical: 12,
         borderRadius: 10,
         alignItems: 'center',
+        shadowColor: "#000",
+        shadowOpacity: 0.12,
+        shadowRadius: 14,
+        shadowOffset: { width: 0, height: 8 },
+        elevation: 4,
     },
     bookItem: {
-        backgroundColor: '#fff',
-        padding: 14,
-        borderRadius: 12,
+        backgroundColor: "#fffdf8",
+        padding: 16,
+        borderRadius: 16,
         marginBottom: 12,
         shadowColor: '#000',
-        shadowOpacity: 0.06,
-        shadowRadius: 8,
-        shadowOffset: { width: 0, height: 4 },
-        elevation: 2,
+        shadowOpacity: 0.08,
+        shadowRadius: 16,
+        shadowOffset: { width: 0, height: 10 },
+        elevation: 3,
+        borderWidth: StyleSheet.hairlineWidth,
+        borderColor: "#e7e0d6",
     },
-    bookName: { fontSize: 16, fontWeight: '500', color: '#222' },
+    bookName: { fontSize: 16, fontWeight: "600", color: "#1f2937" },
     actions: { flexDirection: 'row', marginTop: 8, justifyContent: 'flex-end' },
-    removeBtn: { color: '#ff3b30' },
+    removeBtn: { color: "#d92d20", fontWeight: "600" },
 });

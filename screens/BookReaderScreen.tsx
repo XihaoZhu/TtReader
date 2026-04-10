@@ -1,6 +1,6 @@
 // /src/screens/BookReaderScreen.tsx
-import React, { useEffect, useState } from "react";
-import { View, Text, StyleSheet, ActivityIndicator, TouchableWithoutFeedback, Pressable } from "react-native";
+import React, { useEffect, useMemo, useState } from "react";
+import { View, Text, StyleSheet, ActivityIndicator, Pressable } from "react-native";
 import { RouteProp } from "@react-navigation/native";
 import { RootStackParamList } from "../App";
 import * as FileSystem from "expo-file-system/legacy";
@@ -8,28 +8,32 @@ import * as FileSystem from "expo-file-system/legacy";
 import Reader from "../components/Reader";
 import TranslationBubble from "../components/TranslationBubble";
 import { lookupLocalWord } from "../services/WordDictionary";
-import { getSavedWords, saveWord, removeWord } from "../services/CasheService";
 import { saveProgress, getProgress } from "../utils/ReadingProgress";
 import { translate } from "../services/TranslationService";
+import { useSavedWordsStore } from "../stores/savedWordsStore";
 
 
 type BookReaderRouteProp = RouteProp<RootStackParamList, "BookReader">;
 
-interface Props {
+interface RouteProps {
     route: BookReaderRouteProp;
 }
 
-export default function BookReaderScreen({ route }: Props) {
-    const { filePath, title } = route.params;
+interface DirectProps {
+    filePath: string;
+    title: string;
+}
+
+type Props = RouteProps | DirectProps;
+
+export default function BookReaderScreen(props: Props) {
+    const { filePath, title } = "route" in props ? props.route.params : props;
 
     const [content, setContent] = useState("");
     const [loading, setLoading] = useState(true);
 
-    useEffect(() => {
-        loadContent();
-    }, []);
-
     const loadContent = async () => {
+        setLoading(true);
         try {
             const text = await FileSystem.readAsStringAsync(filePath);
             setContent(text);
@@ -39,6 +43,10 @@ export default function BookReaderScreen({ route }: Props) {
             setLoading(false);
         }
     };
+
+    useEffect(() => {
+        loadContent();
+    }, [filePath]);
 
     // #region Bubble logic
     const [bubbleVisible, setBubbleVisible] = useState(false);
@@ -84,28 +92,19 @@ export default function BookReaderScreen({ route }: Props) {
     // #endregion
 
     // #region Words saving logic
-    const [savedWords, setSavedWords] = useState<string[]>([]);
+    const savedWordItems = useSavedWordsStore((s) => s.words);
+    const savedWords = useMemo(() => savedWordItems.map((w) => w.word), [savedWordItems]);
+    const saveWord = useSavedWordsStore((s) => s.saveWord);
+    const removeWord = useSavedWordsStore((s) => s.removeWord);
+    const isSaved = useSavedWordsStore((s) => s.hasWord(currentText));
 
-    useEffect(() => {
-        loadSavedWords();
-    }, []);
-
-    const loadSavedWords = async () => {
-        const words = await getSavedWords();
-        setSavedWords(words.map(w => w.word));
+    const handleSave = () => {
+        saveWord(currentText);
     };
 
-    const handleSave = async () => {
-        await saveWord(currentText.toLowerCase());
-        loadSavedWords();
+    const handleRemove = () => {
+        removeWord(currentText);
     };
-
-    const handleRemove = async () => {
-        await removeWord(currentText.toLowerCase());
-        loadSavedWords();
-    };
-
-    const isSaved = savedWords.includes(currentText.toLowerCase());
     // #endregion
 
     // #region last read progress
@@ -125,7 +124,7 @@ export default function BookReaderScreen({ route }: Props) {
                 setBubbleVisible(false);
             }
         }}
-            style={{ width: "100%", height: "100%" }}
+            style={{ flex: 1 }}
         >
             <View style={styles.container}>
                 {loading ? (
@@ -162,11 +161,15 @@ export default function BookReaderScreen({ route }: Props) {
 }
 
 const styles = StyleSheet.create({
-    container: { flex: 1 },
+    container: { flex: 1, backgroundColor: "#fffdf8" },
     title: {
         alignSelf: "center",
-        fontSize: 24,
-        fontWeight: "bold",
-        padding: 16,
+        fontSize: 16,
+        fontWeight: "700",
+        letterSpacing: 0.2,
+        color: "#374151",
+        paddingTop: 12,
+        paddingBottom: 10,
+        paddingHorizontal: 16,
     },
 });

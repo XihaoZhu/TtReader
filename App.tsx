@@ -1,7 +1,6 @@
 // /src/App.tsx
 import React from "react";
 import { NavigationContainer, getFocusedRouteNameFromRoute } from "@react-navigation/native";
-import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import { createStackNavigator } from '@react-navigation/stack';
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import { View, Text } from "react-native";
@@ -9,6 +8,9 @@ import BookListScreen from "./screens/BookListScreen";
 import BookReaderScreen from "./screens/BookReaderScreen";
 import WordListScreen from "./screens/WordListScreen";
 import Ionicons from '@expo/vector-icons/Ionicons';
+import { ReaderProvider } from "./components/ReaderContext";
+import { useReader } from "./components/ReaderContext";
+import ReaderOverlay from "./screens/ReaderOverlay";
 
 
 export type RootStackParamList = {
@@ -23,7 +25,7 @@ const Tab = createBottomTabNavigator();
 
 function BooksStack() {
   return (
-    <Stack.Navigator>
+    <Stack.Navigator detachInactiveScreens={false}>
       <Stack.Screen
         name="BookList"
         component={BookListScreen}
@@ -32,6 +34,7 @@ function BooksStack() {
       <Stack.Screen
         name="BookReader"
         component={BookReaderScreen}
+        getId={({ params }) => params.filePath}
         options={{
           title: "reader",
           headerShown: true,
@@ -51,10 +54,21 @@ function SettingsScreen() {
 
 export default function App() {
   return (
+    <ReaderProvider>
+      <AppNavigator />
+    </ReaderProvider>
+  );
+}
+
+function AppNavigator() {
+  const { reader } = useReader();
+
+  return (
     <NavigationContainer>
       <Tab.Navigator
         screenOptions={({ route }) => ({
           headerShown: false,
+          tabBarStyle: { display: reader.visible ? "none" : "flex" },
           tabBarIcon: ({ color, size }) => {
             let iconName: "book" | "list" | "settings" = (route.name === "Books") ? "book" : (route.name === "Words") ? "list" : "settings";
             return <Ionicons name={iconName} size={size} color={color} />;
@@ -67,27 +81,28 @@ export default function App() {
           options={({ route }) => {
             const routeName = getFocusedRouteNameFromRoute(route) ?? "BookList";
             return {
-              tabBarStyle: { display: routeName === "BookReader" ? "none" : "flex" },
+              tabBarStyle: { display: reader.visible || routeName === "BookReader" ? "none" : "flex" },
             };
           }}
         />
-        <Tab.Screen
-          name="Words"
-          component={WordListScreen}
-          options={{
-            title: "Words collected",
-            headerShown: true,
-          }}
-        />
-        <Tab.Screen
-          name="Settings"
-          component={SettingsScreen}
-          options={{
-            title: "Settings",
-            headerShown: true,
-          }}
-        />
+          <Tab.Screen
+            name="Words"
+            component={WordListScreen}
+            options={{
+              title: "Words collected",
+              headerShown: true,
+            }}
+          />
+          <Tab.Screen
+            name="Settings"
+            component={SettingsScreen}
+            options={{
+              title: "Settings",
+              headerShown: true,
+            }}
+          />
       </Tab.Navigator>
+      <ReaderOverlay />
     </NavigationContainer >
   );
 }

@@ -206,17 +206,18 @@ export default function Reader({
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        marginHorizontal: 16,
+        marginHorizontal: 18,
         opacity: 0,
     },
     sentence: { flexDirection: "row", flexWrap: "wrap", paddingHorizontal: 16, marginBottom: 4 },
-    word: { fontSize: 16, lineHeight: 24 },
-    selectedWord: { backgroundColor: "#ffe58a" },
-    selectedSentence: { backgroundColor: "#ffd6a5" },
-    savedWord: { color: "#52c41a", fontWeight: "bold" },
+    word: { fontSize: 17, lineHeight: 28, color: "#111827" },
+    selectedWord: { backgroundColor: "#fde68a" },
+    selectedSentence: { backgroundColor: "#fecaca" },
+    savedWord: { color: "#0f766e", fontWeight: "800" },
     line: {
-        fontSize: 16,
-        lineHeight: 24,
+        fontSize: 17,
+        lineHeight: 28,
+        color: "#111827",
         flexDirection: "row",
         flexWrap: "wrap"
     },

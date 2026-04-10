@@ -1,29 +1,12 @@
-import React, { useCallback, useEffect, useState } from "react";
-import { useFocusEffect } from "@react-navigation/native";
-import { View, Text, FlatList, StyleSheet, Pressable, TouchableOpacity } from "react-native";
-import { getSavedWords, removeWord, SavedWord } from "../services/CasheService";
+import React, { useState } from "react";
+import { View, Text, FlatList, StyleSheet, TouchableOpacity } from "react-native";
 import { lookupLocalWord } from "../services/WordDictionary";
 import WordDetailModal from "../components/WordDetailModal";
+import { SavedWord, useSavedWordsStore } from "../stores/savedWordsStore";
 
 export default function WordListScreen() {
-
-    const [words, setWords] = useState<SavedWord[]>([]);
-
-    useFocusEffect(
-        useCallback(() => {
-            load();
-        }, [])
-    );
-
-    const load = async () => {
-        const data = await getSavedWords();
-
-        const sorted = data.sort(
-            (a, b) => b.createdAt - a.createdAt
-        );
-
-        setWords(sorted);
-    };
+    const words = useSavedWordsStore(s => s.words);
+    const removeWord = useSavedWordsStore(s => s.removeWord);
 
 
     const [selectedWord, setSelectedWord] = useState<string | null>(null);
@@ -42,18 +25,15 @@ export default function WordListScreen() {
 
     const handleDelete = async () => {
         if (!selectedWord) return;
-        setWords(prev => prev.filter(w => w.word !== selectedWord));
-
         setVisible(false);
-
-        await removeWord(selectedWord);
+        removeWord(selectedWord);
     };
 
     return (
         <View style={styles.container}>
             <FlatList
-                data={words}
-                keyExtractor={(item, index) => item.word + index}
+                data={[...words].sort((a, b) => b.createdAt - a.createdAt)}
+                keyExtractor={(item) => item.word}
                 style={styles.listContent}
                 renderItem={({ item }) => (
                     <TouchableOpacity
@@ -87,38 +67,41 @@ export default function WordListScreen() {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        padding: 16,
+        backgroundColor: "#f3f0ea",
     },
     listContent: {
-        paddingHorizontal: 12,
-        paddingTop: 10,
-        paddingBottom: 40,
+        paddingHorizontal: 16,
+        paddingTop: 14,
+        paddingBottom: 48,
     },
 
     itemCard: {
-        backgroundColor: "#fff",
+        backgroundColor: "#fffdf8",
 
-        alignItems: "center",
+        alignItems: "flex-start",
 
         paddingVertical: 14,
         paddingHorizontal: 16,
 
-        borderRadius: 12,
+        borderRadius: 16,
 
-        marginBottom: 10,
+        marginBottom: 12,
+        borderWidth: StyleSheet.hairlineWidth,
+        borderColor: "#e7e0d6",
 
         // 阴影（iOS）
         shadowColor: "#000",
-        shadowOpacity: 0.06,
-        shadowRadius: 8,
-        shadowOffset: { width: 0, height: 4 },
+        shadowOpacity: 0.08,
+        shadowRadius: 16,
+        shadowOffset: { width: 0, height: 10 },
 
         // Android
-        elevation: 2,
+        elevation: 3,
     },
 
     itemText: {
         fontSize: 17,
-        color: "#222",
+        color: "#111827",
+        fontWeight: "600",
     },
 });
