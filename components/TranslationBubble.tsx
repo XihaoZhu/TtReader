@@ -1,7 +1,6 @@
-
-import React from "react";
-import { View, Text, StyleSheet, TouchableWithoutFeedback, TouchableOpacity, Pressable } from "react-native";
-
+﻿import React from "react";
+import { View, Text, StyleSheet, TouchableOpacity, Pressable } from "react-native";
+import { useReader } from "./ReaderContext";
 
 interface Props {
     visible: boolean;
@@ -24,37 +23,43 @@ export default function TranslationBubble({
     isSaved,
     isWord,
 }: Props) {
+    const { readerTheme } = useReader();
 
     if (!visible) return null;
 
     return (
         <Pressable onPress={() => { }}>
-            <View style={styles.container}>
+            <View style={[styles.container, { backgroundColor: readerTheme.card, borderColor: readerTheme.border }]}>
                 <View style={styles.row}>
-                    <Text style={styles.word}>{text}</Text>
+                    <Text
+                        style={[
+                            styles.word,
+                            { color: readerTheme.text, backgroundColor: readerTheme.background, borderColor: readerTheme.border },
+                        ]}
+                    >
+                        {text}
+                    </Text>
 
                     <TouchableOpacity
                         onPress={isSaved ? onRemove : onSave}
                         style={styles.buttonContainer}
                     >
                         {isWord && (
-                            <Text style={styles.button}>
-                                {isSaved ? "★ Saved" : "☆ Save"}
+                            <Text style={[styles.button, { color: readerTheme.accent }]}>
+                                {isSaved ? "Saved" : "Save"}
                             </Text>
                         )}
                     </TouchableOpacity>
                 </View>
-                {phonetic && (
-                    <Text style={styles.phonetic}>{phonetic}</Text>
-                )}
+                {phonetic && <Text style={[styles.phonetic, { color: readerTheme.muted }]}>{phonetic}</Text>}
                 {isWord ? (
                     translation.map((t, i) => (
-                        <Text key={i} style={styles.wordTranslation}>
+                        <Text key={i} style={[styles.wordTranslation, { color: readerTheme.text }]}>
                             {t}
                         </Text>
                     ))
                 ) : (
-                    <Text style={styles.sentenceTranslation}>{translation[0]}</Text>
+                    <Text style={[styles.sentenceTranslation, { color: readerTheme.text }]}>{translation[0]}</Text>
                 )}
             </View>
         </Pressable>
@@ -67,12 +72,10 @@ const styles = StyleSheet.create({
         bottom: 0,
         left: 0,
         right: 0,
-        backgroundColor: "#fffdf8",
         paddingTop: 14,
         paddingHorizontal: 16,
         paddingBottom: 22,
         borderTopWidth: StyleSheet.hairlineWidth,
-        borderColor: "#e7e0d6",
         borderTopLeftRadius: 18,
         borderTopRightRadius: 18,
         shadowColor: "#000",
@@ -85,23 +88,18 @@ const styles = StyleSheet.create({
         fontSize: 18,
         fontWeight: "800",
         flexShrink: 1,
-        color: "#111827",
         borderWidth: StyleSheet.hairlineWidth,
-        borderColor: "#e7e0d6",
         borderRadius: 10,
         paddingHorizontal: 10,
         paddingVertical: 6,
-        backgroundColor: "#fbf7ef",
     },
     wordTranslation: {
         fontSize: 16,
-        color: "#374151",
         lineHeight: 22,
     },
     sentenceTranslation: {
         marginTop: 8,
         fontSize: 16,
-        color: "#374151",
         lineHeight: 22,
     },
     buttonContainer: {
@@ -109,7 +107,6 @@ const styles = StyleSheet.create({
     },
     button: {
         fontSize: 20,
-        color: "#0a6cff",
         fontWeight: "800",
     },
     row: {
@@ -120,7 +117,6 @@ const styles = StyleSheet.create({
     },
     phonetic: {
         fontSize: 14,
-        color: "#6b7280",
         marginBottom: 8,
     },
 });

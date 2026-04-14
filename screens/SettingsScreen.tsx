@@ -28,6 +28,33 @@ export default function SettingsScreen() {
     >
 
       <View style={styles.section}>
+        <Text style={[styles.sectionTitle, { color: readerTheme.text }]}>Preview</Text>
+        <View
+          style={[
+            styles.previewCard,
+            { backgroundColor: readerTheme.card, borderColor: readerTheme.border },
+          ]}
+        >
+          <Text style={[styles.previewTitle, { color: readerTheme.text }]}>Reading Preview</Text>
+          <Text
+            style={[
+              styles.previewText,
+              {
+                color: readerTheme.text,
+                fontSize: readerFontSize,
+                lineHeight: Math.round(readerFontSize * 1.55),
+              },
+            ]}
+          >
+            {PREVIEW_TEXT}
+          </Text>
+          <Text style={[styles.previewCaption, { color: readerTheme.muted }]}>
+            The preview uses the same font size and palette as the reader, so you can judge the result before
+            opening a book.
+          </Text>
+        </View>
+      </View>
+      <View style={styles.section}>
         <Text style={[styles.sectionTitle, { color: readerTheme.text }]}>Reader Font Size</Text>
         <View
           style={[
@@ -83,34 +110,6 @@ export default function SettingsScreen() {
               </TouchableOpacity>
             );
           })}
-        </View>
-      </View>
-
-      <View style={styles.section}>
-        <Text style={[styles.sectionTitle, { color: readerTheme.text }]}>Preview</Text>
-        <View
-          style={[
-            styles.previewCard,
-            { backgroundColor: readerTheme.card, borderColor: readerTheme.border },
-          ]}
-        >
-          <Text style={[styles.previewTitle, { color: readerTheme.text }]}>Reading Preview</Text>
-          <Text
-            style={[
-              styles.previewText,
-              {
-                color: readerTheme.text,
-                fontSize: readerFontSize,
-                lineHeight: Math.round(readerFontSize * 1.55),
-              },
-            ]}
-          >
-            {PREVIEW_TEXT}
-          </Text>
-          <Text style={[styles.previewCaption, { color: readerTheme.muted }]}>
-            The preview uses the same font size and palette as the reader, so you can judge the result before
-            opening a book.
-          </Text>
         </View>
       </View>
     </ScrollView>

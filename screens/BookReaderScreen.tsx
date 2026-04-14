@@ -1,5 +1,5 @@
-// /src/screens/BookReaderScreen.tsx
-import React, { useEffect, useMemo, useState } from "react";
+﻿// /src/screens/BookReaderScreen.tsx
+import React, { useEffect, useMemo, useRef, useState } from "react";
 import { View, Text, StyleSheet, ActivityIndicator, Pressable } from "react-native";
 import { RouteProp } from "@react-navigation/native";
 import { RootStackParamList } from "../App";
@@ -29,7 +29,7 @@ type Props = RouteProps | DirectProps;
 
 export default function BookReaderScreen(props: Props) {
     const { filePath, title } = "route" in props ? props.route.params : props;
-    const { readerTheme } = useReader();
+    const { readerTheme, reader } = useReader();
 
     const [content, setContent] = useState("");
     const [loading, setLoading] = useState(true);
@@ -61,10 +61,9 @@ export default function BookReaderScreen(props: Props) {
         setCurrentText(text);
         setTranslation([]);
         setPhonetic(null);
-        setBubbleVisible(true);;
+        setBubbleVisible(true);
     };
 
-    // short press on word
     const handleWordPress = async (word: string) => {
         openBubble(word);
         setIsWord(true);
@@ -72,14 +71,13 @@ export default function BookReaderScreen(props: Props) {
         const result = await lookupLocalWord(word);
 
         if (result) {
-            setTranslation(result.translation)
+            setTranslation(result.translation);
             setPhonetic(result.phonetic || null);
         } else {
             setTranslation(["No local result"]);
         }
     };
 
-    // long press on sentence
     const handleSentenceLongPress = async (sentence: string) => {
         setIsWord(false);
         try {
@@ -111,21 +109,38 @@ export default function BookReaderScreen(props: Props) {
 
     // #region last read progress
     const [lastReadLine, setLastReadLine] = useState(0);
+    const lastVisibleLineRef = useRef(0);
+    const previousReaderVisibleRef = useRef(false);
 
     useEffect(() => {
         (async () => {
             const progress = await getProgress(filePath);
-            setLastReadLine(progress ? progress.lineIndex : 0);
+            const lineIndex = progress ? progress.lineIndex : 0;
+            setLastReadLine(lineIndex);
+            lastVisibleLineRef.current = lineIndex;
         })();
     }, [filePath]);
+
+    useEffect(() => {
+        if (reader.visible) {
+            previousReaderVisibleRef.current = true;
+            return;
+        }
+
+        if (previousReaderVisibleRef.current) {
+            previousReaderVisibleRef.current = false;
+            saveProgress(filePath, lastVisibleLineRef.current);
+        }
+    }, [reader.visible, filePath]);
     // #endregion
 
     return (
-        <Pressable onPress={() => {
-            if (bubbleVisible) {
-                setBubbleVisible(false);
-            }
-        }}
+        <Pressable
+            onPress={() => {
+                if (bubbleVisible) {
+                    setBubbleVisible(false);
+                }
+            }}
             style={{ flex: 1, backgroundColor: readerTheme.background }}
         >
             <View style={styles.container}>
@@ -146,6 +161,9 @@ export default function BookReaderScreen(props: Props) {
                             savedWords={savedWords}
                             initialIndex={lastReadLine}
                             filePath={filePath}
+                            onVisibleLineChange={(lineIndex) => {
+                                lastVisibleLineRef.current = lineIndex;
+                            }}
                         />
 
                         <TranslationBubble
@@ -161,7 +179,8 @@ export default function BookReaderScreen(props: Props) {
                     </>
                 )}
             </View>
-        </Pressable>);
+        </Pressable>
+    );
 }
 
 const styles = StyleSheet.create({

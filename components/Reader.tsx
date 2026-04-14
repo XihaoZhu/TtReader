@@ -1,11 +1,10 @@
-import React, { useEffect, useMemo, useRef, useState } from "react";
-import { View, Text, StyleSheet, FlatList, Pressable, ViewToken } from "react-native";
+﻿import React, { useEffect, useMemo, useRef, useState } from "react";
+import { Text, StyleSheet, FlatList, Pressable, ViewToken, LayoutChangeEvent } from "react-native";
 import { splitIntoWords } from "../utils/WordSplitter";
 import { splitIntoSentences } from "../utils/SentenceSplitter";
 import { getCachedContent, setCachedContent } from "../utils/ContentCache";
 import { saveProgress } from "../utils/ReadingProgress";
 import { useReader } from "./ReaderContext";
-
 
 interface Props {
     content: string;
@@ -16,6 +15,7 @@ interface Props {
     savedWords: string[];
     initialIndex?: number;
     filePath: string;
+    onVisibleLineChange?: (lineIndex: number) => void;
 }
 
 export default function Reader({
@@ -27,10 +27,10 @@ export default function Reader({
     savedWords,
     initialIndex = 0,
     filePath,
+    onVisibleLineChange,
 }: Props) {
     const { readerFontSize, readerTheme } = useReader();
 
-    // #region Selection state
     const [selectedWordPos, setSelectedWordPos] = useState<{ sIndex: number; wIndex: number } | null>(null);
     const [selectedSentenceIndex, setSelectedSentenceIndex] = useState<number | null>(null);
 
@@ -53,9 +53,7 @@ export default function Reader({
     function normalizeWord(word: string) {
         return word.replace(/[^a-zA-Z]/g, "").toLowerCase();
     }
-    // #endregion
 
-    // #region memo
     const sentences = useMemo(() => {
         if (getCachedContent(content)) {
             return getCachedContent(content)!;
@@ -67,80 +65,165 @@ export default function Reader({
         return result;
     }, [content]);
 
-    // #endregion
-
-    // #region auto save progress
-    const onViewableItemsChanged = useRef(({
-        viewableItems,
-        changed,
-    }: {
-        viewableItems: ViewToken[];
-        changed: ViewToken[];
-    }) => {
-        if (viewableItems.length > 0) {
-            const firstVisible = viewableItems[0];
-            saveProgress(filePath, firstVisible.index ?? 0);
-        }
-    }).current;
-
     const listRef = useRef<FlatList>(null);
     const [ready, setReady] = useState(false);
     const [listReady, setListReady] = useState(false);
-
     const hasScrolledRef = useRef(false);
+    const firstVisibleLineRef = useRef(initialIndex ?? 0);
+    const restoringFontSizeRef = useRef(false);
+    const lastAppliedFontSizeRef = useRef(readerFontSize);
+    const pendingFontRestoreIndexRef = useRef<number | null>(null);
+    const fontRestoreAppliedRef = useRef(false);
+    const saveTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+    const lineOffsetsRef = useRef(new Map<number, number>());
+
+    const clearSaveTimer = () => {
+        if (saveTimerRef.current) {
+            clearTimeout(saveTimerRef.current);
+            saveTimerRef.current = null;
+        }
+    };
+
+    const scheduleSaveProgress = (lineIndex: number) => {
+        clearSaveTimer();
+        saveTimerRef.current = setTimeout(() => {
+            saveProgress(filePath, lineIndex);
+        }, 250);
+    };
+
+    const tryRestoreFontAnchor = () => {
+        if (!restoringFontSizeRef.current) return;
+        if (fontRestoreAppliedRef.current) return;
+
+        const targetIndex = pendingFontRestoreIndexRef.current;
+        if (targetIndex == null) return;
+
+        fontRestoreAppliedRef.current = true;
+        requestAnimationFrame(() => {
+            listRef.current?.scrollToIndex({
+                index: targetIndex,
+                animated: false,
+                viewPosition: 0,
+            });
+
+            requestAnimationFrame(() => {
+                fontRestoreAppliedRef.current = false;
+            });
+        });
+    };
+
+    useEffect(() => {
+        return () => {
+            clearSaveTimer();
+        };
+    }, []);
 
     useEffect(() => {
         if (!hasScrolledRef.current && listReady && initialIndex != null) {
             hasScrolledRef.current = true;
 
             setTimeout(() => {
-                scrollToInitialIndex();
+                listRef.current?.scrollToIndex({
+                    index: initialIndex,
+                    animated: true,
+                });
                 setReady(true);
             }, 0);
         }
     }, [listReady, initialIndex]);
 
-    const scrollToInitialIndex = () => {
-        if (initialIndex == null) return;
+    useEffect(() => {
+        if (lastAppliedFontSizeRef.current === readerFontSize) {
+            return;
+        }
 
-        listRef.current?.scrollToIndex({
-            index: initialIndex,
-            animated: true,
-        });
+        lastAppliedFontSizeRef.current = readerFontSize;
+
+        if (!listReady) {
+            return;
+        }
+
+        pendingFontRestoreIndexRef.current = firstVisibleLineRef.current ?? initialIndex ?? 0;
+        fontRestoreAppliedRef.current = false;
+        restoringFontSizeRef.current = true;
+        clearSaveTimer();
+
+        const timer = setTimeout(() => {
+            tryRestoreFontAnchor();
+        }, 0);
+
+        return () => clearTimeout(timer);
+    }, [readerFontSize, listReady, initialIndex]);
+
+    const onViewableItemsChanged = useRef(({ viewableItems }: { viewableItems: ViewToken[]; changed: ViewToken[] }) => {
+        if (viewableItems.length > 0) {
+            const firstVisible = viewableItems[0];
+            const firstIndex = firstVisible.index ?? 0;
+            firstVisibleLineRef.current = firstIndex;
+
+            if (!restoringFontSizeRef.current) {
+                onVisibleLineChange?.(firstIndex);
+                scheduleSaveProgress(firstIndex);
+            } else if (pendingFontRestoreIndexRef.current === firstIndex) {
+                restoringFontSizeRef.current = false;
+                pendingFontRestoreIndexRef.current = null;
+                onVisibleLineChange?.(firstIndex);
+            }
+        }
+    }).current;
+
+    const handleLineLayout = (lineIndex: number, e: LayoutChangeEvent) => {
+        lineOffsetsRef.current.set(lineIndex, e.nativeEvent.layout.y);
+        if (pendingFontRestoreIndexRef.current === lineIndex) {
+            tryRestoreFontAnchor();
+        }
     };
 
-
-    // #endregion
-
     const renderLine = ({ item: sentence, index: sentenceIndex }: { item: string; index: number }) => {
-
         if (sentence === "") {
-            return (<Pressable
-                onPress={() => {
-                    if (bubbleVisible) { onCloseBubble() }
-                }}><Text style={styles.emptyLine} /></Pressable>)
+            return (
+                <Pressable
+                    onLayout={(e) => handleLineLayout(sentenceIndex, e)}
+                    onPress={() => {
+                        if (bubbleVisible) {
+                            onCloseBubble();
+                        }
+                    }}
+                >
+                    <Text style={styles.emptyLine} />
+                </Pressable>
+            );
         }
+
         const sentenceWords = splitIntoWords(sentence);
         const lineFontSize = readerFontSize;
         const lineHeight = Math.round(readerFontSize * 1.55);
+
         return (
             <Pressable
                 style={styles.lineContainer}
+                onLayout={(e) => handleLineLayout(sentenceIndex, e)}
                 onPress={() => {
-                    if (bubbleVisible) { onCloseBubble() }
-                }}>
+                    if (bubbleVisible) {
+                        onCloseBubble();
+                    }
+                }}
+            >
                 <Text style={[styles.line, { fontSize: lineFontSize, lineHeight, color: readerTheme.text }]}>
                     {sentenceWords.map((word, wIndex) => {
                         const isWordSelected =
                             selectedWordPos?.sIndex === sentenceIndex && selectedWordPos?.wIndex === wIndex;
-                        const isWordSaved = (w: string) => savedWords.includes(w)
+                        const isWordSaved = (w: string) => savedWords.includes(w);
                         const isSentenceSelected = selectedSentenceIndex === sentenceIndex;
 
                         return (
                             <Text
                                 key={wIndex}
                                 onPress={() => {
-                                    if (bubbleVisible) { onCloseBubble(); return; }
+                                    if (bubbleVisible) {
+                                        onCloseBubble();
+                                        return;
+                                    }
                                     handleWordPress(sentenceIndex, wIndex, cleanWord(word));
                                 }}
                                 onLongPress={() => handleSentenceLongPress(sentenceIndex, sentence)}
@@ -177,12 +260,13 @@ export default function Reader({
                 setSelectedWordPos(null);
                 setSelectedSentenceIndex(null);
             }}
-            // getItemLayout={(_, index) => ({
-            //     length: estimatedLineHeight,
-            //     offset: estimatedLineHeight * index,
-            //     index,
-            // })}
             onScrollToIndexFailed={(info) => {
+                if (restoringFontSizeRef.current) {
+                    setTimeout(() => {
+                        tryRestoreFontAnchor();
+                    }, 50);
+                    return;
+                }
 
                 listRef.current?.scrollToOffset({
                     offset: info.averageItemLength * info.index,
@@ -222,14 +306,14 @@ const styles = StyleSheet.create({
     },
     line: {
         flexDirection: "row",
-        flexWrap: "wrap"
+        flexWrap: "wrap",
     },
     emptyLine: {
         height: 16,
     },
     lineContainer: {
-        flexDirection: 'row',
-        flexWrap: 'wrap',
+        flexDirection: "row",
+        flexWrap: "wrap",
         minHeight: 30,
     },
 });

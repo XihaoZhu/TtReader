@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { BackHandler, Pressable, StyleSheet, Text, View } from "react-native";
+import { BackHandler, Platform, Pressable, StatusBar, StyleSheet, Text, View } from "react-native";
 import { useReader } from "../components/ReaderContext";
 import BookReaderScreen from "../screens/BookReaderScreen";
 
@@ -53,10 +53,11 @@ const styles = StyleSheet.create({
         opacity: 0,
     },
     topBar: {
-        height: 44,
+        height: 44 + (Platform.OS === "android" ? (StatusBar.currentHeight ?? 0) : 0),
         justifyContent: "center",
         alignItems: "flex-end",
         paddingHorizontal: 12,
+        paddingTop: Platform.OS === "android" ? StatusBar.currentHeight ?? 0 : 0,
         borderBottomWidth: StyleSheet.hairlineWidth,
     },
     content: {
