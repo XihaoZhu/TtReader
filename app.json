@@ -30,6 +30,8 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
+      "permissions": [],
+      "package": "com.ttreader.app",
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false
     },
