@@ -4,10 +4,7 @@ import { splitIntoWords } from "../utils/WordSplitter";
 import { splitIntoSentences } from "../utils/SentenceSplitter";
 import { getCachedContent, setCachedContent } from "../utils/ContentCache";
 import { saveProgress } from "../utils/ReadingProgress";
-
-
-
-const estimatedLineHeight = 44;
+import { useReader } from "./ReaderContext";
 
 
 interface Props {
@@ -31,6 +28,7 @@ export default function Reader({
     initialIndex = 0,
     filePath,
 }: Props) {
+    const { readerFontSize, readerTheme } = useReader();
 
     // #region Selection state
     const [selectedWordPos, setSelectedWordPos] = useState<{ sIndex: number; wIndex: number } | null>(null);
@@ -123,13 +121,15 @@ export default function Reader({
                 }}><Text style={styles.emptyLine} /></Pressable>)
         }
         const sentenceWords = splitIntoWords(sentence);
+        const lineFontSize = readerFontSize;
+        const lineHeight = Math.round(readerFontSize * 1.55);
         return (
             <Pressable
                 style={styles.lineContainer}
                 onPress={() => {
                     if (bubbleVisible) { onCloseBubble() }
                 }}>
-                <Text style={styles.line}>
+                <Text style={[styles.line, { fontSize: lineFontSize, lineHeight, color: readerTheme.text }]}>
                     {sentenceWords.map((word, wIndex) => {
                         const isWordSelected =
                             selectedWordPos?.sIndex === sentenceIndex && selectedWordPos?.wIndex === wIndex;
@@ -146,9 +146,15 @@ export default function Reader({
                                 onLongPress={() => handleSentenceLongPress(sentenceIndex, sentence)}
                                 style={[
                                     styles.word,
-                                    isWordSelected && styles.selectedWord,
-                                    isWordSaved(normalizeWord(cleanWord(word))) && styles.savedWord,
-                                    isSentenceSelected && styles.selectedSentence,
+                                    { fontSize: lineFontSize, lineHeight, color: readerTheme.text },
+                                    isWordSelected && { backgroundColor: readerTheme.selectedWord },
+                                    isWordSaved(normalizeWord(cleanWord(word))) && {
+                                        textDecorationLine: "underline",
+                                        textDecorationColor: readerTheme.accent,
+                                        fontWeight: "700",
+                                        color: readerTheme.savedWord,
+                                    },
+                                    isSentenceSelected && { backgroundColor: readerTheme.selectedSentence },
                                 ]}
                             >
                                 {word + " "}
@@ -209,15 +215,12 @@ const styles = StyleSheet.create({
         marginHorizontal: 18,
         opacity: 0,
     },
-    sentence: { flexDirection: "row", flexWrap: "wrap", paddingHorizontal: 16, marginBottom: 4 },
-    word: { fontSize: 17, lineHeight: 28, color: "#111827" },
-    selectedWord: { backgroundColor: "#fde68a" },
-    selectedSentence: { backgroundColor: "#fecaca" },
-    savedWord: { color: "#0f766e", fontWeight: "800" },
+    word: {
+        textDecorationLine: "none",
+        textDecorationStyle: "solid",
+        fontWeight: "500",
+    },
     line: {
-        fontSize: 17,
-        lineHeight: 28,
-        color: "#111827",
         flexDirection: "row",
         flexWrap: "wrap"
     },

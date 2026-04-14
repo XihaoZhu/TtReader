@@ -3,10 +3,10 @@ import React from "react";
 import { NavigationContainer, getFocusedRouteNameFromRoute } from "@react-navigation/native";
 import { createStackNavigator } from '@react-navigation/stack';
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
-import { View, Text } from "react-native";
 import BookListScreen from "./screens/BookListScreen";
 import BookReaderScreen from "./screens/BookReaderScreen";
 import WordListScreen from "./screens/WordListScreen";
+import SettingsScreen from "./screens/SettingsScreen";
 import Ionicons from '@expo/vector-icons/Ionicons';
 import { ReaderProvider } from "./components/ReaderContext";
 import { useReader } from "./components/ReaderContext";
@@ -41,14 +41,6 @@ function BooksStack() {
         }}
       />
     </Stack.Navigator>
-  );
-}
-
-function SettingsScreen() {
-  return (
-    <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
-      <Text>Settings (Coming Soon)</Text>
-    </View>
   );
 }
 

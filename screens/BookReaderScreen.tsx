@@ -11,6 +11,7 @@ import { lookupLocalWord } from "../services/WordDictionary";
 import { saveProgress, getProgress } from "../utils/ReadingProgress";
 import { translate } from "../services/TranslationService";
 import { useSavedWordsStore } from "../stores/savedWordsStore";
+import { useReader } from "../components/ReaderContext";
 
 
 type BookReaderRouteProp = RouteProp<RootStackParamList, "BookReader">;
@@ -28,6 +29,7 @@ type Props = RouteProps | DirectProps;
 
 export default function BookReaderScreen(props: Props) {
     const { filePath, title } = "route" in props ? props.route.params : props;
+    const { readerTheme } = useReader();
 
     const [content, setContent] = useState("");
     const [loading, setLoading] = useState(true);
@@ -124,14 +126,16 @@ export default function BookReaderScreen(props: Props) {
                 setBubbleVisible(false);
             }
         }}
-            style={{ flex: 1 }}
+            style={{ flex: 1, backgroundColor: readerTheme.background }}
         >
             <View style={styles.container}>
                 {loading ? (
-                    <ActivityIndicator size="large" />
+                    <View style={styles.loadingWrap}>
+                        <ActivityIndicator size="large" color={readerTheme.accent} />
+                    </View>
                 ) : (
                     <>
-                        <Text style={styles.title}>{title}</Text>
+                        <Text style={[styles.title, { color: readerTheme.text }]}>{title}</Text>
 
                         <Reader
                             content={content}
@@ -161,13 +165,17 @@ export default function BookReaderScreen(props: Props) {
 }
 
 const styles = StyleSheet.create({
-    container: { flex: 1, backgroundColor: "#fffdf8" },
+    container: { flex: 1 },
+    loadingWrap: {
+        flex: 1,
+        alignItems: "center",
+        justifyContent: "center",
+    },
     title: {
         alignSelf: "center",
         fontSize: 16,
         fontWeight: "700",
         letterSpacing: 0.2,
-        color: "#374151",
         paddingTop: 12,
         paddingBottom: 10,
         paddingHorizontal: 16,

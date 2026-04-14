@@ -38,7 +38,7 @@ type BookItem = {
 };
 
 export default function BookListScreen({ navigation }: Props) {
-    const { openReader } = useReader();
+    const { openReader, readerTheme } = useReader();
 
     const openBook = (book: BookItem) => {
         openReader(book.uri, book.name);
@@ -50,8 +50,8 @@ export default function BookListScreen({ navigation }: Props) {
 
     // #endregion
     return (
-        <View style={styles.container}>
-            <TouchableOpacity style={styles.importBtn} onPress={importBook}>
+        <View style={[styles.container, { backgroundColor: readerTheme.background }]}>
+            <TouchableOpacity style={[styles.importBtn, { backgroundColor: readerTheme.accent }]} onPress={importBook}>
                 <Text style={{ color: 'white', fontWeight: 'bold' }}>Import Book</Text>
             </TouchableOpacity>
 
@@ -61,17 +61,20 @@ export default function BookListScreen({ navigation }: Props) {
                 contentContainerStyle={{ padding: 16 }}
                 renderItem={({ item }) => (
                     <TouchableOpacity
-                        style={styles.bookItem}
+                        style={[
+                            styles.bookItem,
+                            { backgroundColor: readerTheme.card, borderColor: readerTheme.border },
+                        ]}
                         activeOpacity={0.8}
                         onPress={() => openBook(item)}
                     >
-                        <Text style={styles.bookName}>{item.name}</Text>
+                        <Text style={[styles.bookName, { color: readerTheme.text }]}>{item.name}</Text>
 
                         <View style={styles.actions}>
                             <TouchableOpacity
                                 onPress={() => removeBook(item.id)}
                             >
-                                <Text style={styles.removeBtn}>Remove</Text>
+                                <Text style={[styles.removeBtn, { color: readerTheme.accent }]}>Remove</Text>
                             </TouchableOpacity>
                         </View>
                     </TouchableOpacity>
@@ -82,9 +85,8 @@ export default function BookListScreen({ navigation }: Props) {
 }
 
 const styles = StyleSheet.create({
-    container: { flex: 1, backgroundColor: "#f3f0ea" },
+    container: { flex: 1 },
     importBtn: {
-        backgroundColor: "#0a6cff",
         margin: 16,
         paddingVertical: 12,
         borderRadius: 10,
@@ -96,7 +98,6 @@ const styles = StyleSheet.create({
         elevation: 4,
     },
     bookItem: {
-        backgroundColor: "#fffdf8",
         padding: 16,
         borderRadius: 16,
         marginBottom: 12,
@@ -106,9 +107,8 @@ const styles = StyleSheet.create({
         shadowOffset: { width: 0, height: 10 },
         elevation: 3,
         borderWidth: StyleSheet.hairlineWidth,
-        borderColor: "#e7e0d6",
     },
-    bookName: { fontSize: 16, fontWeight: "600", color: "#1f2937" },
+    bookName: { fontSize: 16, fontWeight: "600" },
     actions: { flexDirection: 'row', marginTop: 8, justifyContent: 'flex-end' },
-    removeBtn: { color: "#d92d20", fontWeight: "600" },
+    removeBtn: { fontWeight: "600" },
 });

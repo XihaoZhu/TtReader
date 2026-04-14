@@ -4,7 +4,7 @@ import { useReader } from "../components/ReaderContext";
 import BookReaderScreen from "../screens/BookReaderScreen";
 
 export default function ReaderOverlay() {
-    const { reader, closeReader } = useReader();
+    const { reader, closeReader, readerTheme } = useReader();
 
     useEffect(() => {
         if (!reader.visible) return;
@@ -22,11 +22,15 @@ export default function ReaderOverlay() {
     return (
         <View
             pointerEvents={reader.visible ? "auto" : "none"}
-            style={[styles.overlay, !reader.visible && styles.hidden]}
+            style={[
+                styles.overlay,
+                { backgroundColor: readerTheme.background },
+                !reader.visible && styles.hidden,
+            ]}
         >
-            <View style={styles.topBar}>
+            <View style={[styles.topBar, { backgroundColor: readerTheme.background, borderBottomColor: readerTheme.border }]}>
                 <Pressable onPress={closeReader} hitSlop={12} style={styles.closeBtn}>
-                    <Text style={styles.closeText}>Close</Text>
+                    <Text style={[styles.closeText, { color: readerTheme.accent }]}>Close</Text>
                 </Pressable>
             </View>
             <View style={styles.content}>
@@ -43,7 +47,6 @@ export default function ReaderOverlay() {
 const styles = StyleSheet.create({
     overlay: {
         ...StyleSheet.absoluteFillObject,
-        backgroundColor: "#fffdf8",
         zIndex: 999,
     },
     hidden: {
@@ -55,8 +58,6 @@ const styles = StyleSheet.create({
         alignItems: "flex-end",
         paddingHorizontal: 12,
         borderBottomWidth: StyleSheet.hairlineWidth,
-        borderBottomColor: "#e7e0d6",
-        backgroundColor: "#fffdf8",
     },
     content: {
         flex: 1,
@@ -66,7 +67,6 @@ const styles = StyleSheet.create({
         paddingHorizontal: 10,
     },
     closeText: {
-        color: "#0a6cff",
         fontSize: 16,
         fontWeight: "600",
     },
