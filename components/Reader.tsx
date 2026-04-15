@@ -76,6 +76,8 @@ export default function Reader({
     const fontRestoreAppliedRef = useRef(false);
     const saveTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
     const lineOffsetsRef = useRef(new Map<number, number>());
+    const isLayoutStableRef = useRef(true);
+    const retryCountRef = useRef(0);
 
     const clearSaveTimer = () => {
         if (saveTimerRef.current) {
@@ -93,23 +95,25 @@ export default function Reader({
 
     const tryRestoreFontAnchor = () => {
         if (!restoringFontSizeRef.current) return;
+        if (!isLayoutStableRef.current) return;
         if (fontRestoreAppliedRef.current) return;
 
         const targetIndex = pendingFontRestoreIndexRef.current;
         if (targetIndex == null) return;
 
         fontRestoreAppliedRef.current = true;
-        requestAnimationFrame(() => {
-            listRef.current?.scrollToIndex({
-                index: targetIndex,
-                animated: false,
-                viewPosition: 0,
-            });
 
-            requestAnimationFrame(() => {
-                fontRestoreAppliedRef.current = false;
-            });
+        listRef.current?.scrollToIndex({
+            index: targetIndex,
+            animated: false,
+            viewPosition: 0,
         });
+
+        setTimeout(() => {
+            restoringFontSizeRef.current = false;
+            fontRestoreAppliedRef.current = false;
+            retryCountRef.current = 0;
+        }, 120);
     };
 
     useEffect(() => {
@@ -120,37 +124,40 @@ export default function Reader({
 
     useEffect(() => {
         if (!hasScrolledRef.current && listReady && initialIndex != null) {
+
+            if (restoringFontSizeRef.current) return;
+            if (!isLayoutStableRef.current) return;
+
             hasScrolledRef.current = true;
 
-            setTimeout(() => {
-                listRef.current?.scrollToIndex({
-                    index: initialIndex,
-                    animated: true,
-                });
-                setReady(true);
-            }, 0);
+            listRef.current?.scrollToIndex({
+                index: initialIndex,
+                animated: true,
+            });
+
+            setReady(true);
         }
     }, [listReady, initialIndex]);
-
     useEffect(() => {
-        if (lastAppliedFontSizeRef.current === readerFontSize) {
-            return;
-        }
+        if (lastAppliedFontSizeRef.current === readerFontSize) return;
 
         lastAppliedFontSizeRef.current = readerFontSize;
 
-        if (!listReady) {
-            return;
-        }
+        if (!listReady) return;
 
-        pendingFontRestoreIndexRef.current = firstVisibleLineRef.current ?? initialIndex ?? 0;
-        fontRestoreAppliedRef.current = false;
+        isLayoutStableRef.current = false;
         restoringFontSizeRef.current = true;
+        fontRestoreAppliedRef.current = false;
+
+        pendingFontRestoreIndexRef.current =
+            firstVisibleLineRef.current ?? initialIndex ?? 0;
+
         clearSaveTimer();
 
         const timer = setTimeout(() => {
+            isLayoutStableRef.current = true;
             tryRestoreFontAnchor();
-        }, 0);
+        }, 120);
 
         return () => clearTimeout(timer);
     }, [readerFontSize, listReady, initialIndex]);
@@ -174,7 +181,10 @@ export default function Reader({
 
     const handleLineLayout = (lineIndex: number, e: LayoutChangeEvent) => {
         lineOffsetsRef.current.set(lineIndex, e.nativeEvent.layout.y);
-        if (pendingFontRestoreIndexRef.current === lineIndex) {
+        if (
+            pendingFontRestoreIndexRef.current === lineIndex &&
+            isLayoutStableRef.current
+        ) {
             tryRestoreFontAnchor();
         }
     };
@@ -261,25 +271,26 @@ export default function Reader({
                 setSelectedSentenceIndex(null);
             }}
             onScrollToIndexFailed={(info) => {
-                if (restoringFontSizeRef.current) {
-                    setTimeout(() => {
-                        tryRestoreFontAnchor();
-                    }, 50);
-                    return;
-                }
+
+                if (restoringFontSizeRef.current) return;
+
+                if (!isLayoutStableRef.current) return;
+
+                if (retryCountRef.current > 3) return;
+
+                retryCountRef.current++;
 
                 listRef.current?.scrollToOffset({
                     offset: info.averageItemLength * info.index,
                     animated: false,
                 });
+
                 setTimeout(() => {
-                    requestAnimationFrame(() => {
-                        listRef.current?.scrollToIndex({
-                            index: info.index,
-                            animated: true,
-                        });
+                    listRef.current?.scrollToIndex({
+                        index: info.index,
+                        animated: false,
                     });
-                }, 0);
+                }, 50);
             }}
             windowSize={5}
             initialNumToRender={10}
