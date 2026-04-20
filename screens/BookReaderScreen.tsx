@@ -1,5 +1,5 @@
 ﻿// /src/screens/BookReaderScreen.tsx
-import React, { useEffect, useMemo, useRef, useState } from "react";
+import React, { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { View, Text, StyleSheet, ActivityIndicator, Pressable } from "react-native";
 import { RouteProp } from "@react-navigation/native";
 import { RootStackParamList } from "../App";
@@ -57,14 +57,14 @@ export default function BookReaderScreen(props: Props) {
     const [phonetic, setPhonetic] = useState<string | null>(null);
     const [isWord, setIsWord] = useState(true);
 
-    const openBubble = (text: string) => {
+    const openBubble = useCallback((text: string) => {
         setCurrentText(text);
         setTranslation([]);
         setPhonetic(null);
         setBubbleVisible(true);
-    };
+    }, []);
 
-    const handleWordPress = async (word: string) => {
+    const handleWordPress = useCallback(async (word: string) => {
         openBubble(word);
         setIsWord(true);
 
@@ -76,9 +76,9 @@ export default function BookReaderScreen(props: Props) {
         } else {
             setTranslation(["No local result"]);
         }
-    };
+    }, [openBubble]);
 
-    const handleSentenceLongPress = async (sentence: string) => {
+    const handleSentenceLongPress = useCallback(async (sentence: string) => {
         setIsWord(false);
         try {
             openBubble(sentence);
@@ -88,7 +88,7 @@ export default function BookReaderScreen(props: Props) {
         } catch (err) {
             console.log("FULL ERROR:", err);
         }
-    };
+    }, [openBubble]);
     // #endregion
 
     // #region Words saving logic
@@ -98,13 +98,21 @@ export default function BookReaderScreen(props: Props) {
     const removeWord = useSavedWordsStore((s) => s.removeWord);
     const isSaved = useSavedWordsStore((s) => s.hasWord(currentText));
 
-    const handleSave = () => {
+    const handleSave = useCallback(() => {
         saveWord(currentText);
-    };
+    }, [currentText, saveWord]);
 
-    const handleRemove = () => {
+    const handleRemove = useCallback(() => {
         removeWord(currentText);
-    };
+    }, [currentText, removeWord]);
+
+    const closeBubble = useCallback(() => {
+        setBubbleVisible(false);
+    }, []);
+
+    const handleVisibleLineChange = useCallback((lineIndex: number) => {
+        lastVisibleLineRef.current = lineIndex;
+    }, []);
     // #endregion
 
     // #region last read progress
@@ -157,13 +165,11 @@ export default function BookReaderScreen(props: Props) {
                             onWordPress={handleWordPress}
                             onSentenceLongPress={handleSentenceLongPress}
                             bubbleVisible={bubbleVisible}
-                            onCloseBubble={() => setBubbleVisible(false)}
+                            onCloseBubble={closeBubble}
                             savedWords={savedWords}
                             initialIndex={lastReadLine}
                             filePath={filePath}
-                            onVisibleLineChange={(lineIndex) => {
-                                lastVisibleLineRef.current = lineIndex;
-                            }}
+                            onVisibleLineChange={handleVisibleLineChange}
                         />
 
                         <TranslationBubble
