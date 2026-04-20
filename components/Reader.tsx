@@ -45,6 +45,8 @@ type LineMetrics = {
 
 const WINDOW_BEFORE = 18;
 const WINDOW_AFTER = 26;
+const BOOT_WINDOW_BEFORE = 96;
+const BOOT_WINDOW_AFTER = 128;
 
 function cleanWord(word: string) {
     return word.replace(/^[\p{P}\p{S}]+|[\p{P}\p{S}]+$/gu, "");
@@ -179,9 +181,6 @@ export default function Reader({
 
     const savedWordSet = useMemo(() => new Set(savedWords.map((word) => normalizeWord(word))), [savedWords]);
 
-    const windowStart = Math.max(0, anchorLineIndex - WINDOW_BEFORE);
-    const windowEnd = Math.min(sentences.length - 1, anchorLineIndex + WINDOW_AFTER);
-
     const scrollRef = useRef<ScrollView>(null);
     const [ready, setReady] = useState(false);
     const hasScrolledRef = useRef(false);
@@ -197,6 +196,12 @@ export default function Reader({
     const initialScrollAttemptedRef = useRef(false);
     const initialScrollAppliedRef = useRef(false);
     const containerWidthRef = useRef(0);
+
+    const isBooting = !ready || restoringFontSizeRef.current;
+    const activeBefore = isBooting ? BOOT_WINDOW_BEFORE : WINDOW_BEFORE;
+    const activeAfter = isBooting ? BOOT_WINDOW_AFTER : WINDOW_AFTER;
+    const windowStart = Math.max(0, anchorLineIndex - activeBefore);
+    const windowEnd = Math.min(sentences.length - 1, anchorLineIndex + activeAfter);
 
     const clearSaveTimer = () => {
         if (saveTimerRef.current) {
