@@ -1,3 +1,0 @@
-This is a texting file.
-Because there is section select function so I have to write multi sentences.
-Hello World. Hello Nick. Hello Kitty.

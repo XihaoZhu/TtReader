@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "TtReader",
-    "slug": "TtReader",
+    "name": "TT Reader",
+    "slug": "TT-Reader",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -30,13 +30,22 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "permissions": [],
-      "package": "com.ttreader.app",
+      "permissions": [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.INTERNET"
+      ],
+      "package": "com.nickZhu.TTReader",
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1e0c74a9-4645-4219-839e-66b8da284cdb"
+      }
     }
   }
 }
