@@ -28,14 +28,17 @@ export default function ReaderOverlay() {
                 !reader.visible && styles.hidden,
             ]}
         >
-            <View style={[styles.topBar, { backgroundColor: readerTheme.background, borderBottomColor: readerTheme.border }]}>
+            <StatusBar
+                barStyle={readerTheme.id === "night" ? "light-content" : "dark-content"}
+                backgroundColor={readerTheme.card}
+            />
+            <View style={[styles.topBar, { backgroundColor: readerTheme.card, borderBottomColor: readerTheme.border }]}>
                 <Pressable onPress={closeReader} hitSlop={12} style={styles.closeBtn}>
                     <Text style={[styles.closeText, { color: readerTheme.accent }]}>Close</Text>
                 </Pressable>
             </View>
             <View style={styles.content}>
                 <BookReaderScreen
-                    key={reader.filePath}
                     filePath={reader.filePath}
                     title={reader.title ?? ""}
                 />

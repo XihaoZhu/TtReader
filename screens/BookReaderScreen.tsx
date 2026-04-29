@@ -169,6 +169,7 @@ export default function BookReaderScreen(props: Props) {
                             savedWords={savedWords}
                             initialIndex={lastReadLine}
                             filePath={filePath}
+                            isVisible={reader.visible}
                             onVisibleLineChange={handleVisibleLineChange}
                         />
 

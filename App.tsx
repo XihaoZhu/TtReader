@@ -24,8 +24,18 @@ const Stack = createStackNavigator<RootStackParamList>();
 const Tab = createBottomTabNavigator();
 
 function BooksStack() {
+  const { readerTheme } = useReader();
+
   return (
-    <Stack.Navigator detachInactiveScreens={false}>
+    <Stack.Navigator
+      detachInactiveScreens={false}
+      screenOptions={{
+        headerStyle: { backgroundColor: readerTheme.card },
+        headerTintColor: readerTheme.text,
+        headerTitleStyle: { color: readerTheme.text },
+        headerShadowVisible: false,
+      }}
+    >
       <Stack.Screen
         name="BookList"
         component={BookListScreen}
@@ -53,13 +63,17 @@ export default function App() {
 }
 
 function AppNavigator() {
-  const { reader } = useReader();
+  const { reader, readerTheme } = useReader();
 
   return (
     <NavigationContainer>
       <Tab.Navigator
         screenOptions={({ route }) => ({
           headerShown: false,
+          headerStyle: { backgroundColor: readerTheme.card },
+          headerTintColor: readerTheme.text,
+          headerTitleStyle: { color: readerTheme.text },
+          headerShadowVisible: false,
           tabBarStyle: { display: reader.visible ? "none" : "flex" },
           tabBarIcon: ({ color, size }) => {
             let iconName: "book" | "list" | "settings" = (route.name === "Books") ? "book" : (route.name === "Words") ? "list" : "settings";
@@ -80,11 +94,11 @@ function AppNavigator() {
           <Tab.Screen
             name="Words"
             component={WordListScreen}
-            options={{
-              title: "Words collected",
-              headerShown: true,
-            }}
-          />
+          options={{
+            title: "Words collected",
+            headerShown: true,
+          }}
+        />
           <Tab.Screen
             name="Settings"
             component={SettingsScreen}

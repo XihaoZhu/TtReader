@@ -15,6 +15,7 @@ interface Props {
     savedWords: string[];
     initialIndex?: number;
     filePath: string;
+    isVisible: boolean;
     onVisibleLineChange?: (lineIndex: number) => void;
 }
 
@@ -158,6 +159,7 @@ export default function Reader({
     savedWords,
     initialIndex = 0,
     filePath,
+    isVisible,
     onVisibleLineChange,
 }: Props) {
     const { readerFontSize, readerTheme } = useReader();
@@ -416,7 +418,7 @@ export default function Reader({
 
     return (
         <ScrollView
-            style={[styles.container, ready && { opacity: 1 }]}
+            style={[styles.container, isVisible ? styles.visible : styles.hidden]}
             contentContainerStyle={styles.contentContainer}
             ref={scrollRef}
             onLayout={(e) => {
@@ -473,6 +475,11 @@ export default function Reader({
 const styles = StyleSheet.create({
     container: {
         flex: 1,
+    },
+    visible: {
+        opacity: 1,
+    },
+    hidden: {
         opacity: 0,
     },
     contentContainer: {
