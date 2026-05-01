@@ -35,7 +35,7 @@
         "android.permission.WRITE_EXTERNAL_STORAGE",
         "android.permission.INTERNET"
       ],
-      "package": "com.nickZhu.TTReader",
+      "package": "com.xihao.ttreader",
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false
     },
