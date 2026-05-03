@@ -1,16 +1,15 @@
-// /src/screens/BookListScreen.tsx
-import React, { useEffect, useState } from "react";
+﻿// /src/screens/BookListScreen.tsx
+import React from "react";
 import {
     View,
     Text,
     FlatList,
     TouchableOpacity,
     StyleSheet,
+    ActivityIndicator,
 } from "react-native";
 import { NativeStackNavigationProp } from "@react-navigation/native-stack";
 import { RootStackParamList } from "../App";
-import * as FileSystem from "expo-file-system";
-import { Asset } from "expo-asset";
 import { useBookManager } from "../hooks/useBookManager";
 import { useReader } from "../components/ReaderContext";
 
@@ -21,12 +20,6 @@ type NavigationProp = NativeStackNavigationProp<
 
 interface Props {
     navigation: NavigationProp;
-}
-
-interface Book {
-    id: string;
-    title: string;
-    uri: string;
 }
 
 type BookItem = {
@@ -44,15 +37,20 @@ export default function BookListScreen({ navigation }: Props) {
         openReader(book.uri, book.name);
     };
 
-    // #region real books import
-    const { bookList, importBook, removeBook } = useBookManager();
+    const { bookList, importBook, removeBook, isReady } = useBookManager();
 
+    if (!isReady) {
+        return (
+            <View style={[styles.loadingContainer, { backgroundColor: readerTheme.background }]}>
+                <ActivityIndicator size="large" color={readerTheme.accent} />
+            </View>
+        );
+    }
 
-    // #endregion
     return (
         <View style={[styles.container, { backgroundColor: readerTheme.background }]}>
             <TouchableOpacity style={[styles.importBtn, { backgroundColor: readerTheme.accent }]} onPress={importBook}>
-                <Text style={{ color: 'white', fontWeight: 'bold' }}>Import Book</Text>
+                <Text style={{ color: 'white', fontWeight: 'bold' }}>Import TXT Book</Text>
             </TouchableOpacity>
 
             <FlatList
@@ -86,6 +84,11 @@ export default function BookListScreen({ navigation }: Props) {
 
 const styles = StyleSheet.create({
     container: { flex: 1 },
+    loadingContainer: {
+        flex: 1,
+        alignItems: 'center',
+        justifyContent: 'center',
+    },
     importBtn: {
         margin: 16,
         paddingVertical: 12,
