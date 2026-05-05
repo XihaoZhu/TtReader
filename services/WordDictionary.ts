@@ -1,32 +1,49 @@
+import { getLocalDictDatabase } from "./LoadLocalDict";
 
-import { Asset } from "expo-asset";
-import { loadDict } from "./LoadLocalDict";
-
-interface DictEntry {
+export interface DictEntry {
     word: string;
-    sw: string;
-    translation: string[];
     phonetic: string;
+    translation: string[];
 }
 
-const cache: Record<string, DictEntry[]> = {};
+interface DictRow {
+    word: string;
+    phonetic: string | null;
+    translation: string | null;
+}
 
 function normalizeWord(word: string) {
     return word.replace(/[^a-zA-Z]/g, "").toLowerCase();
 }
 
+function parseTranslation(translation: string | null): string[] {
+    if (!translation) {
+        return [];
+    }
+
+    return translation
+        .split("|")
+        .map((item) => item.trim())
+        .filter(Boolean);
+}
 
 export async function lookupLocalWord(word: string): Promise<DictEntry | null> {
     const sw = normalizeWord(word);
     if (!sw) return null;
 
-    const firstLetter = sw[0]; // a-z
+    const db = await getLocalDictDatabase();
+    const row = await db.getFirstAsync<DictRow>(
+        "SELECT word, phonetic, translation FROM words WHERE word = ? COLLATE NOCASE LIMIT 1",
+        sw,
+    );
 
-
-    if (!cache[firstLetter]) {
-        const lines = await loadDict(firstLetter);
-        cache[firstLetter] = lines.map((line) => JSON.parse(line));
+    if (!row) {
+        return null;
     }
-    const dict = cache[firstLetter];
-    return dict.find((e) => e.sw.toLowerCase() === sw) || null;
+
+    return {
+        word: row.word,
+        phonetic: row.phonetic ?? "",
+        translation: parseTranslation(row.translation),
+    };
 }

@@ -20,7 +20,8 @@
           "enableFileSharing": true
         }
       ],
-      "expo-asset"
+      "expo-asset",
+      "expo-sqlite"
     ],
     "ios": {
       "supportsTablet": true

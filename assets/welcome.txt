@@ -1,5 +1,5 @@
 
-欢迎使用 TT Reader。本应用仅支持 TXT 文件的英译中阅读，轻点单词即可翻译，长按当前句子即可翻译整句。
+欢迎使用 TT Reader。本应用仅支持 TXT 文件的英译中阅读，轻点单词即可翻译，长按当前句子即可翻译整句。首次打开软件单词翻译需耐心等待几秒，之后即可无延迟翻译。（单词翻译纯本地，包括造成延迟的初始化服务）
 
 Welcome to TT Reader. 
-This app supports TXT-only English-to-Chinese reading, with tap-to-translate for words and long-press translation for sentences.
+This app supports TXT-only English-to-Chinese reading, with tap-to-translate for words and long-press translation for sentences. Very first time for word translation after just installation will take a few seconds, but will be instant after that. (All word translation happens locally, even the initialization for the service which causes the delay)
