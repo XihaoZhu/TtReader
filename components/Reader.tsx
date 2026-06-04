@@ -17,6 +17,7 @@ interface Props {
     filePath: string;
     isVisible: boolean;
     onVisibleLineChange?: (lineIndex: number) => void;
+    layoutResetToken?: number;
 }
 
 type ReaderLineProps = {
@@ -161,6 +162,7 @@ export default function Reader({
     filePath,
     isVisible,
     onVisibleLineChange,
+    layoutResetToken = 0,
 }: Props) {
     const { readerFontSize, readerTheme } = useReader();
 
@@ -313,6 +315,22 @@ export default function Reader({
         lineMetricsRef.current = [];
         setMetricsVersion((v) => v + 1);
     }, [initialIndex]);
+
+    useEffect(() => {
+        hasScrolledRef.current = false;
+        if (ready) setReady(false);
+        restoringFontSizeRef.current = false;
+        fontRestoreAppliedRef.current = false;
+        pendingFontRestoreIndexRef.current = null;
+        initialScrollAttemptedRef.current = false;
+        initialScrollAppliedRef.current = false;
+        setAnchorLineIndex(Math.max(0, initialIndex ?? 0));
+        firstVisibleLineRef.current = initialIndex ?? 0;
+        lastReportedLineRef.current = initialIndex ?? 0;
+        lineMetricsRef.current = [];
+        isLayoutStableRef.current = false;
+        setMetricsVersion((v) => v + 1);
+    }, [layoutResetToken, initialIndex]);
 
     useEffect(() => {
         if (!sentences.length) return;

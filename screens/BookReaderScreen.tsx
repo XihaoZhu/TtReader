@@ -30,6 +30,7 @@ type Props = RouteProps | DirectProps;
 export default function BookReaderScreen(props: Props) {
     const { filePath, title } = "route" in props ? props.route.params : props;
     const { readerTheme, reader } = useReader();
+    const [layoutResetToken, setLayoutResetToken] = useState(0);
 
     const [content, setContent] = useState("");
     const [loading, setLoading] = useState(true);
@@ -48,6 +49,10 @@ export default function BookReaderScreen(props: Props) {
 
     useEffect(() => {
         loadContent();
+    }, [filePath]);
+
+    useEffect(() => {
+        setLayoutResetToken((value) => value + 1);
     }, [filePath]);
 
     // #region Bubble logic
@@ -171,6 +176,7 @@ export default function BookReaderScreen(props: Props) {
                             filePath={filePath}
                             isVisible={reader.visible}
                             onVisibleLineChange={handleVisibleLineChange}
+                            layoutResetToken={layoutResetToken}
                         />
 
                         <TranslationBubble
