@@ -35,20 +35,32 @@ export default function BookReaderScreen(props: Props) {
     const [content, setContent] = useState("");
     const [loading, setLoading] = useState(true);
 
-    const loadContent = async () => {
-        setLoading(true);
-        try {
-            const text = await FileSystem.readAsStringAsync(filePath);
-            setContent(text);
-        } catch (err) {
-            console.error(err);
-        } finally {
-            setLoading(false);
-        }
-    };
-
     useEffect(() => {
-        loadContent();
+        let cancelled = false;
+
+        setLoading(true);
+        setContent("");
+
+        (async () => {
+            try {
+                const text = await FileSystem.readAsStringAsync(filePath);
+                if (!cancelled) {
+                    setContent(text);
+                }
+            } catch (err) {
+                if (!cancelled) {
+                    console.error(err);
+                }
+            } finally {
+                if (!cancelled) {
+                    setLoading(false);
+                }
+            }
+        })();
+
+        return () => {
+            cancelled = true;
+        };
     }, [filePath]);
 
     useEffect(() => {
@@ -126,12 +138,23 @@ export default function BookReaderScreen(props: Props) {
     const previousReaderVisibleRef = useRef(false);
 
     useEffect(() => {
+        let cancelled = false;
+
+        setLastReadLine(0);
+        lastVisibleLineRef.current = 0;
+
         (async () => {
             const progress = await getProgress(filePath);
+            if (cancelled) return;
+
             const lineIndex = progress ? progress.lineIndex : 0;
             setLastReadLine(lineIndex);
             lastVisibleLineRef.current = lineIndex;
         })();
+
+        return () => {
+            cancelled = true;
+        };
     }, [filePath]);
 
     useEffect(() => {
