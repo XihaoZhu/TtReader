@@ -30,41 +30,44 @@ type Props = RouteProps | DirectProps;
 export default function BookReaderScreen(props: Props) {
     const { filePath, title } = "route" in props ? props.route.params : props;
     const { readerTheme, reader } = useReader();
-    const [layoutResetToken, setLayoutResetToken] = useState(0);
 
     const [content, setContent] = useState("");
     const [loading, setLoading] = useState(true);
 
     useEffect(() => {
         let cancelled = false;
-
-        setLoading(true);
-        setContent("");
-
-        (async () => {
+        const loadReaderState = async () => {
+            setLoading(true);
             try {
-                const text = await FileSystem.readAsStringAsync(filePath);
-                if (!cancelled) {
-                    setContent(text);
-                }
+                const [text, progress] = await Promise.all([
+                    FileSystem.readAsStringAsync(filePath),
+                    getProgress(filePath),
+                ]);
+                if (cancelled) return;
+
+                const lineIndex = progress ? progress.lineIndex : 0;
+                setContent(text);
+                setLastReadLine(lineIndex);
+                lastVisibleLineRef.current = lineIndex;
             } catch (err) {
                 if (!cancelled) {
                     console.error(err);
+                    setContent("");
+                    setLastReadLine(0);
+                    lastVisibleLineRef.current = 0;
                 }
             } finally {
                 if (!cancelled) {
                     setLoading(false);
                 }
             }
-        })();
+        };
+
+        loadReaderState();
 
         return () => {
             cancelled = true;
         };
-    }, [filePath]);
-
-    useEffect(() => {
-        setLayoutResetToken((value) => value + 1);
     }, [filePath]);
 
     // #region Bubble logic
@@ -138,26 +141,6 @@ export default function BookReaderScreen(props: Props) {
     const previousReaderVisibleRef = useRef(false);
 
     useEffect(() => {
-        let cancelled = false;
-
-        setLastReadLine(0);
-        lastVisibleLineRef.current = 0;
-
-        (async () => {
-            const progress = await getProgress(filePath);
-            if (cancelled) return;
-
-            const lineIndex = progress ? progress.lineIndex : 0;
-            setLastReadLine(lineIndex);
-            lastVisibleLineRef.current = lineIndex;
-        })();
-
-        return () => {
-            cancelled = true;
-        };
-    }, [filePath]);
-
-    useEffect(() => {
         if (reader.visible) {
             previousReaderVisibleRef.current = true;
             return;
@@ -165,9 +148,15 @@ export default function BookReaderScreen(props: Props) {
 
         if (previousReaderVisibleRef.current) {
             previousReaderVisibleRef.current = false;
-            saveProgress(filePath, lastVisibleLineRef.current);
+            void saveProgress(filePath, lastVisibleLineRef.current);
         }
     }, [reader.visible, filePath]);
+
+    useEffect(() => {
+        return () => {
+            void saveProgress(filePath, lastVisibleLineRef.current);
+        };
+    }, [filePath]);
     // #endregion
 
     return (
@@ -189,6 +178,7 @@ export default function BookReaderScreen(props: Props) {
                         <Text style={[styles.title, { color: readerTheme.text }]}>{title}</Text>
 
                         <Reader
+                            key={filePath}
                             content={content}
                             onWordPress={handleWordPress}
                             onSentenceLongPress={handleSentenceLongPress}
@@ -199,7 +189,6 @@ export default function BookReaderScreen(props: Props) {
                             filePath={filePath}
                             isVisible={reader.visible}
                             onVisibleLineChange={handleVisibleLineChange}
-                            layoutResetToken={layoutResetToken}
                         />
 
                         <TranslationBubble

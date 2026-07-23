@@ -17,7 +17,6 @@ interface Props {
     filePath: string;
     isVisible: boolean;
     onVisibleLineChange?: (lineIndex: number) => void;
-    layoutResetToken?: number;
 }
 
 type ReaderLineProps = {
@@ -162,13 +161,13 @@ export default function Reader({
     filePath,
     isVisible,
     onVisibleLineChange,
-    layoutResetToken = 0,
 }: Props) {
     const { readerFontSize, readerTheme } = useReader();
+    const safeInitialIndex = Math.max(0, initialIndex ?? 0);
 
     const [selectedWordPos, setSelectedWordPos] = useState<{ sIndex: number; wIndex: number } | null>(null);
     const [selectedSentenceIndex, setSelectedSentenceIndex] = useState<number | null>(null);
-    const [anchorLineIndex, setAnchorLineIndex] = useState(Math.max(0, initialIndex ?? 0));
+    const [anchorLineIndex, setAnchorLineIndex] = useState(safeInitialIndex);
     const [containerWidth, setContainerWidth] = useState(0);
     const [metricsVersion, setMetricsVersion] = useState(0);
 
@@ -193,7 +192,7 @@ export default function Reader({
     const scrollRef = useRef<ScrollView>(null);
     const [ready, setReady] = useState(false);
     const hasScrolledRef = useRef(false);
-    const firstVisibleLineRef = useRef(initialIndex ?? 0);
+    const firstVisibleLineRef = useRef(safeInitialIndex);
     const restoringFontSizeRef = useRef(false);
     const lastAppliedFontSizeRef = useRef(readerFontSize);
     const pendingFontRestoreIndexRef = useRef<number | null>(null);
@@ -201,7 +200,7 @@ export default function Reader({
     const saveTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
     const lineMetricsRef = useRef<Array<LineMetrics | undefined>>([]);
     const isLayoutStableRef = useRef(true);
-    const lastReportedLineRef = useRef(initialIndex ?? 0);
+    const lastReportedLineRef = useRef(safeInitialIndex);
     const initialScrollAttemptedRef = useRef(false);
     const initialScrollAppliedRef = useRef(false);
     const containerWidthRef = useRef(0);
@@ -288,13 +287,44 @@ export default function Reader({
         onVisibleLineChange?.(safeLineIndex);
     };
 
+    const tryApplyInitialAnchor = () => {
+        const targetIndex = clampLineIndex(safeInitialIndex);
+
+        if (restoringFontSizeRef.current) return false;
+        if (!isLayoutStableRef.current) return false;
+        if (initialScrollAppliedRef.current) return false;
+        if (!lineMetricsRef.current[targetIndex]) return false;
+        if (!scrollToLine(targetIndex, false)) return false;
+
+        initialScrollAttemptedRef.current = true;
+        initialScrollAppliedRef.current = true;
+        hasScrolledRef.current = true;
+        setReady(true);
+        notifyVisibleLine(targetIndex);
+        return true;
+    };
+
+    const tryPrimeInitialScroll = () => {
+        const targetIndex = clampLineIndex(safeInitialIndex);
+
+        if (!sentences.length) return false;
+        if (restoringFontSizeRef.current) return false;
+        if (!isLayoutStableRef.current) return false;
+        if (initialScrollAttemptedRef.current) return false;
+        if (!scrollToLine(targetIndex, false)) return false;
+
+        initialScrollAttemptedRef.current = true;
+        notifyVisibleLine(targetIndex);
+        return true;
+    };
+
     const tryRestoreFontAnchor = () => {
         if (!restoringFontSizeRef.current) return;
         if (!isLayoutStableRef.current) return;
         if (fontRestoreAppliedRef.current) return;
 
-        const targetIndex = clampLineIndex(pendingFontRestoreIndexRef.current ?? 0);
-        if (targetIndex == null) return;
+        const targetIndex = clampLineIndex(pendingFontRestoreIndexRef.current ?? safeInitialIndex);
+        if (!lineMetricsRef.current[targetIndex]) return;
 
         if (!scrollToLine(targetIndex, false)) return;
 
@@ -314,7 +344,7 @@ export default function Reader({
     }, []);
 
     useEffect(() => {
-        const nextInitialIndex = clampLineIndex(Math.max(0, initialIndex ?? 0));
+        const nextInitialIndex = clampLineIndex(safeInitialIndex);
         hasScrolledRef.current = false;
         if (ready) setReady(false);
         firstVisibleLineRef.current = nextInitialIndex;
@@ -324,40 +354,18 @@ export default function Reader({
         initialScrollAppliedRef.current = false;
         setAnchorLineIndex(nextInitialIndex);
         lineMetricsRef.current = [];
+        isLayoutStableRef.current = containerWidthRef.current > 0;
         setMetricsVersion((v) => v + 1);
-    }, [initialIndex, sentences.length]);
-
-    useEffect(() => {
-        const nextInitialIndex = clampLineIndex(Math.max(0, initialIndex ?? 0));
-        hasScrolledRef.current = false;
-        if (ready) setReady(false);
-        restoringFontSizeRef.current = false;
-        fontRestoreAppliedRef.current = false;
-        pendingFontRestoreIndexRef.current = null;
-        initialScrollAttemptedRef.current = false;
-        initialScrollAppliedRef.current = false;
-        setAnchorLineIndex(nextInitialIndex);
-        firstVisibleLineRef.current = nextInitialIndex;
-        lastReportedLineRef.current = nextInitialIndex;
-        lineMetricsRef.current = [];
-        isLayoutStableRef.current = false;
-        setMetricsVersion((v) => v + 1);
-    }, [layoutResetToken, initialIndex, sentences.length]);
+    }, [content, safeInitialIndex]);
 
     useEffect(() => {
         if (!sentences.length) return;
-        if (initialScrollAttemptedRef.current) return;
         if (restoringFontSizeRef.current) return;
         if (!isLayoutStableRef.current) return;
 
-        const targetIndex = clampLineIndex(Math.max(0, initialIndex ?? 0));
-        if (scrollToLine(targetIndex, false)) {
-            initialScrollAttemptedRef.current = true;
-            hasScrolledRef.current = true;
-            setReady(true);
-            notifyVisibleLine(targetIndex);
-        }
-    }, [initialIndex, sentences.length, windowStart, windowEnd, metricsVersion]);
+        if (tryApplyInitialAnchor()) return;
+        tryPrimeInitialScroll();
+    }, [metricsVersion, safeInitialIndex, sentences.length, windowStart, windowEnd]);
 
     useEffect(() => {
         if (lastAppliedFontSizeRef.current === readerFontSize) return;
@@ -366,7 +374,7 @@ export default function Reader({
         isLayoutStableRef.current = false;
         restoringFontSizeRef.current = true;
         fontRestoreAppliedRef.current = false;
-        pendingFontRestoreIndexRef.current = clampLineIndex(firstVisibleLineRef.current ?? initialIndex ?? 0);
+        pendingFontRestoreIndexRef.current = clampLineIndex(firstVisibleLineRef.current ?? safeInitialIndex);
         lineMetricsRef.current = [];
         setMetricsVersion((v) => v + 1);
         clearSaveTimer();
@@ -377,7 +385,7 @@ export default function Reader({
         }, 120);
 
         return () => clearTimeout(timer);
-    }, [readerFontSize, initialIndex, sentences.length]);
+    }, [readerFontSize, safeInitialIndex]);
 
     const handleLineLayout = (lineIndex: number, e: LayoutChangeEvent) => {
         const { y, height } = e.nativeEvent.layout;
@@ -387,19 +395,8 @@ export default function Reader({
             setMetricsVersion((v) => v + 1);
         }
 
-        if (
-            !initialScrollAppliedRef.current &&
-            !restoringFontSizeRef.current &&
-            isLayoutStableRef.current &&
-            lineIndex === clampLineIndex(Math.max(0, initialIndex ?? 0))
-        ) {
-            if (scrollToLine(lineIndex, false)) {
-                initialScrollAttemptedRef.current = true;
-                initialScrollAppliedRef.current = true;
-                hasScrolledRef.current = true;
-                setReady(true);
-                notifyVisibleLine(lineIndex);
-            }
+        if (lineIndex === clampLineIndex(safeInitialIndex)) {
+            tryApplyInitialAnchor();
         }
 
         if (pendingFontRestoreIndexRef.current === lineIndex && isLayoutStableRef.current) {
@@ -456,6 +453,10 @@ export default function Reader({
                 if (containerWidthRef.current !== nextWidth) {
                     containerWidthRef.current = nextWidth;
                     setContainerWidth(nextWidth);
+                    hasScrolledRef.current = false;
+                    initialScrollAttemptedRef.current = false;
+                    initialScrollAppliedRef.current = false;
+                    setReady(false);
                     lineMetricsRef.current = [];
                     setMetricsVersion((v) => v + 1);
                 }

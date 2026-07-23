@@ -17,17 +17,10 @@ export default function ReaderOverlay() {
         return () => sub.remove();
     }, [reader.visible, closeReader]);
 
-    if (!reader.filePath) return null;
+    if (!reader.visible || !reader.filePath) return null;
 
     return (
-        <View
-            pointerEvents={reader.visible ? "auto" : "none"}
-            style={[
-                styles.overlay,
-                { backgroundColor: readerTheme.background },
-                !reader.visible && styles.hidden,
-            ]}
-        >
+        <View style={[styles.overlay, { backgroundColor: readerTheme.background }]}>
             <StatusBar
                 barStyle={readerTheme.id === "night" ? "light-content" : "dark-content"}
                 backgroundColor={readerTheme.card}
@@ -39,6 +32,7 @@ export default function ReaderOverlay() {
             </View>
             <View style={styles.content}>
                 <BookReaderScreen
+                    key={reader.filePath}
                     filePath={reader.filePath}
                     title={reader.title ?? ""}
                 />
@@ -51,9 +45,6 @@ const styles = StyleSheet.create({
     overlay: {
         ...StyleSheet.absoluteFillObject,
         zIndex: 999,
-    },
-    hidden: {
-        opacity: 0,
     },
     topBar: {
         height: 44 + (Platform.OS === "android" ? (StatusBar.currentHeight ?? 0) : 0),
